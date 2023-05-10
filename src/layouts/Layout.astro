@@ -1,0 +1,48 @@
+---
+export interface Props {
+	title: string;
+}
+
+const { title } = Astro.props;
+---
+
+<!DOCTYPE html>
+<html lang="en" data-new-ui-theme="dark">
+	<head>
+		<meta charset="UTF-8" />
+		<meta name="viewport" content="width=device-width" />
+		<link rel="icon" type="image/svg+xml" href="/icon.png" />
+		<meta name="generator" content={Astro.generator} />
+		<title>{title}</title>
+	</head>
+
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-BLXD7VCZH0"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'G-BLXD7VCZH0');
+</script>
+
+	<body>
+		<slot />
+	</body>
+</html>
+<style is:global>
+	:root {
+		--system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+		--accent: var(--support-info);
+	}
+	html {
+		font-family: var(--system-ui);
+		background-color: var(--background);
+	}
+	code {
+		font-family: Menlo, Consolas, "Ubuntu Mono", "Roboto Mono", "DejaVu Sans Mono", Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+	}
+	main { margin: auto; margin: var(--spacing-10);}
+	h1.title { margin-bottom: var(--spacing-10); color: var(--text-secondary); margin-top: var(--spacing-16); }
+	section { margin-bottom: var(--spacing-10);}
+</style>

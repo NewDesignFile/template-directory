@@ -1,0 +1,186 @@
+---
+import Layout from '../layouts/Layout.astro';
+import Card from '../components/Card.astro';
+import "@new-ui/colors";
+import "@new-ui/typography";
+import "@new-ui/effects";
+import "@new-ui/spacings";
+---
+
+<Layout title="Rise of Machine">
+<main>
+		<h1 class="nu-c-h1 title">Powerful AI Tools,<br /> Curated for You</h1>
+
+		<!-- Audio Tools -->
+		<section>
+		<h6 class="separator nu-c-h6">&#127899; Audio</h6>
+		<ul role="list" class="link-card-grid">
+			<Card
+				href="https://podcast.adobe.com/?ref=riseofmachine"
+				title="Adobe Podcast"
+				body="AI-powered audio recording and editing, all on the web."
+			/>
+			<Card
+			href="https://www.audiostrip.co.uk/?ref=riseofmachine"
+			title="AudioStrip"
+			body="Split vocals from backing music in audio files."
+			/>
+			<Card
+				href="https://www.beatoven.ai/?ref=riseofmachine"
+				title="Beatoven"
+				body="Create customisable royalty free music."
+			/>
+			<Card
+			href="https://cleanvoice.ai/?ref=riseofmachine"
+			title="Cleanvoice"
+			body="Removes filler sounds, stuttering and mouth sounds."
+			/>
+			<Card
+				href="https://www.voicemod.net/?ref=riseofmachine"
+				title="Voicemod"
+				body="Real-time AI voice changing and custom sound effects."
+			/>
+		</ul>
+		</section>
+
+		<!-- Copywriting Tools -->
+		<section>
+			<h6 class="separator nu-c-h6">&#9997; Copywriting</h6>
+			<ul role="list" class="link-card-grid">
+				<Card
+					href="https://www.copy.ai/?ref=riseofmachine"
+					title="CopyAI"
+					body="AI content generator that delivers premium results in seconds."
+				/>
+				<Card
+					href="https://copymatic.ai/?ref=riseofmachine"
+					title="Copymatic"
+					body="Generate content, copy & images with AI."
+				/>
+				<Card
+				href="https://www.jasper.ai/?ref=riseofmachine"
+				title="Jasper"
+				body="On-brand AI content wherever you create."
+				/>
+				<Card
+					href="https://rytr.me/?ref=riseofmachine"
+					title="Rytr"
+					body="AI writing assistant that helps you create high-quality content."
+				/>
+			</ul>
+		</section>
+
+		<!-- Developer Tools -->
+		<section>
+			<h6 class="separator nu-c-h6">&#129520; Developer Tools</h6>
+			<ul role="list" class="link-card-grid">
+				<Card
+					href="https://www.autoregex.xyz/?ref=riseofmachine"
+					title="AutoRegex"
+					body="Effortless conversions from English to RegEx."
+				/>
+				<Card
+					href="https://copymatic.ai/?ref=riseofmachine"
+					title="Amazon CodeWhisperer"
+					body="Generate code suggestions ranging from snippets to full functions."
+				/>
+				<Card
+					href="https://www.helicone.ai/?ref=riseofmachine"
+					title="Helicone"
+					body="Track costs, usage, and latency for GPT applications."
+				/>
+				<Card
+				href="http://rtutor.ai/?ref=riseofmachine"
+				title="RTutor"
+				body="Chat with your data via AI."
+				/>
+			</ul>
+		</section>
+
+		<!-- Design Tools -->
+		<section>
+			<h6 class="separator nu-c-h6">&#127912; Design Tools</h6>
+			<ul role="list" class="link-card-grid">
+				<Card
+					href="https://www.booth.ai/?ref=riseofmachine"
+					title="Booth.AI"
+					body="Create pro quality product photography with AI."
+				/>
+				<Card
+					href="https://www.befunky.com/?ref=riseofmachine"
+					title="BeFunky"
+					body="Edit photos, create graphic designs, and make photo collages."
+				/>
+				<Card
+					href="https://flair.ai/?ref=riseofmachine?ref=riseofmachine"
+					title="Flair"
+					body="The AI design tool for branded content."
+				/>
+				<Card
+					href="https://designer.microsoft.com/?ref=riseofmachine"
+					title="Microsoft Designer"
+					body="Generate designs and original images just by typing what you want."
+				/>
+			</ul>
+		</section>
+
+		<!-- Productivity Tools -->
+		<section>
+			<h6 class="separator nu-c-h6">&#128200; Productivity</h6>
+			<ul role="list" class="link-card-grid">
+				<Card
+					href="https://fireflies.ai/?ref=riseofmachine"
+					title="Fireflies"
+					body="Record, transcribe, search, and analyze voice conversations."
+				/>
+				<Card
+					href="https://www.rewind.ai/?ref=riseofmachine"
+					title="Rewind AI"
+					body="Find anything you have seen, said, or heard."
+				/>
+				<Card
+					href="https://www.slidesai.io/?ref=riseofmachine"
+					title="SlidesAI"
+					body="Create professional, engaging slides from any text in no time."
+				/>
+				<Card
+					href="https://supernormal.com/?ref=riseofmachine"
+					title="Supernormal"
+					body="Create amazing meeting notes without lifting a finger."
+				/>
+			</ul>
+		</section>
+
+
+</main>
+</Layout>
+
+<style>
+	h6.separator {
+		margin: 1rem 0;
+		color: var(--text-secondary);
+		display: table;
+  		white-space: nowrap;
+		overflow: hidden;
+	}
+	h6.separator:after {
+		border-top: 1px dotted var(--border);
+		content: '';
+		display: table-cell;
+		position: relative;
+		top: var(--spacing-05);
+		width: 100%;
+	}
+	h6.separator:before {
+		right: 1%;
+	}
+	h6.separator:after {
+		left: 1%;
+	}
+	.link-card-grid {
+		display: grid;
+		grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
+		gap: 1rem;
+		padding: 0;
+	}
+</style>

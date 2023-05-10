@@ -1,0 +1,46 @@
+---
+export interface Props {
+	title: string;
+	body: string;
+	href: string;
+}
+
+const { href, title, body } = Astro.props;
+---
+
+<li class="link-card">
+	<a href={href}>
+		<h6 class="nu-c-h6 nu-u-mt-4 nu-u-mb-4">
+			{title}
+		</h6>
+		<p class="nu-c-fs-small nu-u-mb-1">
+			{body}
+		</p>
+	</a>
+</li>
+<style>
+	.link-card {
+		list-style: none;
+		display: flex;
+		background-color: var(--background);
+		background-position: 100%;
+		border: 1px solid var(--border-muted);
+	}
+
+	.link-card > a {
+		width: 100%;
+		text-decoration: none;
+		padding: 1rem 1.3rem;
+		color: var(--support-info);
+	}
+	p {
+		color: var(--text-secondary);
+	}
+	.link-card:is(:hover, :focus-within) {
+		background-position: 0;
+		border: 1px solid var(--border);
+	}
+	.link-card:is(:hover, :focus-within) h2 {
+		color: rgb(var(--accent));
+	}
+</style>

@@ -1,0 +1,40 @@
+{
+  "name": "riseofmachine",
+  "type": "module",
+  "version": "0.1.0",
+  "scripts": {
+    "dev": "astro dev",
+    "start": "astro dev",
+    "build": "astro build",
+    "preview": "astro preview",
+    "astro": "astro"
+  },
+  "dependencies": {
+    "astro": "^2.4.1"
+  },
+  "devDependencies": {
+    "@new-ui/colors": "^1.2.11",
+    "@new-ui/effects": "^0.1.0",
+    "@new-ui/spacings": "^0.1.0",
+    "@new-ui/typography": "^0.1.3"
+  },
+  "description": "Handpicked AI tools for your projects.",
+
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MethodBlack/riseofmachine.git"
+  },
+  "keywords": [
+    "AI",
+    "Tools",
+    "Listing",
+    "Curated",
+    "Directory"
+  ],
+  "author": "Abhimanyu Rana",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MethodBlack/riseofmachine/issues"
+  },
+  "homepage": "https://github.com/MethodBlack/riseofmachine#readme"
+}
