@@ -45,12 +45,14 @@ const { title } = Astro.props;
 		font-family: var(--system-ui);
 		background-color: var(--background);
 	}
+	body { margin: 0; padding: 0;}
 	code {
 		font-family: Menlo, Consolas, "Ubuntu Mono", "Roboto Mono", "DejaVu Sans Mono", Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
 	}
-	main { margin: auto; margin: var(--spacing-10);}
-	h1.title { margin-bottom: var(--spacing-10); color: var(--text-primary); margin-top: var(--spacing-16); }
+	main { margin: auto var(--spacing-10);}
+	h1.title { margin-bottom: var(--spacing-10); color: var(--text-primary); margin-top: var(--spacing-12); }
 	section { margin-bottom: var(--spacing-10);}
+	p {margin-top: var(--spacing-1);}
 	
 	/* theme toggle */
 

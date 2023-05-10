@@ -10,10 +10,10 @@ const { href, title, body } = Astro.props;
 
 <li class="link-card">
 	<a href={href}>
-		<h6 class="nu-c-h6 nu-u-mt-4 nu-u-mb-4">
+		<h6 class="nu-c-h6 nu-u-mt-1 nu-u-mb-1">
 			{title}
 		</h6>
-		<p class="nu-c-fs-small nu-u-mb-1">
+		<p class="nu-c-fs-small nu-u-mt-1 nu-u-mb-1">
 			{body}
 		</p>
 	</a>
@@ -26,11 +26,10 @@ const { href, title, body } = Astro.props;
 		background-position: 100%;
 		border: 1px solid var(--background-secondary);
 	}
-
 	.link-card > a {
 		width: 100%;
 		text-decoration: none;
-		padding: 1rem 1.3rem;
+		padding: 0.8rem 1.2rem;
 		color: var(--support-info);
 	}
 	p {
