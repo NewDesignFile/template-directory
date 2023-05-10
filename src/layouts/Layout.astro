@@ -12,6 +12,7 @@ const { title } = Astro.props;
 		<meta charset="UTF-8" />
 		<meta name="viewport" content="width=device-width" />
 		<link rel="icon" type="image/svg+xml" href="/icon.png" />
+		<script src="./theme.js"></script>
 		<meta name="generator" content={Astro.generator} />
 		<title>{title}</title>
 	</head>
@@ -27,7 +28,12 @@ const { title } = Astro.props;
 </script>
 
 	<body>
+		<button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
+			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><path stroke="var(--icon-secondary)" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" d="M8.57 17.93A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94M12 4V2M3 13H1m22 0h-2m-1.222-7.778-1.414 1.414m-12.728 0L4.222 5.222M4 18h16M8 21h8"/></svg>
+		  </button>
 		<slot />
+
+		<div class="footer">∠( ᐛ 」∠)_</div>
 	</body>
 </html>
 <style is:global>
@@ -45,4 +51,46 @@ const { title } = Astro.props;
 	main { margin: auto; margin: var(--spacing-10);}
 	h1.title { margin-bottom: var(--spacing-10); color: var(--text-primary); margin-top: var(--spacing-16); }
 	section { margin-bottom: var(--spacing-10);}
+	
+	/* theme toggle */
+
+	.theme-toggle {
+	--size: 2rem;
+	--icon-fill: var(--icon-secondary);
+	--icon-fill-hover: var(--icon-secondary);
+	background: none;
+	border: none;
+	padding: 0;
+	color: var(--icon-secondary);
+
+	inline-size: var(--size);
+	block-size: var(--size);
+	aspect-ratio: 1;
+	border-radius: 50%;
+
+	cursor: pointer;
+	touch-action: manipulation;
+	-webkit-tap-highlight-color: transparent;
+
+	position: fixed;
+	top: var(--spacing-05);
+	right: var(--spacing-05);
+
+	outline-offset: 5px;
+
+	@nest [data-theme="dark"] & {
+		--icon-fill: var(--icon-secondary);
+		--icon-fill-hover: var(--icon-secondary);
+	}
+	}
+
+	.footer {
+		padding: 2rem;
+		text-align: center;
+		font-weight: normal;
+		font-style: normal;
+		color: var(--text-secondary);
+		font-size: var(--desktop-body-sm);
+		line-height: var(--lh-desktop-body-sm);
+	}
 </style>
