@@ -4,8 +4,8 @@
 
 - [Audio](#-audio)
 - [Copywriting](#-copywriting)
-- [Developer Tools](#-developer-tools)
 - [Design Tools](#-design-tools)
+- [Developer Tools](#-developer-tools)
 - [Productivity](#-productivity)
 
 # 🎛 Audio
@@ -25,14 +25,6 @@ Website | Description
 [Jasper](https://www.jasper.ai/?ref=riseofmachine) | On-brand AI content wherever you create.
 [Rytr](https://rytr.me/?ref=riseofmachine) | AI writing assistant that helps you create high-quality content.
 
-# 🧰 Developer Tools
-Website | Description
-:--- |:---
-[AutoRegex](https://www.autoregex.xyz/?ref=riseofmachine) | Effortless conversions from English to RegEx.
-[Amazon CodeWhisperer](https://copymatic.ai/?ref=riseofmachine) | Generate code suggestions ranging from snippets to full functions.
-[Helicone](https://www.helicone.ai/?ref=riseofmachine) | Track costs, usage, and latency for GPT applications.
-[RTutor](http://rtutor.ai/?ref=riseofmachine) | Chat with your data via AI.
-
 # 🎨 Design Tools
 Website | Description
 :--- |:---
@@ -40,6 +32,14 @@ Website | Description
 [BeFunky](https://www.befunky.com/?ref=riseofmachine) | Edit photos, create graphic designs, and make photo collages.
 [Flair](https://flair.ai/?ref=riseofmachine) | The AI design tool for branded content.
 [Microsoft Designer](https://designer.microsoft.com/?ref=riseofmachine) | Generate designs and original images just by typing what you want.
+
+# 🧰 Developer Tools
+Website | Description
+:--- |:---
+[AutoRegex](https://www.autoregex.xyz/?ref=riseofmachine) | Effortless conversions from English to RegEx.
+[Amazon CodeWhisperer](https://copymatic.ai/?ref=riseofmachine) | Generate code suggestions ranging from snippets to full functions.
+[Helicone](https://www.helicone.ai/?ref=riseofmachine) | Track costs, usage, and latency for GPT applications.
+[RTutor](http://rtutor.ai/?ref=riseofmachine) | Chat with your data via AI.
 
 # 📈 Productivity
 Website | Description
