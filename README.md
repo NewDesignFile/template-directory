@@ -2,11 +2,11 @@
 
 > Please note that we won't be accepting any PRs until the setup stage is completed. If you would like to add a new category or list items, please create an issue instead.
 
-- [Audio](#audio)
-- [Copywriting](#copywriting)
-- [Developer Tools](#developer-tools)
-- [Design Tools](#design-tools)
-- [Productivity](#productivity)
+- [Audio](#-audio)
+- [Copywriting](#-copywriting)
+- [Developer Tools](#-developer-tools)
+- [Design Tools](#-design-tools)
+- [Productivity](#-productivity)
 
 # 🎛 Audio
 Website | Description
