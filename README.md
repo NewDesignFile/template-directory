@@ -26,10 +26,26 @@ Website | Description
 ### 🎨 Design Tools
 Website | Description
 :--- |:---
-[Booth.AI](https://www.booth.ai/?ref=riseofmachine) | Create pro quality product photography with AI.
 [BeFunky](https://www.befunky.com/?ref=riseofmachine) | Edit photos, create graphic designs, and make photo collages.
+[Booth.AI](https://www.booth.ai/?ref=riseofmachine) | Create pro quality product photography with AI.
+[Clickable](https://www.clickable.so/?ref=riseofmachine) | Generate ads for marketing channels.
+[Clipdrop](https://clipdrop.co/?ref=riseofmachine) | Create professional visuals without a photo studio.
+[DesignsAI](https://designs.ai/?ref=riseofmachine) | Create logos, videos, banners, mockups with AI.
+[Diagram](https://diagram.com/?ref=riseofmachine) | Generative design tool kit.
 [Flair](https://flair.ai/?ref=riseofmachine) | The AI design tool for branded content.
+[Hotpot](https://hotpot.ai/?ref=riseofmachine) | Create graphics, pictures, and writing.
+[Illostration AI](https://www.illostration.com/?ref=riseofmachine) | Create AI-generated illustrations.
+[Illustroke](https://illustroke.com/?ref=riseofmachine) | Create vector illustrations from text prompts.
+[Magician](https://magician.design/?ref=riseofmachine) | Generate icons, copies, and images in Figma.
 [Microsoft Designer](https://designer.microsoft.com/?ref=riseofmachine) | Generate designs and original images just by typing what you want.
+[Pattern Maker AI](https://patternmakerai.com/?ref=riseofmachine) | Generate seamless vector patterns using AI.
+[Patterned AI](https://www.patterned.ai/?ref=riseofmachine) | Generate unique patterns for your product using AI.
+[Pictorial](https://www.pictorial.ai/?ref=riseofmachine) | Generate reliable, ready-to-use visuals.
+[RocketAI](https://www.rocketai.io/?ref=riseofmachine) | Generate AI designs that perfectly capture your unique brand style.
+[Rosebud AI](https://www.rosebud.ai/?ref=riseofmachine) | AI generated game assets to game development.
+[Uizard](https://uizard.io/?ref=riseofmachine) | Design wireframes, mockups, and prototypes.
+[Unbound](https://www.unboundcontent.ai/?ref=riseofmachine) | Create content for your business using next generation AI-powered generation tools.
+[Vizcom](https://www.vizcom.ai/?ref=riseofmachine) | Accelerate the ideation and creation process for industrial designers.
 
 ### 🧰 Developer Tools
 Website | Description
