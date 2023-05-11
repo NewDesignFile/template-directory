@@ -28,6 +28,7 @@ Website | Description
 :--- |:---
 [BeFunky](https://www.befunky.com/?ref=riseofmachine) | Edit photos, create graphic designs, and make photo collages.
 [Booth.AI](https://www.booth.ai/?ref=riseofmachine) | Create pro quality product photography with AI.
+[Bria](https://bria.ai/) | Create customized visual content at scale.
 [Clickable](https://www.clickable.so/?ref=riseofmachine) | Generate ads for marketing channels.
 [Clipdrop](https://clipdrop.co/?ref=riseofmachine) | Create professional visuals without a photo studio.
 [DesignsAI](https://designs.ai/?ref=riseofmachine) | Create logos, videos, banners, mockups with AI.
@@ -50,10 +51,29 @@ Website | Description
 ### 🧰 Developer Tools
 Website | Description
 :--- |:---
+[Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=riseofmachine) | Generate code suggestions.
 [AutoRegex](https://www.autoregex.xyz/?ref=riseofmachine) | Effortless conversions from English to RegEx.
-[Amazon CodeWhisperer](https://copymatic.ai/?ref=riseofmachine) | Generate code suggestions ranging from snippets to full functions.
+[Buildt](https://www.buildt.ai/?ref=riseofmachine) | Quickly search and understand large codebases.
+[CSM](https://csm.ai/?ref=riseofmachine) | Translate data into 3D world models.
+[Dust](https://dust.tt/?ref=riseofmachine) | Make and deploy large language model apps.
+[GPTDuck](https://www.gptduck.com/?ref=riseofmachine) | Question answering against any Github repository.
+[GPUX](https://gpux.ai/?ref=riseofmachine) | Run AI training dockerized.
 [Helicone](https://www.helicone.ai/?ref=riseofmachine) | Track costs, usage, and latency for GPT applications.
+[Lightning](https://lightning.ai/?ref=riseofmachine) | The platform to train, deploy and build AI with PyTorch.
+[Liner](https://liner.ai/?ref=riseofmachine) | Build and deploy machine learning applications.
+[Nuclia](https://nuclia.com/?ref=riseofmachine) | AI search and generative answers.
+[Pipeline Catalyst](https://www.mystic.ai/pipeline-catalyst/?ref=riseofmachine) | Serverless GPU inference for ML models.
+[PromptLayer](https://promptlayer.com/?ref=riseofmachine) | Log, search, and manage prompt templates.
+[Retune](https://retune.so/?ref=riseofmachine) | Train & customize your own AI model, generate API.
+[Riku](https://riku.ai/?ref=riseofmachine) | Build no-code prompts and datasets for AI models.
 [RTutor](http://rtutor.ai/?ref=riseofmachine) | Chat with your data via AI.
+[RunPod](https://www.runpod.io/?ref=riseofmachine) | Rent cloud GPUs from $0.2/hour.
+[Shaped](https://www.shaped.ai/?ref=riseofmachine) | Recommendations and notifications using ML.
+[Stable Diffusion](https://stability.ai/?ref=riseofmachine) | Image synthesis with latent diffusion models.
+[Synthetic](https://syntheticaidata.com/?ref=riseofmachine) | Train and improve AI models.
+[Teachable Machine](https://teachablemachine.withgoogle.com/?ref=riseofmachine) | Create ML models for your sites and apps.
+[Textomap](https://www.textomap.com/?ref=riseofmachine) | Generate interactive maps from text.
+[Tinq](https://tinq.ai/?ref=riseofmachine) | NLP API toolkit, NLP as a service.
 
 ### 📈 Productivity
 Website | Description
