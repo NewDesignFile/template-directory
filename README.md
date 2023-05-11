@@ -18,10 +18,30 @@ Website | Description
 ### ✍ Copywriting
 Website | Description
 :--- |:---
+[Anyword](https://anyword.com/?ref=riseofmachine) | On-brand AI copywriting.
+[Bertha](https://bertha.ai/?ref=riseofmachine) | Copywriting assistant for WordPress and in Chrome.
+[Botowski](https://www.botowski.com/?ref=riseofmachine) | AI content generator.
+[Closerscopy](https://www.closerscopy.com/?ref=riseofmachine) | AI copywriting robot.
+[Contents](https://www.contents.com/?ref=riseofmachine) | Create original, SEO-optimized content.
+[Cowriter](https://cowriter.org/?ref=riseofmachine) | AI platform for creative writing.
 [CopyAI](https://www.copy.ai/?ref=riseofmachine) | AI content generator.
 [Copymatic](https://copymatic.ai/?ref=riseofmachine) | Generate content, copy & images with AI.
+[Daydrm](https://www.daydrm.ai/?ref=riseofmachine) | AI tool for creative advertising ideas.
+[Easy-Peasy](https://easy-peasy.ai/?ref=riseofmachine) | Generate content.
+[HelloScribe](https://www.helloscribe.ai/?ref=riseofmachine) | AI toolkit for PR & marketing professionals.
+[Hypotenuse](https://www.hypotenuse.ai/?ref=riseofmachine) | AI writing assistant, and text generator.
 [Jasper](https://www.jasper.ai/?ref=riseofmachine) | Create on-brand AI content.
+[Lek](https://lek.ai/?ref=riseofmachine) | AI toolkit for generating content.
+[Ocoya](https://www.ocoya.com/?ref=riseofmachine) | Creating and post social media content.
+[ParagraphAI](https://paragraphai.com/?ref=riseofmachine) | AI writing assistant.
+[Pepper Content](https://www.peppercontent.io/peppertype-ai/?ref=riseofmachine) | Ideate, create, distribute, and measure content.
 [Rytr](https://rytr.me/?ref=riseofmachine) | AI writing assistant.
+[Simplified](https://simplified.com/ai-writer/?ref=riseofmachine) | Generate marketing copy.
+[Texti](https://texti.app/?ref=riseofmachine) | AI helper in your browser.
+[Typli](https://typli.ai/?ref=riseofmachine) | AI writing assistant with built-in SEO checker.
+[Writesonic](https://writesonic.com/?ref=riseofmachine) | AI Writer, copywriting, and paraphrasing tool.
+[Unbounce](https://unbounce.com/product/smart-copy/?ref=riseofmachine) | Generate marketing content.
+[Unbound](https://www.unboundcontent.ai/?ref=riseofmachine) | Create content for your business.
 
 ### 🎨 Design Tools
 Website | Description
