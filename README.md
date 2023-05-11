@@ -9,11 +9,16 @@
 ### 🎛 Audio
 Website | Description
 :--- |:---
-[Adobe Podcast](https://podcast.adobe.com/?ref=riseofmachine) | AI-powered audio recording and editing, all on the web.
-[AudioStrip](https://www.audiostrip.co.uk/?ref=riseofmachine) | Split vocals from backing music in audio files.
+[Adobe Podcast](https://podcast.adobe.com/?ref=riseofmachine) | AI-powered audio recording and editing.
+[Altered](https://www.altered.ai/?ref=riseofmachine) | Change your voice to AI voices.
+[AudioStrip](https://www.audiostrip.co.uk/?ref=riseofmachine) | Split vocals from backing music.
 [Beatoven](https://www.beatoven.ai/?ref=riseofmachine) | Create customisable royalty free music.
-[Cleanvoice](https://cleanvoice.ai/?ref=riseofmachine) | Removes filler sounds, stuttering and mouth sounds.
-[Voicemod](https://www.voicemod.net/?ref=riseofmachine) | Real-time AI voice changing and custom sound effects.
+[BlogAudio](https://blogaudio.co/?ref=riseofmachine) | Convert text to high quality audio speech.
+[Cleanvoice](https://cleanvoice.ai/?ref=riseofmachine) | Removes filler sounds, stuttering, & mouth sounds.
+[Krisp](https://krisp.ai/?ref=riseofmachine) | Voice clarity and meeting assistant.
+[Lalal](https://www.lalal.ai/?ref=riseofmachine) | Split vocal and instrumental tracks.
+[Podcastle](https://podcastle.ai/?ref=riseofmachine) | Record, edit, transcribe, & export content.
+[Voicemod](https://www.voicemod.net/?ref=riseofmachine) | Real-time AI voice changing & custom sound effects.
 
 ### ✍ Copywriting
 Website | Description
@@ -105,4 +110,4 @@ Website | Description
 
 ---
 
-> Please note that we won't be accepting any PRs until the setup stage is completed. If you would like to add a new category or list items, please create an issue instead.
+> Please note that we won't be accepting any PRs until the basic setup is complete. If you would like to add a new category or list items, please create an issue instead.
