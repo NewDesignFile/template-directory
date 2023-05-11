@@ -1,4 +1,6 @@
-# Powerful AI Tools,<br>Curated for You
+# A Curated List of<br>Powerful AI Tools
+
+> To add an item, please create a PR for the README. To suggest a new category, please create an issue instead.
 
 - [Audio](#-audio)
 - [Copywriting](#-copywriting)
@@ -42,6 +44,7 @@ Website | Description
 [Pepper Content](https://www.peppercontent.io/peppertype-ai/?ref=riseofmachine) | Ideate, create, distribute, and measure content.
 [Rytr](https://rytr.me/?ref=riseofmachine) | AI writing assistant.
 [Simplified](https://simplified.com/ai-writer/?ref=riseofmachine) | Generate marketing copy.
+[Text Generator Plugin](https://text-gen.com/?ref=riseofmachine) | Free Alternative to Copy.ai, Jasper, & Rytr.
 [Texti](https://texti.app/?ref=riseofmachine) | AI helper in your browser.
 [Typli](https://typli.ai/?ref=riseofmachine) | AI writing assistant with built-in SEO checker.
 [Writesonic](https://writesonic.com/?ref=riseofmachine) | AI Writer, copywriting, and paraphrasing tool.
@@ -103,11 +106,23 @@ Website | Description
 ### 📈 Productivity
 Website | Description
 :--- |:---
-[Fireflies](https://fireflies.ai/?ref=riseofmachine) | Record, transcribe, search, and analyze voice conversations.
+[Albus](https://www.springworks.in/albus/?ref=riseofmachine) | Knowledge bot for Slack.
+[ChatGPT Writer](https://chatgptwriter.ai/?ref=riseofmachine) | Generate emails and replies.
+[Fireflies](https://fireflies.ai/?ref=riseofmachine) | Record, transcribe, search, & analyze voice convos.
+[FlowGPT](https://flowgpt.com/?ref=riseofmachine) | Library of ChatGPT prompts.
+[Glean](https://www.glean.com/?ref=riseofmachine) | Search all company apps.
+[Maester](https://maester.app/?ref=riseofmachine) | GPT-3 template engine.
+[Mem](https://get.mem.ai/?ref=riseofmachine) | Organize work—from meeting notes & knowledge base.
+[Merlin](https://merlin.foyer.work/?ref=riseofmachine) | Finish any task on any website.
+[Nanonets](https://nanonets.com/?ref=riseofmachine) | Capture data from documents.
+[Noty](https://noty.ai/?ref=riseofmachine) | Meetings into action items & follow-ups.
+[Otter](https://otter.ai/?ref=riseofmachine) | AI meeting assistant.
+[Personal](https://www.personal.ai/?ref=riseofmachine) | Personal AI messenger.
+[Puzzle Labs](https://puzzlelabs.ai/?ref=riseofmachine) | Glossary for your product.
+[Reclaim AI](https://reclaim.ai/?ref=riseofmachine) | Smart calendar tool.
 [Rewind AI](https://www.rewind.ai/?ref=riseofmachine) | Find anything you have seen, said, or heard.
+[Scale AI](https://scale.com/?ref=riseofmachine) | Training data for AI applications.
 [SlidesAI](https://www.slidesai.io/?ref=riseofmachine) | Create slides from any text.
+[SummerEyes](https://summereyes.ai/?ref=riseofmachine) | Summarize any text on the internet.
 [Supernormal](https://supernormal.com/?ref=riseofmachine) | Create meeting notes.
-
----
-
-> Please note that we won't be accepting any PRs until the basic setup is complete. If you would like to add a new category or list items, please create an issue instead.
+[Texti](https://texti.app/?ref=riseofmachine) | AI helper in your browser.
