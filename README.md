@@ -18,15 +18,15 @@ Website | Description
 ### ✍ Copywriting
 Website | Description
 :--- |:---
-[CopyAI](https://www.copy.ai/?ref=riseofmachine) | AI content generator that delivers premium results in seconds.
+[CopyAI](https://www.copy.ai/?ref=riseofmachine) | AI content generator.
 [Copymatic](https://copymatic.ai/?ref=riseofmachine) | Generate content, copy & images with AI.
-[Jasper](https://www.jasper.ai/?ref=riseofmachine) | On-brand AI content wherever you create.
-[Rytr](https://rytr.me/?ref=riseofmachine) | AI writing assistant that helps you create high-quality content.
+[Jasper](https://www.jasper.ai/?ref=riseofmachine) | Create on-brand AI content.
+[Rytr](https://rytr.me/?ref=riseofmachine) | AI writing assistant.
 
 ### 🎨 Design Tools
 Website | Description
 :--- |:---
-[BeFunky](https://www.befunky.com/?ref=riseofmachine) | Edit photos, create graphic designs, and make photo collages.
+[BeFunky](https://www.befunky.com/?ref=riseofmachine) | Edit photos, create graphics, & make photo collages.
 [Booth.AI](https://www.booth.ai/?ref=riseofmachine) | Create pro quality product photography with AI.
 [Bria](https://bria.ai/) | Create customized visual content at scale.
 [Clickable](https://www.clickable.so/?ref=riseofmachine) | Generate ads for marketing channels.
@@ -38,15 +38,15 @@ Website | Description
 [Illostration AI](https://www.illostration.com/?ref=riseofmachine) | Create AI-generated illustrations.
 [Illustroke](https://illustroke.com/?ref=riseofmachine) | Create vector illustrations from text prompts.
 [Magician](https://magician.design/?ref=riseofmachine) | Generate icons, copies, and images in Figma.
-[Microsoft Designer](https://designer.microsoft.com/?ref=riseofmachine) | Generate designs and original images just by typing what you want.
+[Microsoft Designer](https://designer.microsoft.com/?ref=riseofmachine) | Generate designs and original images.
 [Pattern Maker AI](https://patternmakerai.com/?ref=riseofmachine) | Generate seamless vector patterns using AI.
 [Patterned AI](https://www.patterned.ai/?ref=riseofmachine) | Generate unique patterns for your product using AI.
 [Pictorial](https://www.pictorial.ai/?ref=riseofmachine) | Generate reliable, ready-to-use visuals.
-[RocketAI](https://www.rocketai.io/?ref=riseofmachine) | Generate AI designs that perfectly capture your unique brand style.
+[RocketAI](https://www.rocketai.io/?ref=riseofmachine) | Generate AI designs that capture your brand style.
 [Rosebud AI](https://www.rosebud.ai/?ref=riseofmachine) | AI generated game assets to game development.
 [Uizard](https://uizard.io/?ref=riseofmachine) | Design wireframes, mockups, and prototypes.
-[Unbound](https://www.unboundcontent.ai/?ref=riseofmachine) | Create content for your business using next generation AI-powered generation tools.
-[Vizcom](https://www.vizcom.ai/?ref=riseofmachine) | Accelerate the ideation and creation process for industrial designers.
+[Unbound](https://www.unboundcontent.ai/?ref=riseofmachine) | Create content for your business.
+[Vizcom](https://www.vizcom.ai/?ref=riseofmachine) | The ideation and creation for industrial designers.
 
 ### 🧰 Developer Tools
 Website | Description
@@ -80,8 +80,8 @@ Website | Description
 :--- |:---
 [Fireflies](https://fireflies.ai/?ref=riseofmachine) | Record, transcribe, search, and analyze voice conversations.
 [Rewind AI](https://www.rewind.ai/?ref=riseofmachine) | Find anything you have seen, said, or heard.
-[SlidesAI](https://www.slidesai.io/?ref=riseofmachine) | Create professional, engaging slides from any text in no time.
-[Supernormal](https://supernormal.com/?ref=riseofmachine) | Create amazing meeting notes without lifting a finger.
+[SlidesAI](https://www.slidesai.io/?ref=riseofmachine) | Create slides from any text.
+[Supernormal](https://supernormal.com/?ref=riseofmachine) | Create meeting notes.
 
 ---
 
