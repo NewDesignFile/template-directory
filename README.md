@@ -73,7 +73,7 @@ Website | Description
 [Unbound](https://www.unboundcontent.ai/?ref=riseofmachine) | Create content for your business.
 [Vizcom](https://www.vizcom.ai/?ref=riseofmachine) | The ideation and creation for industrial designers.
 
-### 🧰 Developer Tools
+### 🖥 Developer Tools
 Website | Description
 :--- |:---
 [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=riseofmachine) | Generate code suggestions.
