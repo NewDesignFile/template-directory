@@ -145,5 +145,3 @@ Website | Description
 [PromptLayer](https://promptlayer.com/?ref=riseofmachine) | Log, search, & manage prompt templates.
 
 
-
-
