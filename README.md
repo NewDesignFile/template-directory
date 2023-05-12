@@ -7,6 +7,8 @@
 - [Design Tools](#-design-tools)
 - [Developer Tools](#-developer-tools)
 - [Productivity](#-productivity)
+- [Prompts](#-prompts)
+
 
 ### 🎛 Audio
 Website | Description
@@ -91,7 +93,7 @@ Website | Description
 [Liner](https://liner.ai/?ref=riseofmachine) | Build and deploy machine learning applications.
 [Nuclia](https://nuclia.com/?ref=riseofmachine) | AI search and generative answers.
 [Pipeline Catalyst](https://www.mystic.ai/pipeline-catalyst/?ref=riseofmachine) | Serverless GPU inference for ML models.
-[PromptLayer](https://promptlayer.com/?ref=riseofmachine) | Log, search, and manage prompt templates.
+[PromptLayer](https://promptlayer.com/?ref=riseofmachine) | Log, search, & manage prompt templates.
 [Retune](https://retune.so/?ref=riseofmachine) | Train & customize your own AI model, generate API.
 [Riku](https://riku.ai/?ref=riseofmachine) | Build no-code prompts and datasets for AI models.
 [RTutor](http://rtutor.ai/?ref=riseofmachine) | Chat with your data via AI.
@@ -127,3 +129,21 @@ Website | Description
 [SummerEyes](https://summereyes.ai/?ref=riseofmachine) | Summarize any text on the internet.
 [Supernormal](https://supernormal.com/?ref=riseofmachine) | Create meeting notes.
 [Texti](https://texti.app/?ref=riseofmachine) | AI helper in your browser.
+
+### 💬 Prompts
+Website | Description
+:--- |:---
+[Dallelist](https://www.dallelist.com/?ref=riseofmachine) | DALL-E Prompt helper.
+[Eye for AI](https://eyeforai.xyz/?ref=riseofmachine) | Visual prompt builder.
+[Img2prompt](https://replicate.com/methexis-inc/img2prompt/?ref=riseofmachine) | Image to prompt.
+[Jrnylist](https://www.jrnylist.com/?ref=riseofmachine) | Midjourney prompt Helper.
+[Krea](https://www.krea.ai/?ref=riseofmachine) | Create collections of prompts.
+[OpenArt](https://openart.ai/?ref=riseofmachine) |  Discover 10M+ prompts.
+[PromptBase](https://promptbase.com/?ref=riseofmachine) |  Marketplace for GPT3 Prompts.
+[PromptBox](https://www.promptbox.ai/?ref=riseofmachine) |  Organize your prompts.
+[PromptHero](https://prompthero.com/?ref=riseofmachine) |  Search prompts for Stable Diffusion, ChatGPT, & Midjourney.
+[PromptLayer](https://promptlayer.com/?ref=riseofmachine) | Log, search, & manage prompt templates.
+
+
+
+
