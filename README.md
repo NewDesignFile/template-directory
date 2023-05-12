@@ -1,6 +1,6 @@
 # A Curated List of<br>Powerful AI Tools
 
-> To add an item, please create a PR for the README. To suggest a new category, please create an issue instead.
+> To suggest an item, please create an issue.
 
 - [Audio](#-audio)
 - [Copywriting](#-copywriting)
