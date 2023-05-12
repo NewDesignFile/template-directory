@@ -1,6 +1,6 @@
 # A Curated List of<br>Powerful AI Tools
 
-> To suggest an item, please create an issue.
+> To suggest a new tool, please create an issue or a pull request for the readme.
 
 - [Audio](#-audio)
 - [Copywriting](#-copywriting)
