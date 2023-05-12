@@ -108,6 +108,7 @@ Website | Description
 :--- |:---
 [Albus](https://www.springworks.in/albus/?ref=riseofmachine) | Knowledge bot for Slack.
 [ChatGPT Writer](https://chatgptwriter.ai/?ref=riseofmachine) | Generate emails and replies.
+[CognosysAI](https://www.cognosys.ai/?ref=riseofmachine) | Web-based AI Agent.
 [Fireflies](https://fireflies.ai/?ref=riseofmachine) | Record, transcribe, search, & analyze voice convos.
 [FlowGPT](https://flowgpt.com/?ref=riseofmachine) | Library of ChatGPT prompts.
 [Glean](https://www.glean.com/?ref=riseofmachine) | Search all company apps.
