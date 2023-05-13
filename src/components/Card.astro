@@ -24,7 +24,8 @@ const { href, title, body } = Astro.props;
 		display: flex;
 		background-color: var(--background-secondary);
 		background-position: 100%;
-		border: 1px solid var(--background-secondary);
+		border: 1px solid transparent;
+		border-radius: var(--spacing-01);
 	}
 	.link-card > a {
 		width: 100%;
