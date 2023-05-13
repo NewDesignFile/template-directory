@@ -67,6 +67,7 @@ Website | Description
 [Hotpot](https://hotpot.ai/?ref=riseofmachine) | Create graphics, pictures, and writing.
 [Illostration AI](https://www.illostration.com/?ref=riseofmachine) | Create AI-generated illustrations.
 [Illustroke](https://illustroke.com/?ref=riseofmachine) | Create vector illustrations from text prompts.
+[Kittl](https://www.kittl.com/?ref=riseofmachine) | AI-powered design tool.
 [Magician](https://magician.design/?ref=riseofmachine) | Generate icons, copies, and images in Figma.
 [Microsoft Designer](https://designer.microsoft.com/?ref=riseofmachine) | Generate designs and original images.
 [Pattern Maker AI](https://patternmakerai.com/?ref=riseofmachine) | Generate seamless vector patterns using AI.
