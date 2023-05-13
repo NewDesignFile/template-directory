@@ -133,15 +133,15 @@ Website | Description
 ### 💬 Prompts
 Website | Description
 :--- |:---
-[Dallelist](https://www.dallelist.com/?ref=riseofmachine) | DALL-E Prompt helper.
+[Dallelist](https://www.dallelist.com/?ref=riseofmachine) | DALL-E prompt helper.
 [Eye for AI](https://eyeforai.xyz/?ref=riseofmachine) | Visual prompt builder.
 [Img2prompt](https://replicate.com/methexis-inc/img2prompt/?ref=riseofmachine) | Image to prompt.
-[Jrnylist](https://www.jrnylist.com/?ref=riseofmachine) | Midjourney prompt Helper.
+[Jrnylist](https://www.jrnylist.com/?ref=riseofmachine) | Midjourney prompt helper.
 [Krea](https://www.krea.ai/?ref=riseofmachine) | Create collections of prompts.
 [OpenArt](https://openart.ai/?ref=riseofmachine) |  Discover 10M+ prompts.
-[PromptBase](https://promptbase.com/?ref=riseofmachine) |  Marketplace for GPT3 Prompts.
+[PromptBase](https://promptbase.com/?ref=riseofmachine) |  Marketplace for GPT3 prompts.
 [PromptBox](https://www.promptbox.ai/?ref=riseofmachine) |  Organize your prompts.
-[PromptHero](https://prompthero.com/?ref=riseofmachine) |  Search prompts for Stable Diffusion, ChatGPT, & Midjourney.
+[PromptHero](https://prompthero.com/?ref=riseofmachine) |  Prompts for Stable Diffusion, ChatGPT, & Midjourney.
 [PromptLayer](https://promptlayer.com/?ref=riseofmachine) | Log, search, & manage prompt templates.
 
 
