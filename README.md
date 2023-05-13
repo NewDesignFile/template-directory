@@ -6,9 +6,9 @@
 - [Copywriting](#-copywriting)
 - [Design Tools](#-design-tools)
 - [Developer Tools](#-developer-tools)
+- [Image Editing](#-image-editing)
 - [Productivity](#-productivity)
 - [Prompts](#-prompts)
-
 
 ### 🎛 Audio
 Website | Description
@@ -104,6 +104,27 @@ Website | Description
 [Teachable Machine](https://teachablemachine.withgoogle.com/?ref=riseofmachine) | Create ML models for your sites and apps.
 [Textomap](https://www.textomap.com/?ref=riseofmachine) | Generate interactive maps from text.
 [Tinq](https://tinq.ai/?ref=riseofmachine) | NLP API toolkit, NLP as a service.
+
+### 🌄 Image Editing
+Website | Description
+:--- |:---
+[AI Image Enlarger](https://imglarger.com/?ref=riseofmachine) | Enhance and upscale images.
+[Astria](https://www.astria.ai/?ref=riseofmachine) | Create custom images.
+[BeFunky](https://www.befunky.com/?ref=riseofmachine) | Edit photos, create graphics, & make photo collages.
+[Bg Eraser](https://bgeraser.com/?ref=riseofmachine) | Remove objects & clean up pics.
+[Bria](https://bria.ai/?ref=riseofmachine) | Create customized visual content at scale.
+[Erase bg](https://www.erase.bg/?ref=riseofmachine) | Remove background from images.
+[Getimg AI](https://getimg.ai/editor/?ref=riseofmachine) | Edit images with text.
+[Green Screen AI](https://greenscreenai.com/?ref=riseofmachine) | Change the background of any image.
+[Hama](https://www.hama.app/?ref=riseofmachine) | Erase objects from your photo.
+[Let’s Enhance](https://letsenhance.io/?ref=riseofmachine) | Enhance, upscale, & generate pictures.
+[Magic Eraser](https://magicstudio.com/magiceraser/?ref=riseofmachine) | Remove unwanted things.
+[Nostalgia Photo](https://www.nostalgia.photo/?ref=riseofmachine) | Restore old photographs.
+[Palette](https://palette.fm/?ref=riseofmachine) | Colorize pictures.
+[PhotoRoom](https://www.photoroom.com/?ref=riseofmachine) | Remove and change background.
+[Removebg](https://www.remove.bg/?ref=riseofmachine) | Remove image background.
+[Restore Photos](https://www.restorephotos.io/?ref=riseofmachine) | Restoring old photos.
+[Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai/?ref=riseofmachine) | Noise reduction, sharpening, & upscaling.
 
 ### 📈 Productivity
 Website | Description
