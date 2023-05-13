@@ -42,19 +42,13 @@ const { title } = Astro.props;
 		--accent: var(--support-info);
 		--system-code: Menlo, Consolas, "Ubuntu Mono", "Roboto Mono", "DejaVu Sans Mono", Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
 	}
-	html {
-		font-family: var(--system-ui);
-		background-color: var(--background);
-	}
+	html { font-family: var(--system-ui); background-color: var(--background);}
 	body { margin: 0; padding: 0;}
 	main { margin: auto var(--spacing-10);}
 	h1.title { margin-bottom: var(--spacing-10); color: var(--text-primary); margin-top: var(--spacing-12); }
 	section { margin-bottom: var(--spacing-10);}
 	p { margin-top: var(--spacing-00);}
 	.nu-u-link--subtle { color: var(--text-secondary) !important;}
-	
-	/* theme toggle */
-
 	.theme-toggle {
 		--icon-fill: var(--icon-secondary);
 		--icon-fill-hover: var(--icon-secondary);
@@ -76,12 +70,8 @@ const { title } = Astro.props;
 		border: 1px solid var(--border-muted);
 		border-radius: var(--spacing-02);
 
-	@nest [data-theme="dark"] & {
-		--icon-fill: var(--icon-secondary);
-		--icon-fill-hover: var(--icon-secondary);
+		@nest [data-theme="dark"] & { --icon-fill: var(--icon-secondary); --icon-fill-hover: var(--icon-secondary);}
 	}
-	}
-
 	.footer {
 		padding: 2rem;
 		text-align: center;
