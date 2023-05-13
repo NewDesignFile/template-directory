@@ -108,12 +108,12 @@ Website | Description
 ### 🌄 Image Editing
 Website | Description
 :--- |:---
-[AI Image Enlarger](https://imglarger.com/?ref=riseofmachine) | Enhance and upscale images.
+[AI Image Enlarger](https://imglarger.com/?ref=riseofmachine) | Enhance & upscale images.
 [Astria](https://www.astria.ai/?ref=riseofmachine) | Create custom images.
 [BeFunky](https://www.befunky.com/?ref=riseofmachine) | Edit photos, create graphics, & make photo collages.
 [Bg Eraser](https://bgeraser.com/?ref=riseofmachine) | Remove objects & clean up pics.
 [Bria](https://bria.ai/?ref=riseofmachine) | Create customized visual content at scale.
-[Erase bg](https://www.erase.bg/?ref=riseofmachine) | Remove background from images.
+[Erase Bg](https://www.erase.bg/?ref=riseofmachine) | Remove background from images.
 [Getimg AI](https://getimg.ai/editor/?ref=riseofmachine) | Edit images with text.
 [Green Screen AI](https://greenscreenai.com/?ref=riseofmachine) | Change the background of any image.
 [Hama](https://www.hama.app/?ref=riseofmachine) | Erase objects from your photo.
