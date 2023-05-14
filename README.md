@@ -2,6 +2,7 @@
 
 > To suggest a new tool, please create an issue or a pull request for the readme.
 
+### ToC
 - [Audio](#-audio)
 - [Copywriting](#-copywriting)
 - [Design Tools](#-design-tools)
@@ -23,6 +24,11 @@ Website | Description
 [Lalal](https://www.lalal.ai/?ref=riseofmachine) | Split vocal & instrumental tracks.
 [Podcastle](https://podcastle.ai/?ref=riseofmachine) | Record, edit, transcribe & export content.
 [Voicemod](https://www.voicemod.net/?ref=riseofmachine) | Real-time AI voice changing & custom sound effects.
+
+<div align="right">
+    <a href="#toc">Back to top &#8593;</a>
+</div>
+
 
 ### ✍ Copywriting
 Website | Description
@@ -53,6 +59,11 @@ Website | Description
 [Unbounce](https://unbounce.com/product/smart-copy/?ref=riseofmachine) | Generate marketing content.
 [Unbound](https://www.unboundcontent.ai/?ref=riseofmachine) | Create content for your business.
 
+<div align="right">
+    <a href="#toc">Back to top &#8593;</a>
+</div>
+
+
 ### 🎨 Design Tools
 Website | Description
 :--- |:---
@@ -78,6 +89,11 @@ Website | Description
 [Uizard](https://uizard.io/?ref=riseofmachine) | Design wireframes, mockups & prototypes.
 [Unbound](https://www.unboundcontent.ai/?ref=riseofmachine) | Create content for your business.
 [Vizcom](https://www.vizcom.ai/?ref=riseofmachine) | Ideation & creation for industrial designers.
+
+<div align="right">
+    <a href="#toc">Back to top &#8593;</a>
+</div>
+
 
 ### 🖥 Developer Tools
 Website | Description
@@ -106,6 +122,11 @@ Website | Description
 [Textomap](https://www.textomap.com/?ref=riseofmachine) | Generate interactive maps from text.
 [Tinq](https://tinq.ai/?ref=riseofmachine) | NLP API toolkit, NLP as a service.
 
+<div align="right">
+    <a href="#toc">Back to top &#8593;</a>
+</div>
+
+
 ### 🌄 Image Editing
 Website | Description
 :--- |:---
@@ -126,6 +147,11 @@ Website | Description
 [Removebg](https://www.remove.bg/?ref=riseofmachine) | Remove image background.
 [Restore Photos](https://www.restorephotos.io/?ref=riseofmachine) | Restoring old photos.
 [Topaz Photo AI](https://www.topazlabs.com/topaz-photo-ai/?ref=riseofmachine) | Noise reduction, sharpening & upscaling.
+
+<div align="right">
+    <a href="#toc">Back to top &#8593;</a>
+</div>
+
 
 ### 📈 Productivity
 Website | Description
@@ -156,6 +182,10 @@ Website | Description
 [Texti](https://texti.app/?ref=riseofmachine) | Helper in your browser.
 [Tldv](https://tldv.io/?ref=riseofmachine) | Transcribe & summarize your meetings.
 
+<div align="right">
+    <a href="#toc">Back to top &#8593;</a>
+</div>
+
 ### 💬 Prompts
 Website | Description
 :--- |:---
@@ -170,4 +200,6 @@ Website | Description
 [PromptHero](https://prompthero.com/?ref=riseofmachine) |  Prompts for Stable Diffusion, ChatGPT & Midjourney.
 [PromptLayer](https://promptlayer.com/?ref=riseofmachine) | Log, search & manage prompt templates.
 
-
+<div align="right">
+    <a href="#toc">Back to top &#8593;</a>
+</div>
