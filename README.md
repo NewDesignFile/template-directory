@@ -100,7 +100,7 @@ Website | Description
 :--- |:---
 [Amazon CodeWhisperer](https://aws.amazon.com/codewhisperer/?ref=riseofmachine) | Generate code suggestions.
 [AutoRegex](https://www.autoregex.xyz/?ref=riseofmachine) | Effortless conversions from English to RegEx.
-[BingChain](https://github.com/postman-open-technologies/bingchain) | Capable Langchain/AutoGPT alternative in ~300 lines of core code.
+[BingChain](https://github.com/postman-open-technologies/bingchain) | Langchain/AutoGPT alternative in ~300 lines of core code.
 [Buildt](https://www.buildt.ai/?ref=riseofmachine) | Quickly search & understand large codebases.
 [CSM](https://csm.ai/?ref=riseofmachine) | Translate data into 3D world models.
 [Dust](https://dust.tt/?ref=riseofmachine) | Make & deploy large language model apps.

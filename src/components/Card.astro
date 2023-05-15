@@ -41,4 +41,17 @@ const { href, title, body } = Astro.props;
 		border: 1px solid var(--border);
 	}
 	.link-card:is(:hover, :focus-within) h6 {}
+	.tag {
+		background-color: var(--background-selected);
+		padding: 2px 8px;
+		border-radius: 24px;
+		display: inline-block;
+		color: var(--text-secondary);
+		margin-top: var(--spacing-08);
+	}
+	.code {
+		font-size: var(--desktop-caption);
+		line-height: var(--lh-desktop-caption);
+		font-family: var(--system-ui);
+	}
 </style>
