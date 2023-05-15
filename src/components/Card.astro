@@ -2,10 +2,11 @@
 export interface Props {
 	title: string;
 	body: string;
+	tag: string;
 	href: string;
 }
 
-const { href, title, body } = Astro.props;
+const { href, title, body, tag } = Astro.props;
 ---
 
 <li class="link-card">
@@ -15,6 +16,9 @@ const { href, title, body } = Astro.props;
 		</h6>
 		<p class="nu-c-fs-small nu-u-mt-1 nu-u-mb-1">
 			{body}
+		</p>
+		<p class="distribution">
+			<span class="tag">{tag}</span>
 		</p>
 	</a>
 </li>
@@ -26,6 +30,8 @@ const { href, title, body } = Astro.props;
 		background-position: 100%;
 		border: 1px solid transparent;
 		border-radius: var(--spacing-01);
+		height: 136px;
+		position: relative;
 	}
 	.link-card > a {
 		width: 100%;
@@ -41,15 +47,14 @@ const { href, title, body } = Astro.props;
 		border: 1px solid var(--border);
 	}
 	.link-card:is(:hover, :focus-within) h6 {}
-	.tag {
+	p.distribution {margin: var(--spacing-00); position: absolute; bottom: var(--spacing-06);}
+	span.tag {
 		background-color: var(--background-selected);
 		padding: 2px 8px;
 		border-radius: 24px;
 		display: inline-block;
 		color: var(--text-secondary);
 		margin-top: var(--spacing-08);
-	}
-	.code {
 		font-size: var(--desktop-caption);
 		line-height: var(--lh-desktop-caption);
 		font-family: var(--system-ui);
