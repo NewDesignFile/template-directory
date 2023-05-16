@@ -36,7 +36,7 @@ Website | Description | Pricing
 [Anyword](https://anyword.com/?ref=riseofmachine) | On-brand copywriting. | `Starting at $24/mo`
 [Bertha](https://bertha.ai/?ref=riseofmachine) | Copywriting assistant for WordPress & in Chrome. | `Pay-as-you-go`
 [Botowski](https://www.botowski.com/?ref=riseofmachine) | Content generator. | `Starting at $0/mo`
-[Closerscopy](https://www.closerscopy.com/?ref=riseofmachine) | Copywriting robot. | `Starting at $49.99/mo`
+[ClosersCopy](https://www.closerscopy.com/?ref=riseofmachine) | Copywriting robot. | `Starting at $49.99/mo`
 [Contents](https://www.contents.com/?ref=riseofmachine) | Create original, SEO-optimized content. | `Pay-as-you-go`
 [Cowriter](https://cowriter.org/?ref=riseofmachine) | Platform for creative writing. | `Starting at $0/mo`
 [CopyAI](https://www.copy.ai/?ref=riseofmachine) | Content generator. | `Starting at $0/mo`
