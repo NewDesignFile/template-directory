@@ -44,7 +44,7 @@ const { title } = Astro.props;
 	}
 	html { font-family: var(--system-ui); background-color: var(--background);}
 	body { margin: 0; padding: 0;}
-	main { margin: auto var(--spacing-10);}
+	main { margin: auto var(--spacing-09);}
 	h1.title { margin-bottom: var(--spacing-10); color: var(--text-primary); margin-top: var(--spacing-12); }
 	section { margin-bottom: var(--spacing-10);}
 	p { margin-top: var(--spacing-00);}
@@ -74,12 +74,15 @@ const { title } = Astro.props;
 		@nest [data-theme="dark"] & { --icon-fill: var(--icon-secondary); --icon-fill-hover: var(--icon-secondary);}
 	}
 	.footer {
-		padding: 2rem;
+		padding-bottom: var(--spacing-10);
 		text-align: center;
 		font-weight: normal;
 		font-style: normal;
 		color: var(--text-secondary);
 		font-size: var(--desktop-body-sm);
 		line-height: var(--lh-desktop-body);
+	}
+	@media (max-width: 480px) {	
+		main { margin: auto var(--spacing-06);}
 	}
 </style>
