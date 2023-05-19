@@ -102,8 +102,10 @@ Website | Description | Pricing
 [AutoRegex](https://www.autoregex.xyz/?ref=riseofmachine) | Effortless conversions from English to RegEx. | `Free`
 [BingChain](https://github.com/postman-open-technologies/bingchain) | Langchain/AutoGPT alternative in ~300 lines of core code. | `Open-source`
 [Buildt](https://www.buildt.ai/?ref=riseofmachine) | Quickly search & understand large codebases. | `Free, Extension`
+[Codeium](https://codeium.com/?ref=riseofmachine) | AI-powered toolkit. | `Freemium`
 [CSM](https://csm.ai/?ref=riseofmachine) | Translate data into 3D world models. | `Free`
 [Dust](https://dust.tt/?ref=riseofmachine) | Make & deploy large language model apps. | `Open-source`
+[GitHub Copilot](https://github.com/features/copilot/?ref=riseofmachine) | AI pair programmer. | `Starting at $10/mo`
 [GPTDuck](https://www.gptduck.com/?ref=riseofmachine) | Question answering against any Github repository. | `Free`
 [GPUX](https://gpux.ai/?ref=riseofmachine) | Run AI training dockerized. | `Pay-as-you-go`
 [Helicone](https://www.helicone.ai/?ref=riseofmachine) | Track costs, usage & latency for GPT apps. | `Freemium`
@@ -119,6 +121,7 @@ Website | Description | Pricing
 [Shaped](https://www.shaped.ai/?ref=riseofmachine) | Recommendations & notifications using ML. | `Flat-fee/mo`
 [Stable Diffusion](https://stability.ai/?ref=riseofmachine) | Image synthesis with latent diffusion models. | `Freemium`
 [Synthetic](https://syntheticaidata.com/?ref=riseofmachine) | Train & improve AI models. | `Beta`
+[Tabnine](https://www.tabnine.com/?ref=riseofmachine) | Assistant for software developers. | `Freemium`
 [Teachable Machine](https://teachablemachine.withgoogle.com/?ref=riseofmachine) | Create ML models for your sites & apps. | `Free`
 [Textomap](https://www.textomap.com/?ref=riseofmachine) | Generate interactive maps from text. | `Freemium`
 [Tinq](https://tinq.ai/?ref=riseofmachine) | NLP API toolkit, NLP as a service. | `Starting at $15/mo`
