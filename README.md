@@ -1,6 +1,6 @@
 # A Curated List of<br>Powerful AI Tools
 
-> To suggest a new tool, please create an issue or a pull request for the readme.
+> [Submit a new tool](https://forms.gle/c3ynjWPuh7UK8czo7)
 
 ### ToC
 - [Audio](#-audio)
