@@ -1,8 +1,6 @@
 # Enhance Your Craft with AI
 Explore a curated set of powerful AI tools for makers.
 
-> [Submit a new tool](https://forms.gle/c3ynjWPuh7UK8czo7)
-
 ### ToC
 - [Audio](#-audio)
 - [Copywriting](#-copywriting)
@@ -208,3 +206,7 @@ Website | Description | Pricing
 <div align="right">
     <a href="#toc">Back to top &#8593;</a>
 </div>
+
+---
+
+> [Submit a new tool](https://forms.gle/c3ynjWPuh7UK8czo7)
