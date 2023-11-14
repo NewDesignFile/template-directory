@@ -1,4 +1,5 @@
-# A Curated List of<br>Powerful AI Tools
+# Enhance Your Craft with AI
+Explore a curated set of powerful AI tools for makers.
 
 > [Submit a new tool](https://forms.gle/c3ynjWPuh7UK8czo7)
 
