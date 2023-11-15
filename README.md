@@ -19,9 +19,11 @@ Website | Description | Pricing
 [Beatoven](https://www.beatoven.ai/?ref=riseofmachine) | Create customisable royalty free music. | `Starting at $0/mo`
 [BlogAudio](https://blogaudio.co/?ref=riseofmachine) | Convert text to high quality audio speech. | `Starting at $16/mo`
 [Cleanvoice](https://cleanvoice.ai/?ref=riseofmachine) | Removes filler sounds, stuttering & mouth sounds. | `Pay-as-you-go`
+[Kits AI](https://app.kits.ai/?ref=riseofmachine) | AI voice generation toolkit. | `Freemium`
 [Krisp](https://krisp.ai/?ref=riseofmachine) | Voice clarity & meeting assistant. | `Starting at $0/mo`
 [Lalal](https://www.lalal.ai/?ref=riseofmachine) | Split vocal & instrumental tracks. | `Starting at $0/mo`
 [Podcastle](https://podcastle.ai/?ref=riseofmachine) | Record, edit, transcribe & export content. | `Starting at $0/mo`
+[Stable Audio](https://www.stableaudio.com/?ref=riseofmachine) | Create music with AI. | `Freemium`
 [Voicemod](https://www.voicemod.net/?ref=riseofmachine) | Real-time AI voice changing & custom sound effects. | `Freemium`
 
 <div align="right">
