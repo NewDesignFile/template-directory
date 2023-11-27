@@ -10,14 +10,14 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/netlify": "^2.2.2",
-    "astro": "^2.4.5"
+    "@astrojs/netlify": "^3.0.4",
+    "astro": "^3.6.1"
   },
   "devDependencies": {
     "@new-ui/colors": "^1.2.11",
     "@new-ui/effects": "^0.1.0",
     "@new-ui/spacings": "^0.1.1",
-    "@new-ui/typography": "^0.1.3"
+    "@new-ui/typography": "^0.1.5"
   },
   "description": "A curated list of powerful AI tools.",
   "repository": {
