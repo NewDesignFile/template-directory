@@ -10,8 +10,8 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/netlify": "^3.0.4",
-    "astro": "^3.6.1"
+    "@astrojs/netlify": "^3.1.1",
+    "astro": "^4.0.3"
   },
   "devDependencies": {
     "@new-ui/colors": "^1.2.11",
@@ -24,17 +24,5 @@
     "type": "git",
     "url": "git+https://github.com/MethodBlack/riseofmachine.git"
   },
-  "keywords": [
-    "AI",
-    "Tools",
-    "Listing",
-    "Curated",
-    "Directory"
-  ],
-  "author": "Abhimanyu Rana",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/MethodBlack/riseofmachine/issues"
-  },
-  "homepage": "https://github.com/MethodBlack/riseofmachine#readme"
+  "author": "Abhimanyu Rana"
 }
