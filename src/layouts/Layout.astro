@@ -28,6 +28,11 @@ const { title } = Astro.props;
 </script>
 
 	<body>
+		<header>
+			<div class="container">
+				<h1 class="nu-c-h3 title">Enhance Your Craft with AI</h1>
+			</div>
+		</header>
 		<button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
 			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><path fill="var(--icon-secondary)" fill-opacity=".16" d="M8.57 17.93A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94"/><path stroke="var(--icon-secondary)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" d="M12 4V2M3 13H1m22 0h-2m-1.222-7.778-1.414 1.414m-12.728 0L4.222 5.222M4 18h16M8 21h8m-7.43-3.07A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94l-6.83-.01Z"/></svg>
 		  </button>
@@ -44,7 +49,7 @@ const { title } = Astro.props;
 	}
 	html { font-family: var(--system-ui); background-color: var(--background);}
 	body { margin: 0; padding: 0;}
-	main { margin: auto var(--spacing-09);}
+	main, .container { margin: auto var(--spacing-09);}
 	h1.title { margin-bottom: var(--spacing-10); color: var(--text-primary); margin-top: var(--spacing-12); }
 	section { margin-bottom: var(--spacing-10);}
 	p { margin-top: var(--spacing-00);}
