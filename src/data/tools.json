@@ -2,6 +2,7 @@
   "tools": [
     {
       "title": "&#127899; Audio",
+      "category": "audio",
       "content": [
         {
           "title": "Adobe Podcast",
@@ -78,7 +79,758 @@
       ]
     },
     {
-      "title": "&#127899; Audio",
+      "title": "&#9997; Copywriting",
+      "category": "copywriting",
+      "content": [
+        {
+          "title": "Anyword",
+          "body": "On-brand copywriting.",
+          "tag": "Starting at $24/mo",
+          "url": "https://anyword.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Audit Landing",
+          "body": "Audit your landing page.",
+          "tag": "Starting at $2",
+          "url": "https://audit.landin.page/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Bertha",
+          "body": "Copywriting assistant for WordPress & in Chrome.",
+          "tag": "Pay-as-you-go",
+          "url": "https://bertha.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Boo.ai",
+          "body": "Text editor to generate copy & make suggestions.",
+          "tag": "Freemium",
+          "url": "https://boo.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Botowski",
+          "body": "Content generator.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.botowski.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Closerscopy",
+          "body": "Copywriting robot.",
+          "tag": "Starting at $49.99/mo",
+          "url": "https://www.closerscopy.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Contents",
+          "body": "Create original, SEO-optimized content.",
+          "tag": "Pay-as-you-go",
+          "url": "https://www.contents.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Cowriter",
+          "body": "Platform for creative writing.",
+          "tag": "Starting at $0/mo",
+          "url": "https://cowriter.org/?ref=riseofmachine.com"
+        },
+        {
+          "title": "CopyAI",
+          "body": "Content generator.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.copy.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Copymatic",
+          "body": "Generate content, copy & images.",
+          "tag": "Starting at $19/mo",
+          "url": "https://copymatic.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Daydrm",
+          "body": "For creative advertising ideas.",
+          "tag": "Starting at $19/mo",
+          "url": "https://www.daydrm.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Easy-Peasy",
+          "body": "Generate content.",
+          "tag": "Starting at $0/mo",
+          "url": "https://easy-peasy.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "HelloScribe",
+          "body": "Toolkit for PR & marketing professionals.",
+          "tag": "Starting at $49/mo",
+          "url": "https://www.helloscribe.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "HypeGenius",
+          "body": "Create and publish newsletters.",
+          "tag": "Closed Beta",
+          "url": "https://hypegenius.xyz/?ref=riseofmachine.com"
+        },
+        {
+          "title": "HyperWrite",
+          "body": "AI writing assistant.",
+          "tag": "Freemium",
+          "url": "https://www.hyperwriteai.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Hypotenuse",
+          "body": "Writing assistant & text generator.",
+          "tag": "Starting at $24/mo",
+          "url": "https://www.hypotenuse.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Jasper",
+          "body": "Create on-brand content.",
+          "tag": "Starting at $39/mo",
+          "url": "https://www.jasper.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Lek",
+          "body": "Toolkit for generating content.",
+          "tag": "Starting at $0/mo",
+          "url": "https://lek.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Ocoya",
+          "body": "Create & post social media content.",
+          "tag": "Starting at $15/mo",
+          "url": "https://www.ocoya.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "ParagraphAI",
+          "body": "Writing assistant.",
+          "tag": "Starting at $9/mo",
+          "url": "https://paragraphai.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Pepper Content",
+          "body": "Ideate, create, distribute & measure content.",
+          "tag": "Starting at $399/mo",
+          "url": "https://www.peppercontent.io/peppertype-ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Rytr",
+          "body": "Writing assistant.",
+          "tag": "Freemium",
+          "url": "https://rytr.me/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Simplified",
+          "body": "Generate marketing copy.",
+          "tag": "Freemium",
+          "url": "https://simplified.com/ai-writer/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Text Generator Plugin",
+          "body": "Free alternative to Copy.ai, Jasper & Rytr.",
+          "tag": "Open-source",
+          "url": "https://text-gen.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Texti",
+          "body": "Helper in your browser.",
+          "tag": "Free, Extension",
+          "url": "https://texti.app/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Typli",
+          "body": "Writing assistant with built-in SEO checker.",
+          "tag": "Starting at $29/mo",
+          "url": "https://typli.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Unbounce",
+          "body": "Generate marketing content.",
+          "tag": "Freemium",
+          "url": "https://unbounce.com/product/smart-copy/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Unbound",
+          "body": "Create content for your business.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.unboundcontent.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "word.studio",
+          "body": "AI tools, templates, and workflows.",
+          "tag": "Free",
+          "url": "https://word.studio/?ref=riseofmachine.com"
+        },
+        {
+          "title": "wordtune",
+          "body": "AI writing assistant.",
+          "tag": "Freemium",
+          "url": "https://www.wordtune.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Writesonic",
+          "body": "Writer, copywriting & paraphrasing tool.",
+          "tag": "Starting at $0/mo",
+          "url": "ttps://writesonic.com/?ref=riseofmachine.com"
+        }
+      ]
+    },
+    {
+      "title": "&#127912; Design Tools",
+      "category": "design-tools",
+      "content": [
+        {
+          "title": "BeFunky",
+          "body": "Edit photos, create graphics & make photo collages.",
+          "tag": "Freemium",
+          "url": "https://www.befunky.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Booth.AI",
+          "body": "Create product photography.",
+          "tag": "Starting at $199/mo",
+          "url": "https://www.booth.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Bria",
+          "body": "Create customized visual content at scale.",
+          "tag": "Freemium",
+          "url": "https://bria.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Clickable",
+          "body": "Generate ads for marketing channels.",
+          "tag": "Beta",
+          "url": "https://www.clickable.so/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Clipdrop",
+          "body": "Create visuals without a photo studio.",
+          "tag": "Freemium",
+          "url": "https://clipdrop.co/?ref=riseofmachine.com"
+        },
+        {
+          "title": "DesignsAI",
+          "body": "Create logos, videos, banners & mockups.",
+          "tag": "Starting at $29/mo",
+          "url": "https://designs.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Diagram",
+          "body": "Generative design tool kit.",
+          "tag": "Monthly subscription",
+          "url": "https://diagram.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Durable",
+          "body": "AI website builder.",
+          "tag": "Starting at $0/mo",
+          "url": "https://durable.co/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Flair",
+          "body": "Design tool for branded content.",
+          "tag": "Freemium",
+          "url": "https://flair.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Gamma",
+          "body": "Generate docs, decks & webpages.",
+          "tag": "Freemium",
+          "url": "https://gamma.app/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Hotpot",
+          "body": "Create graphics, pictures & writing.",
+          "tag": "Freemium",
+          "url": "https://hotpot.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Illostration AI",
+          "body": "Create illustrations.",
+          "tag": "Starting at $4.90/mo",
+          "url": "https://www.illostration.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Illustroke",
+          "body": "Create vector illustrations from text prompts.",
+          "tag": "$6 for 50 tokens",
+          "url": "https://illustroke.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Kittl",
+          "body": "Design tool.",
+          "tag": "Freemium",
+          "url": "https://www.kittl.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Magician",
+          "body": "Generate icons, copies & images in Figma.",
+          "tag": "Beta, $5/mo",
+          "url": "https://magician.design/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Microsoft Designer",
+          "body": "Generate designs & original images.",
+          "tag": "Beta, Free",
+          "url": "https://designer.microsoft.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Pattern Maker AI",
+          "body": "Generate seamless vector patterns.",
+          "tag": "One-time, Subscription",
+          "url": "https://patternmakerai.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Patterned AI",
+          "body": "Generate unique patterns for your product.",
+          "tag": "Starting at $10/mo",
+          "url": "https://www.patterned.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Pictorial",
+          "body": "Generate reliable, ready-to-use visuals.",
+          "tag": "Starting at $8.99/mo",
+          "url": "https://www.pictorial.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Pitch",
+          "body": "Create and share presentations.",
+          "tag": "Freemium",
+          "url": "https://pitch.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "RocketAI",
+          "body": "Generate designs that capture your brand style.",
+          "tag": "Starting at $19/mo",
+          "url": "https://www.rocketai.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Rosebud AI",
+          "body": "Game assets to game development.",
+          "tag": "Beta",
+          "url": "https://www.rosebud.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Tome",
+          "body": "AI to create presentations and microsites.",
+          "tag": "Freemium",
+          "url": "https://tome.app/ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Uizard",
+          "body": "Design wireframes, mockups & prototypes.",
+          "tag": "Freemium",
+          "url": "https://uizard.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Unbound",
+          "body": "Create content for your business.",
+          "tag": "Freemium",
+          "url": "https://www.unboundcontent.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Vizcom",
+          "body": "Ideation & creation for industrial designers.",
+          "tag": "Freemium",
+          "url": "https://www.vizcom.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "v0",
+          "body": "Generate UI with text prompts.",
+          "tag": "Beta",
+          "url": "https://v0.dev/?ref=riseofmachine.com"
+        }
+      ]
+    },
+    {
+      "title": "&#128421; Developer Tools",
+      "category": "developer-tools",
+      "content": [
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "&#9997; Copywriting",
+      "category": "copywriting",
+      "content": [
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "&#9997; Copywriting",
+      "category": "copywriting",
+      "content": [
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "&#9997; Copywriting",
+      "category": "copywriting",
+      "content": [
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "&#9997; Copywriting",
+      "category": "copywriting",
+      "content": [
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        },
+        {
+          "title": "",
+          "body": "",
+          "tag": "",
+          "url": ""
+        }
+      ]
+    },
+    {
+      "title": "&#9997; Copywriting",
+      "category": "copywriting",
       "content": [
         {
           "title": "",
