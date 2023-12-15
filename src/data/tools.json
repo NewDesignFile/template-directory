@@ -443,466 +443,688 @@
       "category": "developer-tools",
       "content": [
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Amazon CodeWhisperer",
+          "body": "Generate code suggestions.",
+          "tag": "Freemium",
+          "url": "https://aws.amazon.com/codewhisperer/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "AutoRegex",
+          "body": "Effortless conversions from English to RegEx.",
+          "tag": "Free",
+          "url": "https://www.autoregex.xyz/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "BingChain",
+          "body": "Langchain/AutoGPT alternative in ~300 lines of core code.",
+          "tag": "Open-source",
+          "url": "https://github.com/postman-open-technologies/bingchain/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Buildt",
+          "body": "Quickly search & understand large codebases.",
+          "tag": "Free, Extension",
+          "url": "https://www.buildt.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Codeium",
+          "body": "AI-powered toolkit.",
+          "tag": "Freemium",
+          "url": "https://codeium.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "CodiumAI",
+          "body": "Test and analyze code.",
+          "tag": "Freemium",
+          "url": "https://www.codium.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "CSM",
+          "body": "Translate data into 3D world models.",
+          "tag": "Free",
+          "url": "https://csm.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Cursor",
+          "body": "Editor for pair-programming with AI.",
+          "tag": "Freemium",
+          "url": "https://cursor.sh/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "EVAL",
+          "body": "Elastic versatile agent with langchain.",
+          "tag": "Open-source",
+          "url": "https://github.com/corca-ai/EVAL/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "GitHub Copilot",
+          "body": "AI pair programmer.",
+          "tag": "Starting at $10/mo",
+          "url": "https://github.com/features/copilot/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "GPTDuck",
+          "body": "Question answering against any Github repository.",
+          "tag": "Free",
+          "url": "https://www.gptduck.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "GPUX",
+          "body": "Run AI training dockerized.",
+          "tag": "Pay-as-you-go",
+          "url": "https://gpux.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Helicone",
+          "body": "Track costs, usage & latency for GPT applications.",
+          "tag": "Freemium",
+          "url": "https://www.helicone.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Lightning",
+          "body": "Train, deploy & build AI with PyTorch.",
+          "tag": "Freemium",
+          "url": "https://lightning.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Liner",
+          "body": "Build & deploy ML applications.",
+          "tag": "Free, Beta",
+          "url": "https://liner.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Nuclia",
+          "body": "Search & generative answers.",
+          "tag": "Starting at $30/mo",
+          "url": "https://nuclia.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Pipeline Catalyst",
+          "body": "Serverless GPU inference for ML models.",
+          "tag": "Starting at $12.99/mo",
+          "url": "https://www.mystic.ai/pipeline-catalyst/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Postbot",
+          "body": "AI assistant for API workflows.",
+          "tag": "Freemium",
+          "url": "https://learning.postman.com/docs/getting-started/basics/about-postbot/?ref=riseofmachine.com"
+        },
+        {
+          "title": "PromptLayer",
+          "body": "Log, search & manage prompt templates.",
+          "tag": "Open-source",
+          "url": "https://promptlayer.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Retune",
+          "body": "Train & customize your own AI model, generate API.",
+          "tag": "Freemium",
+          "url": "https://retune.so/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Riku",
+          "body": "Build no-code prompts & datasets for AI models.",
+          "tag": "Starting at $29/mo",
+          "url": "https://riku.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "RTutor",
+          "body": "Chat with your data via AI.",
+          "tag": "Open-source",
+          "url": "http://rtutor.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "RunPod",
+          "body": "Rent cloud GPUs from $0.2/hour.",
+          "tag": "Starting at $0.2/hr",
+          "url": "https://www.runpod.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Shaped",
+          "body": "Recommendations & notifications using ML.",
+          "tag": "Flat-fee/mo",
+          "url": "https://www.shaped.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Stable Diffusion",
+          "body": "Image synthesis with latent diffusion models.",
+          "tag": "Freemium",
+          "url": "https://stability.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Synthetic",
+          "body": "Train & improve AI models.",
+          "tag": "Beta",
+          "url": "https://syntheticaidata.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Tabnine",
+          "body": "Assistant for software developers.",
+          "tag": "Freemium",
+          "url": "https://www.tabnine.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Teachable Machine",
+          "body": "Create ML models for your sites & apps.",
+          "tag": "Free",
+          "url": "https://teachablemachine.withgoogle.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Textomap",
+          "body": "Generate interactive maps from text.",
+          "tag": "Freemium",
+          "url": "https://www.textomap.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Tinq",
+          "body": "NLP API toolkit, NLP as a service.",
+          "tag": "Starting at $15/mo",
+          "url": "https://tinq.ai/?ref=riseofmachine.com"
         }
       ]
     },
     {
-      "title": "&#9997; Copywriting",
-      "category": "copywriting",
+      "title": "&#127748; Image Editing",
+      "category": "image-editing",
       "content": [
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "AI Image Enlarger",
+          "body": "Enhance & upscale images.",
+          "tag": "Starting at $0/mo",
+          "url": "https://imglarger.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Astria",
+          "body": "Create custom images.",
+          "tag": "Starting at $0.10/prompt",
+          "url": "https://www.astria.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "BeFunky",
+          "body": "Edit photos, create graphics & make photo collages.",
+          "tag": "Freemium",
+          "url": "https://www.befunky.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Bg Eraser",
+          "body": "Remove objects & clean up pics.",
+          "tag": "Starting at $0/mo",
+          "url": "https://bgeraser.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Bria",
+          "body": "Create customized visual content at scale.",
+          "tag": "Freemium",
+          "url": "https://bria.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Erase Bg",
+          "body": "Remove background from images.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.erase.bg/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Getimg AI",
+          "body": "Edit images with text.",
+          "tag": "Starting at $0/mo",
+          "url": "https://getimg.ai/editor/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Green Screen AI",
+          "body": "Change the background of any image.",
+          "tag": "Free, In-app purchases",
+          "url": "https://greenscreenai.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Hama",
+          "body": "Erase objects from your photo.",
+          "tag": "Freemium",
+          "url": "https://www.hama.app/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Lets Enhance",
+          "body": "Enhance, upscale & generate pictures.",
+          "tag": "Freemium",
+          "url": "https://letsenhance.io/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Magic Eraser",
+          "body": "Remove unwanted things.",
+          "tag": "Freemium",
+          "url": "https://magicstudio.com/magiceraser/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Nostalgia Photo",
+          "body": "Restore old photographs.",
+          "tag": "Starting at $3",
+          "url": "https://www.nostalgia.photo/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Palette",
+          "body": "Colorize pictures.",
+          "tag": "Pay-as-you-go",
+          "url": "https://palette.fm/?ref=riseofmachine.com"
+        },
+        {
+          "title": "PhotoRoom",
+          "body": "Remove and change background.",
+          "tag": "Freemium",
+          "url": "https://www.photoroom.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Removebg",
+          "body": "Remove image background.",
+          "tag": "Pay-as-you-go",
+          "url": "https://www.remove.bg/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Restore Photos",
+          "body": "Restoring old photos.",
+          "tag": "Open-source",
+          "url": "https://www.restorephotos.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SDXL Turbo",
+          "body": "Text-to-image generation.",
+          "tag": "Freemium",
+          "url": "https://sdxlturbo.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Topaz Photo AI",
+          "body": "Noise reduction, sharpening & upscaling.",
+          "tag": "Starting at $199",
+          "url": "https://www.topazlabs.com/topaz-photo-ai/?ref=riseofmachine.com"
         }
       ]
     },
     {
-      "title": "&#9997; Copywriting",
-      "category": "copywriting",
+      "title": "&#128200; Productivity",
+      "category": "productivity",
       "content": [
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Albus",
+          "body": "Knowledge bot for Slack.",
+          "tag": "Starting at $4.99/mo",
+          "url": "https://www.springworks.in/albus/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "blocks",
+          "body": "AI-powered no-code email builder.",
+          "tag": "Freemium",
+          "url": "https://useblocks.io/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "ChatGPT Writer",
+          "body": "Generate emails & replies.",
+          "tag": "Free, Extension",
+          "url": "https://chatgptwriter.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "CognosysAI",
+          "body": "Web-based AI Agent.",
+          "tag": "Freemium",
+          "url": "https://www.cognosys.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Consensus",
+          "body": "Find and summarize research papers.",
+          "tag": "Freemium",
+          "url": "https://consensus.app/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Dust",
+          "body": "AI assistant for teams.",
+          "tag": "Freemium",
+          "url": "https://dust.tt/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "EverLearns",
+          "body": "AI learning space.",
+          "tag": "Starting at $119/yr",
+          "url": "https://everlearns.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Fireflies",
+          "body": "Record, transcribe, search & analyze voice convos.",
+          "tag": "Starting at $0/mo",
+          "url": "https://fireflies.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "FlowGPT",
+          "body": "Library of ChatGPT prompts.",
+          "tag": "Community",
+          "url": "https://flowgpt.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "FocusFlow.ai",
+          "body": "Track and improve your day.",
+          "tag": "Beta",
+          "url": "https://focusflow.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Gamma",
+          "body": "Generate docs, decks & webpages",
+          "tag": "Beta",
+          "url": "https://gamma.app/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Glean",
+          "body": "Search all company apps.",
+          "tag": "Not available",
+          "url": "https://www.glean.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Krater.ai",
+          "body": "SuperApp for all things Generative AI",
+          "tag": "Freemium",
+          "url": "https://www.krater.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Maester",
+          "body": "GPT-3 template engine.",
+          "tag": "Free",
+          "url": "https://maester.app/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Magical",
+          "body": "Schedule, coordinate & automate your meetings.",
+          "tag": "Freemium",
+          "url": "https://magical.so/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Mavex.ai",
+          "body": "Personal AI executive assistant.",
+          "tag": "Freemium, Extension",
+          "url": "https://mavex.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Mem",
+          "body": "Organize work—from meeting notes & knowledge base.",
+          "tag": "Freemium",
+          "url": "https://get.mem.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Merlin",
+          "body": "Finish any task on any website.",
+          "tag": "Starting at $19/mo",
+          "url": "https://merlin.foyer.work/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Monica",
+          "body": "AI assistant for chatting & copywriting.",
+          "tag": "Freemium",
+          "url": "https://monica.im/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Nanonets",
+          "body": "Capture data from documents.",
+          "tag": "Pay-as-you-go",
+          "url": "https://nanonets.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Noty",
+          "body": "Meetings into action items & follow-ups.",
+          "tag": "Freemium",
+          "url": "https://noty.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Otter",
+          "body": "Meeting assistant.",
+          "tag": "Freemium",
+          "url": "https://otter.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Personal",
+          "body": "Personal AI messenger.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.personal.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Puzzle Labs",
+          "body": "Glossary for your product.",
+          "tag": "Freemium",
+          "url": "https://puzzlelabs.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Reclaim AI",
+          "body": "Smart calendar tool.",
+          "tag": "Freemium",
+          "url": "https://reclaim.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Rewind AI",
+          "body": "Find anything you have seen, said, or heard.",
+          "tag": "Freemium",
+          "url": "https://www.rewind.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Scale AI",
+          "body": "Training data for AI apps.",
+          "tag": "Pay-as-you-go",
+          "url": "https://scale.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SlidesAI",
+          "body": "Create slides from any text.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.slidesai.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Success.ai",
+          "body": "AI-powered cold emails.",
+          "tag": "Starting at $23/mo",
+          "url": "https://www.success.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SummerEyes",
+          "body": "Summarize any text on the internet.",
+          "tag": "Beta, Free",
+          "url": "https://summereyes.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Supernormal",
+          "body": "Create meeting notes.",
+          "tag": "Freemium",
+          "url": "https://supernormal.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Taskade",
+          "body": "AI-powered productivity.",
+          "tag": "Freemium",
+          "url": "https://www.taskade.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Texti",
+          "body": "Helper in your browser.",
+          "tag": "Free, Extension",
+          "url": "https://texti.app/?ref=riseofmachine.com"
+        },
+        {
+          "title": "tl;dv",
+          "body": "Transcribe & summarize your meetings.",
+          "tag": "Freemium",
+          "url": "https://tldv.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Walles",
+          "body": "AI assistant plugin.",
+          "tag": "Freemium",
+          "url": "https://walles.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Wudpecker",
+          "body": "Storing meeting knowledge.",
+          "tag": "Freemium",
+          "url": "https://www.wudpecker.io/?ref=riseofmachine.com"
         }
       ]
     },
     {
-      "title": "&#9997; Copywriting",
-      "category": "copywriting",
+      "title": "&#128172; Prompts",
+      "category": "prompts",
       "content": [
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Dallelist",
+          "body": "DALL-E prompt helper.",
+          "tag": "Free, Extension",
+          "url": "https://www.dallelist.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Eye for AI",
+          "body": "Visual prompt builder.",
+          "tag": "Freemium",
+          "url": "https://eyeforai.xyz/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Img2prompt",
+          "body": "Image to prompt.",
+          "tag": "Pay-as-you-go",
+          "url": "https://replicate.com/methexis-inc/img2prompt/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Jrnylist",
+          "body": "Midjourney prompt helper.",
+          "tag": "Free",
+          "url": "https://www.jrnylist.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Krea",
+          "body": "Create collections of prompts.",
+          "tag": "Beta",
+          "url": "https://www.krea.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "OpenArt",
+          "body": "Discover 10M+ prompts.",
+          "tag": "Freemium",
+          "url": "https://openart.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "PromptBase",
+          "body": "Marketplace for GPT3 prompts.",
+          "tag": "Marketplace",
+          "url": "https://promptbase.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "PromptBox",
+          "body": "Organize your prompts.",
+          "tag": "Freemium, Extension",
+          "url": "https://www.promptbox.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "PromptHero",
+          "body": "Prompts for Stable Diffusion, ChatGPT & Midjourney.",
+          "tag": "Freemium",
+          "url": "https://prompthero.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "PromptLayer",
+          "body": "Log, search & manage prompt templates.",
+          "tag": "Open-source",
+          "url": "https://promptlayer.com/?ref=riseofmachine.com"
         }
       ]
     },
     {
-      "title": "&#9997; Copywriting",
-      "category": "copywriting",
+      "title": "&#128194; Sundry",
+      "category": "sundry",
       "content": [
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Autoblocks",
+          "body": "GenAI product workspace.",
+          "tag": "Freemium",
+          "url": "https://www.autoblocks.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "BarGPT",
+          "body": "Create new cocktails.",
+          "tag": "Freemium",
+          "url": "https://www.bargpt.app/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "BoostBot",
+          "body": "Find and contact with influencers.",
+          "tag": "Starting at $41/mo",
+          "url": "https://boostbot.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Chatsimple",
+          "body": "AI-powered virtual agent.",
+          "tag": "Freemium",
+          "url": "https://www.chatsimple.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Cypher",
+          "body": "Create your personal AI clone.",
+          "tag": "Freemium",
+          "url": "https://cypher.is/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Fika",
+          "body": "Make meaningful connections.",
+          "tag": "In-App Purchases",
+          "url": "https://fikaconnects.com/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "gptbots.ai",
+          "body": "Build AI bot for your business.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.gptbots.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "ioni",
+          "body": "Automate for customer support.",
+          "tag": "Starting at $29/mo",
+          "url": "https://ioni.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Penny",
+          "body": "Online shopping assistant.",
+          "tag": "Free, Extension",
+          "url": "https://penny.im/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Postli",
+          "body": "LinkedIn post generator.",
+          "tag": "Freemium",
+          "url": "https://www.postli.co/?ref=riseofmachine.com"
         }
       ]
     },
     {
-      "title": "&#9997; Copywriting",
-      "category": "copywriting",
+      "title": "&#127909; Video",
+      "category": "video",
       "content": [
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Fliki",
+          "body": "Create video and audio content.",
+          "tag": "Freemium",
+          "url": "https://fliki.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Moonvalley",
+          "body": "Text-to-video generative AI model.",
+          "tag": "Beta",
+          "url": "https://moonvalley.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Pika",
+          "body": "Idea-to-video platform.",
+          "tag": "Invite Only",
+          "url": "https://pika.art/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "Rask AI",
+          "body": "Translate video & audio.",
+          "tag": "Starting at $50/mo",
+          "url": "https://www.rask.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
-        },
-        {
-          "title": "",
-          "body": "",
-          "tag": "",
-          "url": ""
+          "title": "SpiritMe",
+          "body": "Create personalized videos with digital avatars.",
+          "tag": "Starting at $30/mo",
+          "url": "https://spiritme.tech/?ref=riseofmachine.com"
         }
       ]
     }
