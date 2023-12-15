@@ -1,9 +1,11 @@
 ---
 export interface Props {
+	site: string;
 	title: string;
+	tagline: string;
 }
 
-const { title } = Astro.props;
+const { site, title, tagline } = Astro.props;
 ---
 
 <!DOCTYPE html>
@@ -14,7 +16,7 @@ const { title } = Astro.props;
 		<link rel="icon" type="image/svg+xml" href="/icon.png" />
 		<script src="./theme.js"></script>
 		<meta name="generator" content={Astro.generator} />
-		<title>{title}</title>
+		<title>{site} — {tagline}</title>
 	</head>
 
 <!-- Google tag (gtag.js) -->
@@ -28,9 +30,10 @@ const { title } = Astro.props;
 </script>
 
 	<body>
-		<header>
+		<header class="nu-u-mb-10 nu-u-mt-12">
 			<div class="container">
-				<h1 class="nu-c-h3 title">Enhance Your Craft with AI</h1>
+				<h1 class="nu-c-h3 nu-u-text--primary nu-u-mt-0 nu-u-mb-2 title">{title}</h1>
+				<p class="nu-c-fs-normal nu-u-text--secondary">{tagline}</p>
 			</div>
 		</header>
 		<button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
@@ -50,7 +53,6 @@ const { title } = Astro.props;
 	html { font-family: var(--system-ui); background-color: var(--background);}
 	body { margin: 0; padding: 0;}
 	main, .container { margin: auto var(--spacing-09);}
-	h1.title { margin-bottom: var(--spacing-10); color: var(--text-primary); margin-top: var(--spacing-12); }
 	section { margin-bottom: var(--spacing-10);}
 	p { margin-top: var(--spacing-00);}
 	.nu-u-link--subtle { color: var(--text-secondary) !important;}
