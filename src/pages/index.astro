@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import Card from "../components/Card.astro";
+import { $filter, $updateFilter } from "../state/filter.js";
 
 import data from "../data/tools.json";
 
@@ -16,21 +17,46 @@ import "@new-ui/spacings";
   tagline="A curated set of powerful AI tools for makers."
 >
   <main>
-    {data.tools.map(section => {
-      return <section>
-        <h6 class="separator nu-c-h6" set:html={section.title}></h6>
-        <ul role="list" class="link-card-grid">
-          {section.content.map(({url, title, body, tag}) => {
+    <nav class="nav">
+      {
+        [{title: "🔥 All", category: "all"}, ...data.tools]
+          .map(section => ({title: section.title, category: section.category}))
+          .map(navItem => {
+            let classNames = "nav__item nu-u-text--secondary-alt nu-c-fs-normal nu-u-py-5 nu-u-px-0 nu-u-me-8";
+            if (navItem.category === $filter.get()) {
+              classNames += " is-active"
+            }
+            return <button 
+                class={classNames}
+                set:html={navItem.title}
+                >
+                </button>
+          })
+      }
+    </nav>
+    <section>
+      <ul role="list" class="link-card-grid">
+        {data.tools
+          .filter(item => {
+            if ($filter.get() === "all" || $filter.get() === item.category) {
+              return item;
+            }
+          })
+          .flatMap(item => item.content)
+          .sort((a, b) => {
+            return a.title < b.title ? -1 : 1;
+          })
+          .map(({url, title, body, tag}) => {
             return <Card
               href={url}
               title={title}
               body={body}
               tag={tag}
             />
-          })}
-        </ul>
-      </section>
-    })}
+          })
+        }
+      </ul>
+    </section>
   </main>
 </Layout>
 
@@ -61,5 +87,24 @@ import "@new-ui/spacings";
     grid-template-columns: repeat(auto-fit, minmax(24ch, 1fr));
     gap: var(--spacing-05);
     padding: var(--spacing-00);
+  }
+  .nav {
+    box-shadow: inset 0px -1px 0px var(--border-muted);
+  }
+  .nav .nav__item {
+    display: inline-block;
+    text-decoration: none;
+    border: none;
+    outline: none;
+    background: none;
+    cursor: pointer;
+  }
+  .nav .nav__item:hover {
+    color: var(--text-secondary);
+  }
+  .nav .nav__item.is-active {
+    color: var(--text-primary);
+    font-weight: 500;
+    border-bottom: 2px solid var(--icon-primary);
   }
 </style>
