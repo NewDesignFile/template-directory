@@ -1,7 +1,6 @@
 ---
 import Layout from "../layouts/Layout.astro";
 import Card from "../components/Card.astro";
-import { $filter, $updateFilter } from "../state/filter.js";
 
 import data from "../data/tools.json";
 
@@ -23,7 +22,7 @@ import "@new-ui/spacings";
           .map(section => ({title: section.title, category: section.category}))
           .map(navItem => {
             let classNames = "nav__item nu-u-text--secondary-alt nu-c-fs-normal nu-u-py-5 nu-u-px-0 nu-u-me-8";
-            if (navItem.category === $filter.get()) {
+            if (navItem.category === "all") {
               classNames += " is-active"
             }
             return <button 
@@ -38,7 +37,7 @@ import "@new-ui/spacings";
       <ul role="list" class="link-card-grid">
         {data.tools
           .filter(item => {
-            if ($filter.get() === "all" || $filter.get() === item.category) {
+            if (true) {
               return item;
             }
           })
