@@ -6,6 +6,7 @@ dist/
 
 # dependencies
 node_modules/
+.netlify
 
 # logs
 npm-debug.log*
