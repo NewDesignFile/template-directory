@@ -1,0 +1,18 @@
+.nav__item {
+  display: inline-block;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  background: none;
+  cursor: pointer;
+}
+
+.nav__item:hover {
+  color: var(--text-secondary);
+}
+
+.nav__item.is-active {
+  color: var(--text-primary);
+  font-weight: 500;
+  border-bottom: 2px solid var(--icon-primary);
+}
