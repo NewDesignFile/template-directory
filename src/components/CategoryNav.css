@@ -1,5 +1,5 @@
-.nav {
+.category-nav {
   box-shadow: inset 0px -1px 0px var(--border-muted);
-  overflow-x: scroll;
   white-space: nowrap;
+  overflow: hidden;
 }
