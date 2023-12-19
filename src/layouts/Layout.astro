@@ -1,86 +1,172 @@
 ---
 export interface Props {
-	site: string;
-	title: string;
-	tagline: string;
+  site: string;
+  title: string;
+  tagline: string;
 }
 
 const { site, title, tagline } = Astro.props;
 ---
 
-<!DOCTYPE html>
+<!doctype html>
 <html lang="en" data-new-ui-theme="dark">
-	<head>
-		<meta charset="UTF-8" />
-		<meta name="viewport" content="width=device-width" />
-		<link rel="icon" type="image/svg+xml" href="/icon.png" />
-		<script src="./theme.js"></script>
-		<meta name="generator" content={Astro.generator} />
-		<title>{site} — {tagline}</title>
-	</head>
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width" />
+    <link rel="icon" type="image/svg+xml" href="/icon.png" />
+    <script src="./theme.js"></script>
+    <meta name="generator" content={Astro.generator} />
+    <title>{site} — {tagline}</title>
+  </head>
 
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-BLXD7VCZH0"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BLXD7VCZH0"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
 
-  gtag('config', 'G-BLXD7VCZH0');
-</script>
+    gtag("config", "G-BLXD7VCZH0");
+  </script>
 
-	<body>
-		<header class="nu-u-mb-10 nu-u-mt-12">
-			<div class="container">
-				<h1 class="nu-c-h3 nu-u-text--primary nu-u-mt-0 nu-u-mb-2 title">{title}</h1>
-				<p class="nu-c-fs-normal nu-u-text--secondary">{tagline}</p>
+  <body>
+		<div class="floating-nav">
+			<div class="logo">
+				<a href="/"><img src="/icon.png" width="24" alt="Rise of Machines"></a>
 			</div>
-		</header>
-		<div class="floating-nav btn-group">
-			<a href="https://forms.gle/pzpG1cbxW6AA57uc9" target="_blank" class="submit-btn">Submit a new tool</a>
-			<button class="theme-toggle" id="theme-toggle" title="Toggles light & dark" aria-label="auto" aria-live="polite">
-			<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none"><path fill="var(--icon-secondary)" fill-opacity=".16" d="M8.57 17.93A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94"/><path stroke="var(--icon-secondary)" stroke-linecap="round" stroke-miterlimit="10" stroke-width="1.5" d="M12 4V2M3 13H1m22 0h-2m-1.222-7.778-1.414 1.414m-12.728 0L4.222 5.222M4 18h16M8 21h8m-7.43-3.07A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94l-6.83-.01Z"/></svg>
-		  </button>
-		</div>
-		<slot />
+      <div class="btn-group">
+				<a
+					href="https://forms.gle/pzpG1cbxW6AA57uc9"
+					target="_blank"
+					class="submit-btn">Submit a new tool</a
+				>
+				<button
+					class="theme-toggle"
+					id="theme-toggle"
+					title="Toggles light & dark"
+					aria-label="auto"
+					aria-live="polite"
+				>
+					<svg
+						xmlns="http://www.w3.org/2000/svg"
+						width="24"
+						height="24"
+						fill="none"
+						><path
+							fill="var(--icon-secondary)"
+							fill-opacity=".16"
+							d="M8.57 17.93A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94"
+						></path><path
+							stroke="var(--icon-secondary)"
+							stroke-linecap="round"
+							stroke-miterlimit="10"
+							stroke-width="1.5"
+							d="M12 4V2M3 13H1m22 0h-2m-1.222-7.778-1.414 1.414m-12.728 0L4.222 5.222M4 18h16M8 21h8m-7.43-3.07A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94l-6.83-.01Z"
+						></path></svg
+					>
+				</button>
+			</div>
+    </div>
+    <header class="nu-u-mb-10 nu-u-mt-10">
+      <div class="container">
+        <h1 class="nu-c-h3 nu-u-text--primary nu-u-mt-0 nu-u-mb-2 title">
+          {title}
+        </h1>
+        <p class="nu-c-fs-normal nu-u-text--secondary">{tagline}</p>
+      </div>
+    </header>
+    <slot />
 
-		<div class="footer">ᕦ(ò_óˇ)ᕤ<br />Built with <a href="https://new-ui.com/?ref=riseofmachine" class="nu-u-link--subtle">New UI</a> </div>
-	</body>
+    <div class="footer">
+      ᕦ(ò_óˇ)ᕤ<br />Built with <a
+        href="https://new-ui.com/?ref=riseofmachine"
+        class="nu-u-link--subtle">New UI</a
+      >
+    </div>
+  </body>
 </html>
 <style is:global>
-	:root {
-		--system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
-		--accent: var(--support-info);
-		--system-code: Menlo, Consolas, "Ubuntu Mono", "Roboto Mono", "DejaVu Sans Mono", Monaco, Lucida Console, Liberation Mono, DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
-	}
-	html { font-family: var(--system-ui); background-color: var(--background);}
-	body { margin: 0; padding: 0;}
-	main, .container { margin: auto var(--spacing-09);}
-	section { margin-bottom: var(--spacing-10);}
-	p { margin-top: var(--spacing-00);}
-	.nu-u-link--subtle { color: var(--text-secondary) !important;}
-	.floating-nav {
-		position: fixed;
-		top: var(--spacing-07);
-		right: var(--spacing-07);
-		z-index: 999999;
-	}
-	.btn-group {
+  :root {
+    --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+      "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    --accent: var(--support-info);
+    --system-code: Menlo, Consolas, "Ubuntu Mono", "Roboto Mono",
+      "DejaVu Sans Mono", Monaco, Lucida Console, Liberation Mono,
+      DejaVu Sans Mono, Bitstream Vera Sans Mono, Courier New, monospace;
+  }
+  html {
+    font-family: var(--system-ui);
+    background-color: var(--background);
+  }
+  body {
+    margin: 0;
+    padding: 0;
+  }
+  main,
+  .container {
+    margin: auto var(--spacing-09);
+  }
+  section {
+    margin-bottom: var(--spacing-10);
+  }
+  p {
+    margin-top: var(--spacing-00);
+  }
+  .nu-u-link--subtle {
+    color: var(--text-secondary) !important;
+  }
+  .floating-nav {
+    padding: var(--spacing-07) var(--spacing-09);
+		top: 0;
+		left: 0;
+		right: 0;
+		background-color: var(--background);
 		display: flex;
-		gap: var(--spacing-03);
+		justify-content: space-between;
 		align-items: center;
+		
+    z-index: 999999;
+  }
+	.floating-nav.is-active {
+		position: -webkit-sticky;
+		position: sticky;
+		animation-name: slideDownNavigation;
+		animation-duration: 100ms;
+		animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+		animation-fill-mode: both;
+		animation-iteration-count: 1;
+		box-shadow: 0px 2px 4px rgba(0, 0, 0, 0.08);
 	}
-	.submit-btn {
-		padding: 8px 24px;
-		border: 1px solid var(--border-muted);
-		outline: none;
-		text-decoration: none;
-		color: inherit;
-		cursor: pointer;
-		color: var(--text-secondary);
+	@keyframes slideDownNavigation {
+		from {
+			top: -20px;
+			opacity: 0.5;
+		}
+
+		to {
+			top: 0;
+			opacity: 1;
+		}
+	}
+  .btn-group {
+    display: flex;
+    gap: var(--spacing-03);
+    align-items: center;
+  }
+  .submit-btn {
+    padding: 8px 24px;
+    border: 1px solid var(--border-muted);
+    outline: none;
+    text-decoration: none;
+    color: inherit;
+    cursor: pointer;
+    color: var(--text-secondary);
     background-color: var(--background);
     box-shadow: none;
-		border-radius: var(--spacing-03);
+    border-radius: var(--spacing-03);
 
     &:hover {
       background-color: var(--background-secondary);
@@ -103,39 +189,114 @@ const { site, title, tagline } = Astro.props;
       outline: 1px solid var(--button-primary);
       color: var(--icon-secondary);
     }
-	}
-	.theme-toggle {
-		z-index: 999;
-		--icon-fill: var(--icon-secondary);
-		--icon-fill-hover: var(--icon-secondary);
-		width: var(--spacing-09);
-		height: var(--spacing-09);
-		background: none;
-		border: none;
-		padding: var(--spacing-00);
-		color: var(--icon-secondary);
-		cursor: pointer;
-		touch-action: manipulation;
-		-webkit-tap-highlight-color: transparent;
-		display: flex;
-		justify-content: center;
-		align-items: center;
-		/* border: 1px solid var(--border-muted); */
-		border-radius: var(--spacing-02);
-		/* background-color: var(--background); */
+  }
+  .theme-toggle {
+    z-index: 999;
+    --icon-fill: var(--icon-secondary);
+    --icon-fill-hover: var(--icon-secondary);
+    width: var(--spacing-09);
+    height: var(--spacing-09);
+    background: none;
+    border: none;
+    padding: var(--spacing-00);
+    color: var(--icon-secondary);
+    cursor: pointer;
+    touch-action: manipulation;
+    -webkit-tap-highlight-color: transparent;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    /* border: 1px solid var(--border-muted); */
+    border-radius: var(--spacing-02);
+    /* background-color: var(--background); */
 
-		@nest [data-theme="dark"] & { --icon-fill: var(--icon-secondary); --icon-fill-hover: var(--icon-secondary);}
-	}
-	.footer {
-		padding-bottom: var(--spacing-10);
-		text-align: center;
-		font-weight: normal;
-		font-style: normal;
-		color: var(--text-secondary-alt);
-		font-size: var(--desktop-body-sm);
-		line-height: var(--lh-desktop-body);
-	}
-	@media (max-width: 480px) {	
-		main { margin: auto var(--spacing-06);}
-	}
+    @nest [data-theme="dark"] & {
+      --icon-fill: var(--icon-secondary);
+      --icon-fill-hover: var(--icon-secondary);
+    }
+  }
+  .footer {
+    padding-bottom: var(--spacing-10);
+    text-align: center;
+    font-weight: normal;
+    font-style: normal;
+    color: var(--text-secondary-alt);
+    font-size: var(--desktop-body-sm);
+    line-height: var(--lh-desktop-body);
+  }
+  @media (max-width: 480px) {
+    main {
+      margin: auto var(--spacing-06);
+    }
+  }
 </style>
+
+<script>
+  // Scrolls back to top on page refresh
+  history.scrollRestoration = "manual";
+  window.onbeforeunload = function () {
+    window.scrollTo(0, 0);
+  };
+
+  const nav = document.querySelector('.floating-nav');
+	const pageCTA = document.querySelector('.floating-nav .submit-btn');
+
+	var pageCTAPosition = 0;
+	if (pageCTA) {
+		pageCTAPosition = pageCTA.getBoundingClientRect().bottom;
+	}
+
+  var previousScrollPosition = 0;
+
+  const handleNavScroll = () => {
+    let currentScrolledPosition = window.scrollY || window.pageYOffset;
+
+    if (isScrollingDown()) {
+      nav.classList.add("scroll-down");
+      nav.classList.remove("scroll-up");
+    } else {
+      nav.classList.add("scroll-up");
+      nav.classList.remove("scroll-down");
+    }
+
+    if (currentScrolledPosition > pageCTAPosition + 50) {
+      if (!nav.classList.contains("is-active")) {
+        nav.classList.add("is-active");
+      }
+    } else {
+      if (nav.classList.contains("is-active")) {
+        nav.classList.remove("is-active");
+      }
+    }
+  };
+
+  function isScrollingDown() {
+    let currentScrolledPosition = window.scrollY || window.pageYOffset;
+    let scrollingDown;
+
+    if (currentScrolledPosition > previousScrollPosition) {
+      scrollingDown = true;
+    } else {
+      scrollingDown = false;
+    }
+    previousScrollPosition = currentScrolledPosition;
+    return scrollingDown;
+  }
+
+  var throttleWait;
+
+  function throttle(callback, time) {
+    if (throttleWait) return;
+
+    throttleWait = true;
+    setTimeout(() => {
+      callback();
+
+      throttleWait = false;
+    }, time);
+  }
+
+  window.addEventListener("scroll", () => {
+    throttle(handleNavScroll, 80);
+  });
+</script>
