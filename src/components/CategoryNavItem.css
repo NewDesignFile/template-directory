@@ -5,6 +5,7 @@
   outline: none;
   background: none;
   cursor: pointer;
+  font-weight: 500;
 }
 
 .nav__item:hover {
