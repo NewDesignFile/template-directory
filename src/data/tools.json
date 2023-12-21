@@ -41,6 +41,12 @@
           "url": "https://cleanvoice.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Dubbing AI",
+          "body": "Realtime AI voice changer.",
+          "tag": "Free",
+          "url": "https://dubbingai.io/?ref=riseofmachine.com"
+        },
+        {
           "title": "Kits AI",
           "body": "AI voice generation toolkit.",
           "tag": "Freemium",
@@ -809,6 +815,12 @@
           "url": "https://gamma.app/?ref=riseofmachine.com"
         },
         {
+          "title": "Garden of AI",
+          "body": "Create agents to perform your commands.",
+          "tag": "Early Access",
+          "url": "https://www.gardenofai.xyz/?ref=riseofmachine.com"
+        },
+        {
           "title": "Glean",
           "body": "Search all company apps.",
           "tag": "Not available",
@@ -879,6 +891,12 @@
           "body": "Personal AI messenger.",
           "tag": "Starting at $0/mo",
           "url": "https://www.personal.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Plus Docs",
+          "body": "Generate and edit presentations with AI.",
+          "tag": "Freemium",
+          "url": "https://www.plusdocs.com/?ref=riseofmachine.com"
         },
         {
           "title": "Puzzle Labs",
@@ -1125,6 +1143,12 @@
           "body": "LinkedIn post generator.",
           "tag": "Freemium",
           "url": "https://www.postli.co/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Rewin.ai",
+          "body": "Videos to Youtube and TikTok scripts.",
+          "tag": "Freemium",
+          "url": "https://rewin.ai/?ref=riseofmachine.com"
         }
       ]
     }
