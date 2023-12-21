@@ -5,7 +5,7 @@
   outline: none;
   background: none;
   cursor: pointer;
-  font-weight: 500;
+  border-bottom: 2px solid transparent;
 }
 
 .nav__item:hover {
@@ -14,6 +14,5 @@
 
 .nav__item.is-active {
   color: var(--text-primary);
-  font-weight: 500;
   border-bottom: 2px solid var(--icon-primary);
 }

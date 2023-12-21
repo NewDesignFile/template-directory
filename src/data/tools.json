@@ -1,7 +1,7 @@
 {
   "tools": [
     {
-      "title": "&#127899; Audio",
+      "title": "&#127911; Audio",
       "category": "audio",
       "content": [
         {
@@ -439,7 +439,7 @@
       ]
     },
     {
-      "title": "&#128421; Developer",
+      "title": "&#128187; Developer",
       "category": "developer-tools",
       "content": [
         {
@@ -625,7 +625,7 @@
       ]
     },
     {
-      "title": "&#127748; Image Editing",
+      "title": "&#128444; Image Editing",
       "category": "image-editing",
       "content": [
         {
@@ -739,7 +739,7 @@
       ]
     },
     {
-      "title": "&#128200; Productivity",
+      "title": "&#128640; Productivity",
       "category": "productivity",
       "content": [
         {
@@ -961,7 +961,7 @@
       ]
     },
     {
-      "title": "&#128172; Prompts",
+      "title": "&#128221; Prompts",
       "category": "prompts",
       "content": [
         {
@@ -1027,8 +1027,44 @@
       ]
     },
     {
-      "title": "&#128194; Sundry",
-      "category": "sundry",
+      "title": "&#127909; Video",
+      "category": "video",
+      "content": [
+        {
+          "title": "Fliki",
+          "body": "Create video and audio content.",
+          "tag": "Freemium",
+          "url": "https://fliki.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Moonvalley",
+          "body": "Text-to-video generative AI model.",
+          "tag": "Beta",
+          "url": "https://moonvalley.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Pika",
+          "body": "Idea-to-video platform.",
+          "tag": "Invite Only",
+          "url": "https://pika.art/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Rask AI",
+          "body": "Translate video & audio.",
+          "tag": "Starting at $50/mo",
+          "url": "https://www.rask.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SpiritMe",
+          "body": "Create personalized videos with digital avatars.",
+          "tag": "Starting at $30/mo",
+          "url": "https://spiritme.tech/?ref=riseofmachine.com"
+        }
+      ]
+    },
+    {
+      "title": "&#127747; Xtras",
+      "category": "xtras",
       "content": [
         {
           "title": "Autoblocks",
@@ -1089,42 +1125,6 @@
           "body": "LinkedIn post generator.",
           "tag": "Freemium",
           "url": "https://www.postli.co/?ref=riseofmachine.com"
-        }
-      ]
-    },
-    {
-      "title": "&#127909; Video",
-      "category": "video",
-      "content": [
-        {
-          "title": "Fliki",
-          "body": "Create video and audio content.",
-          "tag": "Freemium",
-          "url": "https://fliki.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Moonvalley",
-          "body": "Text-to-video generative AI model.",
-          "tag": "Beta",
-          "url": "https://moonvalley.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Pika",
-          "body": "Idea-to-video platform.",
-          "tag": "Invite Only",
-          "url": "https://pika.art/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Rask AI",
-          "body": "Translate video & audio.",
-          "tag": "Starting at $50/mo",
-          "url": "https://www.rask.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "SpiritMe",
-          "body": "Create personalized videos with digital avatars.",
-          "tag": "Starting at $30/mo",
-          "url": "https://spiritme.tech/?ref=riseofmachine.com"
         }
       ]
     }
