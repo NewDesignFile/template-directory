@@ -11,8 +11,7 @@
   0px 1px 1px -0.5px var(--shadow-color),
   0px 3px 3px -1.5px var(--shadow-color), 
   0px 6px 6px -3px var(--shadow-color),
-  0px 12px 12px -6px var(--shadow-color),
-  0px 24px 24px -12px var(--shadow-color);
+  0px 12px 12px -6px var(--shadow-color);
   transition:all .12s ease-out;
   border: 1px solid transparent;
 }

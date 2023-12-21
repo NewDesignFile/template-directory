@@ -124,7 +124,6 @@ const { site, title, tagline } = Astro.props;
 		display: flex;
 		justify-content: space-between;
 		align-items: center;
-		
     z-index: 999999;
   }
 	.floating-nav.is-active {
@@ -162,9 +161,9 @@ const { site, title, tagline } = Astro.props;
     cursor: pointer;
     color: var(--text-secondary);
     background-color: var(--background);
-    box-shadow: none;
     border-radius: var(--spacing-03);
     font-size: var(--desktop-body-sm);
+    transition:all .12s ease-out;
 
     &:hover {
       background-color: var(--background-secondary);
