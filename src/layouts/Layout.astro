@@ -227,7 +227,36 @@ const { site, title, tagline } = Astro.props;
     .floating-nav { padding: var(--spacing-06) var(--spacing-06);}
     .container { margin: var(--spacing-06);}
   }
+  /* logo animation */
+  .logo {
+    transition: all .12s ease-out;
+  }
+  .logo:hover {
+    animation: buzz 0.32s linear 2;
+    transform: scale(1.1) translateZ(0);
+    filter: brightness(1.1);
+  }
+  @keyframes buzz {
+    50% {
+      transform: translateX(3px) rotate(2deg);
+    }
+    100% {
+      transform: translateX(-3px) rotate(-2deg);
+    }
+  }
+  @supports (not (animation: buzz)) {
+    .logo:hover {
+      -webkit-animation: buzz 0.32s linear 2;
+    }
+  }
+  @media (prefers-reduced-motion: reduce) {
+    .logo:hover {
+      animation: none;
+      transform: scale(1.2);
+    }
+  }
 
+</style>
 
   
 <script>
