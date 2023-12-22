@@ -228,43 +228,7 @@ const { site, title, tagline } = Astro.props;
     .container { margin: var(--spacing-06);}
   }
 
-  .logo { transition: all .12s ease-out;}
-  
-  .logo:hover {
-    -webkit-animation-name: buzz;
-    animation-name: buzz;
-    -webkit-animation-duration: 0.32s;
-    animation-duration: 0.32s;
-    -webkit-animation-timing-function: linear;
-    animation-timing-function: linear;
-    -webkit-animation-iteration-count: 2;
-    animation-iteration-count: 2;
-    transform: scale(1.2); }
 
-  @-webkit-keyframes buzz {
-  	50% {
-  	  -ms-transform: translateX(3px) rotate(2deg);
-	    -webkit-transform: translateX(3px) rotate(2deg);
-	    transform: translateX(3px) rotate(2deg);
-  	}
-  	100% {
-	    -ms-transform: translateX(-3px) rotate(-2deg);
-	    -webkit-transform: translateX(-3px) rotate(-2deg);
-	    transform: translateX(-3px) rotate(-2deg);
-  	}
-    }
-    @keyframes buzz {
-      50% {
-        -ms-transform: translateX(3px) rotate(2deg);
-        -webkit-transform: translateX(3px) rotate(2deg);
-        transform: translateX(3px) rotate(2deg);
-      }
-      100% {
-          -ms-transform: translateX(-3px) rotate(-2deg);
-          -webkit-transform: translateX(-3px) rotate(-2deg);
-          transform: translateX(-3px) rotate(-2deg);
-        }
-      }
   
 <script>
   // Scrolls back to top on page refresh
