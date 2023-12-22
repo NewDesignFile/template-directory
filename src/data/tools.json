@@ -278,7 +278,7 @@
     },
     {
       "title": "&#127912; Design",
-      "category": "design-tools",
+      "category": "design",
       "content": [
         {
           "title": "BeFunky",
@@ -452,7 +452,7 @@
     },
     {
       "title": "&#128187; Developer",
-      "category": "developer-tools",
+      "category": "developer",
       "content": [
         {
           "title": "Amazon CodeWhisperer",
@@ -637,8 +637,8 @@
       ]
     },
     {
-      "title": "&#128444; Image Editing",
-      "category": "image-editing",
+      "title": "&#128248; Retouching",
+      "category": "retouching",
       "content": [
         {
           "title": "AI Image Enlarger",
@@ -1087,7 +1087,7 @@
       ]
     },
     {
-      "title": "&#127865; Xtras",
+      "title": "&#10024; Xtras",
       "category": "xtras",
       "content": [
         {
