@@ -222,7 +222,13 @@ const { site, title, tagline } = Astro.props;
     line-height: var(--lh-desktop-body);
   }
 
-  .logo { transition:all .12s ease-out;}
+  @media (max-width: 480px) {
+    main {margin: auto var(--spacing-06);}
+    .floating-nav { padding: var(--spacing-06) var(--spacing-06);}
+    .container { margin: var(--spacing-06);}
+  }
+
+  .logo { transition: all .12s ease-out;}
   
   .logo:hover {
     -webkit-animation-name: buzz;
@@ -232,14 +238,8 @@ const { site, title, tagline } = Astro.props;
     -webkit-animation-timing-function: linear;
     animation-timing-function: linear;
     -webkit-animation-iteration-count: 2;
-    animation-iteration-count 2:;
+    animation-iteration-count: 2;
     transform: scale(1.2); }
-  
-  @media (max-width: 480px) {
-    main {margin: auto var(--spacing-06);}
-    .floating-nav { padding: var(--spacing-06) var(--spacing-06);}
-    .container { margin: var(--spacing-06);}
-  }
 
   @-webkit-keyframes buzz {
   	50% {
