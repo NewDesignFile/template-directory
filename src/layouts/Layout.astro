@@ -222,9 +222,9 @@ const { site, title, tagline } = Astro.props;
     line-height: var(--lh-desktop-body);
   }
 
-  .logo { transition:all .12s ease-out; }
+  .logo { transition:all .12s ease-out;}
   
-  .logo:hover {
+  .logo:hover{
     -webkit-animation-name: buzz;
     animation-name: buzz;
     -webkit-animation-duration: 0.32s;
@@ -235,13 +235,7 @@ const { site, title, tagline } = Astro.props;
     animation-iteration-count 2:;
     transform: scale(1.2);
   }
-
-  @media (max-width: 480px) {
-    main {margin: auto var(--spacing-06);}
-    .floating-nav { padding: var(--spacing-06) var(--spacing-06);}
-    .container { margin: var(--spacing-06);}
-  }
-
+  
   @-webkit-keyframes buzz {
   	50% {
   	    -ms-transform: translateX(3px) rotate(2deg);
@@ -265,7 +259,13 @@ const { site, title, tagline } = Astro.props;
           -webkit-transform: translateX(-3px) rotate(-2deg);
           transform: translateX(-3px) rotate(-2deg);
         }
-      }
+      };
+  
+  @media (max-width: 480px) {
+    main {margin: auto var(--spacing-06);}
+    .floating-nav { padding: var(--spacing-06) var(--spacing-06);}
+    .container { margin: var(--spacing-06);}
+  }
   
 <script>
   // Scrolls back to top on page refresh
