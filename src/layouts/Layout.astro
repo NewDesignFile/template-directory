@@ -71,7 +71,7 @@ const { site, title, tagline } = Astro.props;
         <h1 class="nu-c-h3 nu-u-text--primary nu-u-mt-0 nu-u-mb-2 title">
           {title}
         </h1>
-        <p class="nu-c-fs-normal nu-u-text--secondary">{tagline}</p>
+        <p class="nu-c-fs-normal nu-u-text--secondary description-text">{tagline}</p>
       </div>
     </header>
     <slot />
@@ -111,6 +111,9 @@ const { site, title, tagline } = Astro.props;
   }
   p {
     margin-top: var(--spacing-00);
+  }
+  p.description-text {
+    max-inline-size: 600px;
   }
   .nu-u-link--subtle {
     color: var(--text-secondary) !important;
