@@ -6,6 +6,7 @@
   background: none;
   cursor: pointer;
   border-bottom: 2px solid transparent;
+  font-family: var(--system-ui);
   font-weight: 500;
   transition:all .12s ease-out;
   opacity: 0.88;
