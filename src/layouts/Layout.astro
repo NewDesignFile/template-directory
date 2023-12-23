@@ -17,6 +17,10 @@ const { site, title, tagline } = Astro.props;
     <script src="./theme.js"></script>
     <meta name="generator" content={Astro.generator} />
     <title>{site} — {tagline}</title>
+    <meta name="description" content="Elevate your craft with a curated collection of AI tools designed for makers.">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&display=swap" rel="stylesheet">
   </head>
 
   <!-- Google tag (gtag.js) -->
@@ -85,7 +89,7 @@ const { site, title, tagline } = Astro.props;
 </html>
 <style is:global>
   :root {
-    --system-ui: system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
+    --system-ui: 'IBM Plex Sans', system-ui, "Segoe UI", Roboto, Helvetica, Arial, sans-serif,
       "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
     --accent: var(--support-info);
     --system-code: Menlo, Consolas, "Ubuntu Mono", "Roboto Mono",
