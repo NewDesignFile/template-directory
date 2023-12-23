@@ -41,8 +41,8 @@ p.distribution {
 
 span.tag {
   background-color: var(--background-selected);
-  padding: 2px 8px;
-  border-radius: 24px;
+  padding: calc(.25rem - 1px) calc(.5rem - 1px);
+  border-radius: var(--spacing-02);
   display: inline-block;
   color: var(--text-primary-alt);
   margin-top: var(--spacing-08);
