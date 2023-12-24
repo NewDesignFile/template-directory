@@ -51,6 +51,12 @@
           "body": "Text-to-image generation.",
           "tag": "Freemium",
           "url": "https://sdxlturbo.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Vizcom",
+          "body": "Product visualization",
+          "tag": "Freemium",
+          "url": "https://www.vizcom.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -108,7 +114,7 @@
         },
         {
           "title": "Voicemod",
-          "body": "Real-time AI voice changing & custom sound effects.",
+          "body": "Real-time AI voice changer.",
           "tag": "Freemium",
           "url": "https://www.voicemod.net/?ref=riseofmachine.com"
         }
@@ -275,13 +281,7 @@
           "url": "https://typli.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Unbounce",
-          "body": "Generate marketing content.",
-          "tag": "Freemium",
-          "url": "https://unbounce.com/product/smart-copy/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Word.studio",
+          "title": "Word.Studio",
           "body": "AI tools, templates, and workflows.",
           "tag": "Free",
           "url": "https://word.studio/?ref=riseofmachine.com"
@@ -291,12 +291,6 @@
           "body": "AI writing assistant.",
           "tag": "Freemium",
           "url": "https://www.wordtune.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Writesonic",
-          "body": "Writer, copywriting & paraphrasing tool.",
-          "tag": "Starting at $0/mo",
-          "url": "ttps://writesonic.com/?ref=riseofmachine.com"
         }
       ]
     },
@@ -372,21 +366,9 @@
         },
         {
           "title": "Uizard",
-          "body": "Design wireframes, mockups & prototypes.",
+          "body": "Design & ideation tool",
           "tag": "Freemium",
           "url": "https://uizard.io/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Unbound",
-          "body": "Create content for your business.",
-          "tag": "Freemium",
-          "url": "https://www.unboundcontent.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Vizcom",
-          "body": "Ideation & creation for industrial designers.",
-          "tag": "Freemium",
-          "url": "https://www.vizcom.ai/?ref=riseofmachine.com"
         },
         {
           "title": "V0",
@@ -1141,6 +1123,18 @@
           "body": "Create presentations and microsites.",
           "tag": "Freemium",
           "url": "https://tome.app/ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Unbounce",
+          "body": "Generate marketing content.",
+          "tag": "Freemium",
+          "url": "https://unbounce.com/product/smart-copy/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Writesonic",
+          "body": "Writer, copywriting & paraphrasing tool.",
+          "tag": "Starting at $0/mo",
+          "url": "https://writesonic.com/?ref=riseofmachine.com"
         }
       ]
     }
