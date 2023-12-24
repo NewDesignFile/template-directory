@@ -3,7 +3,14 @@
     {
       "title": "&#128511; Art",
       "category": "art",
-      "content": []
+      "content": [
+        {
+          "title": "Astria",
+          "body": "Create custom images.",
+          "tag": "Starting at $0.10/prompt",
+          "url": "https://www.astria.ai/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#127911; Audio",
@@ -22,26 +29,14 @@
           "url": "https://www.altered.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "AudioStrip",
-          "body": "Split vocals from backing music.",
-          "tag": "Freemium",
-          "url": "https://www.audiostrip.co.uk/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Beatoven",
-          "body": "Create customisable royalty free music.",
-          "tag": "Freemium",
-          "url": "https://www.beatoven.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "BlogAudio",
-          "body": "Convert text to high quality audio speech.",
+          "body": "Convert text to audio speech.",
           "tag": "Starting at $16/mo",
           "url": "https://blogaudio.co/?ref=riseofmachine.com"
         },
         {
           "title": "Cleanvoice",
-          "body": "Removes filler sounds, stuttering & mouth sounds.",
+          "body": "Removes filler, stuttering & mouth sounds.",
           "tag": "Pay-as-you-go",
           "url": "https://cleanvoice.ai/?ref=riseofmachine.com"
         },
@@ -98,7 +93,14 @@
     {
       "title": "&#9749; Code",
       "category": "code",
-      "content": []
+      "content": [
+        {
+          "title": "Amazon CodeWhisperer",
+          "body": "Generate code suggestions.",
+          "tag": "Freemium",
+          "url": "https://aws.amazon.com/codewhisperer/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#9997; Copywriting",
@@ -124,7 +126,7 @@
         },
         {
           "title": "Boo.ai",
-          "body": "Text editor to generate copy & make suggestions.",
+          "body": "Text editor to generate copy.",
           "tag": "Freemium",
           "url": "https://boo.ai/?ref=riseofmachine.com"
         },
@@ -291,36 +293,6 @@
       "category": "design",
       "content": [
         {
-          "title": "BeFunky",
-          "body": "Edit photos, create graphics & make photo collages.",
-          "tag": "Freemium",
-          "url": "https://www.befunky.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Booth.AI",
-          "body": "Create product photography.",
-          "tag": "Starting at $199/mo",
-          "url": "https://www.booth.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Bria",
-          "body": "Create customized visual content at scale.",
-          "tag": "Freemium",
-          "url": "https://bria.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Clickable",
-          "body": "Generate ads for marketing channels.",
-          "tag": "Beta",
-          "url": "https://www.clickable.so/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Clipdrop",
-          "body": "Create visuals without a photo studio.",
-          "tag": "Freemium",
-          "url": "https://clipdrop.co/?ref=riseofmachine.com"
-        },
-        {
           "title": "DesignsAI",
           "body": "Create logos, videos, banners & mockups.",
           "tag": "Starting at $29/mo",
@@ -465,28 +437,10 @@
       "category": "developer",
       "content": [
         {
-          "title": "Amazon CodeWhisperer",
-          "body": "Generate code suggestions.",
-          "tag": "Freemium",
-          "url": "https://aws.amazon.com/codewhisperer/?ref=riseofmachine.com"
-        },
-        {
           "title": "AutoRegex",
-          "body": "Effortless conversions from English to RegEx.",
+          "body": "From English to RegEx.",
           "tag": "Free",
           "url": "https://www.autoregex.xyz/?ref=riseofmachine.com"
-        },
-        {
-          "title": "BingChain",
-          "body": "Langchain/AutoGPT alternative in ~300 lines of core code.",
-          "tag": "Open-source",
-          "url": "https://github.com/postman-open-technologies/bingchain/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Buildt",
-          "body": "Quickly search & understand large codebases.",
-          "tag": "Free, Extension",
-          "url": "https://www.buildt.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Codeium",
@@ -495,16 +449,16 @@
           "url": "https://codeium.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Cosine",
+          "body": "Quickly search & understand large codebases.",
+          "tag": "Free, Extension",
+          "url": "https://cosine.sh/?ref=riseofmachine.com"
+        },
+        {
           "title": "CodiumAI",
           "body": "Test and analyze code.",
           "tag": "Freemium",
           "url": "https://www.codium.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "CSM",
-          "body": "Translate data into 3D world models.",
-          "tag": "Free",
-          "url": "https://csm.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Cursor",
@@ -654,7 +608,26 @@
     {
       "title": "&#127961; Enterprise",
       "category": "enterprise",
-      "content": []
+      "content": [
+        {
+          "title": "Albus",
+          "body": "Knowledge bot for Slack.",
+          "tag": "Starting at $4.99/mo",
+          "url": "https://www.springworks.in/albus/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Autoblocks",
+          "body": "GenAI product workspace.",
+          "tag": "Freemium",
+          "url": "https://www.autoblocks.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Chatsimple",
+          "body": "AI-powered virtual agent.",
+          "tag": "Freemium",
+          "url": "https://www.chatsimple.ai/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#128126; Gaming",
@@ -674,12 +647,32 @@
     {
       "title": "&#128268; LLMs",
       "category": "llm",
-      "content": []
+      "content": [
+        {
+          "title": "BingChain",
+          "body": "Langchain/AutoGPT alternative in ~300 lines of core code.",
+          "tag": "Open-source",
+          "url": "https://github.com/postman-open-technologies/bingchain/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#127928; Music",
       "category": "music",
-      "content": []
+      "content": [
+        {
+          "title": "AudioStrip",
+          "body": "Split vocals from backing music.",
+          "tag": "Freemium",
+          "url": "https://www.audiostrip.co.uk/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Beatoven",
+          "body": "Create royalty free music.",
+          "tag": "Freemium",
+          "url": "https://www.beatoven.ai/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#129337; No Code",
@@ -697,14 +690,8 @@
           "url": "https://imglarger.com/?ref=riseofmachine.com"
         },
         {
-          "title": "Astria",
-          "body": "Create custom images.",
-          "tag": "Starting at $0.10/prompt",
-          "url": "https://www.astria.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "BeFunky",
-          "body": "Edit photos, create graphics & make photo collages.",
+          "body": "Edit photos,create graphics & collages.",
           "tag": "Freemium",
           "url": "https://www.befunky.com/?ref=riseofmachine.com"
         },
@@ -715,10 +702,22 @@
           "url": "https://bgeraser.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Booth.AI",
+          "body": "Create product photography.",
+          "tag": "Starting at $199/mo",
+          "url": "https://www.booth.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Bria",
-          "body": "Create customized visual content at scale.",
+          "body": "Create visual content at scale.",
           "tag": "Freemium",
           "url": "https://bria.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Clipdrop",
+          "body": "Create visuals without a photo studio.",
+          "tag": "Freemium",
+          "url": "https://clipdrop.co/?ref=riseofmachine.com"
         },
         {
           "title": "Erase Bg",
@@ -804,18 +803,6 @@
       "title": "&#128170; Productivity",
       "category": "productivity",
       "content": [
-        {
-          "title": "Albus",
-          "body": "Knowledge bot for Slack.",
-          "tag": "Starting at $4.99/mo",
-          "url": "https://www.springworks.in/albus/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Blocks",
-          "body": "AI-powered no-code email builder.",
-          "tag": "Freemium",
-          "url": "https://useblocks.io/?ref=riseofmachine.com"
-        },
         {
           "title": "ChatGPT Writer",
           "body": "Generate emails & replies.",
@@ -1106,16 +1093,6 @@
       "content": []
     },
     {
-      "title": "&#129309; Sales",
-      "category": "sales",
-      "content": []
-    },
-    {
-      "title": "&#127793; SEO",
-      "category": "seo",
-      "content": []
-    },
-    {
       "title": "&#128077; Social Media",
       "category": "social",
       "content": []
@@ -1161,16 +1138,16 @@
       "category": "xtras",
       "content": [
         {
-          "title": "Autoblocks",
-          "body": "GenAI product workspace.",
-          "tag": "Freemium",
-          "url": "https://www.autoblocks.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "BarGPT",
           "body": "Create new cocktails.",
           "tag": "Freemium",
           "url": "https://www.bargpt.app/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Blocks",
+          "body": "Email builder.",
+          "tag": "Freemium",
+          "url": "https://useblocks.io/?ref=riseofmachine.com"
         },
         {
           "title": "BoostBot",
@@ -1179,10 +1156,16 @@
           "url": "https://boostbot.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Chatsimple",
-          "body": "AI-powered virtual agent.",
-          "tag": "Freemium",
-          "url": "https://www.chatsimple.ai/?ref=riseofmachine.com"
+          "title": "Clickable",
+          "body": "Generate ads for marketing channels.",
+          "tag": "Beta",
+          "url": "https://www.clickable.so/?ref=riseofmachine.com"
+        },
+        {
+          "title": "CSM",
+          "body": "Data into 3D world models.",
+          "tag": "Free",
+          "url": "https://csm.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Cypher",
