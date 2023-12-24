@@ -479,6 +479,12 @@
           "url": "https://www.autoblocks.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Bloc",
+          "body": "Create and share a chatbot.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.askbloc.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Chatsimple",
           "body": "AI-powered virtual agent.",
           "tag": "Freemium",
@@ -603,6 +609,12 @@
           "body": "Monitor LLM-applications.",
           "tag": "Freemium",
           "url": "https://www.helicone.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Run LLM",
+          "body": "Develop. Iterate. Run LLM.",
+          "tag": "Freemium",
+          "url": "https://runllm.com/?ref=riseofmachine.com"
         },
         {
           "title": "Superpowered",
@@ -1073,6 +1085,12 @@
           "url": "https://easy-peasy.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Floworks",
+          "body": "AI-powered assistant.",
+          "tag": "Not available",
+          "url": "https://floworks.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "HelloScribe",
           "body": "Toolkit for PR & marketing.",
           "tag": "Starting at $49/mo",
@@ -1163,6 +1181,12 @@
           "url": "https://www.rewind.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Roboto",
+          "body": "Copilot for sensor data.",
+          "tag": "Freemium",
+          "url": "https://www.roboto.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "RocketAI",
           "body": "Generate visuals and copywriting.",
           "tag": "Starting at $19/mo",
@@ -1227,6 +1251,18 @@
           "body": "Generate marketing content.",
           "tag": "Freemium",
           "url": "https://unbounce.com/product/smart-copy/?ref=riseofmachine.com"
+        },
+        {
+          "title": "VoicePen",
+          "body": "Convert audio, video, voice to blog posts.",
+          "tag": "Starting at $6.99",
+          "url": "https://voicepen.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Wondercraft",
+          "body": "End-to-end podcast builder.",
+          "tag": "Freemium",
+          "url": "https://www.wondercraft.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Writesonic",
