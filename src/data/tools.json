@@ -41,6 +41,12 @@
           "url": "https://www.krea.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Lexica",
+          "body": "Image generation engine",
+          "tag": "Freemium",
+          "url": "https://lexica.art/?ref=riseofmachine.com"
+        },
+        {
           "title": "Mirrorize",
           "body": "Generative AI.",
           "tag": "Starting at $0/mo",
@@ -123,6 +129,12 @@
           "body": "Podcasting software.",
           "tag": "Freemium",
           "url": "https://podcastle.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SpeechLab",
+          "body": "AI dubbing.",
+          "tag": "Freemium",
+          "url": "https://www.speechlab.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Voicemod",
@@ -1179,6 +1191,12 @@
           "body": "AI assistant for chatting & copywriting.",
           "tag": "Freemium",
           "url": "https://monica.im/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Move",
+          "body": "Capture and create 3D animations.",
+          "tag": "Starting at $15",
+          "url": "https://www.move.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Mystic",
