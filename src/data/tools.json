@@ -99,6 +99,24 @@
           "body": "Generate code suggestions.",
           "tag": "Freemium",
           "url": "https://aws.amazon.com/codewhisperer/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Codeium",
+          "body": "AI-powered toolkit.",
+          "tag": "Starting at $0/mo",
+          "url": "https://codeium.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "CodiumAI",
+          "body": "Test and analyze code.",
+          "tag": "Freemium",
+          "url": "https://www.codium.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Cursor",
+          "body": "Editor for pair-programming with AI.",
+          "tag": "Freemium",
+          "url": "https://cursor.sh/?ref=riseofmachine.com"
         }
       ]
     },
@@ -149,12 +167,6 @@
           "url": "https://www.contents.com/?ref=riseofmachine.com"
         },
         {
-          "title": "Cowriter",
-          "body": "Platform for creative writing.",
-          "tag": "Starting at $0/mo",
-          "url": "https://cowriter.org/?ref=riseofmachine.com"
-        },
-        {
           "title": "CopyAI",
           "body": "Content generator.",
           "tag": "Starting at $0/mo",
@@ -167,16 +179,10 @@
           "url": "https://copymatic.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Daydrm",
-          "body": "For creative advertising ideas.",
-          "tag": "Starting at $19/mo",
-          "url": "https://www.daydrm.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Easy-Peasy",
-          "body": "Generate content.",
-          "tag": "Starting at $0/mo",
-          "url": "https://easy-peasy.ai/?ref=riseofmachine.com"
+          "title": "Cowriter",
+          "body": "Platform for creative writing.",
+          "tag": "Free",
+          "url": "https://cowriter.org/?ref=riseofmachine.com"
         },
         {
           "title": "HelloScribe",
@@ -443,34 +449,10 @@
           "url": "https://www.autoregex.xyz/?ref=riseofmachine.com"
         },
         {
-          "title": "Codeium",
-          "body": "AI-powered toolkit.",
-          "tag": "Freemium",
-          "url": "https://codeium.com/?ref=riseofmachine.com"
-        },
-        {
           "title": "Cosine",
-          "body": "Quickly search & understand large codebases.",
+          "body": "Search & understand large codebases.",
           "tag": "Free, Extension",
           "url": "https://cosine.sh/?ref=riseofmachine.com"
-        },
-        {
-          "title": "CodiumAI",
-          "body": "Test and analyze code.",
-          "tag": "Freemium",
-          "url": "https://www.codium.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Cursor",
-          "body": "Editor for pair-programming with AI.",
-          "tag": "Freemium",
-          "url": "https://cursor.sh/?ref=riseofmachine.com"
-        },
-        {
-          "title": "EVAL",
-          "body": "Elastic versatile agent with langchain.",
-          "tag": "Open-source",
-          "url": "https://github.com/corca-ai/EVAL/?ref=riseofmachine.com"
         },
         {
           "title": "GitHub Copilot",
@@ -603,7 +585,14 @@
     {
       "title": "&#127891; Education",
       "category": "education",
-      "content": []
+      "content": [
+        {
+          "title": "EverLearns",
+          "body": "AI learning space.",
+          "tag": "Starting at $119/yr",
+          "url": "https://everlearns.com/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#127961; Enterprise",
@@ -626,6 +615,12 @@
           "body": "AI-powered virtual agent.",
           "tag": "Freemium",
           "url": "https://www.chatsimple.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Dust",
+          "body": "AI assistant for teams.",
+          "tag": "Freemium",
+          "url": "https://dust.tt/?ref=riseofmachine.com"
         }
       ]
     },
@@ -814,24 +809,6 @@
           "body": "Web-based AI Agent.",
           "tag": "Freemium",
           "url": "https://www.cognosys.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Consensus",
-          "body": "Find and summarize research papers.",
-          "tag": "Freemium",
-          "url": "https://consensus.app/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Dust",
-          "body": "AI assistant for teams.",
-          "tag": "Freemium",
-          "url": "https://dust.tt/?ref=riseofmachine.com"
-        },
-        {
-          "title": "EverLearns",
-          "body": "AI learning space.",
-          "tag": "Starting at $119/yr",
-          "url": "https://everlearns.com/?ref=riseofmachine.com"
         },
         {
           "title": "Fireflies",
@@ -1090,7 +1067,14 @@
     {
       "title": "&#128218; Research",
       "category": "research",
-      "content": []
+      "content": [
+        {
+          "title": "Consensus",
+          "body": "Search engine for research.",
+          "tag": "Freemium",
+          "url": "https://consensus.app/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#128077; Social Media",
@@ -1172,6 +1156,18 @@
           "body": "Create your personal AI clone.",
           "tag": "Freemium",
           "url": "https://cypher.is/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Daydrm",
+          "body": "For creative advertising ideas.",
+          "tag": "Starting at $19/mo",
+          "url": "https://www.daydrm.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Easy-Peasy",
+          "body": "Generate content.",
+          "tag": "Starting at $0/mo",
+          "url": "https://easy-peasy.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Fika",
