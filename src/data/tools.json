@@ -42,7 +42,7 @@
         },
         {
           "title": "Lexica",
-          "body": "Image generation engine",
+          "body": "Image generation engine.",
           "tag": "Freemium",
           "url": "https://lexica.art/?ref=riseofmachine.com"
         },
@@ -627,6 +627,12 @@
           "body": "Create or review legal docs.",
           "tag": "Starting at $49/mo",
           "url": "https://www.legalnowai.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Spellbook",
+          "body": "Draft contracts with AI.",
+          "tag": "Waitlist",
+          "url": "https://www.spellbook.legal/?ref=riseofmachine.com"
         }
       ]
     },
@@ -645,6 +651,12 @@
           "body": "Monitor LLM-applications.",
           "tag": "Freemium",
           "url": "https://www.helicone.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Numbers Station",
+          "body": "Data analytics copilot.",
+          "tag": "Not available",
+          "url": "https://www.numbersstation.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Run LLM",
@@ -1047,6 +1059,12 @@
           "body": "Generate videos from link or text.",
           "tag": "Freemium",
           "url": "https://creatify.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Decohere",
+          "body": "Generate AI video.",
+          "tag": "Freemium",
+          "url": "https://www.decohere.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Fliki",
