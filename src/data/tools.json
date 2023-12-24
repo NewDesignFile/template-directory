@@ -425,6 +425,12 @@
           "url": "https://liner.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Pieces",
+          "body": "Developer productivity tool.",
+          "tag": "Free",
+          "url": "https://pieces.app/?ref=riseofmachine.com"
+        },
+        {
           "title": "Postbot",
           "body": "AI assistant for API workflows.",
           "tag": "Freemium",
@@ -497,6 +503,12 @@
           "url": "https://www.glean.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Guidde",
+          "body": "Create video documentation.",
+          "tag": "Freemium",
+          "url": "https://www.guidde.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Ioni",
           "body": "Automate for customer support.",
           "tag": "Starting at $29/mo",
@@ -507,6 +519,12 @@
           "body": "Customer support with chatbot.",
           "tag": "Starting at $100/mo",
           "url": "https://www.kommunicate.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "My AskAI",
+          "body": "AI customer service assistant.",
+          "tag": "Freemium",
+          "url": "https://myaskai.com/?ref=riseofmachine.com"
         },
         {
           "title": "Nanonets",
@@ -609,6 +627,12 @@
           "body": "Create royalty free music.",
           "tag": "Freemium",
           "url": "https://www.beatoven.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Music AI",
+          "body": "Audio intelligence platform.",
+          "tag": "Freemium",
+          "url": "https://music.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Stable Audio",
@@ -737,6 +761,12 @@
           "url": "https://www.restorephotos.io/?ref=riseofmachine.com"
         },
         {
+          "title": "Snapby",
+          "body": "AI generated images.",
+          "tag": "Free",
+          "url": "https://snapby.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Topaz Photo AI",
           "body": "Noise reduction, sharpening & upscaling.",
           "tag": "Starting at $149",
@@ -777,6 +807,12 @@
           "body": "Assistant for meetings & calls.",
           "tag": "Freemium",
           "url": "https://krisp.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Linnk.ai",
+          "body": "Instant insights where you read.",
+          "tag": "Freemium",
+          "url": "https://www.linnk.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Merlin",
@@ -917,6 +953,12 @@
       "category": "research",
       "content": [
         {
+          "title": "Capgo AI",
+          "body": "Market research in sheet.",
+          "tag": "Freemium",
+          "url": "https://capgo.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Consensus",
           "body": "Search engine for research.",
           "tag": "Freemium",
@@ -940,6 +982,12 @@
       "title": "&#128249; Video",
       "category": "video",
       "content": [
+        {
+          "title": "Creatify",
+          "body": "Generate videos from link or text.",
+          "tag": "Freemium",
+          "url": "https://creatify.ai/?ref=riseofmachine.com"
+        },
         {
           "title": "Fliki",
           "body": "Create video & audio content.",
@@ -1125,6 +1173,12 @@
           "body": "Develop, train, and scale AI apps.",
           "tag": "Starting at $0.2/hr",
           "url": "https://www.runpod.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Scade",
+          "body": "Develop products and services.",
+          "tag": "Beta",
+          "url": "https://www.scade.pro/?ref=riseofmachine.com"
         },
         {
           "title": "SlidesAI",
