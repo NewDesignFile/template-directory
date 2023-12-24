@@ -45,6 +45,12 @@
           "body": "Visual generator for businesses.",
           "tag": "Starting at $8.99/mo",
           "url": "https://www.pictorial.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SDXL Turbo",
+          "body": "Text-to-image generation.",
+          "tag": "Freemium",
+          "url": "https://sdxlturbo.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -96,21 +102,9 @@
         },
         {
           "title": "Podcastle",
-          "body": "Record, edit, transcribe & export content.",
+          "body": "Podcasting software.",
           "tag": "Freemium",
           "url": "https://podcastle.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Stable Audio",
-          "body": "Create music with AI.",
-          "tag": "Freemium",
-          "url": "https://www.stableaudio.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Suno",
-          "body": "Make a song.",
-          "tag": "Freemium",
-          "url": "https://www.suno.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Voicemod",
@@ -383,18 +377,6 @@
           "url": "https://www.patterned.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "RocketAI",
-          "body": "Generate designs that capture your brand style.",
-          "tag": "Starting at $19/mo",
-          "url": "https://www.rocketai.io/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Rosebud AI",
-          "body": "Game assets to game development.",
-          "tag": "Beta",
-          "url": "https://www.rosebud.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "Tome",
           "body": "AI to create presentations and microsites.",
           "tag": "Freemium",
@@ -467,52 +449,10 @@
           "url": "https://learning.postman.com/docs/getting-started/basics/about-postbot/?ref=riseofmachine.com"
         },
         {
-          "title": "PromptLayer",
-          "body": "Log, search & manage prompt templates.",
-          "tag": "Open-source",
-          "url": "https://promptlayer.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Retune",
-          "body": "Train & customize your own AI model, generate API.",
-          "tag": "Freemium",
-          "url": "https://retune.so/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Riku",
-          "body": "Build no-code prompts & datasets for AI models.",
-          "tag": "Starting at $29/mo",
-          "url": "https://riku.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "RTutor",
-          "body": "Chat with your data via AI.",
-          "tag": "Open-source",
-          "url": "http://rtutor.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "RunPod",
-          "body": "Rent cloud GPUs from $0.2/hour.",
-          "tag": "Starting at $0.2/hr",
-          "url": "https://www.runpod.io/?ref=riseofmachine.com"
-        },
-        {
           "title": "Shaped",
-          "body": "Recommendations & notifications using ML.",
+          "body": "Deploy embeddings infrastructure.",
           "tag": "Flat-fee/mo",
           "url": "https://www.shaped.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Stable Diffusion",
-          "body": "Image synthesis with latent diffusion models.",
-          "tag": "Freemium",
-          "url": "https://stability.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Synthetic",
-          "body": "Train & improve AI models.",
-          "tag": "Beta",
-          "url": "https://syntheticaidata.com/?ref=riseofmachine.com"
         },
         {
           "title": "Tabnine",
@@ -609,13 +549,32 @@
           "body": "Embed search & generative answers.",
           "tag": "Starting at $30/mo",
           "url": "https://nuclia.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Retune",
+          "body": "Train & customize your own AI model, generate API.",
+          "tag": "Freemium",
+          "url": "https://retune.so/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Scale AI",
+          "body": "Training data for AI apps.",
+          "tag": "Pay-as-you-go",
+          "url": "https://scale.com/?ref=riseofmachine.com"
         }
       ]
     },
     {
       "title": "&#128126; Gaming",
       "category": "gaming",
-      "content": []
+      "content": [
+        {
+          "title": "Rosebud AI",
+          "body": "Create games.",
+          "tag": "Beta",
+          "url": "https://www.rosebud.ai/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#128519; Health",
@@ -660,13 +619,32 @@
           "body": "Create royalty free music.",
           "tag": "Freemium",
           "url": "https://www.beatoven.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Stable Audio",
+          "body": "Create music with AI.",
+          "tag": "Freemium",
+          "url": "https://www.stableaudio.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Suno",
+          "body": "Make a song.",
+          "tag": "Freemium",
+          "url": "https://www.suno.ai/?ref=riseofmachine.com"
         }
       ]
     },
     {
       "title": "&#129337; No Code",
       "category": "nocode",
-      "content": []
+      "content": [
+        {
+          "title": "Riku",
+          "body": "Build & deploy.",
+          "tag": "Starting at $29/mo",
+          "url": "https://riku.ai/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#128248; Photo",
@@ -769,12 +747,6 @@
           "url": "https://www.restorephotos.io/?ref=riseofmachine.com"
         },
         {
-          "title": "SDXL Turbo",
-          "body": "Text-to-image generation.",
-          "tag": "Freemium",
-          "url": "https://sdxlturbo.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "Topaz Photo AI",
           "body": "Noise reduction, sharpening & upscaling.",
           "tag": "Starting at $199",
@@ -835,50 +807,14 @@
           "url": "https://otter.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Plus Docs",
-          "body": "Generate and edit presentations with AI.",
-          "tag": "Freemium",
-          "url": "https://www.plusdocs.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Puzzle Labs",
-          "body": "Glossary for your product.",
-          "tag": "Freemium",
-          "url": "https://puzzlelabs.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "Reclaim AI",
           "body": "Smart calendar tool.",
           "tag": "Freemium",
           "url": "https://reclaim.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Rewind AI",
-          "body": "Find anything you have seen, said, or heard.",
-          "tag": "Freemium",
-          "url": "https://www.rewind.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Scale AI",
-          "body": "Training data for AI apps.",
-          "tag": "Pay-as-you-go",
-          "url": "https://scale.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "SlidesAI",
-          "body": "Create slides from any text.",
-          "tag": "Starting at $0/mo",
-          "url": "https://www.slidesai.io/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Success.ai",
-          "body": "AI-powered cold emails.",
-          "tag": "Starting at $23/mo",
-          "url": "https://www.success.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "SummerEyes",
-          "body": "Summarize any text on the internet.",
+          "body": "Summarize any text.",
           "tag": "Beta, Free",
           "url": "https://summereyes.ai/?ref=riseofmachine.com"
         },
@@ -974,13 +910,13 @@
         },
         {
           "title": "PromptHero",
-          "body": "Prompts for Stable Diffusion, ChatGPT & Midjourney.",
+          "body": "Prompts for Stable Diffusion & Midjourney.",
           "tag": "Freemium",
           "url": "https://prompthero.com/?ref=riseofmachine.com"
         },
         {
           "title": "PromptLayer",
-          "body": "Log, search & manage prompt templates.",
+          "body": "Visually manage prompts.",
           "tag": "Open-source",
           "url": "https://promptlayer.com/?ref=riseofmachine.com"
         }
@@ -1040,7 +976,7 @@
         },
         {
           "title": "SpiritMe",
-          "body": "Create personalized videos with digital avatars.",
+          "body": "Create videos with digital avatars.",
           "tag": "Starting at $30/mo",
           "url": "https://spiritme.tech/?ref=riseofmachine.com"
         }
@@ -1154,9 +1090,15 @@
         },
         {
           "title": "Pitch",
-          "body": "Create and share presentations.",
+          "body": "Create & share presentations.",
           "tag": "Freemium",
           "url": "https://pitch.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Plus Docs",
+          "body": "Generate & edit presentations.",
+          "tag": "Freemium",
+          "url": "https://www.plusdocs.com/?ref=riseofmachine.com"
         },
         {
           "title": "Postli",
@@ -1165,10 +1107,52 @@
           "url": "https://www.postli.co/?ref=riseofmachine.com"
         },
         {
+          "title": "Puzzle Labs",
+          "body": "Glossary for your product.",
+          "tag": "Freemium",
+          "url": "https://puzzlelabs.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Rewin.ai",
           "body": "Videos to Youtube and TikTok scripts.",
           "tag": "Freemium",
           "url": "https://rewin.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Rewind AI",
+          "body": "Find anything you have seen, said, or heard.",
+          "tag": "Freemium",
+          "url": "https://www.rewind.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "RocketAI",
+          "body": "Generate visuals and copywriting.",
+          "tag": "Starting at $19/mo",
+          "url": "https://www.rocketai.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "RunPod",
+          "body": "Develop, train, and scale AI apps.",
+          "tag": "Starting at $0.2/hr",
+          "url": "https://www.runpod.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SlidesAI",
+          "body": "Create slides from any text.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.slidesai.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Success.ai",
+          "body": "AI-powered cold emails.",
+          "tag": "Starting at $23/mo",
+          "url": "https://www.success.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Synthetic",
+          "body": "Synthetic data for vision AI",
+          "tag": "Beta",
+          "url": "https://syntheticaidata.com/?ref=riseofmachine.com"
         }
       ]
     }
