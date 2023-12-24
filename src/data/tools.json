@@ -27,6 +27,12 @@
           "body": "Create graphics, pictures & writing.",
           "tag": "Freemium",
           "url": "https://hotpot.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Krea",
+          "body": "Image generation.",
+          "tag": "Beta",
+          "url": "https://www.krea.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -69,12 +75,6 @@
           "body": "AI voice generation toolkit.",
           "tag": "Freemium",
           "url": "https://app.kits.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Krisp",
-          "body": "Voice clarity & meeting assistant.",
-          "tag": "Freemium",
-          "url": "https://krisp.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Lalal",
@@ -348,7 +348,7 @@
         },
         {
           "title": "Illustroke",
-          "body": "Create vector illustrations from text prompts.",
+          "body": "Create illustrations.",
           "tag": "$6 for 50 tokens",
           "url": "https://illustroke.com/?ref=riseofmachine.com"
         },
@@ -615,6 +615,12 @@
           "body": "Search all company apps.",
           "tag": "Not available",
           "url": "https://www.glean.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Ioni",
+          "body": "Automate for customer support.",
+          "tag": "Starting at $29/mo",
+          "url": "https://ioni.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -817,10 +823,10 @@
           "url": "https://focusflow.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Krater.ai",
-          "body": "SuperApp for all things Generative AI",
+          "title": "Krisp",
+          "body": "Assistant for meetings & calls.",
           "tag": "Freemium",
-          "url": "https://www.krater.ai/?ref=riseofmachine.com"
+          "url": "https://krisp.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Maester",
@@ -997,18 +1003,6 @@
           "url": "https://replicate.com/methexis-inc/img2prompt/?ref=riseofmachine.com"
         },
         {
-          "title": "Jrnylist",
-          "body": "Midjourney prompt helper.",
-          "tag": "Free",
-          "url": "https://www.jrnylist.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Krea",
-          "body": "Create collections of prompts.",
-          "tag": "Beta",
-          "url": "https://www.krea.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "OpenArt",
           "body": "Discover 10M+ prompts.",
           "tag": "Freemium",
@@ -1152,10 +1146,10 @@
           "url": "https://www.helloscribe.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Ioni",
-          "body": "Automate for customer support.",
-          "tag": "Starting at $29/mo",
-          "url": "https://ioni.ai/?ref=riseofmachine.com"
+          "title": "Krater.ai",
+          "body": "SuperApp for all things AI.",
+          "tag": "Freemium",
+          "url": "https://www.krater.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Penny",
