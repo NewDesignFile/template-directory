@@ -17,6 +17,12 @@
           "url": "https://designer.microsoft.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Exactly",
+          "body": "AI artwork creation platform.",
+          "tag": "Freemium",
+          "url": "https://exactly.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Freepik Pikaso",
           "body": "Generative AI with Freepik.",
           "tag": "Free",
@@ -27,6 +33,12 @@
           "body": "Create and edit images.",
           "tag": "Starting at $0/mo",
           "url": "https://getimg.ai/editor/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Leonardo",
+          "body": "Create visual assets.",
+          "tag": "Freemium",
+          "url": "https://leonardo.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Hotpot",
@@ -66,7 +78,7 @@
         },
         {
           "title": "Vizcom",
-          "body": "Product visualization",
+          "body": "Product visualization.",
           "tag": "Freemium",
           "url": "https://www.vizcom.ai/?ref=riseofmachine.com"
         }
@@ -1326,7 +1338,7 @@
         },
         {
           "title": "Synthetic",
-          "body": "Synthetic data for vision AI",
+          "body": "Synthetic data for vision AI.",
           "tag": "Beta",
           "url": "https://syntheticaidata.com/?ref=riseofmachine.com"
         },
