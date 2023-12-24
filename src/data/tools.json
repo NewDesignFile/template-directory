@@ -263,21 +263,15 @@
           "url": "https://simplified.com/ai-writer/?ref=riseofmachine.com"
         },
         {
-          "title": "Text Generator Plugin",
-          "body": "Free alternative to Copy.ai, Jasper & Rytr.",
+          "title": "TextGen",
+          "body": "Note-taking and content creation.",
           "tag": "Open-source",
           "url": "https://text-gen.com/?ref=riseofmachine.com"
         },
         {
-          "title": "Texti",
-          "body": "Helper in your browser.",
-          "tag": "Free, Extension",
-          "url": "https://texti.app/?ref=riseofmachine.com"
-        },
-        {
           "title": "Typli",
-          "body": "Writing assistant with built-in SEO checker.",
-          "tag": "Starting at $29/mo",
+          "body": "Writing assistant with SEO checker.",
+          "tag": "Starting at $49/mo",
           "url": "https://typli.ai/?ref=riseofmachine.com"
         },
         {
@@ -377,12 +371,6 @@
           "url": "https://www.patterned.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Tome",
-          "body": "AI to create presentations and microsites.",
-          "tag": "Freemium",
-          "url": "https://tome.app/ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "Uizard",
           "body": "Design wireframes, mockups & prototypes.",
           "tag": "Freemium",
@@ -459,24 +447,6 @@
           "body": "Assistant for software developers.",
           "tag": "Freemium",
           "url": "https://www.tabnine.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Teachable Machine",
-          "body": "Create ML models for your sites & apps.",
-          "tag": "Free",
-          "url": "https://teachablemachine.withgoogle.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Textomap",
-          "body": "Generate interactive maps from text.",
-          "tag": "Freemium",
-          "url": "https://www.textomap.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Tinq",
-          "body": "NLP API toolkit, NLP as a service.",
-          "tag": "Starting at $15/mo",
-          "url": "https://tinq.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -749,7 +719,7 @@
         {
           "title": "Topaz Photo AI",
           "body": "Noise reduction, sharpening & upscaling.",
-          "tag": "Starting at $199",
+          "tag": "Starting at $149",
           "url": "https://www.topazlabs.com/topaz-photo-ai/?ref=riseofmachine.com"
         }
       ]
@@ -831,20 +801,14 @@
           "url": "https://www.taskade.com/?ref=riseofmachine.com"
         },
         {
-          "title": "Texti",
-          "body": "Helper in your browser.",
-          "tag": "Free, Extension",
-          "url": "https://texti.app/?ref=riseofmachine.com"
-        },
-        {
           "title": "TimeOS",
-          "body": "Schedule, coordinate & automate meetings.",
+          "body": "Automate meetings.",
           "tag": "Freemium",
           "url": "https://www.timeos.ai/?ref=riseofmachine.com"
         },
         {
           "title": "TL;DV",
-          "body": "Transcribe & summarize your meetings.",
+          "body": "Transcribe & summarize meetings.",
           "tag": "Freemium",
           "url": "https://tldv.io/?ref=riseofmachine.com"
         },
@@ -1153,6 +1117,30 @@
           "body": "Synthetic data for vision AI",
           "tag": "Beta",
           "url": "https://syntheticaidata.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Teachable Machine",
+          "body": "Create ML models for your sites & apps.",
+          "tag": "Free",
+          "url": "https://teachablemachine.withgoogle.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Textomap",
+          "body": "Generate interactive maps from text.",
+          "tag": "Freemium",
+          "url": "https://www.textomap.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Tinq",
+          "body": "NLP API toolkit, NLP as a service.",
+          "tag": "Starting at $15/mo",
+          "url": "https://tinq.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Tome",
+          "body": "Create presentations and microsites.",
+          "tag": "Freemium",
+          "url": "https://tome.app/ai/?ref=riseofmachine.com"
         }
       ]
     }
