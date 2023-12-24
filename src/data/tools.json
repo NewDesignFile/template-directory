@@ -9,6 +9,24 @@
           "body": "Create custom images.",
           "tag": "Starting at $0.10/prompt",
           "url": "https://www.astria.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Freepik Pikaso",
+          "body": "Generative AI with Freepik.",
+          "tag": "Free",
+          "url": "https://www.freepik.com/pikaso/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Getimg AI",
+          "body": "Create and edit images.",
+          "tag": "Starting at $0/mo",
+          "url": "https://getimg.ai/editor/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Hotpot",
+          "body": "Create graphics, pictures & writing.",
+          "tag": "Freemium",
+          "url": "https://hotpot.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -185,12 +203,6 @@
           "url": "https://cowriter.org/?ref=riseofmachine.com"
         },
         {
-          "title": "HelloScribe",
-          "body": "Toolkit for PR & marketing professionals.",
-          "tag": "Starting at $49/mo",
-          "url": "https://www.helloscribe.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "HypeGenius",
           "body": "Create and publish newsletters.",
           "tag": "Closed Beta",
@@ -204,8 +216,8 @@
         },
         {
           "title": "Hypotenuse",
-          "body": "Writing assistant & text generator.",
-          "tag": "Starting at $24/mo",
+          "body": "Writing assistant.",
+          "tag": "Starting at $29/mo",
           "url": "https://www.hypotenuse.ai/?ref=riseofmachine.com"
         },
         {
@@ -323,22 +335,10 @@
           "url": "https://flair.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Freepik Pikaso",
-          "body": "Generative AI with Freepik resources.",
-          "tag": "Free",
-          "url": "https://www.freepik.com/pikaso/?ref=riseofmachine.com"
-        },
-        {
           "title": "Gamma",
           "body": "Generate docs, decks & webpages.",
           "tag": "Freemium",
           "url": "https://gamma.app/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Hotpot",
-          "body": "Create graphics, pictures & writing.",
-          "tag": "Freemium",
-          "url": "https://hotpot.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Illostration AI",
@@ -459,24 +459,6 @@
           "body": "AI pair programmer.",
           "tag": "Starting at $10/mo",
           "url": "https://github.com/features/copilot/?ref=riseofmachine.com"
-        },
-        {
-          "title": "GPTDuck",
-          "body": "Question answering against any Github repository.",
-          "tag": "Free",
-          "url": "https://www.gptduck.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "GPUX",
-          "body": "Run AI training dockerized.",
-          "tag": "Pay-as-you-go",
-          "url": "https://gpux.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Helicone",
-          "body": "Track costs, usage & latency for GPT applications.",
-          "tag": "Freemium",
-          "url": "https://www.helicone.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Lightning",
@@ -621,6 +603,18 @@
           "body": "AI assistant for teams.",
           "tag": "Freemium",
           "url": "https://dust.tt/?ref=riseofmachine.com"
+        },
+        {
+          "title": "GPTbots.ai",
+          "body": "Build AI bot for your business.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.gptbots.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Glean",
+          "body": "Search all company apps.",
+          "tag": "Not available",
+          "url": "https://www.glean.com/?ref=riseofmachine.com"
         }
       ]
     },
@@ -648,6 +642,12 @@
           "body": "Langchain/AutoGPT alternative in ~300 lines of core code.",
           "tag": "Open-source",
           "url": "https://github.com/postman-open-technologies/bingchain/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Helicone",
+          "body": "Monitor LLM-applications.",
+          "tag": "Freemium",
+          "url": "https://www.helicone.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -719,12 +719,6 @@
           "body": "Remove background from images.",
           "tag": "Starting at $0/mo",
           "url": "https://www.erase.bg/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Getimg AI",
-          "body": "Edit images with text.",
-          "tag": "Starting at $0/mo",
-          "url": "https://getimg.ai/editor/?ref=riseofmachine.com"
         },
         {
           "title": "Green Screen AI",
@@ -812,39 +806,15 @@
         },
         {
           "title": "Fireflies",
-          "body": "Record, transcribe, search & analyze voice convos.",
-          "tag": "Starting at $0/mo",
+          "body": "Transcribe, search & analyze voice convos.",
+          "tag": "Freemium",
           "url": "https://fireflies.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "FlowGPT",
-          "body": "Library of ChatGPT prompts.",
-          "tag": "Community",
-          "url": "https://flowgpt.com/?ref=riseofmachine.com"
         },
         {
           "title": "FocusFlow.ai",
           "body": "Track and improve your day.",
           "tag": "Beta",
           "url": "https://focusflow.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Gamma",
-          "body": "Generate docs, decks & webpages",
-          "tag": "Beta",
-          "url": "https://gamma.app/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Garden of AI",
-          "body": "Create agents to perform your commands.",
-          "tag": "Early Access",
-          "url": "https://www.gardenofai.xyz/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Glean",
-          "body": "Search all company apps.",
-          "tag": "Not available",
-          "url": "https://www.glean.com/?ref=riseofmachine.com"
         },
         {
           "title": "Krater.ai",
@@ -1015,6 +985,12 @@
           "url": "https://eyeforai.xyz/?ref=riseofmachine.com"
         },
         {
+          "title": "FlowGPT",
+          "body": "Library of ChatGPT prompts.",
+          "tag": "Community",
+          "url": "https://flowgpt.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Img2prompt",
           "body": "Image to prompt.",
           "tag": "Pay-as-you-go",
@@ -1087,7 +1063,7 @@
       "content": [
         {
           "title": "Fliki",
-          "body": "Create video and audio content.",
+          "body": "Create video & audio content.",
           "tag": "Freemium",
           "url": "https://fliki.ai/?ref=riseofmachine.com"
         },
@@ -1170,16 +1146,10 @@
           "url": "https://easy-peasy.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Fika",
-          "body": "Make meaningful connections.",
-          "tag": "In-App Purchases",
-          "url": "https://fikaconnects.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "GPTbots.ai",
-          "body": "Build AI bot for your business.",
-          "tag": "Starting at $0/mo",
-          "url": "https://www.gptbots.ai/?ref=riseofmachine.com"
+          "title": "HelloScribe",
+          "body": "Toolkit for PR & marketing.",
+          "tag": "Starting at $49/mo",
+          "url": "https://www.helloscribe.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Ioni",
