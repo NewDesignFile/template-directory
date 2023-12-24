@@ -95,6 +95,12 @@
           "url": "https://dubbingai.io/?ref=riseofmachine.com"
         },
         {
+          "title": "Harmonai",
+          "body": "Generative audio tools.",
+          "tag": "Open-source",
+          "url": "https://www.harmonai.org/?ref=riseofmachine.com"
+        },
+        {
           "title": "Kits AI",
           "body": "AI voice generation toolkit.",
           "tag": "Freemium",
@@ -527,6 +533,12 @@
           "url": "https://www.kommunicate.io/?ref=riseofmachine.com"
         },
         {
+          "title": "Mendable",
+          "body": "Train AI on technical resources.",
+          "tag": "Freemium",
+          "url": "https://www.mendable.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "My AskAI",
           "body": "AI customer service assistant.",
           "tag": "Freemium",
@@ -537,6 +549,12 @@
           "body": "Capture data from documents.",
           "tag": "Pay-as-you-go",
           "url": "https://nanonets.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Normal",
+          "body": "AI models for core enterprise workflows.",
+          "tag": "Not available",
+          "url": "https://normalcomputing.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Nuclia",
@@ -657,6 +675,12 @@
           "body": "Make a song.",
           "tag": "Freemium",
           "url": "https://www.suno.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Tracksy",
+          "body": "AI assistant to create music.",
+          "tag": "Freemium",
+          "url": "https://www.tracksy.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -995,6 +1019,12 @@
       "category": "video",
       "content": [
         {
+          "title": "Boolvideo",
+          "body": "AI-powered video editor.",
+          "tag": "Starting at $1/mo",
+          "url": "https://boolv.video/?ref=riseofmachine.com"
+        },
+        {
           "title": "Creatify",
           "body": "Generate videos from link or text.",
           "tag": "Freemium",
@@ -1005,6 +1035,12 @@
           "body": "Create video & audio content.",
           "tag": "Freemium",
           "url": "https://fliki.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Heygen",
+          "body": "Produce videos with AI-generated avatars & voices.",
+          "tag": "Freemium",
+          "url": "https://www.heygen.com/?ref=riseofmachine.com"
         },
         {
           "title": "Moonvalley",
@@ -1077,6 +1113,12 @@
           "body": "For creative advertising ideas.",
           "tag": "Starting at $19/mo",
           "url": "https://www.daydrm.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "DupDub",
+          "body": "Craft content.",
+          "tag": "Freemium",
+          "url": "https://www.dupdub.com/?ref=riseofmachine.com"
         },
         {
           "title": "Easy-Peasy",
