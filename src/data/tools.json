@@ -1,6 +1,11 @@
 {
   "tools": [
     {
+      "title": "&#128511; Art",
+      "category": "art",
+      "content": []
+    },
+    {
       "title": "&#127911; Audio",
       "category": "audio",
       "content": [
@@ -89,6 +94,11 @@
           "url": "https://www.voicemod.net/?ref=riseofmachine.com"
         }
       ]
+    },
+    {
+      "title": "&#9749; Code",
+      "category": "code",
+      "content": []
     },
     {
       "title": "&#9997; Copywriting",
@@ -451,7 +461,7 @@
       ]
     },
     {
-      "title": "&#128526; Developer",
+      "title": "&#129299; Developer",
       "category": "developer",
       "content": [
         {
@@ -637,8 +647,43 @@
       ]
     },
     {
-      "title": "&#128248; Retouching",
-      "category": "retouching",
+      "title": "&#127891; Education",
+      "category": "education",
+      "content": []
+    },
+    {
+      "title": "&#128126; Gaming",
+      "category": "gaming",
+      "content": []
+    },
+    {
+      "title": "&#128519; Health",
+      "category": "health",
+      "content": []
+    },
+    {
+      "title": "&#9878; Legal",
+      "category": "legal",
+      "content": []
+    },
+    {
+      "title": "&#128268; LLMs",
+      "category": "llm",
+      "content": []
+    },
+    {
+      "title": "&#127928; Music",
+      "category": "music",
+      "content": []
+    },
+    {
+      "title": "&#129337; No Code",
+      "category": "nocode",
+      "content": []
+    },
+    {
+      "title": "&#128248; Photo",
+      "category": "photo",
       "content": [
         {
           "title": "AI Image Enlarger",
@@ -1051,7 +1096,27 @@
       ]
     },
     {
-      "title": "&#127909; Video",
+      "title": "&#128218; Research",
+      "category": "research",
+      "content": []
+    },
+    {
+      "title": "&#129309; Sales",
+      "category": "sales",
+      "content": []
+    },
+    {
+      "title": "&#127793; SEO",
+      "category": "seo",
+      "content": []
+    },
+    {
+      "title": "&#128077; Social Media",
+      "category": "social",
+      "content": []
+    },
+    {
+      "title": "&#128249; Video",
       "category": "video",
       "content": [
         {
