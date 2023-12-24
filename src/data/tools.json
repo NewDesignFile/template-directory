@@ -11,6 +11,12 @@
           "url": "https://www.astria.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Designer",
+          "body": "Generate designs & images.",
+          "tag": "Beta, Free",
+          "url": "https://designer.microsoft.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Freepik Pikaso",
           "body": "Generative AI with Freepik.",
           "tag": "Free",
@@ -228,7 +234,7 @@
         },
         {
           "title": "Lek",
-          "body": "Toolkit for generating content.",
+          "body": "Content generator.",
           "tag": "Starting at $0/mo",
           "url": "https://lek.ai/?ref=riseofmachine.com"
         },
@@ -365,12 +371,6 @@
           "url": "https://magician.design/?ref=riseofmachine.com"
         },
         {
-          "title": "Microsoft Designer",
-          "body": "Generate designs & original images.",
-          "tag": "Beta, Free",
-          "url": "https://designer.microsoft.com/?ref=riseofmachine.com"
-        },
-        {
           "title": "Pattern Maker AI",
           "body": "Generate seamless vector patterns.",
           "tag": "One-time, Subscription",
@@ -462,7 +462,7 @@
         },
         {
           "title": "Lightning",
-          "body": "Train, deploy & build AI with PyTorch.",
+          "body": "Train. Deploy. Host AI web apps.",
           "tag": "Freemium",
           "url": "https://lightning.ai/?ref=riseofmachine.com"
         },
@@ -685,12 +685,6 @@
       "category": "photo",
       "content": [
         {
-          "title": "AI Image Enlarger",
-          "body": "Enhance & upscale images.",
-          "tag": "Starting at $0/mo",
-          "url": "https://imglarger.com/?ref=riseofmachine.com"
-        },
-        {
           "title": "BeFunky",
           "body": "Edit photos,create graphics & collages.",
           "tag": "Freemium",
@@ -739,6 +733,12 @@
           "url": "https://www.hama.app/?ref=riseofmachine.com"
         },
         {
+          "title": "Image Enlarger",
+          "body": "Enhance & upscale images.",
+          "tag": "Starting at $0/mo",
+          "url": "https://imglarger.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Lets Enhance",
           "body": "Enhance, upscale & generate pictures.",
           "tag": "Freemium",
@@ -746,7 +746,7 @@
         },
         {
           "title": "Magic Eraser",
-          "body": "Remove unwanted things.",
+          "body": "Remove objects from photos.",
           "tag": "Freemium",
           "url": "https://magicstudio.com/magiceraser/?ref=riseofmachine.com"
         },
@@ -827,30 +827,6 @@
           "body": "Assistant for meetings & calls.",
           "tag": "Freemium",
           "url": "https://krisp.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Maester",
-          "body": "GPT-3 template engine.",
-          "tag": "Free",
-          "url": "https://maester.app/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Magical",
-          "body": "Schedule, coordinate & automate your meetings.",
-          "tag": "Freemium",
-          "url": "https://magical.so/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Mavex.ai",
-          "body": "Personal AI executive assistant.",
-          "tag": "Freemium, Extension",
-          "url": "https://mavex.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Mem",
-          "body": "Organize work—from meeting notes & knowledge base.",
-          "tag": "Freemium",
-          "url": "https://get.mem.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Merlin",
@@ -953,6 +929,12 @@
           "body": "Helper in your browser.",
           "tag": "Free, Extension",
           "url": "https://texti.app/?ref=riseofmachine.com"
+        },
+        {
+          "title": "TimeOS",
+          "body": "Schedule, coordinate & automate meetings.",
+          "tag": "Freemium",
+          "url": "https://www.timeos.ai/?ref=riseofmachine.com"
         },
         {
           "title": "TL;DV",
@@ -1150,6 +1132,24 @@
           "body": "SuperApp for all things AI.",
           "tag": "Freemium",
           "url": "https://www.krater.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Maester",
+          "body": "GPT-3 template engine.",
+          "tag": "Free",
+          "url": "https://maester.app/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Mavex.ai",
+          "body": "Personal AI executive assistant.",
+          "tag": "Freemium, Extension",
+          "url": "https://mavex.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Mem",
+          "body": "Personal AI thought partner.",
+          "tag": "Freemium",
+          "url": "https://get.mem.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Penny",
