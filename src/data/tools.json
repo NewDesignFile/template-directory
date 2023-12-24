@@ -39,6 +39,12 @@
           "body": "Image generation.",
           "tag": "Beta",
           "url": "https://www.krea.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Pictorial",
+          "body": "Visual generator for businesses.",
+          "tag": "Starting at $8.99/mo",
+          "url": "https://www.pictorial.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -239,12 +245,6 @@
           "url": "https://lek.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Ocoya",
-          "body": "Create & post social media content.",
-          "tag": "Starting at $15/mo",
-          "url": "https://www.ocoya.com/?ref=riseofmachine.com"
-        },
-        {
           "title": "ParagraphAI",
           "body": "Writing assistant.",
           "tag": "Starting at $9/mo",
@@ -366,33 +366,21 @@
         },
         {
           "title": "Magician",
-          "body": "Generate icons, copies & images in Figma.",
+          "body": "Generate icons, copy & images in Figma.",
           "tag": "Beta, $5/mo",
           "url": "https://magician.design/?ref=riseofmachine.com"
         },
         {
           "title": "Pattern Maker AI",
-          "body": "Generate seamless vector patterns.",
+          "body": "Generate patterns.",
           "tag": "One-time, Subscription",
           "url": "https://patternmakerai.com/?ref=riseofmachine.com"
         },
         {
           "title": "Patterned AI",
-          "body": "Generate unique patterns for your product.",
+          "body": "Generate patterns.",
           "tag": "Starting at $10/mo",
           "url": "https://www.patterned.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Pictorial",
-          "body": "Generate reliable, ready-to-use visuals.",
-          "tag": "Starting at $8.99/mo",
-          "url": "https://www.pictorial.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Pitch",
-          "body": "Create and share presentations.",
-          "tag": "Freemium",
-          "url": "https://pitch.com/?ref=riseofmachine.com"
         },
         {
           "title": "RocketAI",
@@ -471,18 +459,6 @@
           "body": "Build & deploy ML applications.",
           "tag": "Free, Beta",
           "url": "https://liner.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Nuclia",
-          "body": "Search & generative answers.",
-          "tag": "Starting at $30/mo",
-          "url": "https://nuclia.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Pipeline Catalyst",
-          "body": "Serverless GPU inference for ML models.",
-          "tag": "Starting at $12.99/mo",
-          "url": "https://www.mystic.ai/pipeline-catalyst/?ref=riseofmachine.com"
         },
         {
           "title": "Postbot",
@@ -621,6 +597,18 @@
           "body": "Automate for customer support.",
           "tag": "Starting at $29/mo",
           "url": "https://ioni.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Nanonets",
+          "body": "Capture data from documents.",
+          "tag": "Pay-as-you-go",
+          "url": "https://nanonets.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Nuclia",
+          "body": "Embed search & generative answers.",
+          "tag": "Starting at $30/mo",
+          "url": "https://nuclia.com/?ref=riseofmachine.com"
         }
       ]
     },
@@ -764,7 +752,7 @@
         },
         {
           "title": "PhotoRoom",
-          "body": "Remove and change background.",
+          "body": "Remove & change background.",
           "tag": "Freemium",
           "url": "https://www.photoroom.com/?ref=riseofmachine.com"
         },
@@ -835,18 +823,6 @@
           "url": "https://merlin.foyer.work/?ref=riseofmachine.com"
         },
         {
-          "title": "Monica",
-          "body": "AI assistant for chatting & copywriting.",
-          "tag": "Freemium",
-          "url": "https://monica.im/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Nanonets",
-          "body": "Capture data from documents.",
-          "tag": "Pay-as-you-go",
-          "url": "https://nanonets.com/?ref=riseofmachine.com"
-        },
-        {
           "title": "Noty",
           "body": "Meetings into action items & follow-ups.",
           "tag": "Freemium",
@@ -857,12 +833,6 @@
           "body": "Meeting assistant.",
           "tag": "Freemium",
           "url": "https://otter.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Personal",
-          "body": "Personal AI messenger.",
-          "tag": "Starting at $0/mo",
-          "url": "https://www.personal.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Plus Docs",
@@ -1031,7 +1001,14 @@
     {
       "title": "&#128077; Social Media",
       "category": "social",
-      "content": []
+      "content": [
+        {
+          "title": "Ocoya",
+          "body": "Create & post social media content.",
+          "tag": "Starting at $15/mo",
+          "url": "https://www.ocoya.com/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#128249; Video",
@@ -1152,10 +1129,34 @@
           "url": "https://get.mem.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Monica",
+          "body": "AI assistant for chatting & copywriting.",
+          "tag": "Freemium",
+          "url": "https://monica.im/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Mystic",
+          "body": "Serverless GPU inference for ML models.",
+          "tag": "Starting at $12.99/mo",
+          "url": "https://www.mystic.ai/pipeline-catalyst/?ref=riseofmachine.com"
+        },
+        {
           "title": "Penny",
           "body": "Online shopping assistant.",
           "tag": "Free, Extension",
           "url": "https://penny.im/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Personal",
+          "body": "Personal AI messenger.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.personal.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Pitch",
+          "body": "Create and share presentations.",
+          "tag": "Freemium",
+          "url": "https://pitch.com/?ref=riseofmachine.com"
         },
         {
           "title": "Postli",
