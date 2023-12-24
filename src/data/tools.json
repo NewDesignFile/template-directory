@@ -341,6 +341,12 @@
           "url": "https://diagram.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Dora",
+          "body": "3D website.",
+          "tag": "Freemium",
+          "url": "https://www.dora.run/?ref=riseofmachine.com"
+        },
+        {
           "title": "Durable",
           "body": "AI website builder.",
           "tag": "Starting at $0/mo",
@@ -723,6 +729,12 @@
           "body": "Build & deploy.",
           "tag": "Starting at $29/mo",
           "url": "https://riku.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Shader",
+          "body": "Create AI filters.",
+          "tag": "Private Beta",
+          "url": "https://www.shaderapp.com/?ref=riseofmachine.com"
         }
       ]
     },
@@ -1269,6 +1281,12 @@
           "body": "Find anything you have seen, said, or heard.",
           "tag": "Freemium",
           "url": "https://www.rewind.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Reword",
+          "body": "AI-powered copilot.",
+          "tag": "Freemium",
+          "url": "https://reword.com/?ref=riseofmachine.com"
         },
         {
           "title": "Roboto",
