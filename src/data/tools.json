@@ -269,6 +269,12 @@
           "url": "https://simplified.com/ai-writer/?ref=riseofmachine.com"
         },
         {
+          "title": "Strut",
+          "body": "AI workspace for writers.",
+          "tag": "Freemium",
+          "url": "https://strut.so/?ref=riseofmachine.com"
+        },
+        {
           "title": "TextGen",
           "body": "Note-taking and content creation.",
           "tag": "Open-source",
@@ -363,6 +369,12 @@
           "body": "Generate patterns.",
           "tag": "Starting at $10/mo",
           "url": "https://www.patterned.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Stey",
+          "body": "AI-assisted user behavior replays.",
+          "tag": "Free",
+          "url": "https://stey.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Uizard",
@@ -491,6 +503,12 @@
           "url": "https://ioni.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Kommunicate",
+          "body": "Customer support with chatbot.",
+          "tag": "Starting at $100/mo",
+          "url": "https://www.kommunicate.io/?ref=riseofmachine.com"
+        },
+        {
           "title": "Nanonets",
           "body": "Capture data from documents.",
           "tag": "Pay-as-you-go",
@@ -531,12 +549,26 @@
     {
       "title": "&#128519; Health",
       "category": "health",
-      "content": []
+      "content": [
+        {
+          "title": "MealByMeal",
+          "body": "Nutrition tracker.",
+          "tag": "Starting at $7/mo",
+          "url": "https://www.mealbymeal.com/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#9878; Legal",
       "category": "legal",
-      "content": []
+      "content": [
+        {
+          "title": "LegalNOW",
+          "body": "Create or review legal docs.",
+          "tag": "Starting at $49/mo",
+          "url": "https://www.legalnowai.com/?ref=riseofmachine.com"
+        }
+      ]
     },
     {
       "title": "&#128268; LLMs",
@@ -553,6 +585,12 @@
           "body": "Monitor LLM-applications.",
           "tag": "Freemium",
           "url": "https://www.helicone.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Superpowered",
+          "body": "Connect LLMs to your data.",
+          "tag": "Freemium",
+          "url": "https://superpowered.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -763,6 +801,12 @@
           "body": "Smart calendar tool.",
           "tag": "Freemium",
           "url": "https://reclaim.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Sider",
+          "body": "AI assistant.",
+          "tag": "Starting at $10/mo",
+          "url": "https://sider.ai/?ref=riseofmachine.com"
         },
         {
           "title": "SummerEyes",
