@@ -8,8 +8,7 @@
   border-bottom: 2px solid transparent;
   font-family: var(--system-ui);
   font-weight: 400;
-  transition:all .12s ease-out;
-  opacity: 0.88;
+  color: var(--text-secondary-alt);
 }
 
 .nav__item:hover {
@@ -20,5 +19,4 @@
   font-weight: 500;
   color: var(--text-primary);
   border-bottom: 2px solid var(--icon-primary);
-  opacity: 1;
 }
