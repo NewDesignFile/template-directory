@@ -144,7 +144,7 @@ const { site, title, tagline } = Astro.props;
 		position: -webkit-sticky;
 		position: sticky;
 		animation-name: slideDownNavigation;
-		animation-duration: 100ms;
+		animation-duration: 500ms;
 		animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
 		animation-fill-mode: both;
 		animation-iteration-count: 1;
@@ -311,16 +311,16 @@ const { site, title, tagline } = Astro.props;
     );
     --rainbow: repeating-linear-gradient(
         145deg,
-        #60a5fa 3%,
-        #e879f9 5%,
-        #60a5fa 8%,
-        #5eead4 5%,
-        #60a5fa 3%  
+        #60a5fa 11%,
+        #e879f9 15%,
+        #60a5fa 22%,
+        #5eead4 32%,
+        #7AE2DD 8%  
     );
     background-image: var(--stripes), var(--rainbow);
-    background-size: 300%, 200%;
+    background-size: 160%, 100%;
     background-position: 50% 50%, 50% 50%;
-    filter: blur(8px) invert(100%);
+    filter: blur(12px) invert(100%);
     mask-image: radial-gradient(ellipse at 100% 0%, black 40%, transparent 70%);
     pointer-events: none;
 }
