@@ -77,6 +77,12 @@
           "url": "https://sdxlturbo.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Stockimg",
+          "body": "Create images with AI.",
+          "tag": "Freemium",
+          "url": "https://stockimg.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Vizcom",
           "body": "Product visualization.",
           "tag": "Freemium",
@@ -165,6 +171,12 @@
           "body": "Generate code suggestions.",
           "tag": "Freemium",
           "url": "https://aws.amazon.com/codewhisperer/?ref=riseofmachine.com"
+        },
+        {
+          "title": "AskCodebase",
+          "body": "AI programming agent.",
+          "tag": "Starting at $10/mo",
+          "url": "https://askcodebase.com/?ref=riseofmachine.com"
         },
         {
           "title": "Codeium",
@@ -669,6 +681,12 @@
           "body": "Monitor LLM-applications.",
           "tag": "Freemium",
           "url": "https://www.helicone.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "LangChain",
+          "body": "LLM app from prototype to prod.",
+          "tag": "Beta",
+          "url": "https://www.langchain.com/?ref=riseofmachine.com"
         },
         {
           "title": "Numbers Station",
