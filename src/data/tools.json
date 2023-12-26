@@ -237,6 +237,12 @@
           "body": "Editor for pair-programming with AI.",
           "tag": "Freemium",
           "url": "https://cursor.sh/?ref=riseofmachine.com"
+        },
+        {
+          "title": "GitHub Copilot",
+          "body": "AI pair programmer.",
+          "tag": "Starting at $10/mo",
+          "url": "https://github.com/features/copilot/?ref=riseofmachine.com"
         }
       ]
     },
@@ -509,10 +515,10 @@
           "url": "https://cosine.sh/?ref=riseofmachine.com"
         },
         {
-          "title": "GitHub Copilot",
-          "body": "AI pair programmer.",
-          "tag": "Starting at $10/mo",
-          "url": "https://github.com/features/copilot/?ref=riseofmachine.com"
+          "title": "Hatchet",
+          "body": "Incident response partner.",
+          "tag": "Free, Extension",
+          "url": "https://gethatchet.com/?ref=riseofmachine.com"
         },
         {
           "title": "Lightning",
@@ -761,6 +767,12 @@
       "category": "health",
       "content": [
         {
+          "title": "Deepen",
+          "body": "AI therapy app.",
+          "tag": "Free",
+          "url": "https://thedeepen.app/?ref=riseofmachine.com"
+        },
+        {
           "title": "MealByMeal",
           "body": "Nutrition tracker.",
           "tag": "Starting at $7/mo",
@@ -778,6 +790,12 @@
       "title": "&#9878; Legal",
       "category": "legal",
       "content": [
+        {
+          "title": "Ace",
+          "body": "AI startup legal assistant.",
+          "tag": "Freemium",
+          "url": "https://westaway.com/ace/?ref=riseofmachine.com"
+        },
         {
           "title": "Law School AI",
           "body": "AI chatbot for law learning.",
@@ -885,6 +903,12 @@
           "body": "Audio intelligence platform.",
           "tag": "Freemium",
           "url": "https://music.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Jen",
+          "body": "Idea to a full track.",
+          "tag": "Waitlist",
+          "url": "https://www.jenmusic.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Soundry",
@@ -1247,6 +1271,12 @@
           "url": "https://flowgpt.com/?ref=riseofmachine.com"
         },
         {
+          "title": "GoodPrompts",
+          "body": "Curated prompts.",
+          "tag": "Free",
+          "url": "https://www.aigoodprompts.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Img2prompt",
           "body": "Image to prompt.",
           "tag": "Pay-as-you-go",
@@ -1305,6 +1335,12 @@
           "body": "Workspace for researchers.",
           "tag": "Freemium",
           "url": "https://isaaceditor.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Synthetic Users",
+          "body": "Test product with AI participants.",
+          "tag": "Starting at $99/mo",
+          "url": "https://www.syntheticusers.com/?ref=riseofmachine.com"
         }
       ]
     },
@@ -1427,6 +1463,12 @@
           "url": "https://pika.art/?ref=riseofmachine.com"
         },
         {
+          "title": "PixVerse",
+          "body": "Video creation platform.",
+          "tag": "Beta",
+          "url": "https://pixverse.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Rask AI",
           "body": "Translate video & audio.",
           "tag": "Starting at $50/mo",
@@ -1449,6 +1491,12 @@
           "body": "AI growth platform for businesses.",
           "tag": "Freemium",
           "url": "https://amazely.co/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Archetype",
+          "body": "AI foundation model.",
+          "tag": "Early Access",
+          "url": "https://www.archetypeai.io/?ref=riseofmachine.com"
         },
         {
           "title": "BarGPT",
