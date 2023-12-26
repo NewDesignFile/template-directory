@@ -731,10 +731,28 @@
       "category": "gaming",
       "content": [
         {
+          "title": "Meshy",
+          "body": "Create 3D models & assets.",
+          "tag": "Freemium",
+          "url": "https://www.meshy.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Qmai",
+          "body": "AI motion capture.",
+          "tag": "Not available",
+          "url": "https://www.qmai.vip/?ref=riseofmachine.com"
+        },
+        {
           "title": "Rosebud AI",
           "body": "Create games.",
           "tag": "Beta",
           "url": "https://www.rosebud.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Saga",
+          "body": "AI text role-playing game.",
+          "tag": "Freemium",
+          "url": "https://sagarpg.io/?ref=riseofmachine.com"
         }
       ]
     },
@@ -1289,10 +1307,52 @@
       "category": "social",
       "content": [
         {
+          "title": "Assembo",
+          "body": "Generate product photos & videos.",
+          "tag": "Freemium",
+          "url": "https://app.assembo.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Docsfold",
+          "body": "Create social media images, banners, and PDFs.",
+          "tag": "Freemium",
+          "url": "https://www.docsfold.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Ocoya",
           "body": "Create & post social media content.",
           "tag": "Starting at $15/mo",
           "url": "https://www.ocoya.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Quickads",
+          "body": "AI ad generator.",
+          "tag": "Starting at $9/mo",
+          "url": "https://www.quickads.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "ReplyMind",
+          "body": "Social growth assistant.",
+          "tag": "Freemium",
+          "url": "https://www.replymind.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Sivi",
+          "body": "Content into visual designs.",
+          "tag": "Freemium",
+          "url": "https://sivi.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Social Hub",
+          "body": "AI-native marketing cloud.",
+          "tag": "Freemium",
+          "url": "https://www.socialhub.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "TimetoTok",
+          "body": "AI agent for TikTok growth.",
+          "tag": "Freemium",
+          "url": "https://timetotok.com/?ref=riseofmachine.com"
         }
       ]
     },
