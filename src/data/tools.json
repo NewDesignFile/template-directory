@@ -179,6 +179,12 @@
           "url": "https://askcodebase.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Bito",
+          "body": "Assistant with ChatGPT for devs.",
+          "tag": "Freemium",
+          "url": "https://bito.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Codeium",
           "body": "AI-powered toolkit.",
           "tag": "Starting at $0/mo",
@@ -593,6 +599,12 @@
           "url": "https://myaskai.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Multimodal",
+          "body": "AI agents to automate workflows.",
+          "tag": "Freemium",
+          "url": "https://www.multimodal.dev/?ref=riseofmachine.com"
+        },
+        {
           "title": "Nanonets",
           "body": "Capture data from documents.",
           "tag": "Pay-as-you-go",
@@ -621,6 +633,12 @@
           "body": "Training data for AI apps.",
           "tag": "Pay-as-you-go",
           "url": "https://scale.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Together.ai",
+          "body": "Platform for building & running generative AI.",
+          "tag": "Pay-as-you-go",
+          "url": "https://www.together.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -687,6 +705,12 @@
           "body": "LLM app from prototype to prod.",
           "tag": "Beta",
           "url": "https://www.langchain.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "LiteLLM",
+          "body": "Call all LLM APIs using the OpenAI format.",
+          "tag": "Open-source",
+          "url": "https://docs.litellm.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Numbers Station",
@@ -987,6 +1011,12 @@
           "body": "AI assistant plugin.",
           "tag": "Freemium",
           "url": "https://walles.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Wiseone",
+          "body": "AI-powered reading tool.",
+          "tag": "Extension",
+          "url": "https://wiseone.io/?ref=riseofmachine.com"
         },
         {
           "title": "Wudpecker",
