@@ -317,6 +317,12 @@
           "url": "https://lek.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Originality",
+          "body": "AI content detector & plagiarism checker.",
+          "tag": "Pay-as-you-go",
+          "url": "https://originality.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "ParagraphAI",
           "body": "Writing assistant.",
           "tag": "Starting at $9/mo",
@@ -549,6 +555,12 @@
           "body": "Knowledge bot for Slack.",
           "tag": "Starting at $4.99/mo",
           "url": "https://www.springworks.in/albus/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Arches",
+          "body": "AI-driven solutions.",
+          "tag": "Freemium",
+          "url": "https://platform.archesai.com/?ref=riseofmachine.com"
         },
         {
           "title": "Autoblocks",
@@ -827,6 +839,18 @@
           "url": "https://www.brancher.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "BuildAI",
+          "body": "Build AI-powered web apps.",
+          "tag": "Freemium",
+          "url": "https://www.buildai.space/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Lindo",
+          "body": "Build landing pages.",
+          "tag": "Starting at $17/mo",
+          "url": "https://www.lindoai.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Riku",
           "body": "Build & deploy.",
           "tag": "Starting at $29/mo",
@@ -837,6 +861,12 @@
           "body": "Create AI filters.",
           "tag": "Private Beta",
           "url": "https://www.shaderapp.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Structured",
+          "body": "Serverless, no-code platform.",
+          "tag": "Freemium",
+          "url": "https://www.structuredlabs.io/?ref=riseofmachine.com"
         }
       ]
     },
@@ -921,6 +951,12 @@
           "body": "Colorize pictures.",
           "tag": "Pay-as-you-go",
           "url": "https://palette.fm/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Pebblely",
+          "body": "Create photos for any product.",
+          "tag": "Freemium",
+          "url": "https://pebblely.com/?ref=riseofmachine.com"
         },
         {
           "title": "PhotoRoom",
@@ -1253,6 +1289,12 @@
           "url": "https://useblocks.io/?ref=riseofmachine.com"
         },
         {
+          "title": "BlogSEO",
+          "body": "Create SEO content in 19 languages.",
+          "tag": "Freemium",
+          "url": "https://www.blogseo.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "BoostBot",
           "body": "Find and contact with influencers.",
           "tag": "Starting at $41/mo",
@@ -1509,6 +1551,12 @@
           "body": "Writer, copywriting & paraphrasing tool.",
           "tag": "Starting at $0/mo",
           "url": "https://writesonic.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Zeno",
+          "body": "AI evaluation.",
+          "tag": "Open-source",
+          "url": "https://zenoml.com/?ref=riseofmachine.com"
         }
       ]
     }
