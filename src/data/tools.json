@@ -809,6 +809,12 @@
           "url": "https://westaway.com/ace/?ref=riseofmachine.com"
         },
         {
+          "title": "AI Lawyer",
+          "body": "Personal AI legal assistant.",
+          "tag": "Freemium",
+          "url": "https://ailawyer.pro/?ref=riseofmachine.com"
+        },
+        {
           "title": "Law School AI",
           "body": "AI chatbot for law learning.",
           "tag": "Freemium",
@@ -1121,6 +1127,12 @@
           "url": "https://snapby.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Storia",
+          "body": "AI-powered image editor.",
+          "tag": "Freemium",
+          "url": "https://www.storia.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Topaz Photo AI",
           "body": "Noise reduction, sharpening & upscaling.",
           "tag": "Starting at $149",
@@ -1355,10 +1367,22 @@
           "url": "https://isaaceditor.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Silatus",
+          "body": "Research automation engine.",
+          "tag": "Starting at $14/mo",
+          "url": "https://silatus.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Synthetic Users",
           "body": "Test product with AI participants.",
           "tag": "Starting at $99/mo",
           "url": "https://www.syntheticusers.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Wokelo",
+          "body": "Investment research and due diligence.",
+          "tag": "Not available",
+          "url": "https://www.wokelo.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -1611,6 +1635,12 @@
           "body": "SuperApp for all things AI.",
           "tag": "Freemium",
           "url": "https://www.krater.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Lindy",
+          "body": "AI employee.",
+          "tag": "Beta",
+          "url": "https://www.lindy.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Maester",
