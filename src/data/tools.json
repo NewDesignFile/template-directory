@@ -635,6 +635,12 @@
           "url": "https://www.chatsimple.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Cody",
+          "body": "AI assistant for business.",
+          "tag": "$29/mo",
+          "url": "https://meetcody.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Credal AI",
           "body": "Securely connect internal data to LLMs.",
           "tag": "Freemium",
@@ -723,6 +729,12 @@
           "body": "Training data for AI apps.",
           "tag": "Pay-as-you-go",
           "url": "https://scale.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Simple Phones",
+          "body": "AI phone agent.",
+          "tag": "Starting at $49/mo",
+          "url": "https://www.simplephones.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Together.ai",
@@ -1151,6 +1163,12 @@
           "url": "https://groupthink.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Humata",
+          "body": "Chat through long documents.",
+          "tag": "Starting at $0/mo",
+          "url": "https://www.humata.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Krisp",
           "body": "Assistant for meetings & calls.",
           "tag": "Freemium",
@@ -1553,6 +1571,12 @@
           "url": "https://www.delphi.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Dubbah",
+          "body": "Dub videos in 28 different languages.",
+          "tag": "Starting at $49.99",
+          "url": "https://www.dubbah.co/?ref=riseofmachine.com"
+        },
+        {
           "title": "DupDub",
           "body": "Craft content.",
           "tag": "Freemium",
@@ -1635,6 +1659,12 @@
           "body": "Serverless GPU inference for ML models.",
           "tag": "Starting at $12.99/mo",
           "url": "https://www.mystic.ai/pipeline-catalyst/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Nara",
+          "body": "Al-powered digital sales associate.",
+          "tag": "Starting at $19/mo",
+          "url": "https://trynara.com/?ref=riseofmachine.com"
         },
         {
           "title": "Penny",
