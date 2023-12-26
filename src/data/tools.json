@@ -215,16 +215,16 @@
           "url": "https://bito.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Code Snippets",
+          "body": "Manage code snippets, visualize codebase.",
+          "tag": "Starting at $4/mo",
+          "url": "https://codesnippets.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Codeium",
           "body": "AI-powered toolkit.",
           "tag": "Starting at $0/mo",
           "url": "https://codeium.com/?ref=riseofmachine.com"
-        },
-        {
-          "title": "CodiumAI",
-          "body": "Test and analyze code.",
-          "tag": "Freemium",
-          "url": "https://www.codium.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Cursor",
@@ -497,12 +497,6 @@
           "url": "https://www.autoregex.xyz/?ref=riseofmachine.com"
         },
         {
-          "title": "Code Snippets",
-          "body": "Manage code snippets, visualize codebase.",
-          "tag": "Starting at $4/mo",
-          "url": "https://codesnippets.ai/?ref=riseofmachine.com"
-        },
-        {
           "title": "Cosine",
           "body": "Search & understand large codebases.",
           "tag": "Free, Extension",
@@ -545,6 +539,12 @@
           "url": "https://www.shaped.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Sweep",
+          "body": "Handles small features in your codebase.",
+          "tag": "Freemium",
+          "url": "https://sweep.dev/?ref=riseofmachine.com"
+        },
+        {
           "title": "Tabnine",
           "body": "Assistant for software developers.",
           "tag": "Freemium",
@@ -567,6 +567,12 @@
           "body": "AI learning space.",
           "tag": "Starting at $119/yr",
           "url": "https://everlearns.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Studdy",
+          "body": "Snap and ask.",
+          "tag": "Freemium",
+          "url": "https://studdy.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Study Fetch",
@@ -749,6 +755,12 @@
       "category": "legal",
       "content": [
         {
+          "title": "Law School AI",
+          "body": "AI chatbot for law learning.",
+          "tag": "Freemium",
+          "url": "https://www.lawschoolai.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "LegalNOW",
           "body": "Create or review legal docs.",
           "tag": "Starting at $49/mo",
@@ -849,6 +861,12 @@
           "body": "Audio intelligence platform.",
           "tag": "Freemium",
           "url": "https://music.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Soundry",
+          "body": "Text-to-sample generation.",
+          "tag": "Freemium",
+          "url": "https://soundry.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Stable Audio",
@@ -1307,10 +1325,22 @@
           "url": "https://www.heygen.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Kite",
+          "body": "Create Apple-style marketing videos.",
+          "tag": "Freemium",
+          "url": "https://kite.video/?ref=riseofmachine.com"
+        },
+        {
           "title": "Moonvalley",
           "body": "Text-to-video generative AI model.",
           "tag": "Beta",
           "url": "https://moonvalley.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Morph Studio",
+          "body": "Text to video.",
+          "tag": "Beta",
+          "url": "https://www.morphstudio.com/?ref=riseofmachine.com"
         },
         {
           "title": "OpusClip",
