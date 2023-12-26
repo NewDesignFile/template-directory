@@ -23,6 +23,12 @@
           "url": "https://designer.microsoft.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Dsnr",
+          "body": "Idea to image.",
+          "tag": "Freemium",
+          "url": "https://dsnr.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Exactly",
           "body": "AI artwork creation platform.",
           "tag": "Freemium",
@@ -45,6 +51,12 @@
           "body": "Text to art.",
           "tag": "Freemium",
           "url": "https://imgnai.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Invoke",
+          "body": "Creative AI for professionals.",
+          "tag": "Starting at $13/mo",
+          "url": "https://invoke.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Leonardo",
@@ -539,6 +551,12 @@
       "category": "education",
       "content": [
         {
+          "title": "Eduaide",
+          "body": "Create lesson, teaching resources, & assessments.",
+          "tag": "Freemium",
+          "url": "https://www.eduaide.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "EverLearns",
           "body": "AI learning space.",
           "tag": "Starting at $119/yr",
@@ -861,6 +879,12 @@
           "body": "Create AI filters.",
           "tag": "Private Beta",
           "url": "https://www.shaderapp.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Stack",
+          "body": "Build custom AI assistants.",
+          "tag": "Freemium",
+          "url": "https://www.stack-ai.com/?ref=riseofmachine.com"
         },
         {
           "title": "Structured",
