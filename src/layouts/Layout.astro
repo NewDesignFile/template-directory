@@ -23,19 +23,6 @@ const { site, title, tagline } = Astro.props;
     <link href="https://fonts.googleapis.com/css2?family=IBM+Plex+Sans:wght@400;500;700&display=swap" rel="stylesheet">
   </head>
 
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BLXD7VCZH0"
-  ></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
-
-    gtag("config", "G-BLXD7VCZH0");
-  </script>
-
   <body>
 		<div class="floating-nav">
 			<div class="logo">
@@ -71,8 +58,6 @@ const { site, title, tagline } = Astro.props;
 			</div>
     </div>
 
-    
-
     <header class="nu-u-mb-10 nu-u-mt-10">
       <div class="container">
         <h1 class="nu-c-h3 nu-u-text--primary nu-u-mt-0 nu-u-mb-2 title">
@@ -87,10 +72,6 @@ const { site, title, tagline } = Astro.props;
       Built with <a href="https://new-ui.com/?ref=riseofmachine" class="nu-u-link--subtle" target="_blank">New UI</a> &amp; Astro. By <a href="https://planetabhi.netlify.app/" class="nu-u-link--subtle"  target="_blank">@planetabhi</a>. ᕦ(ò_óˇ)ᕤ 
       <br> 
       &#169; 2023 Method Black. All rights reserved. 
-    </div>
-
-    <div class="rays_container">
-      <div class="rays rays_content"></div>
     </div>
 
   </body>
@@ -274,88 +255,20 @@ const { site, title, tagline } = Astro.props;
       transform: scale(1.2);
     }
   }
-
-/* bg rays starts */
-
-@keyframes rays {
-    from {
-        background-position: 50% 50%, 50% 50%;
-    }
-    to {
-        background-position: 350% 50%, 350% 50%;
-    }
-}
-
-.rays_container {
-    overflow: hidden;
-    inset: 0px;
-    position: absolute;
-    z-index: -1;
-}
-
-.rays_content {
-    position: absolute;
-    inset: -10px;
-    opacity: 0.18;
-    height: 100%;
-    min-height: 100vh;
-}
-
-.rays {
-    --stripes: repeating-linear-gradient(
-        100deg,
-        #fff 0%,
-        #fff 7%,
-        transparent 10%,
-        transparent 12%,
-        #fff 16%
-    );
-    --stripesDark: repeating-linear-gradient(
-        100deg,
-        #000 0%,
-        #000 7%,
-        transparent 10%,
-        transparent 12%,
-        #000 16%
-    );
-    --rainbow: repeating-linear-gradient(
-        100deg,
-        #60a5fa 10%,
-        #e879f9 15%,
-        #60a5fa 20%,
-        #5eead4 25%,
-        #FFF1B8 30%
-    );
-    background-image: var(--stripes), var(--rainbow);
-    background-size: 300%, 200%;
-    background-position: 50% 50%, 50% 50%;
-    filter: blur(10px) invert(100%);
-    mask-image: radial-gradient(ellipse at 100% 0%, black 40%, transparent 70%);
-    pointer-events: none;
-}
-
-.rays::after {
-    content: "";
-    position: absolute;
-    inset: 0;
-    background-image: var(--stripes), var(--rainbow);
-    background-size: 200%, 100%;
-    animation: rays 56s linear infinite;
-    background-attachment: fixed;
-    mix-blend-mode: difference;
-}
-
-[data-new-ui-theme="dark"] {
-    .rays {
-    background-image: var(--stripesDark), var(--rainbow);
-    filter: blur(10px) opacity(12%) saturate(200%);
-    }
-    .rays::after {
-    background-image: var(--stripesDark), var(--rainbow);
-    }
-}
 </style>
 
+  <!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BLXD7VCZH0"
+  ></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() {
+      dataLayer.push(arguments);
+    }
+    gtag("js", new Date());
+
+    gtag("config", "G-BLXD7VCZH0");
+  </script>
   
 <script>
   // Scrolls back to top on page refresh
