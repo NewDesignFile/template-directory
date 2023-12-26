@@ -11,6 +11,12 @@
           "url": "https://www.astria.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Blimey",
+          "body": "Build 3D scene, generate images.",
+          "tag": "Starting at $9",
+          "url": "https://blimeycreate.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Designer",
           "body": "Generate designs & images.",
           "tag": "Beta, Free",
@@ -33,6 +39,12 @@
           "body": "Create and edit images.",
           "tag": "Starting at $0/mo",
           "url": "https://getimg.ai/editor/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Imgnai",
+          "body": "Text to art.",
+          "tag": "Freemium",
+          "url": "https://imgnai.com/?ref=riseofmachine.com"
         },
         {
           "title": "Leonardo",
@@ -81,6 +93,12 @@
           "body": "Create images with AI.",
           "tag": "Freemium",
           "url": "https://stockimg.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Vieutopia",
+          "body": "Generate art.",
+          "tag": "Freemium",
+          "url": "https://vieutopia.com/?ref=riseofmachine.com"
         },
         {
           "title": "Vizcom",
@@ -551,6 +569,12 @@
           "url": "https://www.chatsimple.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Credal AI",
+          "body": "Securely connect internal data to LLMs.",
+          "tag": "Freemium",
+          "url": "https://www.credal.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Dust",
           "body": "AI assistant for teams.",
           "tag": "Freemium",
@@ -713,6 +737,12 @@
           "url": "https://docs.litellm.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "LlamaIndex",
+          "body": "Connect custom data sources to LLMs.",
+          "tag": "Open-source",
+          "url": "https://www.llamaindex.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Numbers Station",
           "body": "Data analytics copilot.",
           "tag": "Not available",
@@ -725,10 +755,22 @@
           "url": "https://runllm.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Sid",
+          "body": "Connect data to AI apps.",
+          "tag": "Freemium",
+          "url": "https://www.sid.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Superpowered",
           "body": "Connect LLMs to your data.",
           "tag": "Freemium",
           "url": "https://superpowered.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SuperSight",
+          "body": "Crypto-specific LLMs.",
+          "tag": "Not available",
+          "url": "https://supersight.xyz/?ref=riseofmachine.com"
         }
       ]
     },
@@ -778,6 +820,12 @@
       "title": "&#129337; No Code",
       "category": "nocode",
       "content": [
+        {
+          "title": "Brancher AI",
+          "body": "Connect models to build AI apps.",
+          "tag": "100 credits free",
+          "url": "https://www.brancher.ai/?ref=riseofmachine.com"
+        },
         {
           "title": "Riku",
           "body": "Build & deploy.",
@@ -1101,6 +1149,12 @@
           "body": "Search engine for research.",
           "tag": "Freemium",
           "url": "https://consensus.app/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Isaac",
+          "body": "Workspace for researchers.",
+          "tag": "Freemium",
+          "url": "https://isaaceditor.com/?ref=riseofmachine.com"
         }
       ]
     },
@@ -1155,6 +1209,12 @@
           "body": "Text-to-video generative AI model.",
           "tag": "Beta",
           "url": "https://moonvalley.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "OpusClip",
+          "body": "AI video clipping tool.",
+          "tag": "Beta",
+          "url": "https://www.opus.pro/?ref=riseofmachine.com"
         },
         {
           "title": "Pika",
@@ -1221,6 +1281,12 @@
           "body": "For creative advertising ideas.",
           "tag": "Starting at $19/mo",
           "url": "https://www.daydrm.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Delphi",
+          "body": "Clone yourself.",
+          "tag": "Starting at $25",
+          "url": "https://www.delphi.ai/?ref=riseofmachine.com"
         },
         {
           "title": "DupDub",
@@ -1359,6 +1425,12 @@
           "body": "Generate visuals and copywriting.",
           "tag": "Starting at $19/mo",
           "url": "https://www.rocketai.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "RunDiffusion",
+          "body": "Stable diffusion in the cloud.",
+          "tag": "Starting at $0.50/hr",
+          "url": "https://rundiffusion.com/?ref=riseofmachine.com"
         },
         {
           "title": "RunPod",
