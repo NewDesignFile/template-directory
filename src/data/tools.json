@@ -497,6 +497,12 @@
           "url": "https://www.autoregex.xyz/?ref=riseofmachine.com"
         },
         {
+          "title": "Code Snippets",
+          "body": "Manage code snippets, visualize codebase.",
+          "tag": "Starting at $4/mo",
+          "url": "https://codesnippets.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Cosine",
           "body": "Search & understand large codebases.",
           "tag": "Free, Extension",
@@ -561,6 +567,12 @@
           "body": "AI learning space.",
           "tag": "Starting at $119/yr",
           "url": "https://everlearns.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Study Fetch",
+          "body": "Cleart flashcards, quizzes, and chat help.",
+          "tag": "Not available",
+          "url": "https://www.studyfetch.com/?ref=riseofmachine.com"
         }
       ]
     },
@@ -591,6 +603,12 @@
           "body": "Create and share a chatbot.",
           "tag": "Starting at $0/mo",
           "url": "https://www.askbloc.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Brainfish",
+          "body": "AI customer support.",
+          "tag": "Starting at $159/mo",
+          "url": "https://www.brainfi.sh/?ref=riseofmachine.com"
         },
         {
           "title": "Chatsimple",
@@ -717,6 +735,12 @@
           "body": "Nutrition tracker.",
           "tag": "Starting at $7/mo",
           "url": "https://www.mealbymeal.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Rex",
+          "body": "AI nutrition and fitness coach.",
+          "tag": "Freemium",
+          "url": "https://www.rex.fit/?ref=riseofmachine.com"
         }
       ]
     },
@@ -861,6 +885,12 @@
           "body": "Build AI-powered web apps.",
           "tag": "Freemium",
           "url": "https://www.buildai.space/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Imagica",
+          "body": "Build no-code AI apps.",
+          "tag": "Freemium",
+          "url": "https://get.imagica.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Lindo",
@@ -1043,6 +1073,12 @@
           "url": "https://focusflow.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Groupthink",
+          "body": "Creates meeting agendas, takes notes, & share summary.",
+          "tag": "Free",
+          "url": "https://groupthink.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Krisp",
           "body": "Assistant for meetings & calls.",
           "tag": "Freemium",
@@ -1077,6 +1113,12 @@
           "body": "Smart calendar tool.",
           "tag": "Freemium",
           "url": "https://reclaim.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "ShortcutAI",
+          "body": "ChatGPT for Apple notes.",
+          "tag": "Freemium",
+          "url": "https://shortcutai.com/?ref=riseofmachine.com"
         },
         {
           "title": "Sider",
@@ -1389,6 +1431,12 @@
           "body": "GPT-3 template engine.",
           "tag": "Free",
           "url": "https://maester.app/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Marvin",
+          "body": "Build AI interfaces.",
+          "tag": "Free",
+          "url": "https://www.askmarvin.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Mavex.ai",
