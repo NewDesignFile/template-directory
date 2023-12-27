@@ -233,6 +233,12 @@
           "url": "https://codeium.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Continuum",
+          "body": "AI-powered coding.",
+          "tag": "Freemium",
+          "url": "https://continuum.sh/?ref=riseofmachine.com"
+        },
+        {
           "title": "Cursor",
           "body": "Editor for pair-programming with AI.",
           "tag": "Freemium",
@@ -663,6 +669,12 @@
           "body": "Search all company apps.",
           "tag": "Not available",
           "url": "https://www.glean.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Gradient",
+          "body": "AI cloud for enterprise.",
+          "tag": "Not available",
+          "url": "https://gradient.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Guidde",
