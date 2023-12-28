@@ -313,6 +313,12 @@ const { site, title, tagline } = Astro.props;
     mask-image: radial-gradient(ellipse at 100% 0%, black 40%, transparent 70%);
     -webkit-mask-image: radial-gradient(ellipse at 100% 0%, black 40%, transparent 70%);
     pointer-events: none;
+    -o-mask-image: radial-gradient(ellipse at 100% 0%, black 40%, transparent 70%);
+    pointer-events: none;
+    -ms-mask-image: radial-gradient(ellipse at 100% 0%, black 40%, transparent 70%);
+    pointer-events: none;
+    -moz-mask-image: radial-gradient(ellipse at 100% 0%, black 40%, transparent 70%);
+    pointer-events: none;
 }
 
 .rays::after {
@@ -330,6 +336,9 @@ const { site, title, tagline } = Astro.props;
     background-image: var(--stripesDark), var(--rainbow);
     filter: blur(4px) opacity(6%) saturate(200%);
     -webkit-filter: blur(4px) opacity(6%) saturate(200%);
+    -o-filter: blur(4px) opacity(6%) saturate(200%);
+    -ms-filter: blur(4px) opacity(6%) saturate(200%);
+    -moz-filter: blur(4px) opacity(6%) saturate(200%);
     }
     .rays::after {
     background-image: var(--stripesDark), var(--rainbow);
