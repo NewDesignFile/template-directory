@@ -809,6 +809,12 @@
           "url": "https://www.mealbymeal.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Meet Lily",
+          "body": "AI therapist.",
+          "tag": "Starting at $9.99/mo",
+          "url": "https://www.meetlily.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Rex",
           "body": "AI nutrition and fitness coach.",
           "tag": "Freemium",
@@ -1581,6 +1587,12 @@
           "body": "Find and contact with influencers.",
           "tag": "Starting at $41/mo",
           "url": "https://boostbot.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Cinem AI",
+          "body": "Share and watch AI-generated movies & videos.",
+          "tag": "Not available",
+          "url": "https://cinemai.tv/?ref=riseofmachine.com"
         },
         {
           "title": "Clickable",
