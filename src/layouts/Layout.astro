@@ -332,8 +332,8 @@ const { site, title, tagline } = Astro.props;
 }
 
 [data-new-ui-theme="dark"] {
-  .rays_container, .rays_content, .rays { display: none !important;}
-  .rays::after {display: none !important;}
+  .rays_container, .rays_content, .rays { display: none !important; filter: none; opacity: 0;}
+  .rays::after {display: none !important; background: none; opacity: 0;}
 }
 
 </style>
