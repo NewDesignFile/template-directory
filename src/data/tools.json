@@ -539,6 +539,12 @@
           "url": "https://liner.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Open Interpreter",
+          "body": "Code Interpreter in terminal, running locally.",
+          "tag": "Open-source",
+          "url": "https://openinterpreter.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Pieces",
           "body": "Developer productivity tool.",
           "tag": "Free",
@@ -1707,6 +1713,12 @@
           "body": "Al-powered digital sales associate.",
           "tag": "Starting at $19/mo",
           "url": "https://trynara.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Nexusflow",
+          "body": "Generative AI for cybersecurity.",
+          "tag": "Not available",
+          "url": "https://nexusflow.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Penny",
