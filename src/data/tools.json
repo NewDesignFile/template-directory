@@ -1057,8 +1057,8 @@
       ]
     },
     {
-      "title": "&#128248; Photo",
-      "category": "photo",
+      "title": "&#128248; Photos",
+      "category": "photos",
       "content": [
         {
           "title": "BeFunky",
@@ -1083,6 +1083,12 @@
           "body": "Create visual content at scale.",
           "tag": "Freemium",
           "url": "https://bria.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Can of Soup",
+          "body": "AI photos with your friends.",
+          "tag": "Free",
+          "url": "https://canofsoup.com/?ref=riseofmachine.com"
         },
         {
           "title": "Clipdrop",
