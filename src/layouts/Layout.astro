@@ -278,7 +278,7 @@ const { site, title, tagline } = Astro.props;
 .rays_content {
     position: absolute;
     inset: -10px;
-    opacity: 0.24;
+    opacity: 0.22;
 }
 
 .rays {
@@ -333,15 +333,10 @@ const { site, title, tagline } = Astro.props;
 
 [data-new-ui-theme="dark"] {
     .rays {
-    background-image: var(--stripesDark), var(--rainbow);
-    filter: blur(4px) opacity(6%) saturate(200%);
-    -webkit-filter: blur(4px) opacity(6%) saturate(200%);
-    -o-filter: blur(4px) opacity(6%) saturate(200%);
-    -ms-filter: blur(4px) opacity(6%) saturate(200%);
-    -moz-filter: blur(4px) opacity(6%) saturate(200%);
+    display: none !important;
     }
     .rays::after {
-    background-image: var(--stripesDark), var(--rainbow);
+    display: none !important;
     }
 }
 
