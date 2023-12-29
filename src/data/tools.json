@@ -197,6 +197,12 @@
           "url": "https://www.speechlab.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Sync",
+          "body": "Dub any video to any audio in any language.",
+          "tag": "Freemium",
+          "url": "https://synclabs.so/?ref=riseofmachine.com"
+        },
+        {
           "title": "Voicemod",
           "body": "Real-time AI voice changer.",
           "tag": "Freemium",
@@ -923,6 +929,12 @@
           "url": "https://www.langchain.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Langfuse",
+          "body": "Observability & analytics for LLM apps.",
+          "tag": "Open-source",
+          "url": "https://langfuse.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "LiteLLM",
           "body": "Call all LLM APIs using the OpenAI format.",
           "tag": "Open-source",
@@ -1059,6 +1071,12 @@
           "body": "Build AI-powered web apps.",
           "tag": "Freemium",
           "url": "https://www.buildai.space/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Chaindesk",
+          "body": "Custom AI chatbot.",
+          "tag": "Freemium",
+          "url": "https://www.chaindesk.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Droxy",
@@ -1359,6 +1377,12 @@
           "body": "Transcribe & summarize meetings.",
           "tag": "Freemium",
           "url": "https://tldv.io/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Ultra",
+          "body": "Chat with your email.",
+          "tag": "Not available",
+          "url": "https://ultramail.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Walles",
