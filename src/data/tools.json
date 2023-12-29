@@ -575,6 +575,12 @@
           "url": "https://liner.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Lintrule",
+          "body": "Using LLM for code reviews.",
+          "tag": "$1.00/1,000 lines",
+          "url": "https://www.lintrule.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Open Interpreter",
           "body": "Code Interpreter in terminal, running locally.",
           "tag": "Open-source",
