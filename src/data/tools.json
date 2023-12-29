@@ -101,6 +101,12 @@
           "url": "https://www.pictorial.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Remix",
+          "body": "Create, share images and video.",
+          "tag": "Free",
+          "url": "https://remix.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "SDXL Turbo",
           "body": "Text-to-image generation.",
           "tag": "Freemium",
@@ -941,6 +947,12 @@
           "url": "https://openrouter.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Patronus AI",
+          "body": "Automated AI evaluation.",
+          "tag": "Not available",
+          "url": "https://www.patronus.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Run LLM",
           "body": "Develop. Iterate. Run LLM.",
           "tag": "Freemium",
@@ -1047,6 +1059,12 @@
           "body": "Build AI-powered web apps.",
           "tag": "Freemium",
           "url": "https://www.buildai.space/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Droxy",
+          "body": "No-code chatbot builder.",
+          "tag": "Freemium",
+          "url": "https://www.droxy.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Imagica",
@@ -1917,6 +1935,12 @@
           "body": "Generate interactive maps from text.",
           "tag": "Freemium",
           "url": "https://www.textomap.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "The Hired AI",
+          "body": "AI job marketplace.",
+          "tag": "Not applicable",
+          "url": "https://thehired.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Tinq",
