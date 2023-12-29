@@ -251,6 +251,12 @@
           "url": "https://codestory.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Continue",
+          "body": "Autopilot in IDE.",
+          "tag": "Open-source",
+          "url": "https://continue.dev/?ref=riseofmachine.com"
+        },
+        {
           "title": "Continuum",
           "body": "AI-powered coding.",
           "tag": "Freemium",
@@ -603,6 +609,12 @@
           "body": "Assistant for software developers.",
           "tag": "Freemium",
           "url": "https://www.tabnine.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Vellum",
+          "body": "Developer platform for LLM apps.",
+          "tag": "Not available",
+          "url": "https://www.vellum.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -1233,6 +1245,12 @@
           "body": "Create photos for any product.",
           "tag": "Freemium",
           "url": "https://pebblely.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Photoleap",
+          "body": "Photo editing app.",
+          "tag": "Freemium",
+          "url": "https://www.photoleapapp.com/?ref=riseofmachine.com"
         },
         {
           "title": "PhotoRoom",
