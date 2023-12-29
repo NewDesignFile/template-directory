@@ -509,10 +509,22 @@
       "category": "developer",
       "content": [
         {
+          "title": "Axflow",
+          "body": "TypeScript framework for AI development.",
+          "tag": "Open-source",
+          "url": "https://axflow.dev/?ref=riseofmachine.com"
+        },
+        {
           "title": "AutoRegex",
           "body": "From English to RegEx.",
           "tag": "Free",
           "url": "https://www.autoregex.xyz/?ref=riseofmachine.com"
+        },
+        {
+          "title": "BuildShip",
+          "body": "Build workflows, APIs, & scheduled jobs.",
+          "tag": "Freemium",
+          "url": "https://buildship.com/?ref=riseofmachine.com"
         },
         {
           "title": "Cosine",
@@ -887,6 +899,12 @@
           "url": "https://github.com/postman-open-technologies/bingchain/?ref=riseofmachine.com"
         },
         {
+          "title": "Giga ML",
+          "body": "On premise secure LLM.",
+          "tag": "Not available",
+          "url": "https://gigaml.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Helicone",
           "body": "Monitor LLM-applications.",
           "tag": "Freemium",
@@ -915,6 +933,12 @@
           "body": "Data analytics copilot.",
           "tag": "Not available",
           "url": "https://www.numbersstation.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "OpenRouter",
+          "body": "A unified interface for LLMs.",
+          "tag": "Not available",
+          "url": "https://openrouter.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Run LLM",
@@ -1809,6 +1833,12 @@
           "body": "Glossary for your product.",
           "tag": "Freemium",
           "url": "https://puzzlelabs.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "RealChar",
+          "body": "Communication with AI character.",
+          "tag": "Freemium",
+          "url": "https://realchar.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Rewin.ai",
