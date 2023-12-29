@@ -1841,6 +1841,12 @@
           "url": "https://nexusflow.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Neum",
+          "body": "RAG framework for large-scale and real-time data.",
+          "tag": "Open-source",
+          "url": "https://www.neum.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Penny",
           "body": "Online shopping assistant.",
           "tag": "Free, Extension",
@@ -1925,6 +1931,12 @@
           "url": "https://www.runpod.io/?ref=riseofmachine.com"
         },
         {
+          "title": "Rysana",
+          "body": "AIUX toolkits and APIs.",
+          "tag": "Open-source",
+          "url": "https://rysana.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Scade",
           "body": "Develop products and services.",
           "tag": "Beta",
@@ -1971,6 +1983,12 @@
           "body": "NLP API toolkit, NLP as a service.",
           "tag": "Starting at $15/mo",
           "url": "https://tinq.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Tinygrad",
+          "body": "Neural network framework.",
+          "tag": "Open-source",
+          "url": "https://tinygrad.org/?ref=riseofmachine.com"
         },
         {
           "title": "Tome",
