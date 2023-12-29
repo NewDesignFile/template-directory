@@ -9,7 +9,7 @@ export default function CategoryNav({ filter, setFilter }) {
     ...data.tools
   ];
 
-  return <nav className="category-nav">
+  return <nav className="category-nav" tabindex="-1">
     {navItems.map((c, i) => {
       return <CategoryNavItem 
         key={i}
