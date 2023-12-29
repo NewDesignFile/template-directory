@@ -999,6 +999,12 @@
           "body": "AI assistant to create music.",
           "tag": "Freemium",
           "url": "https://www.tracksy.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Vocal Remover",
+          "body": "Separate voice from music out of a song.",
+          "tag": "Free",
+          "url": "https://vocalremover.org/?ref=riseofmachine.com"
         }
       ]
     },
