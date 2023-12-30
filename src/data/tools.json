@@ -1643,10 +1643,28 @@
           "url": "https://www.decohere.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Deforum",
+          "body": "Stable Diffusion to generate AI visuals.",
+          "tag": "Beta",
+          "url": "https://deforum.art/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Fal",
+          "body": "Stable video diffusion.",
+          "tag": "Starting $0.00003/s",
+          "url": "https://www.fal.ai/models/svd/playground/?ref=riseofmachine.com"
+        },
+        {
           "title": "Fliki",
           "body": "Create video & audio content.",
           "tag": "Freemium",
           "url": "https://fliki.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Genmo",
+          "body": "Make videos using AI.",
+          "tag": "Freemium",
+          "url": "https://www.genmo.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Heygen",
@@ -1655,10 +1673,22 @@
           "url": "https://www.heygen.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Kaiber",
+          "body": "Text, photos, and music to videos.",
+          "tag": "Starting at $5/mo",
+          "url": "https://kaiber.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Kite",
           "body": "Create Apple-style marketing videos.",
           "tag": "Freemium",
           "url": "https://kite.video/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Magic Hour",
+          "body": "AI video for creators.",
+          "tag": "Freemium",
+          "url": "https://magichour.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Moonvalley",
@@ -1671,6 +1701,12 @@
           "body": "Text to video.",
           "tag": "Beta",
           "url": "https://www.morphstudio.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Neural Frames",
+          "body": "Text to video.",
+          "tag": "Freemium",
+          "url": "https://www.neuralframes.com/?ref=riseofmachine.com"
         },
         {
           "title": "OpusClip",
@@ -1695,6 +1731,12 @@
           "body": "Translate video & audio.",
           "tag": "Starting at $50/mo",
           "url": "https://www.rask.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Runway",
+          "body": "Text to video generation",
+          "tag": "Freemium",
+          "url": "https://runwayml.com/ai-magic-tools/gen-2/?ref=riseofmachine.com"
         },
         {
           "title": "SpiritMe",
