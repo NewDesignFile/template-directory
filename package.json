@@ -10,11 +10,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/cloudflare": "^8.0.0",
-    "@astrojs/react": "^3.0.7",
-    "@types/react": "^18.2.45",
+    "@astrojs/cloudflare": "^8.0.1",
+    "@astrojs/react": "^3.0.9",
+    "@types/react": "^18.2.46",
     "@types/react-dom": "^18.2.18",
-    "astro": "^4.0.3",
+    "astro": "^4.0.8",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
   },
@@ -24,10 +24,10 @@
     "@new-ui/spacings": "^0.1.1",
     "@new-ui/typography": "^0.1.5"
   },
-  "description": "A curated list of powerful AI tools.",
+  "description": "A curated collection of 300+ AI tools for indie hackers, makers, and SMBs.",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/MethodBlack/riseofmachine.git"
   },
-  "author": "Abhimanyu Rana"
+  "author": "Abhimanyu Rana <contact@new-ui.com> (https://new-ui.com/)"
 }
