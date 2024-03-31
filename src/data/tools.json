@@ -419,9 +419,9 @@
           "url": "https://typli.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "WooCommerce AI 🆕",
+          "title": "WooCommerce AI",
           "body": "AI product description writer.",
-          "tag": "Freemium",
+          "tag": "🆕 Freemium",
           "url": "https://writetext.ai/woocommerce/?ref=riseofmachine.com"
         },
         {
@@ -1061,9 +1061,9 @@
           "url": "https://music.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Imagetomusic 🆕",
+          "title": "Imagetomusic",
           "body": "AI Image to Music Generator",
-          "tag": "Freemium",
+          "tag": "🆕 Freemium",
           "url": "https://imagetomusic.top/?ref=riseofmachine.com"
         },
         {
@@ -1073,9 +1073,9 @@
           "url": "https://www.jenmusic.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Mix Audio 🆕",
+          "title": "Mix Audio",
           "body": "Multimodal AI music generator.",
-          "tag": "Freemium",
+          "tag": "🆕 Freemium",
           "url": "https://mix.audio/?ref=riseofmachine.com"
         },
         {
@@ -1241,9 +1241,9 @@
           "url": "https://www.hama.app/?ref=riseofmachine.com"
         },
         {
-          "title": "Imggen AI 🆕",
+          "title": "Imggen AI",
           "body": "Free online AI image generator.",
-          "tag": "Free",
+          "tag": "🆕 Free",
           "url": "https://imggen.ai/?ref=riseofmachine.com"
         },
         {
@@ -1301,9 +1301,9 @@
           "url": "https://www.photoroom.com/?ref=riseofmachine.com"
         },
         {
-          "title": "PortraitArt 🆕",
+          "title": "PortraitArt",
           "body": "Turn photos into art.",
-          "tag": "Starting at $7.99",
+          "tag": "🆕 Starting at $7.99",
           "url": "https://portraitart.app/?ref=riseofmachine.com"
         },
         {
@@ -1345,8 +1345,14 @@
         {
           "title": "ChatGPT Writer",
           "body": "Generate emails & replies.",
-          "tag": "Free, Extension",
+          "tag": "Extension",
           "url": "https://chatgptwriter.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Chatize",
+          "body": "Chat with documents.",
+          "tag": "🆕 Freemium",
+          "url": "https://www.chatize.com/?ref=riseofmachine.com"
         },
         {
           "title": "CognosysAI",
