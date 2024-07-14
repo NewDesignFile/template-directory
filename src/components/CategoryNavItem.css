@@ -6,7 +6,7 @@
   background: none;
   cursor: pointer;
   border-bottom: 2px solid transparent;
-  font-family: var(--system-ui);
+  font-family: var(--body-copy);
   font-weight: 400;
   color: var(--text-secondary-alt);
 }

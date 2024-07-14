@@ -48,5 +48,5 @@ span.tag {
   margin-top: var(--spacing-08);
   font-size: var(--desktop-caption);
   line-height: var(--lh-desktop-caption);
-  font-family: var(--system-ui);
+  font-family: var(--body-copy);
 }

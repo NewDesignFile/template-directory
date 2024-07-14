@@ -1,7 +1,7 @@
 {
   "tools": [
     {
-      "title": "&#128511; Art",
+      "title": "Art",
       "category": "art",
       "content": [
         {
@@ -133,7 +133,7 @@
       ]
     },
     {
-      "title": "&#127911; Audio",
+      "title": "Audio",
       "category": "audio",
       "content": [
         {
@@ -223,7 +223,7 @@
       ]
     },
     {
-      "title": "&#9749; Code",
+      "title": "Code",
       "category": "code",
       "content": [
         {
@@ -289,7 +289,7 @@
       ]
     },
     {
-      "title": "&#9997; Copywriting",
+      "title": "Copywriting",
       "category": "copywriting",
       "content": [
         {
@@ -469,7 +469,7 @@
       ]
     },
     {
-      "title": "&#127912; Design",
+      "title": "Design",
       "category": "design",
       "content": [
         {
@@ -565,7 +565,7 @@
       ]
     },
     {
-      "title": "&#129299; Developer",
+      "title": "Developer",
       "category": "developer",
       "content": [
         {
@@ -661,7 +661,7 @@
       ]
     },
     {
-      "title": "&#127891; Education",
+      "title": "Education",
       "category": "education",
       "content": [
         {
@@ -697,7 +697,7 @@
       ]
     },
     {
-      "title": "&#127961; Enterprise",
+      "title": "Enterprise",
       "category": "enterprise",
       "content": [
         {
@@ -871,7 +871,7 @@
       ]
     },
     {
-      "title": "&#128126; Gaming",
+      "title": "Gaming",
       "category": "gaming",
       "content": [
         {
@@ -907,7 +907,7 @@
       ]
     },
     {
-      "title": "&#128519; Health",
+      "title": "Health",
       "category": "health",
       "content": [
         {
@@ -955,7 +955,7 @@
       ]
     },
     {
-      "title": "&#9878; Legal",
+      "title": "Legal",
       "category": "legal",
       "content": [
         {
@@ -991,7 +991,7 @@
       ]
     },
     {
-      "title": "&#128268; LLMs",
+      "title": "LLMs",
       "category": "llm",
       "content": [
         {
@@ -1087,7 +1087,7 @@
       ]
     },
     {
-      "title": "&#127928; Music",
+      "title": "Music",
       "category": "music",
       "content": [
         {
@@ -1159,7 +1159,7 @@
       ]
     },
     {
-      "title": "&#129337; No Code",
+      "title": "No Code",
       "category": "nocode",
       "content": [
         {
@@ -1231,7 +1231,7 @@
       ]
     },
     {
-      "title": "&#128248; Photos",
+      "title": "Photos",
       "category": "photos",
       "content": [
         {
@@ -1387,7 +1387,7 @@
       ]
     },
     {
-      "title": "&#128170; Productivity",
+      "title": "Productivity",
       "category": "productivity",
       "content": [
         {
@@ -1537,7 +1537,7 @@
       ]
     },
     {
-      "title": "&#129665; Prompts",
+      "title": "Prompts",
       "category": "prompts",
       "content": [
         {
@@ -1609,7 +1609,7 @@
       ]
     },
     {
-      "title": "&#128218; Research",
+      "title": "Research",
       "category": "research",
       "content": [
         {
@@ -1657,7 +1657,7 @@
       ]
     },
     {
-      "title": "&#128077; Social Media",
+      "title": "Social Media",
       "category": "social",
       "content": [
         {
@@ -1723,7 +1723,7 @@
       ]
     },
     {
-      "title": "&#128249; Video",
+      "title": "Video",
       "category": "video",
       "content": [
         {
@@ -1849,7 +1849,7 @@
       ]
     },
     {
-      "title": "&#10024; Xtras",
+      "title": "Xtras",
       "category": "xtras",
       "content": [
         {
