@@ -30,13 +30,14 @@ const { site, title, tagline } = Astro.props;
   <body>
 		<div class="floating-nav" aria-label="main navigation">
 			<div class="logo">
-				<a href="/" aria-label="home page"><img src="/icon.png" width="24" height="24" alt="Rise of Machine" aria-hidden="true"></a>
+				<a href="/" aria-label="home page" tabindex="-1"><img src="/icon.png" width="24" height="24" alt="Rise of Machine" aria-hidden="true"></a>
 			</div>
       <div class="btn-group">
 				<a
 					href="https://forms.gle/pzpG1cbxW6AA57uc9"
 					target="_blank"
 					class="submit-btn"
+          tabindex="0"
           >Suggest a Tool</a
 				>
 				<button
