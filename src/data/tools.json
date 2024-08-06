@@ -353,12 +353,6 @@
           "url": "https://cowriter.org/?ref=riseofmachine.com"
         },
         {
-          "title": "HypeGenius",
-          "body": "Create and publish newsletters.",
-          "tag": "Closed Beta",
-          "url": "https://hypegenius.xyz/?ref=riseofmachine.com"
-        },
-        {
           "title": "HyperWrite",
           "body": "AI writing assistant.",
           "tag": "Freemium",
@@ -545,22 +539,10 @@
           "url": "https://magician.design/?ref=riseofmachine.com"
         },
         {
-          "title": "Pattern Maker AI",
-          "body": "Generate patterns.",
-          "tag": "One-time, Subscription",
-          "url": "https://patternmakerai.com/?ref=riseofmachine.com"
-        },
-        {
           "title": "Patterned AI",
           "body": "Generate patterns.",
           "tag": "Starting at $10/mo",
           "url": "https://www.patterned.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Stey",
-          "body": "AI-assisted user behavior replays.",
-          "tag": "Free",
-          "url": "https://stey.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Uizard",
@@ -1095,12 +1077,6 @@
           "body": "Connect LLMs to your data.",
           "tag": "Freemium",
           "url": "https://superpowered.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "SuperSight",
-          "body": "Crypto-specific LLMs.",
-          "tag": "Not available",
-          "url": "https://supersight.xyz/?ref=riseofmachine.com"
         }
       ]
     },
@@ -1919,12 +1895,6 @@
           "url": "https://boostbot.ai/?ref=riseofmachine.com"
         },
         {
-          "title": "Cinem AI",
-          "body": "Share and watch AI-generated movies & videos.",
-          "tag": "Not available",
-          "url": "https://cinemai.tv/?ref=riseofmachine.com"
-        },
-        {
           "title": "Clickable",
           "body": "Generate ads for marketing channels.",
           "tag": "Beta",
@@ -2151,12 +2121,6 @@
           "body": "Copilot for sensor data.",
           "tag": "Freemium",
           "url": "https://www.roboto.ai/?ref=riseofmachine.com"
-        },
-        {
-          "title": "RocketAI",
-          "body": "Generate visuals and copywriting.",
-          "tag": "Starting at $19/mo",
-          "url": "https://www.rocketai.io/?ref=riseofmachine.com"
         },
         {
           "title": "RunDiffusion",
