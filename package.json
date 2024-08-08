@@ -11,17 +11,18 @@
   },
   "dependencies": {
     "@astrojs/cloudflare": "^9.2.0",
-    "@astrojs/react": "^3.5.0",
+    "@astrojs/react": "^3.6.1",
     "@types/react": "^18.3.3",
     "@types/react-dom": "^18.3.0",
-    "astro": "^4.10.2",
+    "astro": "^4.13.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
   "devDependencies": {
     "@new-ui/colors": "^1.3.0",
-    "@new-ui/effects": "^0.1.0",
-    "@new-ui/spacings": "^0.1.1",
+    "@new-ui/effects": "^0.1.3",
+    "@new-ui/reset": "^0.0.3",
+    "@new-ui/spacings": "^0.1.3",
     "@new-ui/typography": "^0.1.6"
   },
   "description": "A curated collection of 300+ AI tools for indie hackers, makers, and SMBs.",
