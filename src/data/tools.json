@@ -293,6 +293,12 @@
           "url": "https://cursor.sh/?ref=riseofmachine.com"
         },
         {
+          "title": "Cursor Directory",
+          "body": ".cursorrules files directory.",
+          "tag": "Freemium",
+          "url": "https://cursor.directory/?ref=riseofmachine.com"
+        },
+        {
           "title": "GitHub Copilot",
           "body": "AI pair programmer.",
           "tag": "Starting at $10/mo",
@@ -555,6 +561,12 @@
           "body": "Generate patterns.",
           "tag": "Starting at $10/mo",
           "url": "https://www.patterned.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Shape of AI",
+          "body": "UX patterns for AI design.",
+          "tag": "Freemium",
+          "url": "https://www.shapeof.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Uizard",
