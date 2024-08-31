@@ -1205,6 +1205,12 @@
           "url": "https://www.chaindesk.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Create",
+          "body": "Text to app.",
+          "tag": "Freemium",
+          "url": "https://www.create.xyz/?ref=riseofmachine.com"
+        },
+        {
           "title": "Droxy",
           "body": "No-code chatbot builder.",
           "tag": "Freemium",
@@ -1305,6 +1311,12 @@
           "body": "Remove background from images.",
           "tag": "Starting at $0/mo",
           "url": "https://www.erase.bg/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Flux AI Online",
+          "body": "Generate AI images.",
+          "tag": "Freemium",
+          "url": "https://fluxaiweb.com/?ref=riseofmachine.com"
         },
         {
           "title": "Green Screen AI",

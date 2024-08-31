@@ -75,7 +75,7 @@ const { site, title, tagline } = Astro.props;
     <slot />
 
     <div class="footer">
-      Built with <a href="https://new-ui.com/templates/directory" class="nu-u-link--subtle" target="_blank">New UI</a> &amp; Astro [┐∵]┘
+      <p>Curated by <a href="https://planetabhi.com/" class="nu-u-link--subtle" target="_blank">@planetabhi</a>. Built with <a href="https://new-ui.com/templates/directory" class="nu-u-link--subtle" target="_blank">New UI</a> &amp; Astro. [┐∵]┘</p>
     </div>
 
   </body>
@@ -224,7 +224,7 @@ const { site, title, tagline } = Astro.props;
       --icon-fill-hover: var(--icon-secondary);
     }
   }
-  .footer {
+  .footer p{
     padding-bottom: var(--spacing-10);
     text-align: center;
     font-weight: normal;
