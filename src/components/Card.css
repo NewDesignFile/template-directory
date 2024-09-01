@@ -45,7 +45,7 @@ span.tag {
   padding: calc(.25rem - 1px) calc(.5rem - 1px);
   border-radius: var(--spacing-02);
   display: inline-block;
-  color: var(--text-primary);
+  color: var(--text-secondary);
   margin-top: var(--spacing-08);
   font-size: var(--desktop-caption);
   line-height: var(--lh-desktop-caption);
