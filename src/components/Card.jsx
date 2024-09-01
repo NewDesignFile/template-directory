@@ -5,9 +5,9 @@ export default function Card(props) {
 
   return <li className="link-card">
     <a href={href}>
-      <h6 className="nu-c-h6 nu-u-mt-1 nu-u-mb-1">
+      <strong className="nu-c-h6 nu-u-mt-1 nu-u-mb-1">
         {title}
-      </h6>
+      </strong>
       <p className="nu-c-fs-small nu-u-mt-1 nu-u-mb-1">
         {body}
       </p>

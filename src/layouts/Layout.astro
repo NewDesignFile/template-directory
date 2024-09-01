@@ -16,12 +16,12 @@ const { site, title, tagline } = Astro.props;
     <link rel="icon" type="image/svg+xml" href="/icon.png" />
     <script src="./theme.js"></script>
     <meta name="generator" content={Astro.generator} />
-    <title>{site} — Discover 300+ AI tools curated for indie hackers, makers, and SMBs.</title>
+    <title>{site} — Discover 300+ AI tools curated for makers and SMBs.</title>
     <meta name="author" content="Method Black">
-    <meta name="description" content="Discover 300+ AI tools curated for indie hackers, makers, and SMBs.">
+    <meta name="description" content="Discover 300+ AI tools curated for makers and SMBs.">
     <meta property="og:title" content="Rise of Machine">
     <meta property="og:type" content="website" />
-    <meta property="og:description" content="Discover 300+ AI tools curated for indie hackers, makers, and SMBs.">
+    <meta property="og:description" content="Discover 300+ AI tools curated for makers and SMBs.">
     <meta property="og:image" content="https://res.cloudinary.com/drwfwpkeo/image/upload/v1703755911/Light_Screenshot_ub9ydn.png">
     <meta property="og:url" content="https://riseofmachine.com/">
     <meta name="twitter:card" content="summary_large_image">
@@ -69,38 +69,23 @@ const { site, title, tagline } = Astro.props;
         <h1 class="nu-c-h3 nu-u-text--primary nu-u-mt-0 nu-u-mb-2 title">
           {title}
         </h1>
-        <p class="nu-c-fs-normal nu-u-text--secondary-alt description-text">{tagline}</p>
+        <p class="nu-c-fs-normal nu-u-text--secondary description-text">{tagline}</p>
       </div>
     </header>
     <slot />
 
     <div class="footer">
-      <p>Curated by <a href="https://planetabhi.com/" class="nu-u-link--subtle" target="_blank">@planetabhi</a>. Built with <a href="https://new-ui.com/templates/directory" class="nu-u-link--subtle" target="_blank">New UI</a> &amp; Astro. [┐∵]┘</p>
+      <p>Curated by <a href="https://planetabhi.com/" class="nu-u-link--subtle" target="_blank">@planetabhi</a> · Built with New UI &amp; Astro · <a href="https://new-ui.com/templates/directory" class="nu-u-link--subtle" target="_blank">Grab this template</a></p>
     </div>
 
   </body>
 </html>
 <style is:global>
-  @font-face {
-    font-family: 'body-copy';
-    src: url('/fonts/body-copy.woff') format('woff');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
-  @font-face {
-    font-family: 'body-copy';
-    src: url('/fonts/body-copy.woff2') format('woff2');
-    font-weight: normal;
-    font-style: normal;
-    font-display: swap;
-  }
   :root {
     --accent: var(--support-info);
-    --body-copy: 'body-copy', system-ui, sans-serif;
   }
   html {
-    font-family: var(--body-copy);
+    font-family: var(--system-ui);
     background-color: var(--background);
   }
   body {
@@ -120,7 +105,7 @@ const { site, title, tagline } = Astro.props;
     margin-top: var(--spacing-00);
   }
   p.description-text {
-    max-inline-size: 600px;
+    max-inline-size: 37.5rem;
   }
   .nu-u-link--subtle {
     color: var(--text-secondary) !important;
@@ -215,9 +200,7 @@ const { site, title, tagline } = Astro.props;
     display: flex;
     justify-content: center;
     align-items: center;
-    /* border: 1px solid var(--border-muted); */
     border-radius: var(--spacing-02);
-    /* background-color: var(--background); */
 
     @nest [data-theme="dark"] & {
       --icon-fill: var(--icon-secondary);
@@ -234,7 +217,7 @@ const { site, title, tagline } = Astro.props;
     line-height: var(--lh-desktop-body);
   }
 
-  @media (max-width: 480px) {
+  @media (max-width: 30rem) {
     main {margin: auto var(--spacing-06);}
     .floating-nav { padding: var(--spacing-06) var(--spacing-06);}
     .container { margin: var(--spacing-06);}
@@ -242,7 +225,7 @@ const { site, title, tagline } = Astro.props;
   
   /* logo animation */
   .logo {
-    transition: all .12s ease-out;
+    transition: all .2s ease-out;
     padding-top: var(--spacing-03);
   }
   .logo:hover {
@@ -269,88 +252,66 @@ const { site, title, tagline } = Astro.props;
       transform: scale(1.2);
     }
   }
-
 </style>
-
-  <!-- Google tag (gtag.js) -->
-  <script async src="https://www.googletagmanager.com/gtag/js?id=G-BLXD7VCZH0"
-  ></script>
-  <script>
-    window.dataLayer = window.dataLayer || [];
-    function gtag() {
-      dataLayer.push(arguments);
-    }
-    gtag("js", new Date());
-
-    gtag("config", "G-BLXD7VCZH0");
-  </script>
   
 <script>
-  // Scrolls back to top on page refresh
-  history.scrollRestoration = "manual";
-  window.onbeforeunload = function () {
-    window.scrollTo(0, 0);
-  };
+history.scrollRestoration = "manual";
+window.onbeforeunload = function () {
+  window.scrollTo(0, 0);
+};
 
-  const nav = document.querySelector('.floating-nav');
-	const pageCTA = document.querySelector('.floating-nav .submit-btn');
+const nav = document.querySelector('.floating-nav');
+const pageCTA = document.querySelector('.floating-nav .submit-btn');
+var pageCTAPosition = 0;
+if (pageCTA) {
+  pageCTAPosition = pageCTA.getBoundingClientRect().bottom;
+}
 
-	var pageCTAPosition = 0;
-	if (pageCTA) {
-		pageCTAPosition = pageCTA.getBoundingClientRect().bottom;
-	}
+var previousScrollPosition = 0;
 
-  var previousScrollPosition = 0;
-
-  const handleNavScroll = () => {
-    let currentScrolledPosition = window.scrollY || window.pageYOffset;
-
-    if (isScrollingDown()) {
-      nav.classList.add("scroll-down");
-      nav.classList.remove("scroll-up");
-    } else {
-      nav.classList.add("scroll-up");
-      nav.classList.remove("scroll-down");
-    }
-
-    if (currentScrolledPosition > pageCTAPosition + 50) {
-      if (!nav.classList.contains("is-active")) {
-        nav.classList.add("is-active");
-      }
-    } else {
-      if (nav.classList.contains("is-active")) {
-        nav.classList.remove("is-active");
-      }
-    }
-  };
-
-  function isScrollingDown() {
-    let currentScrolledPosition = window.scrollY || window.pageYOffset;
-    let scrollingDown;
-
-    if (currentScrolledPosition > previousScrollPosition) {
-      scrollingDown = true;
-    } else {
-      scrollingDown = false;
-    }
-    previousScrollPosition = currentScrolledPosition;
-    return scrollingDown;
+const handleNavScroll = () => {
+  let currentScrolledPosition = window.scrollY || window.pageYOffset;
+  if (isScrollingDown()) {
+    nav.classList.add("scroll-down");
+    nav.classList.remove("scroll-up");
+  } else {
+    nav.classList.add("scroll-up");
+    nav.classList.remove("scroll-down");
   }
-
-  var throttleWait;
-
-  function throttle(callback, time) {
-    if (throttleWait) return;
-
-    throttleWait = true;
-    setTimeout(() => {
-      callback();
-
-      throttleWait = false;
-    }, time);
+  if (currentScrolledPosition > pageCTAPosition + 50) {
+    if (!nav.classList.contains("is-active")) {
+      nav.classList.add("is-active");
+    }
+  } else {
+    if (nav.classList.contains("is-active")) {
+      nav.classList.remove("is-active");
+    }
   }
+};
 
-  window.addEventListener("scroll", () => {
-    throttle(handleNavScroll, 80);
-  });
+function isScrollingDown() {
+  let currentScrolledPosition = window.scrollY || window.pageYOffset;
+  let scrollingDown;
+  if (currentScrolledPosition > previousScrollPosition) {
+    scrollingDown = true;
+  } else {
+    scrollingDown = false;
+  }
+  previousScrollPosition = currentScrolledPosition;
+  return scrollingDown;
+}
+
+var throttleWait;
+function throttle(callback, time) {
+  if (throttleWait) return;
+  throttleWait = true;
+  setTimeout(() => {
+    callback();
+    throttleWait = false;
+  }, time);
+}
+
+window.addEventListener("scroll", () => {
+  throttle(handleNavScroll, 80);
+});
 </script>

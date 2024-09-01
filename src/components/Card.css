@@ -4,14 +4,14 @@
   background-color: var(--background-secondary);
   background-position: 100%;
   border-radius: var(--spacing-03);
-  height: 136px;
+  height: 8.5rem;
   position: relative;
   --shadow-color: rgb(0 0 0 / 0.04);
   box-shadow: 0px 0px 0px 1px var(--background-selected),
   0px 1px 1px -0.5px var(--shadow-color),
   0px 3px 3px -1.5px var(--shadow-color),
   0px 12px 12px -6px var(--shadow-color);
-  transition:all .12s ease-out;
+  transition:all .2s ease-out;
 }
 
 .link-card>a {
@@ -19,6 +19,7 @@
   text-decoration: none;
   padding: 0.8rem 1.2rem;
   color: var(--support-info);
+  justify-content: space-between;
 }
 
 p {
@@ -44,7 +45,7 @@ span.tag {
   padding: calc(.25rem - 1px) calc(.5rem - 1px);
   border-radius: var(--spacing-02);
   display: inline-block;
-  color: var(--text-primary-alt);
+  color: var(--text-primary);
   margin-top: var(--spacing-08);
   font-size: var(--desktop-caption);
   line-height: var(--lh-desktop-caption);

@@ -1,6 +1,7 @@
 ---
 import Layout from "../layouts/Layout.astro";
 
+import "@new-ui/reset";
 import "@new-ui/colors";
 import "@new-ui/typography";
 import "@new-ui/effects";
@@ -11,31 +12,9 @@ import Dashboard from "../components/Dashboard";
 <Layout
   site="Rise of Machine"
   title="Make the Most of It"
-  tagline="Discover 300+ AI tools curated for indie hackers, makers, and SMBs."
+  tagline="Discover 300+ AI tools curated for makers and SMBs."
 >
   <main>
     <Dashboard client:load />
   </main>
 </Layout>
-
-<style>
-  h6.separator {
-    margin: 1rem 0;
-    color: var(--text-secondary);
-    display: table;
-  }
-  h6.separator:after {
-    border-top: 2px dotted var(--border-muted);
-    content: "";
-    display: table-cell;
-    position: relative;
-    top: var(--spacing-06);
-    width: 100%;
-  }
-  h6.separator:before {
-    right: 1%;
-  }
-  h6.separator:after {
-    left: 1%;
-  }
-</style>
