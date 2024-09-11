@@ -95,6 +95,12 @@
           "url": "https://lexica.art/?ref=riseofmachine.com"
         },
         {
+          "title": "Melies",
+          "body": "AI Filmmaking software.",
+          "tag": "Private Beta",
+          "url": "https://melies.co/?ref=riseofmachine.com"
+        },
+        {
           "title": "Midjourneysref",
           "body": "MidJourney sref codes.",
           "tag": "Free",
@@ -123,6 +129,12 @@
           "body": "Text-to-image generation.",
           "tag": "Freemium",
           "url": "https://sdxlturbo.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SREF Midjourney",
+          "body": "Midjourney sref codes library.",
+          "tag": "Freemium",
+          "url": "https://sref-midjourney.com/?ref=riseofmachine.com"
         },
         {
           "title": "Stockimg",
@@ -303,6 +315,12 @@
           "body": "AI pair programmer.",
           "tag": "Starting at $10/mo",
           "url": "https://github.com/features/copilot/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Melty",
+          "body": "AI code editor.",
+          "tag": "Early access",
+          "url": "https://melty.sh/?ref=riseofmachine.com"
         }
       ]
     },
@@ -1673,6 +1691,12 @@
           "url": "https://consensus.app/?ref=riseofmachine.com"
         },
         {
+          "title": "Domain Name Generator",
+          "body": "Generate domain names.",
+          "tag": "Freemium",
+          "url": "https://refined.so/tools/free-domain-name-generator?ref=riseofmachine.com"
+        },
+        {
           "title": "Isaac",
           "body": "Workspace for researchers.",
           "tag": "Freemium",
@@ -1701,6 +1725,18 @@
           "body": "Investment research and due diligence.",
           "tag": "Not available",
           "url": "https://www.wokelo.ai/?ref=riseofmachine.com"
+        }
+      ]
+    },
+    {
+      "title": "SEO",
+      "category": "seo",
+      "content": [
+        {
+          "title": "WriteText Shopify",
+          "body": "Generate product and SEO texts.",
+          "tag": "Freemium",
+          "url": "https://writetext.ai/shopify?ref=riseofmachine.com"
         }
       ]
     },
@@ -1767,6 +1803,12 @@
           "body": "Social media and SEO tools.",
           "tag": "Not available",
           "url": "https://www.360toolz.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Videolulu",
+          "body": "Ideas into viral shorts.",
+          "tag": "Freemium",
+          "url": "https://videolulu.com/?ref=riseofmachine.com"
         }
       ]
     },
