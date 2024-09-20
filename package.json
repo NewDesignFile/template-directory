@@ -1,7 +1,7 @@
 {
   "name": "riseofmachine",
   "version": "0.1.0",
-  "description": "Discover 300+ AI tools curated for makers and SMBs.",
+  "description": "Discover AI tools curated for makers and SMBs.",
   "type": "module",
   "private": true,
   "scripts": {
