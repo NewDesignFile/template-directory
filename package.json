@@ -12,11 +12,11 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/netlify": "^5.5.1",
+    "@astrojs/netlify": "^5.5.3",
     "@astrojs/react": "^3.6.2",
-    "@types/react": "^18.3.5",
+    "@types/react": "^18.3.10",
     "@types/react-dom": "^18.3.0",
-    "astro": "^4.15.1",
+    "astro": "^4.15.9",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
