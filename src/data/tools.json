@@ -47,6 +47,12 @@
           "url": "https://fluxlora.net/?ref=riseofmachine.com"
         },
         {
+          "title": "FurryAI",
+          "body": "Furry AI art generator.",
+          "tag": "Freemium",
+          "url": "https://www.furryaiart.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Freepik Pikaso",
           "body": "Generative AI with Freepik.",
           "tag": "Free",
@@ -119,10 +125,22 @@
           "url": "https://mirrorize.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "OCMaker",
+          "body": "Generate characters online.",
+          "tag": "Freemium",
+          "url": "https://www.ocmaker.net/?ref=riseofmachine.com"
+        },
+        {
           "title": "Pictorial",
           "body": "Visual generator for businesses.",
           "tag": "Starting at $8.99/mo",
           "url": "https://www.pictorial.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "PixarAI",
+          "body": "Disney pixar-inspired AI generator.",
+          "tag": "Freemium",
+          "url": "https://www.pixarai.com/?ref=riseofmachine.com"
         },
         {
           "title": "Remix",
@@ -737,6 +755,12 @@
           "url": "https://gradergood.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Math.now",
+          "body": "Solve math problems.",
+          "tag": "Free",
+          "url": "https://math.now/?ref=riseofmachine.com"
+        },
+        {
           "title": "Studdy",
           "body": "Snap and ask.",
           "tag": "Freemium",
@@ -1203,6 +1227,12 @@
           "body": "Make a song.",
           "tag": "Freemium",
           "url": "https://www.suno.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "ToMusic",
+          "body": "Text to music generator.",
+          "tag": "Freemium",
+          "url": "https://tomusic.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Tracksy",
@@ -2021,6 +2051,12 @@
           "url": "https://boostbot.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "BrickCenter",
+          "body": "Generate custom brick sets.",
+          "tag": "Freemium",
+          "url": "https://www.brickcenter.net/?ref=riseofmachine.com"
+        },
+        {
           "title": "Clickable",
           "body": "Generate ads for marketing channels.",
           "tag": "Beta",
@@ -2181,6 +2217,12 @@
           "body": "Online shopping assistant.",
           "tag": "Free, Extension",
           "url": "https://penny.im/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Peerfect",
+          "body": "Cover letter generator.",
+          "tag": "Free",
+          "url": "https://peerfect.net/coverletter?ref=riseofmachine.com"
         },
         {
           "title": "Personal",
