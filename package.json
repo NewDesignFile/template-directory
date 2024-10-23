@@ -35,7 +35,7 @@
     "type": "git",
     "url": "git+https://github.com/New-Templates/directory.git"
   },
-  "author": "@planetabhi <contact@new-ui.com> (https://new-ui.com/)",
+  "author": "@planetabhi",
   "license": "MIT",
   "publishConfig": {
     "access": "public"
