@@ -425,6 +425,12 @@
           "url": "https://aihumanize.io/?ref=riseofmachine.com"
         },
         {
+          "title": "Humanize",
+          "body": "Humanize AI text free online.",
+          "tag": "Free",
+          "url": "https://humanize.im/?ref=riseofmachine.com"
+        },
+        {
           "title": "Hypotenuse",
           "body": "Writing assistant.",
           "tag": "Starting at $29/mo",
@@ -1535,6 +1541,12 @@
       "category": "productivity",
       "content": [
         {
+          "title": "Autotab",
+          "body": "Build browser automations.",
+          "tag": "Freemium",
+          "url": "https://www.autotab.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "ChatGPT Writer",
           "body": "Generate emails & replies.",
           "tag": "Extension",
@@ -1943,6 +1955,12 @@
           "url": "https://deforum.art/?ref=riseofmachine.com"
         },
         {
+          "title": "DreamCut",
+          "body": "AI video editor and screen recorder.",
+          "tag": "Freemium",
+          "url": "https://dreamcut.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Fal",
           "body": "Stable video diffusion.",
           "tag": "Starting $0.00003/s",
@@ -2043,6 +2061,12 @@
           "body": "Create videos with digital avatars.",
           "tag": "Starting at $30/mo",
           "url": "https://spiritme.tech/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Videomaker",
+          "body": "Luma AI video maker free online.",
+          "tag": "Free",
+          "url": "https://videomaker.me/?ref=riseofmachine.com"
         }
       ]
     },
@@ -2157,6 +2181,18 @@
           "body": "AI-powered assistant.",
           "tag": "Not available",
           "url": "https://floworks.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Generators",
+          "body": "A curated list of AI generators.",
+          "tag": "Free",
+          "url": "https://aigenerator.cc/?ref=riseofmachine.com"
+        },
+        {
+          "title": "GPT4o",
+          "body": "Discover GPT-4o's capabilities.",
+          "tag": "Freemium",
+          "url": "https://gpt4o.so/?ref=riseofmachine.com"
         },
         {
           "title": "Helix",
@@ -2421,6 +2457,12 @@
           "body": "Generate marketing content.",
           "tag": "Freemium",
           "url": "https://unbounce.com/product/smart-copy/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Uwear",
+          "body": "AI generated fashion models.",
+          "tag": "Freemium",
+          "url": "https://uwear.ai/?ref=riseofmachine.com"
         },
         {
           "title": "VoicePen",
