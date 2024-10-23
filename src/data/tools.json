@@ -593,6 +593,12 @@
           "url": "https://www.kittl.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Logo Galleria",
+          "body": "AI logo maker.",
+          "tag": "Freemium",
+          "url": "https://logogalleria.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Magician",
           "body": "Generate icons, copy & images in Figma.",
           "tag": "Beta, $5/mo",
@@ -749,6 +755,12 @@
           "url": "https://everlearns.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Examful AI",
+          "body": "AP, IB, A-Level papers and tutoring.",
+          "tag": "Free",
+          "url": "https://examful.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Grader Good",
           "body": "Grading tool for educators.",
           "tag": "Starting at $119/yr",
@@ -759,6 +771,12 @@
           "body": "Solve math problems.",
           "tag": "Free",
           "url": "https://math.now/?ref=riseofmachine.com"
+        },
+        {
+          "title": "My Math Solver AI",
+          "body": "Solve math problems.",
+          "tag": "Free",
+          "url": "https://mymathsolver.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Studdy",
@@ -1079,6 +1097,12 @@
       "category": "llm",
       "content": [
         {
+          "title": "AI Agents List",
+          "body": "AI agents to complete workflows.",
+          "tag": "Free",
+          "url": "https://aiagentslist.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "BingChain",
           "body": "Langchain/AutoGPT alternative in ~300 lines of core code.",
           "tag": "Open-source",
@@ -1209,6 +1233,12 @@
           "body": "Generate music with AI",
           "tag": "Free",
           "url": "https://www.songburst.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Song Generator",
+          "body": "AI music generator free online.",
+          "tag": "Freemium",
+          "url": "https://songgenerator.io/?ref=riseofmachine.com"
         },
         {
           "title": "Soundry",
@@ -1389,6 +1419,12 @@
           "body": "Change the background of any image.",
           "tag": "Free, In-app purchases",
           "url": "https://greenscreenai.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Hairstyle",
+          "body": "AI haircut simulator.",
+          "tag": "Freemium",
+          "url": "https://aihairstyle.net/?ref=riseofmachine.com"
         },
         {
           "title": "Hama",
@@ -2055,6 +2091,18 @@
           "body": "Generate custom brick sets.",
           "tag": "Freemium",
           "url": "https://www.brickcenter.net/?ref=riseofmachine.com"
+        },
+        {
+          "title": "BypassGPT",
+          "body": "AI-generated text into human-like content.",
+          "tag": "Freemium",
+          "url": "https://bypassgpt.co/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Chat100",
+          "body": "Free AI chat with GPT4o & Claude 3.5 Sonnet.",
+          "tag": "Free",
+          "url": "https://chat100.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Clickable",
