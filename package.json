@@ -3,7 +3,11 @@
   "version": "0.1.0",
   "description": "Discover AI tools curated for makers and SMBs.",
   "type": "module",
-  "private": true,
+  "private": false,
+  "main": "src/data/tools.json",
+  "files": [
+    "src/data/tools.json"
+  ],
   "scripts": {
     "dev": "astro dev",
     "start": "astro dev",
@@ -14,9 +18,9 @@
   "dependencies": {
     "@astrojs/netlify": "^5.5.4",
     "@astrojs/react": "^3.6.2",
-    "@types/react": "^18.3.11",
+    "@types/react": "^18.3.12",
     "@types/react-dom": "^18.3.1",
-    "astro": "^4.16.6",
+    "astro": "^4.16.7",
     "react": "^18.3.1",
     "react-dom": "^18.3.1"
   },
@@ -32,5 +36,8 @@
     "url": "git+https://github.com/New-Templates/directory.git"
   },
   "author": "@planetabhi <contact@new-ui.com> (https://new-ui.com/)",
-  "license": "MIT"
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  }
 }
