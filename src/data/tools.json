@@ -413,6 +413,12 @@
           "url": "https://cowriter.org/?ref=riseofmachine.com"
         },
         {
+          "title": "Detector Writer",
+          "body": "Free AI content detector.",
+          "tag": "Free",
+          "url": "https://aidetectorwriter.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "HyperWrite",
           "body": "AI writing assistant.",
           "tag": "Freemium",
@@ -1175,6 +1181,12 @@
           "url": "https://www.patronus.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Replicate",
+          "body": "Run, fine-tune, deploy open-source models.",
+          "tag": "Freemium",
+          "url": "https://replicate.com/?ref=riseofmachine.com"
+        },
+        {
           "title": "Run LLM",
           "body": "Develop. Iterate. Run LLM.",
           "tag": "Freemium",
@@ -1413,6 +1425,12 @@
           "body": "Remove background from images.",
           "tag": "Starting at $0/mo",
           "url": "https://www.erase.bg/?ref=riseofmachine.com"
+        },
+        {
+          "title": "FaceRate",
+          "body": "Rate and analyze your face.",
+          "tag": "Freemium",
+          "url": "https://facerate.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Flux AI Online",
@@ -1787,6 +1805,12 @@
       "category": "research",
       "content": [
         {
+          "title": "BizNest",
+          "body": "Discover the top product opportunities.",
+          "tag": "Freemium",
+          "url": "https://www.biznest.io/?ref=riseofmachine.com"
+        },
+        {
           "title": "Capgo AI",
           "body": "Market research in sheet.",
           "tag": "Freemium",
@@ -1845,6 +1869,12 @@
           "body": "AI-powered daily content.",
           "tag": "Starting at $249/mo",
           "url": "https://blawgy.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "SEOAIBOT",
+          "body": "Automated SEO content creation.",
+          "tag": "Freemium",
+          "url": "https://www.seoaibot.com/?ref=riseofmachine.com"
         },
         {
           "title": "WriteText Shopify",
@@ -1991,6 +2021,12 @@
           "url": "https://image2video.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Img2Video",
+          "body": "Text & images into short videos.",
+          "tag": "Freemium",
+          "url": "https://img2video.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Kaiber",
           "body": "Text, photos, and music to videos.",
           "tag": "Starting at $5/mo",
@@ -2133,6 +2169,18 @@
           "body": "Generate ads for marketing channels.",
           "tag": "Beta",
           "url": "https://www.clickable.so/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Chatru",
+          "body": "Free online AI chat.",
+          "tag": "Free",
+          "url": "https://aichatru.ru/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Coframe",
+          "body": "Self-optimize your site.",
+          "tag": "Not available",
+          "url": "https://www.coframe.com/?ref=riseofmachine.com"
         },
         {
           "title": "CSM",
