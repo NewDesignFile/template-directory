@@ -623,6 +623,12 @@
           "url": "https://www.patterned.ai/?ref=riseofmachine.com"
         },
         {
+          "title": "Recraft V3 SVG",
+          "body": "Text to SVG images.",
+          "tag": "$0.08 per image",
+          "url": "https://replicate.com/recraft-ai/recraft-v3-svg?ref=riseofmachine.com"
+        },
+        {
           "title": "Shape of AI",
           "body": "UX patterns for AI design.",
           "tag": "Freemium",
@@ -777,6 +783,12 @@
           "body": "Grading tool for educators.",
           "tag": "Starting at $119/yr",
           "url": "https://gradergood.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "LearnFast",
+          "body": "Solve math & physics problems.",
+          "tag": "Freemium",
+          "url": "https://learnfast.ai/?ref=riseofmachine.com"
         },
         {
           "title": "Math.now",
@@ -975,6 +987,18 @@
           "body": "Platform for building & running generative AI.",
           "tag": "Pay-as-you-go",
           "url": "https://www.together.ai/?ref=riseofmachine.com"
+        }
+      ]
+    },
+    {
+      "title": "Fashion",
+      "category": "fashion",
+      "content": [
+        {
+          "title": "Uwear",
+          "body": "AI generated fashion models.",
+          "tag": "Freemium",
+          "url": "https://uwear.ai/?ref=riseofmachine.com"
         }
       ]
     },
@@ -1707,6 +1731,12 @@
           "body": "Chat with your email.",
           "tag": "Not available",
           "url": "https://ultramail.ai/?ref=riseofmachine.com"
+        },
+        {
+          "title": "VocalScribe",
+          "body": "Voice recordings into polished blog posts.",
+          "tag": "Freemium",
+          "url": "https://vocalscribe.xyz/?ref=riseofmachine.com"
         },
         {
           "title": "Walles",
@@ -2465,6 +2495,12 @@
           "url": "https://syntheticaidata.com/?ref=riseofmachine.com"
         },
         {
+          "title": "Tallow Balm",
+          "body": "Create tallow-based skincare formulations.",
+          "tag": "Freemium",
+          "url": "https://tallowbalm.io/?ref=riseofmachine.com"
+        },
+        {
           "title": "Teachable Machine",
           "body": "Create ML models for your sites & apps.",
           "tag": "Free",
@@ -2505,12 +2541,6 @@
           "body": "Generate marketing content.",
           "tag": "Freemium",
           "url": "https://unbounce.com/product/smart-copy/?ref=riseofmachine.com"
-        },
-        {
-          "title": "Uwear",
-          "body": "AI generated fashion models.",
-          "tag": "Freemium",
-          "url": "https://uwear.ai/?ref=riseofmachine.com"
         },
         {
           "title": "VoicePen",
