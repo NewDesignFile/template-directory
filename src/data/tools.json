@@ -17,6 +17,12 @@
           "url": "https://blimeycreate.com/?ref=riseofmachine.com"
         },
         {
+          "title": "ColorPage.ai",
+          "body": "Create coloring pages.",
+          "tag": "Freemium",
+          "url": "https://colorpage.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Designer",
           "body": "Generate designs & images.",
           "tag": "Beta, Free",
@@ -857,6 +863,12 @@
           "url": "https://www.brainfi.sh/?ref=riseofmachine.com"
         },
         {
+          "title": "Chatclient",
+          "body": "Build a custom AI chatbot.",
+          "tag": "Freemium",
+          "url": "https://chatclient.ai/?ref=riseofmachine.com"
+        },
+        {
           "title": "Chatsimple",
           "body": "AI-powered virtual agent.",
           "tag": "Freemium",
@@ -1408,6 +1420,12 @@
       "title": "Photos",
       "category": "photos",
       "content": [
+        {
+          "title": "Aesthetic Background",
+          "body": "Aesthetic & background generator.",
+          "tag": "Free",
+          "url": "https://www.aestheticbackground.com/?ref=riseofmachine.com"
+        },
         {
           "title": "BeFunky",
           "body": "Edit photos,create graphics & collages.",
@@ -2223,6 +2241,12 @@
           "body": "Self-optimize your site.",
           "tag": "Not available",
           "url": "https://www.coframe.com/?ref=riseofmachine.com"
+        },
+        {
+          "title": "Crumb",
+          "body": "Food generator.",
+          "tag": "Free, In-app purchases",
+          "url": "https://www.eatwithcrumb.com/?ref=riseofmachine.com"
         },
         {
           "title": "CSM",
