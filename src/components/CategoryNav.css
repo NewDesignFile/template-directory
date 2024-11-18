@@ -1,8 +1,16 @@
 .category-nav {
-  width: 100%;
-  box-shadow: inset 0px -1px 0px var(--border-muted);
-  white-space: nowrap;
-  overflow-x: scroll;
+	width: 100%;
+	box-shadow: inset 0px -1px 0px var(--border-muted);
+	white-space: nowrap;
+	overflow-x: scroll;
+	position: sticky;
+	top: 0;
+	background-color: var(--background);
+	--shadow-color: rgb(0 0 0 / 0.04);
+	box-shadow: 0px 0px 0px 0px var(--shadow-color),
+		0px 1px 1px -0.5px var(--shadow-color),
+		0px 3px 3px -1.5px var(--shadow-color);
+	z-index: 999999;
 }
 
 /* hide scrollbar
