@@ -43,7 +43,7 @@ export default function CategoryNavItem(props) {
         isActive ? "is-active" : ""
       }`}
       dangerouslySetInnerHTML={{
-        __html: `${title} - ${getCategoryCount()}`,
+        __html: `${title} (${getCategoryCount()})`,
       }}
     ></button>
   );
