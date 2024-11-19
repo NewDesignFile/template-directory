@@ -1,33 +1,29 @@
+import { useMemo } from "react";
 import Card from "./Card";
 import "./CardsContainer.css";
+import data from "../data/tools.json";
 
-import data from "../data/tools.json"
+export default function CardsContainer({ filter }) {
+  const filteredCards = useMemo(() => {
+    return data.tools
+      .filter((item) => filter === "all" || filter === item.category)
+      .flatMap((item) => item.content)
+      .sort((a, b) => a.title.localeCompare(b.title));
+  }, [filter]);
 
-export default function CardsContainer(props) {
-  const { filter } = props;
-
-  return <section>
-    <ul role="list" className="link-card-grid">
-      {data.tools
-        .filter(item => {
-          if (filter === "all" || filter === item.category) {
-            return item;
-          }
-        })
-        .flatMap(item => item.content)
-        .sort((a, b) => {
-          return a.title < b.title ? -1 : 1;
-        })
-        .map(({url, title, body, tag}, i) => {
-          return <Card
-            key={i}
+  return (
+    <section>
+      <ul role="list" className="link-card-grid">
+        {filteredCards.map(({ url, title, body, tag }, i) => (
+          <Card
+            key={`${title}-${i}`}
             href={url}
             title={title}
             body={body}
             tag={tag}
           />
-        })
-      }
-    </ul>
-  </section>
+        ))}
+      </ul>
+    </section>
+  );
 }
