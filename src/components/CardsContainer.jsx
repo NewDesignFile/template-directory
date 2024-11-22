@@ -14,13 +14,14 @@ export default function CardsContainer({ filter }) {
   return (
     <section>
       <ul role="list" className="link-card-grid">
-        {filteredCards.map(({ url, title, body, tag }, i) => (
+        {filteredCards.map(({ url, title, body, tag, "date-added": dateAdded }, i) => (
           <Card
             key={`${title}-${i}`}
             href={url}
             title={title}
             body={body}
             tag={tag}
+            dateAdded={dateAdded}
           />
         ))}
       </ul>
