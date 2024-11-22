@@ -3,6 +3,8 @@
 	box-shadow: inset 0px -1px 0px var(--border-muted);
 	white-space: nowrap;
 	overflow-x: scroll;
+	/* scrollbar-width: none;  /* Firefox */
+  /* -ms-overflow-style: none;  /* Internet Explorer and Edge */
 	position: sticky;
 	top: 0;
 	background-color: var(--background);
@@ -13,12 +15,7 @@
 	z-index: 999999;
 }
 
-/* hide scrollbar
-.category-nav {
-  scrollbar-width: none;
-  -ms-overflow-style: none;
-}
-.category-nav::-webkit-scrollbar{
+/* Hide scrollbar for Chrome, Safari and Opera */
+/* .category-nav::-webkit-scrollbar {
   display: none;
-}
-*/
+} */
