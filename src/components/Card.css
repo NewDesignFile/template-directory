@@ -1,53 +1,58 @@
 .link-card {
-  list-style: none;
-  display: flex;
-  background-color: var(--background-secondary);
-  background-position: 100%;
-  border-radius: var(--spacing-03);
-  height: 8.5rem;
-  position: relative;
-  --shadow-color: rgb(0 0 0 / 0.04);
-  box-shadow: 0px 0px 0px 1px var(--background-selected),
-  0px 1px 1px -0.5px var(--shadow-color),
-  0px 3px 3px -1.5px var(--shadow-color),
-  0px 12px 12px -6px var(--shadow-color);
-  transition:all .2s ease-out;
+    list-style: none;
+    display: flex;
+    background-color: var(--background-secondary);
+    background-position: 100%;
+    border-radius: var(--spacing-03);
+    height: 8.5rem;
+    position: relative;
+    --shadow-color: rgb(0 0 0 / 0.04);
+    box-shadow:
+        0px 0px 0px 1px var(--background-selected),
+        0px 1px 1px -0.5px var(--shadow-color),
+        0px 3px 3px -1.5px var(--shadow-color),
+        0px 12px 12px -6px var(--shadow-color);
+    content-visibility: auto;
+    contain-intrinsic-size: 8.5rem;
+    will-change: transform;
 }
 
-.link-card>a {
-  width: 100%;
-  text-decoration: none;
-  padding: 0.8rem 1.2rem;
-  color: var(--support-info);
-  justify-content: space-between;
+.link-card > a {
+    width: 100%;
+    text-decoration: none;
+    padding: 0.8rem 1.2rem;
+    color: var(--support-info);
+    justify-content: space-between;
 }
 
 p {
-  color: var(--text-secondary);
+    color: var(--text-secondary);
 }
 
 .link-card:is(:hover, :focus-within) {
-  background-position: 0;
-  box-shadow: 0px 0px 0px 2px var(--link),
-  0px 1px 1px -0.5px var(--shadow-color),
-  0px 3px 3px -1.5px var(--shadow-color),
-  0px 12px 12px -6px var(--shadow-color);
+    transition: box-shadow 0.2s ease-out;
+    background-position: 0;
+    box-shadow:
+        0px 0px 0px 2px var(--link),
+        0px 1px 1px -0.5px var(--shadow-color),
+        0px 3px 3px -1.5px var(--shadow-color),
+        0px 12px 12px -6px var(--shadow-color);
 }
 
 p.distribution {
-  margin: var(--spacing-00);
-  position: absolute;
-  bottom: var(--spacing-06);
+    margin: var(--spacing-00);
+    position: absolute;
+    bottom: var(--spacing-06);
 }
 
 span.tag {
-  background-color: var(--background-selected);
-  padding: calc(.25rem - 1px) calc(.5rem - 1px);
-  border-radius: var(--spacing-02);
-  display: inline-block;
-  color: var(--text-secondary);
-  margin-top: var(--spacing-08);
-  font-size: var(--desktop-caption);
-  line-height: var(--lh-desktop-caption);
-  font-family: var(--body-copy);
+    background-color: var(--background-selected);
+    padding: calc(0.25rem - 1px) calc(0.5rem - 1px);
+    border-radius: var(--spacing-02);
+    display: inline-block;
+    color: var(--text-secondary);
+    margin-top: var(--spacing-08);
+    font-size: var(--desktop-caption);
+    line-height: var(--lh-desktop-caption);
+    font-family: var(--body-copy);
 }

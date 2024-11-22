@@ -1,13 +1,18 @@
-import { useState } from "react";
+import { useEffect, useState } from "react";
 import CategoryNav from "./CategoryNav";
 import CardsContainer from "./CardsContainer";
 
-export default function Dashboard() {
+export default function Dashboard({ category }) {
+  const [currentCategory, setCurrentCategory] = useState(category);
 
-  const [filter, setFilter] = useState("all");
+  useEffect(() => {
+    setCurrentCategory(category);
+  }, [category]);
 
-  return <>
-    <CategoryNav filter={filter} setFilter={setFilter} />
-    <CardsContainer filter={filter} />
-  </>
+  return (
+    <>
+      <CategoryNav filter={category} />
+      <CardsContainer filter={category} />
+    </>
+  );
 }

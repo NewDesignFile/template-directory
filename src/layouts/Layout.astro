@@ -1,8 +1,10 @@
 ---
+import { ViewTransitions } from "astro:transitions";
+
 export interface Props {
-  site: string;
-  title: string;
-  tagline: string;
+    site: string;
+    title: string;
+    tagline: string;
 }
 
 const { site, title, tagline } = Astro.props;
@@ -10,308 +12,406 @@ const { site, title, tagline } = Astro.props;
 
 <!doctype html>
 <html lang="en" data-new-ui-theme="light">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width" />
-    <link rel="icon" type="image/svg+xml" href="/icon.png" />
-    <script src="./theme.js"></script>
-    <meta name="generator" content={Astro.generator} />
-    <title>{site} — Discover AI tools curated for makers and SMBs.</title>
-    <meta name="author" content="Method Black">
-    <meta name="description" content="Discover AI tools curated for makers and SMBs.">
-    <meta property="og:title" content="Rise of Machine">
-    <meta property="og:type" content="website" />
-    <meta property="og:description" content="Discover AI tools curated for makers and SMBs.">
-    <meta property="og:image" content="https://res.cloudinary.com/drwfwpkeo/image/upload/v1703755911/Light_Screenshot_ub9ydn.png">
-    <meta property="og:url" content="https://riseofmachine.com/">
-    <meta name="twitter:card" content="summary_large_image">
-  </head>
+    <head>
+        <ViewTransitions />
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width" />
+        <link rel="icon" type="image/svg+xml" href="/icon.png" />
+        <meta name="generator" content={Astro.generator} />
+        <title>{site} — Discover AI tools curated for makers and SMBs.</title>
+        <meta name="author" content="Method Black" />
+        <meta
+            name="description"
+            content="Discover AI tools curated for makers and SMBs."
+        />
+        <meta property="og:title" content="Rise of Machine" />
+        <meta property="og:type" content="website" />
+        <meta
+            property="og:description"
+            content="Discover AI tools curated for makers and SMBs."
+        />
+        <meta
+            property="og:image"
+            content="https://res.cloudinary.com/drwfwpkeo/image/upload/v1703755911/Light_Screenshot_ub9ydn.png"
+        />
+        <meta property="og:url" content="https://riseofmachine.com/" />
+        <meta name="twitter:card" content="summary_large_image" />
+    </head>
 
-  <body>
-		<div class="floating-nav" aria-label="main navigation">
-			<div class="logo">
-				<a href="/" aria-label="home page" tabindex="-1"><img src="/icon.png" width="24" height="24" alt="Rise of Machine" aria-hidden="true"></a>
-			</div>
-      <div class="btn-group">
-				<a
-					href="https://forms.gle/pzpG1cbxW6AA57uc9"
-					target="_blank"
-					class="submit-btn"
-          tabindex="0"
-          >Submit a Tool</a
-				>
-				<button
-					class="theme-toggle"
-					id="theme-toggle"
-					title="Toggles light & dark"
-					aria-label="auto"
-					aria-live="polite"
-				>
-					<svg
-						xmlns="http://www.w3.org/2000/svg"
-						width="24"
-						height="24"
-						fill="none"
-						><path
-							stroke="var(--icon-secondary)"
-							stroke-linecap="round"
-							stroke-miterlimit="10"
-							stroke-width="1.5"
-							d="M12 4V2M3 13H1m22 0h-2m-1.222-7.778-1.414 1.414m-12.728 0L4.222 5.222M4 18h16M8 21h8m-7.43-3.07A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94l-6.83-.01Z"
-						></path></svg
-					>
-				</button>
-			</div>
-    </div>
+    <body>
+        <div class="floating-nav" aria-label="main navigation">
+            <div class="logo">
+                <a href="/" aria-label="home page" tabindex="-1"
+                    ><img
+                        src="/icon.png"
+                        width="24"
+                        height="24"
+                        alt="Rise of Machine"
+                        aria-hidden="true"
+                    /></a
+                >
+            </div>
+            <div class="btn-group">
+                <a
+                    href="https://forms.gle/pzpG1cbxW6AA57uc9"
+                    target="_blank"
+                    class="submit-btn"
+                    tabindex="0">Submit a Tool</a
+                >
+                <button
+                    class="theme-toggle"
+                    id="theme-toggle"
+                    title="Toggles light & dark"
+                    aria-label="auto"
+                    aria-live="polite"
+                >
+                    <svg
+                        xmlns="http://www.w3.org/2000/svg"
+                        width="24"
+                        height="24"
+                        fill="none"
+                        ><path
+                            stroke="var(--icon-secondary)"
+                            stroke-linecap="round"
+                            stroke-miterlimit="10"
+                            stroke-width="1.5"
+                            d="M12 4V2M3 13H1m22 0h-2m-1.222-7.778-1.414 1.414m-12.728 0L4.222 5.222M4 18h16M8 21h8m-7.43-3.07A5.98 5.98 0 0 1 6 13c0-3.31 2.69-6 6-6s6 2.69 6 6c0 2.05-1.03 3.86-2.6 4.94l-6.83-.01Z"
+                        ></path></svg
+                    >
+                </button>
+            </div>
+        </div>
 
-    <header class="nu-u-mb-10 nu-u-mt-10">
-      <div class="container">
-        <h1 class="nu-c-h3 nu-u-text--primary nu-u-mt-0 nu-u-mb-2 title">
-          {title}
-        </h1>
-        <p class="nu-c-fs-normal nu-u-text--secondary description-text">{tagline}</p>
-      </div>
-    </header>
-    <slot />
+        <header class="nu-u-mb-10 nu-u-mt-10">
+            <div class="container">
+                <h1
+                    class="nu-c-h3 nu-u-text--primary nu-u-mt-0 nu-u-mb-2 title"
+                >
+                    {title}
+                </h1>
+                <p class="nu-c-fs-normal nu-u-text--secondary description-text">
+                    {tagline}
+                </p>
+            </div>
+        </header>
+        <slot />
 
-    <div class="footer">
-      <p>© 2024 Method Black. Created by <a href="https://planetabhi.com/" class="nu-u-link--subtle" target="_blank">@planetabhi</a>. <br /><a href="https://new-ui.com/templates/directory" class="nu-u-link--subtle" target="_blank">Get this template</a></p>
-    </div>
-
-  </body>
+        <div class="footer">
+            <p>
+                © 2024 Method Black. Created by <a
+                    href="https://planetabhi.com/"
+                    class="nu-u-link--subtle"
+                    target="_blank">@planetabhi</a
+                >. <br /><a
+                    href="https://new-ui.com/templates/directory"
+                    class="nu-u-link--subtle"
+                    target="_blank">Get this template</a
+                >
+            </p>
+        </div>
+    </body>
 </html>
 <style is:global>
-  :root {
-    --accent: var(--support-info);
-  }
-  html {
-    font-family: var(--system-ui);
-    background-color: var(--background);
-  }
-  body {
-    margin: 0;
-    padding: 0;
-		width: 100%;
-		overflow-x: hidden;
-  }
-  main,
-  .container {
-    margin: var(--spacing-09);
-  }
-  section {
-    margin-bottom: var(--spacing-10);
-  }
-  p {
-    margin-top: var(--spacing-00);
-  }
-  p.description-text {
-    max-inline-size: 37.5rem;
-  }
-  .nu-u-link--subtle {
-    color: var(--text-secondary) !important;
-  }
-  .floating-nav {
-    padding: var(--spacing-06) var(--spacing-09);
-		top: 0;
-		left: 0;
-		right: 0;
-		display: flex;
-		justify-content: space-between;
-		align-items: center;
-    z-index: 999999;
-  }
-	.floating-nav.is-active {
-		position: -webkit-sticky;
-		position: sticky;
-		animation-name: slideDownNavigation;
-		animation-duration: 200ms;
-		animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
-		animation-fill-mode: both;
-		animation-iteration-count: 1;
-    background-color: var(--background);
-    --shadow-color: rgb(0 0 0 / 0.04);
-    box-shadow: 0px 0px 0px 0px var(--shadow-color),
-    0px 1px 1px -0.5px var(--shadow-color),
-    0px 3px 3px -1.5px var(--shadow-color);
-	}
-	@keyframes slideDownNavigation {
-		from {
-			top: -20px;
-			opacity: 0.5;
-		}
+    :root {
+        --accent: var(--support-info);
+    }
+    html {
+        font-family: var(--system-ui);
+        background-color: var(--background);
+    }
+    body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        overflow-x: hidden;
+    }
+    main,
+    .container {
+        margin: var(--spacing-09);
+    }
+    section {
+        margin-bottom: var(--spacing-10);
+    }
+    p {
+        margin-top: var(--spacing-00);
+    }
+    p.description-text {
+        max-inline-size: 37.5rem;
+    }
+    .nu-u-link--subtle {
+        color: var(--text-secondary) !important;
+    }
+    .floating-nav {
+        padding: var(--spacing-06) var(--spacing-09);
+        top: 0;
+        left: 0;
+        right: 0;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        z-index: 999999;
+    }
+    .floating-nav.is-active {
+        position: -webkit-sticky;
+        position: sticky;
+        animation-name: slideDownNavigation;
+        animation-duration: 200ms;
+        animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
+        animation-fill-mode: both;
+        animation-iteration-count: 1;
+        background-color: var(--background);
+        --shadow-color: rgb(0 0 0 / 0.04);
+        box-shadow:
+            0px 0px 0px 0px var(--shadow-color),
+            0px 1px 1px -0.5px var(--shadow-color),
+            0px 3px 3px -1.5px var(--shadow-color);
+    }
+    @keyframes slideDownNavigation {
+        from {
+            top: -20px;
+            opacity: 0.5;
+        }
 
-		to {
-			top: 0;
-			opacity: 1;
-		}
-	}
-  .btn-group {
-    display: flex;
-    gap: var(--spacing-03);
-    align-items: center;
-  }
-  .submit-btn {
-    padding: .5625rem .9375rem;
-    border: 1px solid var(--border-muted);
-    outline: none;
-    text-decoration: none;
-    color: inherit;
-    cursor: pointer;
-    color: var(--text-secondary);
-    background-color: var(--background);
-    border-radius: var(--spacing-03);
-    font-size: var(--desktop-body-sm);
+        to {
+            top: 0;
+            opacity: 1;
+        }
+    }
+    .btn-group {
+        display: flex;
+        gap: var(--spacing-03);
+        align-items: center;
+    }
+    .submit-btn {
+        padding: 0.5625rem 0.9375rem;
+        border: 1px solid var(--border-muted);
+        outline: none;
+        text-decoration: none;
+        color: inherit;
+        cursor: pointer;
+        color: var(--text-secondary);
+        background-color: var(--background);
+        border-radius: var(--spacing-03);
+        font-size: var(--desktop-body-sm);
 
-    &:hover {
-      background-color: var(--background-secondary);
-      color: var(--text-primary);
+        &:hover {
+            background-color: var(--background-secondary);
+            color: var(--text-primary);
+        }
+
+        &:active {
+            background-color: var(--background);
+            color: var(--text-secondary);
+        }
+
+        &.disabled {
+            background-color: var(--background);
+            color: var(--icon-secondary);
+            pointer-events: none;
+        }
+
+        &:focus {
+            background-color: var(--background);
+            outline: 1px solid var(--button-primary);
+            color: var(--icon-secondary);
+        }
+    }
+    .theme-toggle {
+        z-index: 999;
+        --icon-fill: var(--icon-secondary);
+        --icon-fill-hover: var(--icon-secondary);
+        width: var(--spacing-09);
+        height: var(--spacing-09);
+        background: none;
+        border: none;
+        padding: var(--spacing-00);
+        color: var(--icon-secondary);
+        cursor: pointer;
+        touch-action: manipulation;
+        -webkit-tap-highlight-color: transparent;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        border-radius: var(--spacing-02);
+
+        @nest [data-theme="dark"] & {
+            --icon-fill: var(--icon-secondary);
+            --icon-fill-hover: var(--icon-secondary);
+        }
+    }
+    .footer p {
+        padding-bottom: var(--spacing-10);
+        text-align: center;
+        font-weight: normal;
+        font-style: normal;
+        color: var(--text-secondary-alt);
+        font-size: var(--desktop-body-sm);
+        line-height: var(--lh-desktop-body);
     }
 
-    &:active {
-      background-color: var(--background);
-      color: var(--text-secondary);
+    @media (max-width: 30rem) {
+        main {
+            margin: auto var(--spacing-06);
+        }
+        .floating-nav {
+            padding: var(--spacing-06) var(--spacing-06);
+        }
+        .container {
+            margin: var(--spacing-06);
+        }
     }
 
-    &.disabled {
-      background-color: var(--background);
-      color: var(--icon-secondary);
-      pointer-events: none;
+    /* logo animation */
+    .logo {
+        transition: all 0.2s ease-out;
+        padding-top: var(--spacing-03);
     }
-
-    &:focus {
-      background-color: var(--background);
-      outline: 1px solid var(--button-primary);
-      color: var(--icon-secondary);
-    }
-  }
-  .theme-toggle {
-    z-index: 999;
-    --icon-fill: var(--icon-secondary);
-    --icon-fill-hover: var(--icon-secondary);
-    width: var(--spacing-09);
-    height: var(--spacing-09);
-    background: none;
-    border: none;
-    padding: var(--spacing-00);
-    color: var(--icon-secondary);
-    cursor: pointer;
-    touch-action: manipulation;
-    -webkit-tap-highlight-color: transparent;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    border-radius: var(--spacing-02);
-
-    @nest [data-theme="dark"] & {
-      --icon-fill: var(--icon-secondary);
-      --icon-fill-hover: var(--icon-secondary);
-    }
-  }
-  .footer p{
-    padding-bottom: var(--spacing-10);
-    text-align: center;
-    font-weight: normal;
-    font-style: normal;
-    color: var(--text-secondary-alt);
-    font-size: var(--desktop-body-sm);
-    line-height: var(--lh-desktop-body);
-  }
-
-  @media (max-width: 30rem) {
-    main {margin: auto var(--spacing-06);}
-    .floating-nav { padding: var(--spacing-06) var(--spacing-06);}
-    .container { margin: var(--spacing-06);}
-  }
-  
-  /* logo animation */
-  .logo {
-    transition: all .2s ease-out;
-    padding-top: var(--spacing-03);
-  }
-  .logo:hover {
-    animation: buzz 0.32s linear 2;
-    transform: scale(1.1) translateZ(0);
-    filter: brightness(1.1);
-  }
-  @keyframes buzz {
-    50% {
-      transform: translateX(3px) rotate(2deg);
-    }
-    100% {
-      transform: translateX(-3px) rotate(-2deg);
-    }
-  }
-  @supports (not (animation: buzz)) {
     .logo:hover {
-      -webkit-animation: buzz 0.32s linear 2;
+        animation: buzz 0.32s linear 2;
+        transform: scale(1.1) translateZ(0);
+        filter: brightness(1.1);
     }
-  }
-  @media (prefers-reduced-motion: reduce) {
-    .logo:hover {
-      animation: none;
-      transform: scale(1.2);
+    @keyframes buzz {
+        50% {
+            transform: translateX(3px) rotate(2deg);
+        }
+        100% {
+            transform: translateX(-3px) rotate(-2deg);
+        }
     }
-  }
+    @supports (not (animation: buzz)) {
+        .logo:hover {
+            -webkit-animation: buzz 0.32s linear 2;
+        }
+    }
+    @media (prefers-reduced-motion: reduce) {
+        .logo:hover {
+            animation: none;
+            transform: scale(1.2);
+        }
+    }
 </style>
-  
-<script>
-history.scrollRestoration = "manual";
-window.onbeforeunload = function () {
-  window.scrollTo(0, 0);
-};
 
-const nav = document.querySelector('.floating-nav');
-const pageCTA = document.querySelector('.floating-nav .submit-btn');
-var pageCTAPosition = 0;
-if (pageCTA) {
-  pageCTAPosition = pageCTA.getBoundingClientRect().bottom;
-}
+<script is:inline>
+    history.scrollRestoration = "manual";
+    window.onbeforeunload = function () {
+        window.scrollTo(0, 0);
+    };
 
-var previousScrollPosition = 0;
-
-const handleNavScroll = () => {
-  let currentScrolledPosition = window.scrollY || window.pageYOffset;
-  if (isScrollingDown()) {
-    nav.classList.add("scroll-down");
-    nav.classList.remove("scroll-up");
-  } else {
-    nav.classList.add("scroll-up");
-    nav.classList.remove("scroll-down");
-  }
-  if (currentScrolledPosition > pageCTAPosition + 50) {
-    if (!nav.classList.contains("is-active")) {
-      nav.classList.add("is-active");
+    const nav = document.querySelector(".floating-nav");
+    const pageCTA = document.querySelector(".floating-nav .submit-btn");
+    var pageCTAPosition = 0;
+    if (pageCTA) {
+        pageCTAPosition = pageCTA.getBoundingClientRect().bottom;
     }
-  } else {
-    if (nav.classList.contains("is-active")) {
-      nav.classList.remove("is-active");
+
+    var previousScrollPosition = 0;
+
+    const handleNavScroll = () => {
+        let currentScrolledPosition = window.scrollY || window.pageYOffset;
+        if (isScrollingDown()) {
+            nav.classList.add("scroll-down");
+            nav.classList.remove("scroll-up");
+        } else {
+            nav.classList.add("scroll-up");
+            nav.classList.remove("scroll-down");
+        }
+        if (currentScrolledPosition > pageCTAPosition + 50) {
+            if (!nav.classList.contains("is-active")) {
+                nav.classList.add("is-active");
+            }
+        } else {
+            if (nav.classList.contains("is-active")) {
+                nav.classList.remove("is-active");
+            }
+        }
+    };
+
+    function isScrollingDown() {
+        let currentScrolledPosition = window.scrollY || window.pageYOffset;
+        let scrollingDown;
+        if (currentScrolledPosition > previousScrollPosition) {
+            scrollingDown = true;
+        } else {
+            scrollingDown = false;
+        }
+        previousScrollPosition = currentScrolledPosition;
+        return scrollingDown;
     }
-  }
-};
 
-function isScrollingDown() {
-  let currentScrolledPosition = window.scrollY || window.pageYOffset;
-  let scrollingDown;
-  if (currentScrolledPosition > previousScrollPosition) {
-    scrollingDown = true;
-  } else {
-    scrollingDown = false;
-  }
-  previousScrollPosition = currentScrolledPosition;
-  return scrollingDown;
-}
+    var throttleWait;
+    function throttle(callback, time) {
+        if (throttleWait) return;
+        throttleWait = true;
+        setTimeout(() => {
+            callback();
+            throttleWait = false;
+        }, time);
+    }
 
-var throttleWait;
-function throttle(callback, time) {
-  if (throttleWait) return;
-  throttleWait = true;
-  setTimeout(() => {
-    callback();
-    throttleWait = false;
-  }, time);
-}
+    window.addEventListener("scroll", () => {
+        throttle(handleNavScroll, 80);
+    });
+</script>
 
-window.addEventListener("scroll", () => {
-  throttle(handleNavScroll, 80);
-});
+<script is:inline>
+    // Initial theme setup
+    const theme = (() => {
+        if (
+            typeof localStorage !== "undefined" &&
+            localStorage.getItem("theme-preference")
+        ) {
+            return localStorage.getItem("theme-preference");
+        }
+        return window.matchMedia("(prefers-color-scheme: dark)").matches
+            ? "dark"
+            : "light";
+    })();
+
+    document.firstElementChild.setAttribute("data-new-ui-theme", theme);
+
+    // Handle theme toggle
+    function toggleTheme() {
+        const currentTheme =
+            document.firstElementChild.getAttribute("data-new-ui-theme");
+        const newTheme = currentTheme === "light" ? "dark" : "light";
+
+        document.firstElementChild.setAttribute("data-new-ui-theme", newTheme);
+        localStorage.setItem("theme-preference", newTheme);
+    }
+
+    // Initialize toggle button
+    function initThemeToggle() {
+        const themeToggle = document.querySelector("#theme-toggle");
+        if (themeToggle) {
+            themeToggle.addEventListener("click", toggleTheme);
+        }
+    }
+
+    // Handle page transitions
+    document.addEventListener("astro:page-load", () => {
+        const storedTheme = localStorage.getItem("theme-preference");
+        if (storedTheme) {
+            document.firstElementChild.setAttribute(
+                "data-new-ui-theme",
+                storedTheme,
+            );
+        }
+        initThemeToggle();
+    });
+
+    // Handle system theme changes
+    window
+        .matchMedia("(prefers-color-scheme: dark)")
+        .addEventListener("change", ({ matches: isDark }) => {
+            const newTheme = isDark ? "dark" : "light";
+            document.firstElementChild.setAttribute(
+                "data-new-ui-theme",
+                newTheme,
+            );
+            localStorage.setItem("theme-preference", newTheme);
+        });
+
+    // Initialize on first load
+    initThemeToggle();
 </script>
