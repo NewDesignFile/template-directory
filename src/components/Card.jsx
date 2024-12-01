@@ -20,7 +20,7 @@ export default function Card(props) {
         <strong className="nu-c-h6 nu-u-mt-1 nu-u-mb-1">{title}</strong>
         <p className="nu-c-fs-small nu-u-mt-1 nu-u-mb-1">{body}</p>
         <p className="distribution">
-          {isNew() && <span className="tag nu-u-me-2 tag-new" title="Recently added">🔥</span>}
+          {isNew() && <span className="tag nu-u-me-2 tag-new" title="Recently added" aria-label="New item">🔥</span>}
           <span className="tag">{tag}</span>
         </p>
       </a>

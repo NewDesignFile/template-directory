@@ -17,5 +17,5 @@
 
 .nav__item.is-active {
   color: var(--text-primary);
-  border-bottom: 2px solid var(--support-info);
+  border-bottom: 2px solid var(--accent);
 }

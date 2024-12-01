@@ -59,6 +59,7 @@ export default function CategoryNavItem(props) {
       className={`nav__item nu-u-text--secondary-alt nu-c-fs-normal nu-u-py-5 nu-u-px-0 nu-u-me-8 nav__item--filter ${
         isActive ? "is-active" : ""
       }`}
+      aria-label={`Navigate to ${title} category with ${getCategoryCount()} items`}
       dangerouslySetInnerHTML={{
         __html: `${title} (${getCategoryCount()})`,
       }}

@@ -16,7 +16,7 @@ const { site, title, tagline } = Astro.props;
         <ViewTransitions />
         <meta charset="UTF-8" />
         <meta name="viewport" content="width=device-width" />
-        <link rel="icon" type="image/svg+xml" href="/icon.png" />
+        <link rel="icon" type="image/svg+xml" href="/rise-of-machine.png" />
         <meta name="generator" content={Astro.generator} />
         <title>{site} — Discover AI tools curated for makers and SMBs.</title>
         <meta name="author" content="Method Black" />
@@ -43,7 +43,7 @@ const { site, title, tagline } = Astro.props;
             <div class="logo">
                 <a href="/" aria-label="home page" tabindex="-1"
                     ><img
-                        src="/icon.png"
+                        src="/rise-of-machine.png"
                         width="24"
                         height="24"
                         alt="Rise of Machine"
@@ -119,11 +119,11 @@ const { site, title, tagline } = Astro.props;
         src: url("/fonts/InterVariable.woff2") format("woff2");
     }
     :root {
-        --accent: var(--support-info);
-        font-family: "Inter", var(--system-ui);
+        --accent: var(--link);
+        --body-copy: "Inter", var(--system-ui);
     }
     html {
-        font-family: "Inter", var(--system-ui);
+        font-family: var(--body-copy);
         background-color: var(--background);
     }
     body {
