@@ -56,3 +56,15 @@ span.tag {
     line-height: var(--lh-desktop-caption);
     font-family: var(--body-copy);
 }
+
+span.tag-new {
+    background-color: var(--background-selected);
+    padding: calc(0.25rem - 1px) calc(0.5rem - 1px);
+    border-radius: var(--spacing-02);
+    display: inline-block;
+    color: var(--text-warning);
+    margin-top: var(--spacing-08);
+    font-size: var(--desktop-caption);
+    line-height: var(--lh-desktop-caption);
+    font-family: var(--body-copy);
+}

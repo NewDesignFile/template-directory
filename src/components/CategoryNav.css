@@ -9,6 +9,8 @@
 	top: 0;
 	background-color: var(--background);
 	z-index: 999999;
+	-webkit-backdrop-filter:blur(.5rem);
+	backdrop-filter:blur(.5rem);
 }
 
 /* Hide scrollbar for Chrome, Safari and Opera */

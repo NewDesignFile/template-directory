@@ -28,7 +28,7 @@
         {
           "title": "Designer",
           "body": "Generate designs & images.",
-          "tag": "Beta, Free",
+          "tag": "Free",
           "url": "https://designer.microsoft.com/?ref=riseofmachine.com",
           "date-added": "2023-12-12"
         },
@@ -223,7 +223,7 @@
         {
           "title": "Adobe Podcast",
           "body": "Audio recording & editing.",
-          "tag": "Beta, Free",
+          "tag": "Freemium",
           "url": "https://podcast.adobe.com/?ref=riseofmachine.com",
           "date-added": "2023-12-11"
         },
@@ -325,13 +325,6 @@
       "category": "code",
       "content": [
         {
-          "title": "Amazon CodeWhisperer",
-          "body": "Generate code suggestions.",
-          "tag": "Freemium",
-          "url": "https://aws.amazon.com/codewhisperer/?ref=riseofmachine.com",
-          "date-added": "2023-12-15"
-        },
-        {
           "title": "AskCodebase",
           "body": "AI programming agent.",
           "tag": "Starting at $10/mo",
@@ -407,6 +400,13 @@
           "tag": "Early access",
           "url": "https://melty.sh/?ref=riseofmachine.com",
           "date-added": "2024-09-11"
+        },
+        {
+          "title": "Q Developer",
+          "body": "Assistant for software development.",
+          "tag": "Freemium",
+          "url": "https://aws.amazon.com/q/developer/?ref=riseofmachine.com",
+          "date-added": "2023-12-15"
         }
       ]
     },
@@ -717,7 +717,7 @@
         {
           "title": "Magician",
           "body": "Generate icons, copy & images in Figma.",
-          "tag": "Beta, $5/mo",
+          "tag": "Free",
           "url": "https://magician.design/?ref=riseofmachine.com",
           "date-added": "2023-12-12"
         },
@@ -793,14 +793,14 @@
         {
           "title": "Cosine",
           "body": "Search & understand large codebases.",
-          "tag": "Free, Extension",
+          "tag": "Free",
           "url": "https://cosine.sh/?ref=riseofmachine.com",
           "date-added": "2023-12-24"
         },
         {
           "title": "Hatchet",
           "body": "Incident response partner.",
-          "tag": "Free, Extension",
+          "tag": "Free",
           "url": "https://gethatchet.com/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
         },
@@ -814,7 +814,7 @@
         {
           "title": "Liner",
           "body": "Build & deploy ML applications.",
-          "tag": "Free, Beta",
+          "tag": "Free",
           "url": "https://liner.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
         },
@@ -1707,7 +1707,7 @@
         {
           "title": "Green Screen AI",
           "body": "Change the background of any image.",
-          "tag": "Free, In-app purchases",
+          "tag": "In-app purchases",
           "url": "https://greenscreenai.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
         },
@@ -1984,13 +1984,6 @@
           "date-added": "2023-12-24"
         },
         {
-          "title": "SummerEyes",
-          "body": "Summarize any text.",
-          "tag": "Beta, Free",
-          "url": "https://summereyes.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-15"
-        },
-        {
           "title": "Supernormal",
           "body": "Create meeting notes.",
           "tag": "Freemium",
@@ -2062,7 +2055,7 @@
         {
           "title": "Dallelist",
           "body": "DALL-E prompt helper.",
-          "tag": "Free, Extension",
+          "tag": "Free",
           "url": "https://www.dallelist.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
         },
@@ -2589,7 +2582,7 @@
         {
           "title": "Crumb",
           "body": "Food generator.",
-          "tag": "Free, In-app purchases",
+          "tag": "In-app purchases",
           "url": "https://www.eatwithcrumb.com/?ref=riseofmachine.com",
           "date-added": "2024-11-17"
         },
@@ -2785,7 +2778,7 @@
         {
           "title": "Penny",
           "body": "Online shopping assistant.",
-          "tag": "Free, Extension",
+          "tag": "Free",
           "url": "https://penny.im/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
         },
