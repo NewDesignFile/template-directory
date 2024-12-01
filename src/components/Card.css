@@ -32,6 +32,7 @@ p {
 .link-card:is(:hover, :focus-within) {
     transition: box-shadow 0.2s ease-out;
     background-position: 0;
+    background: var(--background);
     box-shadow:
         0px 0px 0px 2px var(--link),
         0px 1px 1px -0.5px var(--shadow-color),
