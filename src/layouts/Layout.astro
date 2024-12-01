@@ -11,7 +11,7 @@ const { site, title, tagline } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en" data-new-ui-theme="light">
+<html lang="en" data-new-ui-theme="dark--warm">
     <head>
         <ViewTransitions />
         <meta charset="UTF-8" />
@@ -112,11 +112,18 @@ const { site, title, tagline } = Astro.props;
     </body>
 </html>
 <style is:global>
+    @font-face {
+        font-family: "Inter";
+        font-style: normal;
+        font-weight: 100 900;
+        src: url("/fonts/InterVariable.woff2") format("woff2");
+    }
     :root {
         --accent: var(--support-info);
+        font-family: "Inter", var(--system-ui);
     }
     html {
-        font-family: var(--system-ui);
+        font-family: "Inter", var(--system-ui);
         background-color: var(--background);
     }
     body {
@@ -150,32 +157,6 @@ const { site, title, tagline } = Astro.props;
         justify-content: space-between;
         align-items: center;
         z-index: 999999;
-    }
-    .floating-nav.is-active {
-        position: -webkit-sticky;
-        position: sticky;
-        animation-name: slideDownNavigation;
-        animation-duration: 200ms;
-        animation-timing-function: cubic-bezier(0.075, 0.82, 0.165, 1);
-        animation-fill-mode: both;
-        animation-iteration-count: 1;
-        background-color: var(--background);
-        --shadow-color: rgb(0 0 0 / 0.04);
-        box-shadow:
-            0px 0px 0px 0px var(--shadow-color),
-            0px 1px 1px -0.5px var(--shadow-color),
-            0px 3px 3px -1.5px var(--shadow-color);
-    }
-    @keyframes slideDownNavigation {
-        from {
-            top: -20px;
-            opacity: 0.5;
-        }
-
-        to {
-            top: 0;
-            opacity: 1;
-        }
     }
     .btn-group {
         display: flex;
