@@ -256,6 +256,13 @@
           "date-added": "2023-12-22"
         },
         {
+          "title": "F5 TTS",
+          "body": "Text to speech.",
+          "tag": "Free",
+          "url": "https://www.f5tts.net/?ref=riseofmachine.com",
+          "date-added": "2024-12-13"
+        },
+        {
           "title": "Harmonai",
           "body": "Generative audio tools.",
           "tag": "Open-source",
