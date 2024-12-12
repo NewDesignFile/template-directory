@@ -1,8 +1,8 @@
 ---
 name: Suggest a new tool
-about: Suggest a new tool for RiseofMachine.com
+about: Suggest a new tool for riseofmachine.com
 title: ''
-labels: ''
+labels: new
 assignees: planetabhi
 
 ---
