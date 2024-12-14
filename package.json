@@ -1,6 +1,7 @@
 {
   "name": "riseofmachine",
-  "version": "1.46.0",
+  "version": "1.50.0",
+  "rhyver": "v1.24Q4.50.0",
   "description": "Discover AI tools curated for makers and SMBs.",
   "type": "module",
   "private": false,
