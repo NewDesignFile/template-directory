@@ -1,8 +1,8 @@
 ---
 name: Suggest a new tool
 about: Suggest a new tool for riseofmachine.com
-title: ''
-labels: new
+title: "[Add] riseofmachine.com"
+labels: ''
 assignees: planetabhi
 
 ---
