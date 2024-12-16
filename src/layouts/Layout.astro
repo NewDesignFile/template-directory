@@ -36,6 +36,17 @@ const { site, title, tagline } = Astro.props;
         />
         <meta property="og:url" content="https://riseofmachine.com/" />
         <meta name="twitter:card" content="summary_large_image" />
+
+        <!-- Google tag (gtag.js) -->
+        <script type="text/partytown" async src="https://www.googletagmanager.com/gtag/js?id=G-S08Z38BTMJ"></script>
+        <script type="text/partytown">
+            window.dataLayer = window.dataLayer || [];
+            function gtag(){dataLayer.push(arguments);}
+            gtag('js', new Date());
+
+            gtag('config', 'G-S08Z38BTMJ');
+        </script>
+
     </head>
 
     <body>

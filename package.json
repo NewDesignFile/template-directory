@@ -18,6 +18,7 @@
   },
   "dependencies": {
     "@astrojs/netlify": "^6.0.0",
+    "@astrojs/partytown": "^2.1.2",
     "@astrojs/react": "^4.1.0",
     "@types/react": "^19.0.1",
     "@types/react-dom": "^19.0.2",
