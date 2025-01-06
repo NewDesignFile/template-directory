@@ -1,5 +1,4 @@
 # Directory
-> Adding new tools is currently on hold while I explore open contributions. Expected completion: Jan 5th
 
 ![Directory Preview](https://new-ui.com/assets/images/templates/preview-directory.png)
 
