@@ -1201,6 +1201,13 @@
       "category": "fashion",
       "content": [
         {
+          "title": "Outfit.fm",
+          "body": "Create photos for your clothing.",
+          "tag": "From $19",
+          "url": "https://outfit.fm/?ref=riseofmachine.com",
+          "date-added": "2025-01-06"
+        },
+        {
           "title": "Uwear",
           "body": "AI generated fashion models.",
           "tag": "Freemium",
