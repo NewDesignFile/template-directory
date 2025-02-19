@@ -1414,6 +1414,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Kie.ai",
+          "body": "DeepSeek R1 & V3 API.",
+          "tag": "Freemium",
+          "url": "https://kie.ai//?ref=riseofmachine.com",
+          "date-added": "2025-02-19"
+        },
+        {
           "title": "LangChain",
           "body": "LLM app from prototype to prod.",
           "tag": "Beta",
