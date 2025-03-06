@@ -17,17 +17,17 @@
     "astro": "astro"
   },
   "dependencies": {
-    "@astrojs/netlify": "^6.2.0",
-    "@astrojs/partytown": "^2.1.3",
-    "@astrojs/react": "^4.2.0",
+    "@astrojs/netlify": "^6.2.2",
+    "@astrojs/partytown": "^2.1.4",
+    "@astrojs/react": "^4.2.1",
     "@types/react": "^19.0.10",
     "@types/react-dom": "^19.0.4",
-    "astro": "^5.3.0",
+    "astro": "^5.4.2",
     "react": "^19.0.0",
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@new-ui/foundations": "^0.1.0"
+    "@new-ui/foundations": "^0.2.0"
   },
   "repository": {
     "type": "git",
