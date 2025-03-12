@@ -34,8 +34,8 @@ importers:
         version: 19.0.0(react@19.0.0)
     devDependencies:
       '@new-ui/foundations':
-        specifier: ^0.2.2
-        version: 0.2.2
+        specifier: ^0.2.3
+        version: 0.2.3
 
 packages:
 
@@ -466,11 +466,11 @@ packages:
   '@new-ui/effects@0.1.4':
     resolution: {integrity: sha512-dgJPMKaqn1hbcYfT4SW/y8C39+PfF+1uVI/DJyim8+GZ5E8Yqisfs+MTdVByn0d1jHy6AZkCBRpiXeQfoXI6hA==}
 
-  '@new-ui/foundations@0.2.2':
-    resolution: {integrity: sha512-dRhALhB+Y6h4pKyOuUdzuAnc1TZoxU7bYXbqVhIOeBv8dObEuJ+YM5kF0999esc6+9VwTp5yKrax+sLNUja+Yw==}
+  '@new-ui/foundations@0.2.3':
+    resolution: {integrity: sha512-aL6QNLq/HZPHDJPfRhZOo28hRciGOR5VOtmea/FkOCuBnQsqyCwivNViWc9/9gkz8T/iVxNm6EQ3D/N9u36vFg==}
 
-  '@new-ui/reset@0.0.7':
-    resolution: {integrity: sha512-y2TdhXrQK0YhBlf1Bf/RqB8RHKdtthTiMIPyQOemk5/q+TmbHP4TQX2mpEQNnB9g0aEtq4NFixgbdSyCBY5Nvw==}
+  '@new-ui/reset@0.0.8':
+    resolution: {integrity: sha512-vntCa7E4bzgIbGQIBYyQrpEZuOVazgNMhoLcYiOZls3O+J8/gTlStDs3uJLvdiTKvF0xwRyjhIZ119IuhOjMQQ==}
 
   '@new-ui/spacings@0.1.4':
     resolution: {integrity: sha512-/vKV+hWF++wiut1yfNUYgy3xiwwUn7+QWfahWBB1auAw1v3ol4dlvNQ7PHCNaCxLbIwgTMmWFsG965W0AuLseA==}
@@ -2242,15 +2242,15 @@ snapshots:
 
   '@new-ui/effects@0.1.4': {}
 
-  '@new-ui/foundations@0.2.2':
+  '@new-ui/foundations@0.2.3':
     dependencies:
       '@new-ui/colors': 2.0.0
       '@new-ui/effects': 0.1.4
-      '@new-ui/reset': 0.0.7
+      '@new-ui/reset': 0.0.8
       '@new-ui/spacings': 0.1.4
       '@new-ui/typography': 0.1.7
 
-  '@new-ui/reset@0.0.7': {}
+  '@new-ui/reset@0.0.8': {}
 
   '@new-ui/spacings@0.1.4': {}
 

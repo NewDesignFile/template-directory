@@ -27,7 +27,7 @@
     "react-dom": "^19.0.0"
   },
   "devDependencies": {
-    "@new-ui/foundations": "^0.2.2"
+    "@new-ui/foundations": "^0.2.3"
   },
   "repository": {
     "type": "git",
