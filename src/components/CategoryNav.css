@@ -1,19 +1,75 @@
-.category-nav {
+.category-nav-container {
+	position: sticky;
+	top: 0;
+	width: 100%;
+	z-index: 999999;
+	background-color: var(--background);
+	-webkit-backdrop-filter: blur(.5rem);
+	backdrop-filter: blur(.5rem);
+  }
+  
+  .category-nav {
 	width: 100%;
 	box-shadow: inset 0px -1px 0px var(--border-muted);
 	white-space: nowrap;
 	overflow-x: scroll;
-	/* scrollbar-width: none;  /* Firefox */
-  	/* -ms-overflow-style: none;  /* Internet Explorer and Edge */
-	position: sticky;
-	top: 0;
-	background-color: var(--background);
-	z-index: 999999;
-	-webkit-backdrop-filter:blur(.5rem);
-	backdrop-filter:blur(.5rem);
-}
+	overflow-y: hidden;
+	display: flex;
+	align-items: center;
+	background-color: transparent;
+	scrollbar-width: none;
+	-webkit-overflow-scrolling: touch;
+	scroll-behavior: smooth;
+	overflow: scroll hidden;
+  }
+  
+  .category-nav::-webkit-scrollbar {
+	display: none;
+  }
+  
+  .nav-fade {
+	position: absolute;
+	top: -1px;
+	height: 100%;
+	width: var(--spacing-11);
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	z-index: 999;
+	cursor: pointer;
+	pointer-events: none;
+  }
+  
+  .nav-fade-left {
+	left: -16px;
+	background: linear-gradient(to right, var(--background) 30%, rgba(0, 0, 0, 0));
+	opacity: 0;
+  }
+  
+  .nav-fade-right {
+	right: -16px;
+	background: linear-gradient(to left, var(--background) 30%, rgba(0, 0, 0, 0));
+  }
+  
+  .nav-arrow-icon {
+	width: var(--spacing-09);
+	height: var(--spacing-09);
+	border-radius: 50%;
+	padding: var(--spacing-02);
+	pointer-events: auto;
+	color: var(--icon-secondary);
+	-webkit-backdrop-filter: blur(.5rem);
+	backdrop-filter: blur(.5rem);
+  }
 
-/* Hide scrollbar for Chrome, Safari and Opera */
-/* .category-nav::-webkit-scrollbar {
-  display: none;
-} */
+  .nav-fade:hover .nav-arrow-icon {
+	color: var(--icon-primary);
+  }
+  
+  .nav-fade-left.show {
+	opacity: 1;
+  }
+  
+  .nav-fade-right.hide {
+	opacity: 0;
+  }
