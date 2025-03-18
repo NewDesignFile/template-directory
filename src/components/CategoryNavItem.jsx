@@ -61,7 +61,7 @@ export default function CategoryNavItem(props) {
       }`}
       aria-label={`Navigate to ${title} category with ${getCategoryCount()} items`}
       dangerouslySetInnerHTML={{
-        __html: `${title} (${getCategoryCount()})`,
+        __html: `${title} <span class="category-count">${getCategoryCount()}</span>`,
       }}
     ></button>
   );

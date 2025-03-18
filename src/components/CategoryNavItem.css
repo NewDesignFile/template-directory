@@ -11,6 +11,19 @@
   color: var(--text-secondary);
 }
 
+span.category-count {
+  background-color: var(--background-hover);
+  color: var(--text-secondary);
+  margin-left: var(--spacing-01);
+  display: inline-block;
+  font-size: var(--desktop-body-sm);
+  line-height: 1.5;
+  min-width: var(--spacing-07);
+  padding: 0 var(--spacing-03);
+  text-align: center;
+  border-radius: var(--spacing-02);
+}
+
 .nav__item:hover {
   color: var(--text-primary);
 }
@@ -18,4 +31,9 @@
 .nav__item.is-active {
   color: var(--text-primary);
   border-bottom: 2px solid var(--accent);
+}
+
+.nav__item:hover span.category-count,
+.nav__item.is-active span.category-count {
+  color: var(--text-primary);
 }
