@@ -61,18 +61,18 @@
           "date-added": "2024-09-20"
         },
         {
-          "title": "FurryAI",
-          "body": "Furry AI art generator.",
-          "tag": "Freemium",
-          "url": "https://www.furryaiart.com/?ref=riseofmachine.com",
-          "date-added": "2024-10-22"
-        },
-        {
           "title": "Freepik Pikaso",
           "body": "Generative AI with Freepik.",
           "tag": "Free",
           "url": "https://www.freepik.com/pikaso/?ref=riseofmachine.com",
           "date-added": "2023-12-22"
+        },
+        {
+          "title": "FurryAI",
+          "body": "Furry AI art generator.",
+          "tag": "Freemium",
+          "url": "https://www.furryaiart.com/?ref=riseofmachine.com",
+          "date-added": "2024-10-22"
         },
         {
           "title": "GenXi",
@@ -89,6 +89,20 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Hotpot",
+          "body": "Create graphics, pictures & writing.",
+          "tag": "Freemium",
+          "url": "https://hotpot.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-12"
+        },
+        {
+          "title": "ImageToImageAI",
+          "body": "Transform your photos into stunning artwork using AI technology.",
+          "tag": "Freemium",
+          "url": "https://imgtoimgai.org/?ref=riseofmachine.com",
+          "date-added": "2025-05-22"
+        },
+        {
           "title": "Imgnai",
           "body": "Text to art.",
           "tag": "Freemium",
@@ -103,25 +117,18 @@
           "date-added": "2023-12-26"
         },
         {
-          "title": "Leonardo",
-          "body": "Create visual assets.",
-          "tag": "Freemium",
-          "url": "https://leonardo.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-25"
-        },
-        {
-          "title": "Hotpot",
-          "body": "Create graphics, pictures & writing.",
-          "tag": "Freemium",
-          "url": "https://hotpot.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-12"
-        },
-        {
           "title": "Krea",
           "body": "Image generation.",
           "tag": "Beta",
           "url": "https://www.krea.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "Leonardo",
+          "body": "Create visual assets.",
+          "tag": "Freemium",
+          "url": "https://leonardo.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-25"
         },
         {
           "title": "Lexica",
