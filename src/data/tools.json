@@ -1581,13 +1581,6 @@
           "date-added": "2025-05-24"
         },
         {
-          "title": "Music AI",
-          "body": "Audio intelligence platform.",
-          "tag": "Freemium",
-          "url": "https://music.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-24"
-        },
-        {
           "title": "Imagetomusic",
           "body": "AI Image to Music Generator",
           "tag": "Freemium",
@@ -1600,6 +1593,20 @@
           "tag": "Waitlist",
           "url": "https://www.jenmusic.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        },
+        {
+          "title": "Lami.ai: Free AI Music Generator from Text",
+          "body": "Lami.ai is a powerful and easy-to-use AI music generator that transforms text or lyrics into full songs — no music skills needed.",
+          "tag": "Free",
+          "url": "https://lami.ai/?ref=riseofmachine.com",
+          "date-added": "2025-05-28"
+        },
+        {
+          "title": "Music AI",
+          "body": "Audio intelligence platform.",
+          "tag": "Freemium",
+          "url": "https://music.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-24"
         },
         {
           "title": "Songburst",
