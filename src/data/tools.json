@@ -395,6 +395,13 @@
           "date-added": "2023-12-26"
         },
         {
+          "title": "Code Assistant",
+          "body": "An AI-powered tool for code completion and...",
+          "tag": "Not available",
+          "url": "http://example.com/ai-code-assistant?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Code Snippets",
           "body": "Manage code snippets, visualize codebase.",
           "tag": "From $4/mo",
@@ -665,6 +672,13 @@
           "tag": "Freemium",
           "url": "https://strut.so/?ref=riseofmachine.com",
           "date-added": "2023-12-24"
+        },
+        {
+          "title": "Text Summarizer",
+          "body": "Summarizes long texts using AI.",
+          "tag": "Not available",
+          "url": "http://example.com/ai-text-summarizer?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "TextGen",
@@ -2360,6 +2374,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Data Visualization Tool",
+          "body": "Generates interactive data visualizations using...",
+          "tag": "Not available",
+          "url": "http://example.com/ai-data-visualization?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Domain Name Generator",
           "body": "Generate domain names.",
           "tag": "Freemium",
@@ -2888,6 +2909,13 @@
           "date-added": "2024-10-23"
         },
         {
+          "title": "Chatbot Platform",
+          "body": "Platform for building AI chatbots.",
+          "tag": "Not available",
+          "url": "http://example.com/ai-chatbot-platform?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Chatru",
           "body": "Free online AI chat.",
           "tag": "Free",
@@ -3026,6 +3054,13 @@
           "tag": "Freemium",
           "url": "https://www.krater.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "Language Translation Service",
+          "body": "AI-powered translation for multiple languages.",
+          "tag": "Not available",
+          "url": "http://example.com/ai-language-translation?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Lindy",
