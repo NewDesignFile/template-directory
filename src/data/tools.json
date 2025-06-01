@@ -739,47 +739,6 @@
       ]
     },
     {
-      "title": "Data Annotation",
-      "category": "data-annotation",
-      "content": [
-        {
-          "title": "Doccano",
-          "body": "Doccano is an open source text annotation tool ...",
-          "tag": "Not available",
-          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/101?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
-          "title": "Label Studio",
-          "body": "Label studio is a multi-type data labeling and ...",
-          "tag": "Not available",
-          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/102?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
-          "title": "Prodigy",
-          "body": "Prodigy is an annotation tool so efficient that...",
-          "tag": "Not available",
-          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/97?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
-          "title": "Snorkel",
-          "body": "Snorkel is a system for programmatically buildi...",
-          "tag": "Not available",
-          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/96?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
-          "title": "Supervisely",
-          "body": "Supervisely is a powerful platform for computer...",
-          "tag": "Not available",
-          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/98?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        }
-      ]
-    },
-    {
       "title": "Design",
       "category": "design",
       "content": [
@@ -1536,7 +1495,7 @@
     },
     {
       "title": "LLMs",
-      "category": "llms",
+      "category": "llm",
       "content": [
         {
           "title": "AI Agents List",
@@ -1786,7 +1745,7 @@
     },
     {
       "title": "No Code",
-      "category": "no-code",
+      "category": "nocode",
       "content": [
         {
           "title": "Brancher AI",
@@ -2564,7 +2523,7 @@
     },
     {
       "title": "Social Media",
-      "category": "social-media",
+      "category": "social",
       "content": [
         {
           "title": "Assembo",
@@ -3069,6 +3028,13 @@
           "date-added": "2023-12-26"
         },
         {
+          "title": "Doccano",
+          "body": "Doccano is an open source text annotation tool ...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/101?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Dubbah",
           "body": "Dub videos in 28 different languages.",
           "tag": "From $49.99",
@@ -3151,6 +3117,13 @@
           "tag": "Freemium",
           "url": "https://www.krater.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "Label Studio",
+          "body": "Label studio is a multi-type data labeling and ...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/102?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Lindy",
@@ -3314,6 +3287,13 @@
           "date-added": "2025-01-06"
         },
         {
+          "title": "Prodigy",
+          "body": "Prodigy is an annotation tool so efficient that...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/97?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Ptool",
           "body": "NSFW AI image generator.",
           "tag": "Freemium",
@@ -3426,11 +3406,25 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Snorkel",
+          "body": "Snorkel is a system for programmatically buildi...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/96?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Success.ai",
           "body": "AI-powered cold emails.",
           "tag": "From $23/mo",
           "url": "https://www.success.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "Supervisely",
+          "body": "Supervisely is a powerful platform for computer...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/98?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Synthetic",
