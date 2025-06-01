@@ -1,0 +1,32 @@
+[
+  {
+    "title": "Label Studio",
+    "body": "Label studio is a multi-type data labeling and ...",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/102",
+    "category": "Data Annotation"
+  },
+  {
+    "title": "Doccano",
+    "body": "Doccano is an open source text annotation tool ...",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/101",
+    "category": "Data Annotation"
+  },
+  {
+    "title": "Supervisely",
+    "body": "Supervisely is a powerful platform for computer...",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/98",
+    "category": "Data Annotation"
+  },
+  {
+    "title": "Prodigy",
+    "body": "Prodigy is an annotation tool so efficient that...",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/97",
+    "category": "Data Annotation"
+  },
+  {
+    "title": "Snorkel",
+    "body": "Snorkel is a system for programmatically buildi...",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/96",
+    "category": "Data Annotation"
+  }
+]

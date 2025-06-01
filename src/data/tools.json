@@ -145,13 +145,6 @@
           "date-added": "2023-12-12"
         },
         {
-          "title": "Infinite Craft Guide",
-          "body": "Learn recipes and strategies for Infinite Craft.",
-          "tag": "Free",
-          "url": "https://www.infinitecraftguide.net/?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "Image Generator NSFW",
           "body": "Create and enjoy Unlimited NSFW Images.",
           "tag": "Free",
@@ -171,6 +164,13 @@
           "tag": "Freemium",
           "url": "https://imgnai.com/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        },
+        {
+          "title": "Infinite Craft Guide",
+          "body": "Learn recipes and strategies for Infinite Craft.",
+          "tag": "Free",
+          "url": "https://www.infinitecraftguide.net/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Invoke",
@@ -739,6 +739,47 @@
       ]
     },
     {
+      "title": "Data Annotation",
+      "category": "data-annotation",
+      "content": [
+        {
+          "title": "Doccano",
+          "body": "Doccano is an open source text annotation tool ...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/101?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "Label Studio",
+          "body": "Label studio is a multi-type data labeling and ...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/102?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "Prodigy",
+          "body": "Prodigy is an annotation tool so efficient that...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/97?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "Snorkel",
+          "body": "Snorkel is a system for programmatically buildi...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/96?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "Supervisely",
+          "body": "Supervisely is a powerful platform for computer...",
+          "tag": "Not available",
+          "url": "https://github.com/ml-tooling/best-of-ml-python/issues/98?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        }
+      ]
+    },
+    {
       "title": "Design",
       "category": "design",
       "content": [
@@ -841,18 +882,18 @@
           "date-added": "2024-11-07"
         },
         {
-          "title": "Slea",
-          "body": "Free AI logo generator for custom logos.",
-          "tag": "Free",
-          "url": "https://slea.ai/?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "Shape of AI",
           "body": "UX patterns for AI design.",
           "tag": "Freemium",
           "url": "https://www.shapeof.ai/?ref=riseofmachine.com",
           "date-added": "2024-08-26"
+        },
+        {
+          "title": "Slea",
+          "body": "Free AI logo generator for custom logos.",
+          "tag": "Free",
+          "url": "https://slea.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Uizard",
@@ -1167,18 +1208,18 @@
           "date-added": "2023-12-15"
         },
         {
-          "title": "GPTbots.ai",
-          "body": "Build AI bot for your business.",
-          "tag": "From $0/mo",
-          "url": "https://www.gptbots.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-23"
-        },
-        {
           "title": "Glean",
           "body": "Search all company apps.",
           "tag": "Not available",
           "url": "https://www.glean.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "GPTbots.ai",
+          "body": "Build AI bot for your business.",
+          "tag": "From $0/mo",
+          "url": "https://www.gptbots.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-23"
         },
         {
           "title": "Gradient",
@@ -1223,6 +1264,13 @@
           "date-added": "2023-12-28"
         },
         {
+          "title": "Multimodal",
+          "body": "AI agents to automate workflows.",
+          "tag": "Freemium",
+          "url": "https://www.multimodal.dev/?ref=riseofmachine.com",
+          "date-added": "2024-03-23"
+        },
+        {
           "title": "Mutual",
           "body": "Customer service with AI.",
           "tag": "Freemium",
@@ -1235,13 +1283,6 @@
           "tag": "Freemium",
           "url": "https://myaskai.com/?ref=riseofmachine.com",
           "date-added": "2023-12-24"
-        },
-        {
-          "title": "Multimodal",
-          "body": "AI agents to automate workflows.",
-          "tag": "Freemium",
-          "url": "https://www.multimodal.dev/?ref=riseofmachine.com",
-          "date-added": "2024-03-23"
         },
         {
           "title": "Nanonets",
@@ -1495,7 +1536,7 @@
     },
     {
       "title": "LLMs",
-      "category": "llm",
+      "category": "llms",
       "content": [
         {
           "title": "AI Agents List",
@@ -1679,18 +1720,18 @@
           "date-added": "2023-12-24"
         },
         {
-          "title": "Songburst",
-          "body": "Generate music with AI",
-          "tag": "Free",
-          "url": "https://www.songburst.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-28"
-        },
-        {
           "title": "Song Generator",
           "body": "AI music generator free online.",
           "tag": "Freemium",
           "url": "https://songgenerator.io/?ref=riseofmachine.com",
           "date-added": "2024-10-23"
+        },
+        {
+          "title": "Songburst",
+          "body": "Generate music with AI",
+          "tag": "Free",
+          "url": "https://www.songburst.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-28"
         },
         {
           "title": "Soundry",
@@ -1745,7 +1786,7 @@
     },
     {
       "title": "No Code",
-      "category": "nocode",
+      "category": "no-code",
       "content": [
         {
           "title": "Brancher AI",
@@ -2389,18 +2430,18 @@
           "date-added": "2023-12-24"
         },
         {
-          "title": "SrefHunter",
-          "body": "Midjourney sref codes.",
-          "tag": "Free",
-          "url": "https://srefhunter.top/?ref=riseofmachine.com",
-          "date-added": "2024-06-17"
-        },
-        {
           "title": "SmartGPT",
           "body": "AI enhanced prompts for expert-level results.",
           "tag": "Freemium",
           "url": "https://getsmartgpt.com/?ref=riseofmachine.com",
           "date-added": "2025-06-01"
+        },
+        {
+          "title": "SrefHunter",
+          "body": "Midjourney sref codes.",
+          "tag": "Free",
+          "url": "https://srefhunter.top/?ref=riseofmachine.com",
+          "date-added": "2024-06-17"
         }
       ]
     },
@@ -2523,7 +2564,7 @@
     },
     {
       "title": "Social Media",
-      "category": "social",
+      "category": "social-media",
       "content": [
         {
           "title": "Assembo",
@@ -2979,18 +3020,18 @@
           "date-added": "2023-12-12"
         },
         {
-          "title": "Cognexo",
-          "body": "AI-driven platform for employee development.",
-          "tag": "Freemium",
-          "url": "https://cognexo.com/?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "Coframe",
           "body": "Self-optimize your site.",
           "tag": "Not available",
           "url": "https://www.coframe.com/?ref=riseofmachine.com",
           "date-added": "2024-10-30"
+        },
+        {
+          "title": "Cognexo",
+          "body": "AI-driven platform for employee development.",
+          "tag": "Freemium",
+          "url": "https://cognexo.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Crumb",
@@ -3224,13 +3265,6 @@
           "date-added": "2024-10-22"
         },
         {
-          "title": "Pointer",
-          "body": "AI to edit your documents within Google Docs.",
-          "tag": "Freemium",
-          "url": "https://www.getpointer.ai/google-docs-ai?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "Penny",
           "body": "Online shopping assistant.",
           "tag": "Free",
@@ -3257,6 +3291,13 @@
           "tag": "Freemium",
           "url": "https://www.plusdocs.com/?ref=riseofmachine.com",
           "date-added": "2023-12-22"
+        },
+        {
+          "title": "Pointer",
+          "body": "AI to edit your documents within Google Docs.",
+          "tag": "Freemium",
+          "url": "https://www.getpointer.ai/google-docs-ai?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Postli",
@@ -3399,13 +3440,6 @@
           "date-added": "2023-12-26"
         },
         {
-          "title": "ThatsMy",
-          "body": "India’s fastest-growing AI tools directory.",
-          "tag": "Free",
-          "url": "https://thatsmy.ai/?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "Tallow Balm",
           "body": "Create tallow-based skincare formulations.",
           "tag": "Freemium",
@@ -3425,6 +3459,13 @@
           "tag": "Freemium",
           "url": "https://www.textomap.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "ThatsMy",
+          "body": "India\u2019s fastest-growing AI tools directory.",
+          "tag": "Free",
+          "url": "https://thatsmy.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Tinq",

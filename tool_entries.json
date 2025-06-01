@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Label Studio",
+    "body": "Label studio is a multi-type data labeling and ...",
+    "tag": "Not available",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/102?ref=riseofmachine.com",
+    "date-added": "2025-06-01",
+    "category": "Data Annotation"
+  },
+  {
+    "title": "Doccano",
+    "body": "Doccano is an open source text annotation tool ...",
+    "tag": "Not available",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/101?ref=riseofmachine.com",
+    "date-added": "2025-06-01",
+    "category": "Data Annotation"
+  },
+  {
+    "title": "Supervisely",
+    "body": "Supervisely is a powerful platform for computer...",
+    "tag": "Not available",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/98?ref=riseofmachine.com",
+    "date-added": "2025-06-01",
+    "category": "Data Annotation"
+  },
+  {
+    "title": "Prodigy",
+    "body": "Prodigy is an annotation tool so efficient that...",
+    "tag": "Not available",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/97?ref=riseofmachine.com",
+    "date-added": "2025-06-01",
+    "category": "Data Annotation"
+  },
+  {
+    "title": "Snorkel",
+    "body": "Snorkel is a system for programmatically buildi...",
+    "tag": "Not available",
+    "url": "https://github.com/ml-tooling/best-of-ml-python/issues/96?ref=riseofmachine.com",
+    "date-added": "2025-06-01",
+    "category": "Data Annotation"
+  }
+]
