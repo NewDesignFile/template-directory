@@ -138,6 +138,13 @@
           "date-added": "2023-12-12"
         },
         {
+          "title": "Infinite Craft Guide",
+          "body": "Learn recipes and strategies for Infinite Craft.",
+          "tag": "Free",
+          "url": "https://www.infinitecraftguide.net/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Image Generator NSFW",
           "body": "Create and enjoy Unlimited NSFW Images.",
           "tag": "Free",
@@ -982,6 +989,19 @@
       ]
     },
     {
+      "title": "Directory",
+      "category": "directory",
+      "content": [
+        {
+          "title": "ThatsMy",
+          "body": "India’s fastest-growing AI tools directory.",
+          "tag": "Free",
+          "url": "https://thatsmy.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        }
+      ]
+    },
+    {
       "title": "Education",
       "category": "education",
       "content": [
@@ -1061,6 +1081,19 @@
           "tag": "Not available",
           "url": "https://www.studyfetch.com/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        }
+      ]
+    },
+    {
+      "title": "Employee Development",
+      "category": "employee-development",
+      "content": [
+        {
+          "title": "Cognexo",
+          "body": "AI-driven platform for employee development.",
+          "tag": "Freemium",
+          "url": "https://cognexo.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         }
       ]
     },
