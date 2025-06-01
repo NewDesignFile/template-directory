@@ -1428,6 +1428,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Kie AI",
+          "body": "OpenAI's latest image model API (text & image).",
+          "tag": "Freemium",
+          "url": "https://kie.ai/4o-image-api?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Kie.ai",
           "body": "DeepSeek R1 & V3 API.",
           "tag": "Freemium",
@@ -2963,6 +2970,13 @@
           "tag": "From $12.99/mo",
           "url": "https://www.mystic.ai/pipeline-catalyst/?ref=riseofmachine.com",
           "date-added": "2023-12-24"
+        },
+        {
+          "title": "Napkin AI",
+          "body": "Turns text into visuals for quick sharing.",
+          "tag": "Freemium",
+          "url": "https://www.napkin.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Nara",
