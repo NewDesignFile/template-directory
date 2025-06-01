@@ -2664,6 +2664,13 @@
       "category": "xtras",
       "content": [
         {
+          "title": "AI Beauty Test",
+          "body": "Analyzes facial features and provides beauty score.",
+          "tag": "Free",
+          "url": "http://aibeautytest.org?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "AI Finder Plus",
           "body": "A directory to discover, submit and earn from AI tools.",
           "tag": "Freemium",
@@ -3019,6 +3026,13 @@
           "tag": "Freemium",
           "url": "https://www.postli.co/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "PXZ.AI",
+          "body": "AI toolkit for video, image, and graphic needs.",
+          "tag": "Freemium",
+          "url": "https://pxz.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Ptool",
