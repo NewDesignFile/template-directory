@@ -89,6 +89,34 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Ghibli App",
+          "body": "Transform photos into Ghibli artwork.",
+          "url": "https://aighibli.app/?ref=riseofmachine.com",
+          "tag": "Free",
+          "date_added": "2025-06-01"
+        },
+        {
+          "title": "Ghibli Art AI",
+          "body": "Create Ghibli-style images from photos.",
+          "url": "https://ghibliart.ai/?ref=riseofmachine.com",
+          "tag": "Free",
+          "date_added": "2025-06-01"
+        },
+        {
+          "title": "GhibliAI App",
+          "body": "Free AI art generation platform for Ghibli style.",
+          "url": "https://ghibliai.app/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date_added": "2025-06-01"
+        },
+        {
+          "title": "Grok Ghibli",
+          "body": "Generates Studio Ghibli style images.",
+          "url": "https://grokghibli.pro/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date_added": "2025-06-01"
+        },
+        {
           "title": "Hotpot",
           "body": "Create graphics, pictures & writing.",
           "tag": "Freemium",
@@ -2698,6 +2726,13 @@
       "title": "Xtras",
       "category": "xtras",
       "content": [
+        {
+          "title": "Agents Directory",
+          "body": "Discover, compare, and implement top AI tools.",
+          "url": "https://ai-agents-directory.com/?ref=riseofmachine.com",
+          "tag": "Free",
+          "date_added": "2025-06-01"
+        },
         {
           "title": "AI Beauty Test",
           "body": "Analyzes facial features and provides beauty score.",
