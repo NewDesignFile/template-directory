@@ -107,28 +107,28 @@
           "body": "Transform photos into Ghibli artwork.",
           "url": "https://aighibli.app/?ref=riseofmachine.com",
           "tag": "Free",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "Ghibli Art AI",
           "body": "Create Ghibli-style images from photos.",
           "url": "https://ghibliart.ai/?ref=riseofmachine.com",
           "tag": "Free",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "GhibliAI App",
           "body": "Free AI art generation platform for Ghibli style.",
           "url": "https://ghibliai.app/?ref=riseofmachine.com",
           "tag": "Freemium",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "Grok Ghibli",
           "body": "Generates Studio Ghibli style images.",
           "url": "https://grokghibli.pro/?ref=riseofmachine.com",
           "tag": "Freemium",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "Hotpot",
@@ -206,6 +206,13 @@
           "tag": "Freemium",
           "url": "https://www.ocmaker.net/?ref=riseofmachine.com",
           "date-added": "2024-10-22"
+        },
+        {
+          "title": "Picto Enhancer",
+          "body": "Enhance images with AI filters and effects.",
+          "tag": "Free",
+          "url": "https://pictoenhancer.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Pictorial",
@@ -688,6 +695,13 @@
           "date-added": "2024-07-27"
         },
         {
+          "title": "VeriWriter",
+          "body": "AI writing assistant for clear communication.",
+          "tag": "From $19/mo",
+          "url": "https://veriwriter.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "WooCommerce AI",
           "body": "AI product description writer.",
           "tag": "Freemium",
@@ -866,6 +880,13 @@
           "tag": "Freemium",
           "url": "https://buildship.com/?ref=riseofmachine.com",
           "date-added": "2023-12-29"
+        },
+        {
+          "title": "CodeGenius",
+          "body": "AI-powered code generation and completion.",
+          "tag": "Freemium",
+          "url": "https://codegenius.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Codebuddy",
@@ -1167,6 +1188,13 @@
           "date-added": "2023-12-24"
         },
         {
+          "title": "Insight Analytica",
+          "body": "Automated data analysis and insights.",
+          "tag": "From $49/mo",
+          "url": "https://insightanalytica.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Ioni",
           "body": "Automate for customer support.",
           "tag": "From $29/mo",
@@ -1195,6 +1223,13 @@
           "date-added": "2023-12-28"
         },
         {
+          "title": "Multimodal",
+          "body": "AI agents to automate workflows.",
+          "tag": "Freemium",
+          "url": "https://www.multimodal.dev/?ref=riseofmachine.com",
+          "date-added": "2024-03-23"
+        },
+        {
           "title": "Mutual",
           "body": "Customer service with AI.",
           "tag": "Freemium",
@@ -1207,13 +1242,6 @@
           "tag": "Freemium",
           "url": "https://myaskai.com/?ref=riseofmachine.com",
           "date-added": "2023-12-24"
-        },
-        {
-          "title": "Multimodal",
-          "body": "AI agents to automate workflows.",
-          "tag": "Freemium",
-          "url": "https://www.multimodal.dev/?ref=riseofmachine.com",
-          "date-added": "2024-03-23"
         },
         {
           "title": "Nanonets",
@@ -2801,14 +2829,14 @@
           "body": "Discover, compare, and implement top AI tools.",
           "url": "https://ai-agents-directory.com/?ref=riseofmachine.com",
           "tag": "Free",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "AI Beauty Test",
           "body": "Analyzes facial features and provides beauty score.",
           "tag": "Free",
           "url": "http://aibeautytest.org?ref=riseofmachine.com",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "AI Finder Plus",
@@ -3033,6 +3061,13 @@
           "tag": "Beta",
           "url": "https://www.lindy.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-27"
+        },
+        {
+          "title": "Lingua Translate",
+          "body": "Accurate AI-powered language translation.",
+          "tag": "Freemium",
+          "url": "https://linguatranslate.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Maester",
