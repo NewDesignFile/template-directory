@@ -107,28 +107,28 @@
           "body": "Transform photos into Ghibli artwork.",
           "url": "https://aighibli.app/?ref=riseofmachine.com",
           "tag": "Free",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "Ghibli Art AI",
           "body": "Create Ghibli-style images from photos.",
           "url": "https://ghibliart.ai/?ref=riseofmachine.com",
           "tag": "Free",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "GhibliAI App",
           "body": "Free AI art generation platform for Ghibli style.",
           "url": "https://ghibliai.app/?ref=riseofmachine.com",
           "tag": "Freemium",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "Grok Ghibli",
           "body": "Generates Studio Ghibli style images.",
           "url": "https://grokghibli.pro/?ref=riseofmachine.com",
           "tag": "Freemium",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "Hotpot",
@@ -2173,6 +2173,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Plz.ai Directory",
+          "body": "AI tool directory for various tasks.",
+          "tag": "Free",
+          "url": "https://plz.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Reclaim AI",
           "body": "Smart calendar tool.",
           "tag": "Freemium",
@@ -2206,6 +2213,13 @@
           "tag": "Freemium",
           "url": "https://www.taskade.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "There's An AI",
+          "body": "Find the best AI Tools, no fluff.",
+          "tag": "Freemium",
+          "url": "https://theresanai.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "TimeOS",
@@ -2679,6 +2693,13 @@
           "date-added": "2023-12-24"
         },
         {
+          "title": "Image to Video",
+          "body": "Image to video generator.",
+          "tag": "Freemium",
+          "url": "https://dovideo.io/image-to-video?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Image2Video",
           "body": "Image to video generator.",
           "tag": "Freemium",
@@ -2829,14 +2850,14 @@
           "body": "Discover, compare, and implement top AI tools.",
           "url": "https://ai-agents-directory.com/?ref=riseofmachine.com",
           "tag": "Free",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "AI Beauty Test",
           "body": "Analyzes facial features and provides beauty score.",
           "tag": "Free",
           "url": "http://aibeautytest.org?ref=riseofmachine.com",
-          "date_added": "2025-06-01"
+          "date-added": "2025-06-01"
         },
         {
           "title": "AI Finder Plus",
