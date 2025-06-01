@@ -96,6 +96,13 @@
           "date-added": "2023-12-12"
         },
         {
+          "title": "ImageFX",
+          "body": "AI-powered platform for stunning art creation.",
+          "tag": "Freemium",
+          "url": "https://imgfx.dev/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Imgnai",
           "body": "Text to art.",
           "tag": "Freemium",
@@ -506,11 +513,11 @@
           "date-added": "2024-10-30"
         },
         {
-          "title": "HyperWrite",
-          "body": "AI writing assistant.",
-          "tag": "Freemium",
-          "url": "https://www.hyperwriteai.com/?ref=riseofmachine.com",
-          "date-added": "2023-12-12"
+          "title": "Headcanon Generator",
+          "body": "AI tool for unique character ideas & backstories.",
+          "tag": "Free",
+          "url": "https://headcanongenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Humanize",
@@ -525,6 +532,13 @@
           "tag": "Free",
           "url": "https://humanize.im/?ref=riseofmachine.com",
           "date-added": "2024-10-23"
+        },
+        {
+          "title": "HyperWrite",
+          "body": "AI writing assistant.",
+          "tag": "Freemium",
+          "url": "https://www.hyperwriteai.com/?ref=riseofmachine.com",
+          "date-added": "2023-12-12"
         },
         {
           "title": "Hypotenuse",
@@ -2372,6 +2386,13 @@
           "date-added": "2023-12-26"
         },
         {
+          "title": "Liseller",
+          "body": "AI agent for LinkedIn organic growth & engagement.",
+          "tag": "Freemium",
+          "url": "https://www.liseller.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Ocoya",
           "body": "Create & post social media content.",
           "tag": "From $15/mo",
@@ -2600,6 +2621,13 @@
           "tag": "Freemium",
           "url": "https://www.neuralframes.com/?ref=riseofmachine.com",
           "date-added": "2023-12-31"
+        },
+        {
+          "title": "Omagic AI",
+          "body": "Create 3D/CGI videos & images with AI effects.",
+          "tag": "Freemium",
+          "url": "https://omagicai.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "OpusClip",
