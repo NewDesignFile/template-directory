@@ -419,19 +419,6 @@
       ]
     },
     {
-      "title": "Business",
-      "category": "business",
-      "content": [
-        {
-          "title": "Chat Whisperer",
-          "body": "Custom ChatGPT for your business.",
-          "tag": "Freemium",
-          "url": "https://chatwhisperer.ai?ref=riseofmachine.com",
-          "date-added": "2025-06-02"
-        }
-      ]
-    },
-    {
       "title": "Code",
       "category": "code",
       "content": [
@@ -1681,19 +1668,6 @@
       ]
     },
     {
-      "title": "Marketing",
-      "category": "marketing",
-      "content": [
-        {
-          "title": "Poper AI",
-          "body": "AI-powered onsite engagement platform.",
-          "tag": "Freemium",
-          "url": "https://www.poper.ai?ref=riseofmachine.com",
-          "date-added": "2025-06-02"
-        }
-      ]
-    },
-    {
       "title": "Music",
       "category": "music",
       "content": [
@@ -2549,19 +2523,6 @@
       ]
     },
     {
-      "title": "Search",
-      "category": "search",
-      "content": [
-        {
-          "title": "Surudo Search",
-          "body": "AI-powered LinkedIn post search.",
-          "tag": "Freemium",
-          "url": "https://home.surudo.ai/bot/linkedin-semantic-post-search?ref=riseofmachine.com",
-          "date-added": "2025-06-02"
-        }
-      ]
-    },
-    {
       "title": "SEO",
       "category": "seo",
       "content": [
@@ -3053,6 +3014,13 @@
           "date-added": "2024-10-23"
         },
         {
+          "title": "Chat Whisperer",
+          "body": "Custom ChatGPT for your business.",
+          "tag": "Freemium",
+          "url": "https://chatwhisperer.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
+        },
+        {
           "title": "Chat100",
           "body": "Free AI chat with GPT4o & Claude 3.5 Sonnet.",
           "tag": "Free",
@@ -3354,6 +3322,13 @@
           "date-added": "2025-06-01"
         },
         {
+          "title": "Poper AI",
+          "body": "AI-powered onsite engagement platform.",
+          "tag": "Freemium",
+          "url": "https://www.poper.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
+        },
+        {
           "title": "Postli",
           "body": "LinkedIn post generator.",
           "tag": "Freemium",
@@ -3485,6 +3460,13 @@
           "tag": "From $23/mo",
           "url": "https://www.success.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "Surudo Search",
+          "body": "AI-powered LinkedIn post search.",
+          "tag": "Freemium",
+          "url": "https://home.surudo.ai/bot/linkedin-semantic-post-search?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
         },
         {
           "title": "Synthetic",
