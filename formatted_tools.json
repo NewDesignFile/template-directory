@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Toola",
+    "body": "Tool A (an AI-powered code assistant) is not wo...",
+    "tag": "Freemium",
+    "url": "https://example.com/toolA/docs?ref=riseofmachine.com",
+    "date-added": "2025-06-02"
+  },
+  {
+    "title": "Nlp Feature",
+    "body": "It would be great if tool B (a natural language...",
+    "tag": "Freemium",
+    "url": "https://example.com/toolB/nlp_feature?ref=riseofmachine.com",
+    "date-added": "2025-06-02"
+  },
+  {
+    "title": "Visioncraft",
+    "body": "Check out this new tool for computer vision tas...",
+    "tag": "Free",
+    "url": "https://example.com/visioncraft?ref=riseofmachine.com",
+    "date-added": "2025-06-02"
+  },
+  {
+    "title": "Llm Summary",
+    "body": "This Large Language Model summarizer is top-not...",
+    "tag": "Free",
+    "url": "http://example.com/llm_summary?ref=riseofmachine.com",
+    "date-added": "2025-06-02"
+  },
+  {
+    "title": "Pandasgui",
+    "body": "PandasGUI for dataframe analysis.",
+    "tag": "Not available",
+    "url": "https://example.com/pandasgui?ref=riseofmachine.com",
+    "date-added": "2025-06-02"
+  }
+]

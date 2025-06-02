@@ -1,0 +1,32 @@
+[
+  {
+    "number": 1,
+    "title": "https://example.com/toolA/docs",
+    "body": "Tool A (an AI-powered code assistant) is not working as expected. More details at [Tool A documentation](https://example.com/toolA/docs). It uses advanced machine learning.",
+    "url": "https://example.com/toolA/docs"
+  },
+  {
+    "number": 2,
+    "title": "https://example.com/toolB/nlp_feature",
+    "body": "It would be great if tool B (a natural language processing toolkit) could do X. See https://example.com/toolB/nlp_feature for a similar request.",
+    "url": "https://example.com/toolB/nlp_feature"
+  },
+  {
+    "number": 4,
+    "title": "https://example.com/visioncraft",
+    "body": "Check out this new tool for computer vision tasks: https://example.com/visioncraft. It's amazing for generating images from text.",
+    "url": "https://example.com/visioncraft"
+  },
+  {
+    "number": 6,
+    "title": "http://example.com/llm_summary",
+    "body": "This Large Language Model summarizer is top-notch: http://example.com/llm_summary",
+    "url": "http://example.com/llm_summary"
+  },
+  {
+    "number": 7,
+    "title": "https://example.com/pandasgui",
+    "body": "PandasGUI for dataframe analysis. Not explicitly AI but used in ML workflows. https://example.com/pandasgui",
+    "url": "https://example.com/pandasgui"
+  }
+]
