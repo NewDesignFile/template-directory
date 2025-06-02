@@ -4,6 +4,13 @@
       "title": "Art",
       "category": "art",
       "content": [
+          {
+            "title": "AI Christmas Photo",
+            "body": "Create stunning AI-powered holiday portraits.",
+            "tag": "$X One-time",
+            "url": "https://aichristmasphoto.com/?ref=riseofmachine.com",
+            "date-added": "2025-06-02"
+          },
         {
           "title": "Astria",
           "body": "Create custom images.",
@@ -1456,6 +1463,13 @@
           "url": "https://ailawyer.pro/?ref=riseofmachine.com",
           "date-added": "2024-09-28"
         },
+          {
+            "title": "GitLaw",
+            "body": "Free platform for legal documents, find & customize with AI.",
+            "tag": "Free",
+            "url": "https://gitlaw.co/?ref=riseofmachine.com",
+            "date-added": "2025-06-02"
+          },
         {
           "title": "Law School AI",
           "body": "AI chatbot for law learning.",
@@ -2484,6 +2498,13 @@
       "title": "SEO",
       "category": "seo",
       "content": [
+          {
+            "title": "AITDK",
+            "body": "Free AI SEO tools & generators to enhance SEO strategies.",
+            "tag": "Free",
+            "url": "https://aitdk.com/?ref=riseofmachine.com",
+            "date-added": "2025-06-02"
+          },
         {
           "title": "AI Visibility",
           "body": "AI visibility optimization platform.",
@@ -2866,6 +2887,13 @@
           "tag": "Freemium",
           "url": "https://vivago.ai/home?ref=riseofmachine.com",
           "date-added": "2024-12-14"
+          },
+          {
+            "title": "Qodo",
+            "body": "Agentic AI for reviewing, testing, & generating code.",
+            "tag": "Freemium",
+            "url": "https://www.qodo.ai/?ref=riseofmachine.com",
+            "date-added": "2025-06-02"
         }
       ]
     },
