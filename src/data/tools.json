@@ -4,13 +4,13 @@
       "title": "Art",
       "category": "art",
       "content": [
-          {
-            "title": "AI Christmas Photo",
-            "body": "Create stunning AI-powered holiday portraits.",
-            "tag": "$X One-time",
-            "url": "https://aichristmasphoto.com/?ref=riseofmachine.com",
-            "date-added": "2025-06-02"
-          },
+        {
+          "title": "AI Christmas Photo",
+          "body": "Create stunning AI-powered holiday portraits.",
+          "tag": "$X One-time",
+          "url": "https://aichristmasphoto.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
+        },
         {
           "title": "Astria",
           "body": "Create custom images.",
@@ -159,13 +159,6 @@
           "date-added": "2023-12-12"
         },
         {
-          "title": "Infinite Craft Guide",
-          "body": "Learn recipes and strategies for Infinite Craft.",
-          "tag": "Free",
-          "url": "https://www.infinitecraftguide.net/?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "Image Generator NSFW",
           "body": "Create and enjoy Unlimited NSFW Images.",
           "tag": "Free",
@@ -185,6 +178,13 @@
           "tag": "Freemium",
           "url": "https://imgnai.com/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        },
+        {
+          "title": "Infinite Craft Guide",
+          "body": "Learn recipes and strategies for Infinite Craft.",
+          "tag": "Free",
+          "url": "https://www.infinitecraftguide.net/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Invoke",
@@ -317,6 +317,13 @@
           "tag": "Freemium",
           "url": "https://www.altered.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-11"
+        },
+        {
+          "title": "Audio Muse",
+          "body": "Online audio tools with AI music generation.",
+          "tag": "Freemium",
+          "url": "https://audiomuse.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
         },
         {
           "title": "BlogAudio",
@@ -1237,6 +1244,13 @@
           "date-added": "2023-12-28"
         },
         {
+          "title": "Multimodal",
+          "body": "AI agents to automate workflows.",
+          "tag": "Freemium",
+          "url": "https://www.multimodal.dev/?ref=riseofmachine.com",
+          "date-added": "2024-03-23"
+        },
+        {
           "title": "Mutual",
           "body": "Customer service with AI.",
           "tag": "Freemium",
@@ -1249,13 +1263,6 @@
           "tag": "Freemium",
           "url": "https://myaskai.com/?ref=riseofmachine.com",
           "date-added": "2023-12-24"
-        },
-        {
-          "title": "Multimodal",
-          "body": "AI agents to automate workflows.",
-          "tag": "Freemium",
-          "url": "https://www.multimodal.dev/?ref=riseofmachine.com",
-          "date-added": "2024-03-23"
         },
         {
           "title": "Nanonets",
@@ -1470,13 +1477,13 @@
           "url": "https://ailawyer.pro/?ref=riseofmachine.com",
           "date-added": "2024-09-28"
         },
-          {
-            "title": "GitLaw",
-            "body": "Free platform for legal documents, find & customize with AI.",
-            "tag": "Free",
-            "url": "https://gitlaw.co/?ref=riseofmachine.com",
-            "date-added": "2025-06-02"
-          },
+        {
+          "title": "GitLaw",
+          "body": "Free platform for legal documents, find & customize with AI.",
+          "tag": "Free",
+          "url": "https://gitlaw.co/?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
+        },
         {
           "title": "Law School AI",
           "body": "AI chatbot for law learning.",
@@ -2424,18 +2431,18 @@
           "date-added": "2023-12-24"
         },
         {
-          "title": "SrefHunter",
-          "body": "Midjourney sref codes.",
-          "tag": "Free",
-          "url": "https://srefhunter.top/?ref=riseofmachine.com",
-          "date-added": "2024-06-17"
-        },
-        {
           "title": "SmartGPT",
           "body": "AI enhanced prompts for expert-level results.",
           "tag": "Freemium",
           "url": "https://getsmartgpt.com/?ref=riseofmachine.com",
           "date-added": "2025-06-01"
+        },
+        {
+          "title": "SrefHunter",
+          "body": "Midjourney sref codes.",
+          "tag": "Free",
+          "url": "https://srefhunter.top/?ref=riseofmachine.com",
+          "date-added": "2024-06-17"
         }
       ]
     },
@@ -2519,13 +2526,13 @@
       "title": "SEO",
       "category": "seo",
       "content": [
-          {
-            "title": "AITDK",
-            "body": "Free AI SEO tools & generators to enhance SEO strategies.",
-            "tag": "Free",
-            "url": "https://aitdk.com/?ref=riseofmachine.com",
-            "date-added": "2025-06-02"
-          },
+        {
+          "title": "AITDK",
+          "body": "Free AI SEO tools & generators to enhance SEO strategies.",
+          "tag": "Free",
+          "url": "https://aitdk.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
+        },
         {
           "title": "AI Visibility",
           "body": "AI visibility optimization platform.",
@@ -2868,6 +2875,13 @@
           "date-added": "2023-12-26"
         },
         {
+          "title": "Qodo",
+          "body": "Agentic AI for reviewing, testing, & generating code.",
+          "tag": "Freemium",
+          "url": "https://www.qodo.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
+        },
+        {
           "title": "Rask AI",
           "body": "Translate video & audio.",
           "tag": "From $50/mo",
@@ -2908,13 +2922,6 @@
           "tag": "Freemium",
           "url": "https://vivago.ai/home?ref=riseofmachine.com",
           "date-added": "2024-12-14"
-          },
-          {
-            "title": "Qodo",
-            "body": "Agentic AI for reviewing, testing, & generating code.",
-            "tag": "Freemium",
-            "url": "https://www.qodo.ai/?ref=riseofmachine.com",
-            "date-added": "2025-06-02"
         }
       ]
     },
@@ -3005,6 +3012,13 @@
           "tag": "Freemium",
           "url": "https://bypassgpt.co/?ref=riseofmachine.com",
           "date-added": "2024-10-23"
+        },
+        {
+          "title": "Chat Whisperer",
+          "body": "Custom ChatGPT for your business.",
+          "tag": "Freemium",
+          "url": "https://chatwhisperer.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
         },
         {
           "title": "Chat100",
@@ -3273,13 +3287,6 @@
           "date-added": "2024-10-22"
         },
         {
-          "title": "Pointer",
-          "body": "AI to edit your documents within Google Docs.",
-          "tag": "Freemium",
-          "url": "https://www.getpointer.ai/google-docs-ai?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "Penny",
           "body": "Online shopping assistant.",
           "tag": "Free",
@@ -3306,6 +3313,20 @@
           "tag": "Freemium",
           "url": "https://www.plusdocs.com/?ref=riseofmachine.com",
           "date-added": "2023-12-22"
+        },
+        {
+          "title": "Pointer",
+          "body": "AI to edit your documents within Google Docs.",
+          "tag": "Freemium",
+          "url": "https://www.getpointer.ai/google-docs-ai?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "Poper AI",
+          "body": "AI-powered onsite engagement platform.",
+          "tag": "Freemium",
+          "url": "https://www.poper.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
         },
         {
           "title": "Postli",
@@ -3441,18 +3462,18 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Surudo Search",
+          "body": "AI-powered LinkedIn post search.",
+          "tag": "Freemium",
+          "url": "https://home.surudo.ai/bot/linkedin-semantic-post-search?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
+        },
+        {
           "title": "Synthetic",
           "body": "Synthetic data for vision AI.",
           "tag": "Beta",
           "url": "https://syntheticaidata.com/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
-        },
-        {
-          "title": "ThatsMy",
-          "body": "India’s fastest-growing AI tools directory.",
-          "tag": "Free",
-          "url": "https://thatsmy.ai/?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
         },
         {
           "title": "Tallow Balm",
@@ -3474,6 +3495,13 @@
           "tag": "Freemium",
           "url": "https://www.textomap.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "ThatsMy",
+          "body": "India’s fastest-growing AI tools directory.",
+          "tag": "Free",
+          "url": "https://thatsmy.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         },
         {
           "title": "Tinq",
