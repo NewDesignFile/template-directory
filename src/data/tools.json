@@ -945,6 +945,13 @@
           "date-added": "2023-12-29"
         },
         {
+          "title": "BingChain",
+          "body": "AI-powered chatbot framework, Langchain alternative.",
+          "tag": "Free",
+          "url": "https://github.com/postman-open-technologies/bingchain?ref=riseofmachine.com",
+          "date-added": "2025-06-03"
+        },
+        {
           "title": "BuildShip",
           "body": "Build workflows, APIs, & scheduled jobs.",
           "tag": "Freemium",
@@ -971,6 +978,13 @@
           "tag": "Free",
           "url": "https://gethatchet.com/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        },
+        {
+          "title": "I18n Code Gen",
+          "body": "AI-powered code translation and localization tool.",
+          "tag": "Free",
+          "url": "https://github.com/linexjlin/I18nCodeGenServer?ref=riseofmachine.com",
+          "date-added": "2025-06-03"
         },
         {
           "title": "Lightning",
@@ -1502,61 +1516,6 @@
       ]
     },
     {
-      "title": "Legal",
-      "category": "legal",
-      "content": [
-        {
-          "title": "AI Lawyer",
-          "body": "Personal legal AI assistant.",
-          "tag": "Freemium",
-          "url": "https://ailawyer.pro/?ref=riseofmachine.com",
-          "date-added": "2024-09-28"
-        },
-        {
-          "title": "GitLaw",
-          "body": "Free platform for legal documents, find & customize with AI.",
-          "tag": "Free",
-          "url": "https://gitlaw.co/?ref=riseofmachine.com",
-          "date-added": "2025-06-02"
-        },
-        {
-          "title": "Law School AI",
-          "body": "AI chatbot for law learning.",
-          "tag": "Freemium",
-          "url": "https://www.lawschoolai.com/?ref=riseofmachine.com",
-          "date-added": "2023-12-26"
-        },
-        {
-          "title": "Lawyer",
-          "body": "Personal AI legal assistant.",
-          "tag": "Freemium",
-          "url": "https://ailawyer.pro/?ref=riseofmachine.com",
-          "date-added": "2024-09-28"
-        },
-        {
-          "title": "LegalNOW",
-          "body": "Create or review legal docs.",
-          "tag": "From $49/mo",
-          "url": "https://www.legalnowai.com/?ref=riseofmachine.com",
-          "date-added": "2023-12-24"
-        },
-        {
-          "title": "Spellbook",
-          "body": "Draft contracts with AI.",
-          "tag": "Waitlist",
-          "url": "https://www.spellbook.legal/?ref=riseofmachine.com",
-          "date-added": "2023-12-24"
-        },
-        {
-          "title": "Westaway Ace",
-          "body": "AI startup legal assistant.",
-          "tag": "Freemium",
-          "url": "https://westaway.com/ace/?ref=riseofmachine.com",
-          "date-added": "2023-12-27"
-        }
-      ]
-    },
-    {
       "title": "LLMs",
       "category": "llm",
       "content": [
@@ -1608,6 +1567,13 @@
           "tag": "Freemium",
           "url": "https://www.helicone.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "HotBot",
+          "body": "AI chatbot platform with unified access to AIs.",
+          "tag": "Freemium",
+          "url": "https://www.hotbot.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-03"
         },
         {
           "title": "Kie AI",
@@ -1717,6 +1683,61 @@
       ]
     },
     {
+      "title": "Legal",
+      "category": "legal",
+      "content": [
+        {
+          "title": "AI Lawyer",
+          "body": "Personal legal AI assistant.",
+          "tag": "Freemium",
+          "url": "https://ailawyer.pro/?ref=riseofmachine.com",
+          "date-added": "2024-09-28"
+        },
+        {
+          "title": "GitLaw",
+          "body": "Free platform for legal documents, find & customize with AI.",
+          "tag": "Free",
+          "url": "https://gitlaw.co/?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
+        },
+        {
+          "title": "Law School AI",
+          "body": "AI chatbot for law learning.",
+          "tag": "Freemium",
+          "url": "https://www.lawschoolai.com/?ref=riseofmachine.com",
+          "date-added": "2023-12-26"
+        },
+        {
+          "title": "Lawyer",
+          "body": "Personal AI legal assistant.",
+          "tag": "Freemium",
+          "url": "https://ailawyer.pro/?ref=riseofmachine.com",
+          "date-added": "2024-09-28"
+        },
+        {
+          "title": "LegalNOW",
+          "body": "Create or review legal docs.",
+          "tag": "From $49/mo",
+          "url": "https://www.legalnowai.com/?ref=riseofmachine.com",
+          "date-added": "2023-12-24"
+        },
+        {
+          "title": "Spellbook",
+          "body": "Draft contracts with AI.",
+          "tag": "Waitlist",
+          "url": "https://www.spellbook.legal/?ref=riseofmachine.com",
+          "date-added": "2023-12-24"
+        },
+        {
+          "title": "Westaway Ace",
+          "body": "AI startup legal assistant.",
+          "tag": "Freemium",
+          "url": "https://westaway.com/ace/?ref=riseofmachine.com",
+          "date-added": "2023-12-27"
+        }
+      ]
+    },
+    {
       "title": "Music",
       "category": "music",
       "content": [
@@ -1756,17 +1777,10 @@
           "date-added": "2023-12-24"
         },
         {
-          "title": "Songburst",
-          "body": "Generate music with AI",
-          "tag": "Free",
-          "url": "https://www.songburst.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-28"
-        },
-        {
-          "title": "Sprunki",
-          "body": "Create music with unique characters and soundscapes.",
-          "tag": "Free",
-          "url": "https://sprunki.io?ref=riseofmachine.com",
+          "title": "Snon Lyric",
+          "body": "AI-powered lyrics generation for music creators.",
+          "tag": "Not available",
+          "url": "https://www.snonlyric.com/?ref=riseofmachine.com",
           "date-added": "2025-06-03"
         },
         {
@@ -1777,11 +1791,25 @@
           "date-added": "2024-10-23"
         },
         {
+          "title": "Songburst",
+          "body": "Generate music with AI",
+          "tag": "Free",
+          "url": "https://www.songburst.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-28"
+        },
+        {
           "title": "Soundry",
           "body": "Text-to-sample generation.",
           "tag": "Freemium",
           "url": "https://soundry.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        },
+        {
+          "title": "Sprunki",
+          "body": "Create music with unique characters and soundscapes.",
+          "tag": "Free",
+          "url": "https://sprunki.io?ref=riseofmachine.com",
+          "date-added": "2025-06-03"
         },
         {
           "title": "Stable Audio",
@@ -2076,6 +2104,13 @@
           "date-added": "2023-12-26"
         },
         {
+          "title": "PhotoRoom",
+          "body": "Remove & change background.",
+          "tag": "Freemium",
+          "url": "https://www.photoroom.com/?ref=riseofmachine.com",
+          "date-added": "2023-12-15"
+        },
+        {
           "title": "Photoleap",
           "body": "Photo editing app.",
           "tag": "Freemium",
@@ -2088,13 +2123,6 @@
           "tag": "Freemium",
           "url": "https://polish.onelink.me/34n5/prodhunt?ref=riseofmachine.com",
           "date-added": "2025-06-02"
-        },
-        {
-          "title": "PhotoRoom",
-          "body": "Remove & change background.",
-          "tag": "Freemium",
-          "url": "https://www.photoroom.com/?ref=riseofmachine.com",
-          "date-added": "2023-12-15"
         },
         {
           "title": "PortraitArt",
@@ -2159,18 +2187,18 @@
       "category": "productivity",
       "content": [
         {
-          "title": "Autotab",
-          "body": "Build browser automations.",
-          "tag": "Freemium",
-          "url": "https://www.autotab.com/?ref=riseofmachine.com",
-          "date-added": "2024-10-23"
-        },
-        {
           "title": "Autoppt",
           "body": "AI generator for PowerPoint presentations.",
           "url": "https://autoppt.com/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-06-02"
+        },
+        {
+          "title": "Autotab",
+          "body": "Build browser automations.",
+          "tag": "Freemium",
+          "url": "https://www.autotab.com/?ref=riseofmachine.com",
+          "date-added": "2024-10-23"
         },
         {
           "title": "ChatGPT Writer",
@@ -2771,10 +2799,10 @@
         },
         {
           "title": "Autopilot Shorts",
-          "body": "AI generated faceless videos.",
+          "body": "AI video generation and editing tool for shorts.",
           "tag": "From $9.50/mo",
           "url": "https://autopilotshorts.com/?ref=riseofmachine.com",
-          "date-added": "2024-12-13"
+          "date-added": "2025-06-03"
         },
         {
           "title": "Boolvideo",
@@ -3014,13 +3042,6 @@
       "category": "xtras",
       "content": [
         {
-          "title": "Fake Info Generator",
-          "body": "Generate fake information for various purposes.",
-          "tag": "Free",
-          "url": "https://www.elfqrin.com/fakeid.php",
-          "date-added": "2024-02-28"
-        },
-        {
           "title": "Agents Directory",
           "body": "Discover, compare, and implement top AI tools.",
           "url": "https://ai-agents-directory.com/?ref=riseofmachine.com",
@@ -3215,6 +3236,13 @@
           "tag": "Not available",
           "url": "https://ezsite.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-01"
+        },
+        {
+          "title": "Fake Info Generator",
+          "body": "Generate fake information for various purposes.",
+          "tag": "Free",
+          "url": "https://www.elfqrin.com/fakeid.php?ref=riseofmachine.com",
+          "date-added": "2024-02-28"
         },
         {
           "title": "Floworks",
