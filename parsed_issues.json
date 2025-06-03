@@ -1,0 +1,27 @@
+[
+    {
+        "title": "aicode.help",
+        "url": "aicode.help",
+        "category": "LLMs"
+    },
+    {
+        "title": "offlinechat.chat",
+        "url": "offlinechat.chat",
+        "category": "LLMs"
+    },
+    {
+        "title": "https://www.papergen.i",
+        "url": "https://www.papergen.i/",
+        "category": "Copywriting"
+    },
+    {
+        "title": "https://omnigen.co",
+        "url": "https://omnigen.co/",
+        "category": "Avatars"
+    },
+    {
+        "title": "https://www.summarize.tech",
+        "url": "https://www.summarize.tech/",
+        "category": "Video"
+    }
+]

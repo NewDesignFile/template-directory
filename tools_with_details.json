@@ -1,0 +1,37 @@
+[
+    {
+        "title": "aicode.help",
+        "url": "aicode.help",
+        "category": "LLMs",
+        "description": "Not available",
+        "pricing_tag": "Not available"
+    },
+    {
+        "title": "offlinechat.chat",
+        "url": "offlinechat.chat",
+        "category": "LLMs",
+        "description": "Not available",
+        "pricing_tag": "Not available"
+    },
+    {
+        "title": "https://www.papergen.i",
+        "url": "https://www.papergen.i/",
+        "category": "Copywriting",
+        "description": "Not available",
+        "pricing_tag": "Not available"
+    },
+    {
+        "title": "https://omnigen.co",
+        "url": "https://omnigen.co/",
+        "category": "Avatars",
+        "description": "Not available",
+        "pricing_tag": "Not available"
+    },
+    {
+        "title": "https://www.summarize.tech",
+        "url": "https://www.summarize.tech/",
+        "category": "Video",
+        "description": "summarize.tech: AI-powered video summaries",
+        "pricing_tag": "Not available"
+    }
+]
