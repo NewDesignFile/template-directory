@@ -17,14 +17,7 @@ def get_category_id(category_name, existing_categories_data):
         if cat_obj.get("category", "").lower() == name_lower:
             return name_lower
 
-    # For "Avatars"
-    if name_lower == "avatars":
-        # Specific check for Avatars: if an 'art' or 'photos' category exists, could map there.
-        # However, the rule is "If a category does not exist, add the tool to the "Xtras" category."
-        # So, unless 'avatars' itself exists as a title or category id, it defaults to 'xtras'.
-        pass # Let it fall through to the default 'xtras' logic.
-
-    print(f"Category name '{category_name}' not directly mapped or found, defaulting to 'xtras'.")
+    print(f"Category name '{category_name}' not directly mapped or found in existing categories by title/id, defaulting to 'xtras'.")
     return "xtras"
 
 
@@ -33,42 +26,42 @@ def main():
         with open('src/data/tools.json', 'r') as f:
             existing_tools_data = json.load(f)
     except FileNotFoundError:
-        print("Error: src/data/tools.json not found.")
-        return
+        print("Error: src/data/tools.json not found. Initializing with basic structure.")
+        existing_tools_data = {"tools": []}
     except json.JSONDecodeError:
-        print("Error: Could not decode src/data/tools.json.")
-        return
+        print("Error: Could not decode src/data/tools.json. Initializing with basic structure.")
+        existing_tools_data = {"tools": []}
 
     new_tools_from_prepared = [
         {
             "title": "Aicode", "body": "Aicode", "tag": "Not available",
             "url": "https://aicode.help?ref=riseofmachine.com", "date-added": "2025-06-03",
-            "original_category_name": "LLMs"
+            "category_name": "LLMs"
         },
         {
             "title": "Offlinechat", "body": "Offlinechat", "tag": "Not available",
             "url": "https://offlinechat.chat?ref=riseofmachine.com", "date-added": "2025-06-03",
-            "original_category_name": "LLMs"
+            "category_name": "LLMs"
         },
         {
             "title": "Papergen", "body": "Papergen", "tag": "Not available",
             "url": "https://www.papergen.i/?ref=riseofmachine.com", "date-added": "2025-06-03",
-            "original_category_name": "Copywriting"
+            "category_name": "Copywriting"
         },
         {
             "title": "Omnigen", "body": "Omnigen", "tag": "Not available",
             "url": "https://omnigen.co/?ref=riseofmachine.com", "date-added": "2025-06-03",
-            "original_category_name": "Avatars"
+            "category_name": "Avatars"
         },
         {
             "title": "Summarize", "body": "Summarize.tech: ai-powered video summaries", "tag": "Not available",
             "url": "https://www.summarize.tech/?ref=riseofmachine.com", "date-added": "2025-06-03",
-            "original_category_name": "Video"
+            "category_name": "Video"
         }
     ]
 
     if 'tools' not in existing_tools_data or not isinstance(existing_tools_data['tools'], list):
-        print("Error: 'tools' array not found or invalid in src/data/tools.json")
+        print("Warning: 'tools' array not found or invalid in src/data/tools.json. Initializing.")
         existing_tools_data['tools'] = []
 
     xtras_category_id = "xtras"
@@ -77,7 +70,6 @@ def main():
         print(f"Warning: '{xtras_category_id}' category not found. Creating it.")
         xtras_category_obj = {"title": "Xtras", "category": xtras_category_id, "content": []}
         existing_tools_data['tools'].append(xtras_category_obj)
-
 
     for new_tool_data in new_tools_from_prepared:
         tool_entry = {
@@ -88,7 +80,7 @@ def main():
             "date-added": new_tool_data["date-added"]
         }
 
-        original_category_name = new_tool_data["original_category_name"]
+        original_category_name = new_tool_data["category_name"]
         target_category_id = get_category_id(original_category_name, existing_tools_data['tools'])
 
         target_category_object_for_tool = None
@@ -98,15 +90,14 @@ def main():
                 target_category_object_for_tool = category_obj_iter
                 break
 
-        if not target_category_object_for_tool:
-            # This case implies get_category_id returned 'xtras', and 'xtras' object should exist
-            if target_category_id == xtras_category_id:
-                target_category_object_for_tool = xtras_category_obj
-            else: # Should not happen if xtras is the ultimate fallback
-                print(f"Critical Error: Target category '{target_category_id}' not found and not defaulting to xtras correctly.")
-                target_category_object_for_tool = xtras_category_obj # Default to Xtras anyway
+        if not target_category_object_for_tool and target_category_id == xtras_category_id:
+            target_category_object_for_tool = xtras_category_obj
+        elif not target_category_object_for_tool: # Should only happen if target_category_id was not 'xtras' but still not found
+            print(f"Warning: Could not find category object for ID '{target_category_id}' (from original name '{original_category_name}'). Using 'Xtras'.")
+            target_category_object_for_tool = xtras_category_obj
 
-        if 'content' not in target_category_object_for_tool or not isinstance(target_category_object_for_tool['content'], list):
+
+        if 'content' not in target_category_object_for_tool or not isinstance(target_category_object_for_tool.get('content'), list):
             target_category_object_for_tool['content'] = []
 
         titles_in_category = [item.get('title', '').lower() for item in target_category_object_for_tool['content']]
