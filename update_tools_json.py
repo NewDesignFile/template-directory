@@ -1,3 +1,20 @@
+import json
+
+# The new tool entry
+new_tool_entry = {
+  "title": "Usesaaskit Com",
+  "body": "AI SaaS boilerplate for Next.js & React Native.",
+  "tag": "$119 One-time",
+  "url": "https://www.usesaaskit.com/?ref=riseofmachine.com",
+  "date-added": "2025-06-03"
+}
+
+# Category for the new tool
+new_tool_category_key = "developer" # The 'category' field in tools.json
+
+# Existing tools.json content (passed as a string for this script)
+# In a real scenario, this would be read from the file `src/data/tools.json`
+existing_json_content = """
 {
   "tools": [
     {
@@ -1034,13 +1051,6 @@
           "tag": "Freemium",
           "url": "https://www.tabnine.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
-        },
-        {
-          "title": "Usesaaskit Com",
-          "body": "AI SaaS boilerplate for Next.js & React Native.",
-          "tag": "$119 One-time",
-          "url": "https://www.usesaaskit.com/?ref=riseofmachine.com",
-          "date-added": "2025-06-03"
         },
         {
           "title": "Vellum",
@@ -3582,7 +3592,7 @@
         },
         {
           "title": "ThatsMy",
-          "body": "India\u2019s fastest-growing AI tools directory.",
+          "body": "India’s fastest-growing AI tools directory.",
           "tag": "Free",
           "url": "https://thatsmy.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-01"
@@ -3668,3 +3678,55 @@
     }
   ]
 }
+"""
+
+try:
+    data = json.loads(existing_json_content)
+except json.JSONDecodeError as e:
+    print(f"Error decoding existing JSON: {e}")
+    data = {"tools": []} # Fallback to an empty structure
+
+# Find the target category or fallback to 'xtras'
+target_category_obj = None
+xtras_category_obj = None
+
+for category_group in data.get("tools", []):
+    if category_group.get("category") == new_tool_category_key:
+        target_category_obj = category_group
+        break
+    if category_group.get("category") == "xtras":
+        xtras_category_obj = category_group
+
+if target_category_obj:
+    # Add to the found category's content list
+    if "content" not in target_category_obj:
+        target_category_obj["content"] = []
+    target_category_obj["content"].append(new_tool_entry)
+    # Sort the content list by title, case-insensitive
+    target_category_obj["content"].sort(key=lambda x: x["title"].lower())
+    print(f"Added tool to '{new_tool_category_key}' category.")
+elif xtras_category_obj:
+    # Fallback to 'xtras' category
+    if "content" not in xtras_category_obj:
+        xtras_category_obj["content"] = []
+    xtras_category_obj["content"].append(new_tool_entry)
+    # Sort the content list by title, case-insensitive
+    xtras_category_obj["content"].sort(key=lambda x: x["title"].lower())
+    print("Added tool to 'xtras' category as 'developer' was not found.")
+else:
+    # If neither 'developer' nor 'xtras' category exists, create 'xtras' and add the tool
+    # This is a robust fallback, though 'xtras' should ideally always exist.
+    new_xtras_category = {
+        "title": "Xtras",
+        "category": "xtras",
+        "content": [new_tool_entry]
+    }
+    if "tools" not in data :
+        data["tools"] = []
+    data["tools"].append(new_xtras_category)
+    print("Created 'xtras' category and added the tool.")
+
+# Convert the updated Python dict back to a JSON string with indentation
+updated_json_content = json.dumps(data, indent=2)
+print("\nUpdated JSON content:")
+print(updated_json_content)
