@@ -987,6 +987,13 @@
           "date-added": "2025-06-03"
         },
         {
+          "title": "KitOps",
+          "body": "Packaging for AI/ML projects.",
+          "tag": "Free",
+          "url": "https://kitops.ml/?ref=riseofmachine.com",
+          "date-added": "2025-06-04"
+        },
+        {
           "title": "Lightning",
           "body": "Train. Deploy. Host AI web apps.",
           "tag": "Freemium",
@@ -1006,6 +1013,13 @@
           "tag": "$1.00/1,000 lines",
           "url": "https://www.lintrule.com/?ref=riseofmachine.com",
           "date-added": "2023-12-29"
+        },
+        {
+          "title": "Lobe Chat",
+          "body": "Open-source AI chat framework.",
+          "tag": "Free",
+          "url": "https://lobechat.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-04"
         },
         {
           "title": "Open Interpreter",
@@ -1055,6 +1069,13 @@
           "tag": "Freemium",
           "url": "https://www.tabnine.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "useSAASkit",
+          "body": "AI startup boilerplate.",
+          "tag": "$119 One-time",
+          "url": "https://www.usesaaskit.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-04"
         },
         {
           "title": "Vellum",
