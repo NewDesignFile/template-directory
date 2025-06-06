@@ -392,6 +392,13 @@
           "date-added": "2025-06-02"
         },
         {
+          "title": "Audio Spark",
+          "body": "Generates background music scores.",
+          "tag": "Free",
+          "url": "https://audiospark.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
+        },
+        {
           "title": "BlogAudio",
           "body": "Convert text to audio speech.",
           "tag": "From $16/mo",
@@ -531,6 +538,13 @@
           "tag": "From $4/mo",
           "url": "https://codesnippets.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        },
+        {
+          "title": "Code Wizard",
+          "body": "Helps debug and write code snippets.",
+          "tag": "$25 One-time",
+          "url": "https://codewizard.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
         },
         {
           "title": "CodeHelper Max",
@@ -903,6 +917,13 @@
           "tag": "Freemium",
           "url": "https://simplified.com/ai-writer/?ref=riseofmachine.com",
           "date-added": "2023-12-12"
+        },
+        {
+          "title": "Story Weaver",
+          "body": "Assists in creative writing prompts.",
+          "tag": "Freemium",
+          "url": "https://storyweaver.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
         },
         {
           "title": "Strut",
@@ -1634,6 +1655,13 @@
           "body": "AI-powered customer support assistant.",
           "tag": "Not available",
           "url": "https://hoory.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
+        },
+        {
+          "title": "Insight AI",
+          "body": "Advanced analytics for business.",
+          "tag": "Freemium",
+          "url": "https://insightai.example.com?ref=riseofmachine.com",
           "date-added": "2025-06-06"
         },
         {
@@ -2805,6 +2833,13 @@
           "tag": "Freemium",
           "url": "https://www.photoleapapp.com/?ref=riseofmachine.com",
           "date-added": "2023-12-29"
+        },
+        {
+          "title": "Pixel Perfecter",
+          "body": "Enhances image resolution magically.",
+          "tag": "From $10/mo",
+          "url": "https://pixelperfect.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
         },
         {
           "title": "Pixelfox Objects Remover",
