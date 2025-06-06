@@ -12,6 +12,13 @@
           "date-added": "2025-06-02"
         },
         {
+          "title": "Artify Flow",
+          "body": "Creates artistic images from sketches.",
+          "tag": "$5 One-time",
+          "url": "https://artifyflow.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
+        },
+        {
           "title": "Astria",
           "body": "Create custom images.",
           "tag": "From $0.10/prompt",
@@ -486,6 +493,13 @@
           "date-added": "2023-12-26"
         },
         {
+          "title": "CodeHelper Max",
+          "body": "Advanced AI for code completion and review.",
+          "tag": "From $15/mo",
+          "url": "https://codehelpermax.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
+        },
+        {
           "title": "Codeium",
           "body": "AI-powered toolkit.",
           "tag": "From $0/mo",
@@ -569,18 +583,18 @@
           "date-added": "2023-12-12"
         },
         {
-          "title": "Bertha",
-          "body": "Copywriting assistant for WordPress & in Chrome.",
-          "tag": "Pay-as-you-go",
-          "url": "https://bertha.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-12"
-        },
-        {
           "title": "BEXI.ai",
           "body": "AI text into humanized, natural language.",
           "tag": "Free",
           "url": "https://bexi.ai/?ref=riseofmachine.com",
           "date-added": "2024-12-13"
+        },
+        {
+          "title": "Bertha",
+          "body": "Copywriting assistant for WordPress & in Chrome.",
+          "tag": "Pay-as-you-go",
+          "url": "https://bertha.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-12"
         },
         {
           "title": "Boo.ai",
@@ -1210,6 +1224,13 @@
           "date-added": "2024-10-04"
         },
         {
+          "title": "LearnBoost",
+          "body": "AI tutor for various academic subjects.",
+          "tag": "From $20/mo",
+          "url": "https://learnboost.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
+        },
+        {
           "title": "LearnFast",
           "body": "Solve math & physics problems.",
           "tag": "Freemium",
@@ -1396,6 +1417,13 @@
           "tag": "From $100/mo",
           "url": "https://www.kommunicate.io/?ref=riseofmachine.com",
           "date-added": "2023-12-24"
+        },
+        {
+          "title": "MarketTrendz",
+          "body": "Analyzes market trends for businesses.",
+          "tag": "Not available",
+          "url": "https://markettrendz.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
         },
         {
           "title": "Mendable",
@@ -1589,6 +1617,13 @@
           "tag": "Free",
           "url": "https://thedeepen.app/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        },
+        {
+          "title": "HealthPal",
+          "body": "Your personal AI health assistant chatbot.",
+          "tag": "Free",
+          "url": "https://healthpalai.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
         },
         {
           "title": "Hypnothera.ai",
@@ -1964,6 +1999,13 @@
           "tag": "Free",
           "url": "https://www.songburst.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-28"
+        },
+        {
+          "title": "SoundWave",
+          "body": "Composes unique soundtracks based on mood.",
+          "tag": "Freemium",
+          "url": "https://soundwaveai.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
         },
         {
           "title": "Soundry",
@@ -2488,6 +2530,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "InsightLink",
+          "body": "Connects data sources for quick insights.",
+          "tag": "Freemium",
+          "url": "https://insightlink.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
+        },
+        {
           "title": "Intellibar",
           "body": "Assistant for Mac.",
           "tag": "Freemium",
@@ -2495,7 +2544,7 @@
           "date-added": "2024-09-28"
         },
         {
-          "title": "Jobright",
+          "title": "JobBuddy",
           "body": "Your AI copilot for job searching.",
           "tag": "Not available",
           "url": "https://jobright.ai/?ref=riseofmachine.com",
@@ -2704,18 +2753,18 @@
           "date-added": "2023-12-15"
         },
         {
-          "title": "GoodPrompts",
-          "body": "Curated prompts.",
-          "tag": "Free",
-          "url": "https://www.aigoodprompts.com/?ref=riseofmachine.com",
-          "date-added": "2023-12-26"
-        },
-        {
           "title": "GPT Prompts",
           "body": "AI-powered GPT prompt generator.",
           "tag": "Not available",
           "url": "https://gptprompts.ai/?ref=riseofmachine.com",
           "date-added": "2025-05-24"
+        },
+        {
+          "title": "GoodPrompts",
+          "body": "Curated prompts.",
+          "tag": "Free",
+          "url": "https://www.aigoodprompts.com/?ref=riseofmachine.com",
+          "date-added": "2023-12-26"
         },
         {
           "title": "Img2prompt",
@@ -2774,18 +2823,18 @@
           "date-added": "2025-06-04"
         },
         {
-          "title": "SmartGPT",
-          "body": "AI enhanced prompts for expert-level results.",
-          "tag": "Freemium",
-          "url": "https://getsmartgpt.com/?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "SrefHunter",
           "body": "Midjourney sref codes.",
           "tag": "Free",
           "url": "https://srefhunter.top/?ref=riseofmachine.com",
           "date-added": "2024-06-17"
+        },
+        {
+          "title": "SmartGPT",
+          "body": "AI enhanced prompts for expert-level results.",
+          "tag": "Freemium",
+          "url": "https://getsmartgpt.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
         }
       ]
     },
@@ -3055,6 +3104,13 @@
           "tag": "Freemium",
           "url": "https://aikungfu.net/?ref=riseofmachine.com",
           "date-added": "2025-02-19"
+        },
+        {
+          "title": "AutoVid Gen",
+          "body": "Generates short videos from text prompts.",
+          "tag": "From $10/mo",
+          "url": "https://autovidgen.example.com?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
         },
         {
           "title": "Autopilot Shorts",
@@ -3525,17 +3581,17 @@
           "date-added": "2023-12-24"
         },
         {
-          "title": "Generators",
-          "body": "A curated list of AI generators.",
-          "tag": "Free",
-          "url": "https://aigenerator.cc/?ref=riseofmachine.com",
-          "date-added": "2024-10-23"
-        },
-        {
           "title": "GPT4o",
           "body": "Discover GPT-4o's capabilities.",
           "tag": "Freemium",
           "url": "https://gpt4o.so/?ref=riseofmachine.com",
+          "date-added": "2024-10-23"
+        },
+        {
+          "title": "Generators",
+          "body": "A curated list of AI generators.",
+          "tag": "Free",
+          "url": "https://aigenerator.cc/?ref=riseofmachine.com",
           "date-added": "2024-10-23"
         },
         {
