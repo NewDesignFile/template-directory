@@ -1,0 +1,314 @@
+[
+    {
+        "name": "X-Design",
+        "description": "Specialist AI tool for product photography. Upload a photo, pick or describe a scene, and X-Design builds polished, pro-quality images\u2014no studio, no Photoshop, no guesswork.",
+        "url": "https://www.x-design.com/",
+        "pricing": "Freemium",
+        "category": [
+            "Image Editing"
+        ]
+    },
+    {
+        "name": "KIVA",
+        "description": "KIVA is an AI SEO tool that automates keyword research, content briefs, and performance tracking using GSC data and LLM trends",
+        "url": "https://wellows.com/kiva/",
+        "pricing": "Freemium",
+        "category": [
+            "SEO"
+        ]
+    },
+    {
+        "name": "Parliant",
+        "description": "Parliant AI offers AI-driven conversational surveys to gather richer customer feedback through natural language, analyze responses automatically, and extract actionable insights.",
+        "url": "https://www.parliant.ai/",
+        "pricing": "Freemium",
+        "category": [
+            "Business Intelligence"
+        ]
+    },
+    {
+        "name": "Galaxy AI",
+        "description": "Your go-to hub for AI tools. This all-in-one AI platform offers over 1,500 tools for a fraction of the cost of individual subscriptions.",
+        "url": "https://link.aitoolsdirectory.com/galaxy",
+        "pricing": "Paid",
+        "category": [
+            "Productivity"
+        ]
+    },
+    {
+        "name": "BASE44",
+        "description": "Build fully functional apps in minutes by describing them in plain English. BASE44 handles the database, UI, auth, and deployment\u2014no code, no setup, no integrations needed.",
+        "url": "https://link.aitoolsdirectory.com/base44",
+        "pricing": "Freemium",
+        "category": [
+            "NoCode"
+        ]
+    },
+    {
+        "name": "Groas",
+        "description": "Groas.ai automates and optimizes search advertising using AI trained on $500B+ in profitable ad spend. It manages bids, copy, targeting, and landing page messaging for e-commerce, SaaS, and service businesses.",
+        "url": "https://link.aitoolsdirectory.com/groas",
+        "pricing": "Paid",
+        "category": [
+            "Advertising"
+        ]
+    },
+    {
+        "name": "Dropmagic",
+        "description": "Build Shopify stores from AliExpress or product URLs. Generate high-converting pages, brand assets, and multilingual copy in minutes with 1-click Shopify export.",
+        "url": "https://link.aitoolsdirectory.com/dropmagic",
+        "pricing": "Freemium",
+        "category": [
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Blaze",
+        "description": "Blaze AI combines content generation and marketing automation tools to help small businesses manage their digital presence. The platform handles content creation, social media scheduling, and brand consistency across channels.",
+        "url": "https://link.aitoolsdirectory.com/blaze",
+        "pricing": "Paid",
+        "category": [
+            "Marketing"
+        ]
+    },
+    {
+        "name": "OpusClip",
+        "description": "Transform your videos into engaging shorts with OpusClip's AI-powered tools. Its unique technology identifies key segments, provides viral potential scores, allows keyword-based clipping, and enhances content with emojis and keywords.",
+        "url": "https://link.aitoolsdirectory.com/opusclip",
+        "pricing": "Paid",
+        "category": [
+            "Social Media"
+        ]
+    },
+    {
+        "name": "LearnWorlds AI",
+        "description": "Discover the transformative impact of LearnWorlds' new AI features in refining your course creation process. These tools guide in course layout, stimulate fresh content ideas, amplify learner involvement, and enable a custom learning experience.",
+        "url": "https://link.aitoolsdirectory.com/learnworlds-ai",
+        "pricing": "Paid",
+        "category": [
+            "Education"
+        ]
+    },
+    {
+        "name": "TalkPal",
+        "description": "Immerse yourself in lifelike conversations, receive real-time feedback, and enjoy dynamic active listening exercises, powered by an AI language tutor",
+        "url": "https://link.aitoolsdirectory.com/talkpal",
+        "pricing": "Freemium",
+        "category": [
+            "Education"
+        ]
+    },
+    {
+        "name": "Eddie AI",
+        "description": "AI-powered desktop assistant editor that helps professionals turn longform video into structured edits. Built for use with Premiere, Final Cut, and Resolve.",
+        "url": "https://link.aitoolsdirectory.com/eddie",
+        "pricing": "Freemium",
+        "category": [
+            "Video Editing"
+        ]
+    },
+    {
+        "name": "Aragon",
+        "description": "Aragon's AI Headshot Generator transforms your selfies into stunning and personalized headshots in just 90 minutes. Stand out with premium-quality photos, all without the need for a professional photoshoot.",
+        "url": "https://link.aitoolsdirectory.com/aragon",
+        "pricing": "Paid",
+        "category": [
+            "Social Media"
+        ]
+    },
+    {
+        "name": "Vista Social",
+        "description": "Vista Social, a social media management tool, offers an AI Assistant feature that helps you generate engaging social media posts, paraphrase high-performing posts, and add fact-checked stats. You can also automate responses to comments and mentions with AI-powered content.",
+        "url": "https://link.aitoolsdirectory.com/vistasocial",
+        "pricing": "Freemium",
+        "category": [
+            "Social Media"
+        ]
+    },
+    {
+        "name": "n8n",
+        "description": "n8n is an open-source workflow automation tool that allows you to connect various apps and services together. Its visual, node-based interface makes it easy to build powerful automations with AI integrations from OpenAI and Hugging Face, making it ideal for automating tasks, improving workflows, and building intelligent applications.",
+        "url": "https://link.aitoolsdirectory.com/n8n",
+        "pricing": "Freemium",
+        "category": [
+            "Automation"
+        ]
+    },
+    {
+        "name": "Bubble AI",
+        "description": "Create custom web pages and apps in minutes with Bubble\u2019s AI-powered design and development tools, making sophisticated web development accessible to everyone.",
+        "url": "https://link.aitoolsdirectory.com/bubble-ai",
+        "pricing": "Freemium",
+        "category": [
+            "NoCode"
+        ]
+    },
+    {
+        "name": "Clickup",
+        "description": "ClickUp AI is an intelligent assistant that simplifies complex work processes by streamlining each step of the task, writing content and task details, and adding structure to your documents.",
+        "url": "https://link.aitoolsdirectory.com/clickup",
+        "pricing": "Freemium",
+        "category": [
+            "Productivity"
+        ]
+    },
+    {
+        "name": "Alphana",
+        "description": "Transform your videos, podcasts, and ideas into shareable content with Alphana. Create summaries, articles, and social media posts effortlessly. Utilize automated transcription, personalized output, and multichannel marketing features.",
+        "url": "https://link.aitoolsdirectory.com/alphana",
+        "pricing": "Paid",
+        "category": [
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Reelio",
+        "description": "Reelio uses AI to create short, faceless videos for social media. Define a topic, style, and voice; the AI generates scripts, visuals, and voiceovers.",
+        "url": "https://link.aitoolsdirectory.com/reelio",
+        "pricing": "Freemium",
+        "category": [
+            "Video Generation"
+        ]
+    },
+    {
+        "name": "User Evaluation",
+        "description": "Enhance consumer research efficiency and depth with this versatile tool for market researchers and customer-focused teams.",
+        "url": "https://link.aitoolsdirectory.com/userevaluation",
+        "pricing": "Paid",
+        "category": [
+            "Marketing"
+        ]
+    },
+    {
+        "name": "VideoGen",
+        "description": "Generate professional videos from text, images, and articles for TikTok, Instagram Reels, and YouTube. With AI assistance, 3M+ assets, multilingual text-to-speech, and an intuitive editor, VideoGen is a great tool for marketers, creators, and businesses.",
+        "url": "https://link.aitoolsdirectory.com/videogen",
+        "pricing": "Paid",
+        "category": [
+            "Video Generation"
+        ]
+    },
+    {
+        "name": "HypeAuditor",
+        "description": "AI-powered influencer marketing platform providing comprehensive analytics, discovery, and campaign management across major social platforms with almost 200M+ creator database.",
+        "url": "https://link.aitoolsdirectory.com/hypeauditor",
+        "pricing": "Freemium",
+        "category": [
+            "Marketing"
+        ]
+    },
+    {
+        "name": "Marky",
+        "description": "Marky is your AI-powered social media assistant\u2014creating, designing, and scheduling tailored posts across platforms so your business stays active with less effort.",
+        "url": "https://link.aitoolsdirectory.com/marky",
+        "pricing": "Freemium",
+        "category": [
+            "Social Media"
+        ]
+    },
+    {
+        "name": "JobWinner",
+        "description": "JobWinner uses AI to generate tailored resumes, cover letters, and interview prep in minutes \u2014 not hours. Perfect for active job seekers, freelancers, and anyone tired of repetitive applications.",
+        "url": "https://link.aitoolsdirectory.com/jobwinner",
+        "pricing": "Paid",
+        "category": [
+            "Productivity"
+        ]
+    },
+    {
+        "name": "RenderLion",
+        "description": "RenderLion turns your content into polished video clips. Add text, images, or links and get trendworthy and attention-grabbing AI clips formatted for any platform.",
+        "url": "https://link.aitoolsdirectory.com/renderlion",
+        "pricing": "Freemium",
+        "category": [
+            "Video Generation"
+        ]
+    },
+    {
+        "name": "Browse AI",
+        "description": "Browse AI simplifies data extraction from websites. No coding required, it allows you to scrape data, monitor changes, integrate with other apps, schedule extraction, create APIs, and automate complex processes.",
+        "url": "https://link.aitoolsdirectory.com/browseai",
+        "pricing": "Freemium",
+        "category": [
+            "Automation"
+        ]
+    },
+    {
+        "name": "Watermelon",
+        "description": "Watermelon builds chatbots that answer customer questions across messaging platforms and websites, using your content as the knowledge base.",
+        "url": "https://link.aitoolsdirectory.com/watermelon",
+        "pricing": "Paid",
+        "category": [
+            "Chat"
+        ]
+    },
+    {
+        "name": "Pictory",
+        "description": "A versatile video creation and editing tool that transforms articles, scripts, visuals, and voice into captivating, shareable social media content, while offering customization and high-quality output.",
+        "url": "https://link.aitoolsdirectory.com/pictory",
+        "pricing": "Paid",
+        "category": [
+            "Generative Video"
+        ]
+    },
+    {
+        "name": "InLinks",
+        "description": "An SEO tool that provides Entity-based Page & Site Optimization, Automated Internal Linking, Broader & Deeper Keyword Research, and Comprehensive Content Briefs. InLinks AI writing assistant helps you write cotnent, prioritize drafts, interlink current topics, and audit the current content and suggest improvements.",
+        "url": "https://link.aitoolsdirectory.com/inlinks",
+        "pricing": "Freemium",
+        "category": [
+            "An SEO tool that provides Entity-based Page & Site Optimization",
+            "Automated Internal Linking",
+            "Broader & Deeper Keyword Research",
+            "and Comprehensive Content Briefs. InLinks AI writing assistant helps you write cotnent",
+            "prioritize drafts",
+            "interlink current topics",
+            "and audit the current content and suggest improvements."
+        ]
+    },
+    {
+        "name": "ElevenLabs",
+        "description": "ElevenLabs offers an AI audio platform with emotionally aware text-to-speech, voice cloning, and dubbing capabilities in 32 languages, suitable for content creators, businesses, and developers.",
+        "url": "https://link.aitoolsdirectory.com/eleven-labs",
+        "pricing": "Freemium",
+        "category": [
+            "Text-to-Voice"
+        ]
+    },
+    {
+        "name": "Surfer SEO",
+        "description": "SERP-winning content writing with a click. From researching to optimizing articles\u2014it's about driving traffic. Customize, refine, and improve your work with AI. Write and optimize your content in any language, leveraging real-time metrics for structure, word count, NLP-ready keywords, and images.",
+        "url": "https://link.aitoolsdirectory.com/surferseo",
+        "pricing": "Paid",
+        "category": [
+            "SEO"
+        ]
+    },
+    {
+        "name": "Freebeat",
+        "description": "Generate short-form music videos from a text prompt and audio track. Freebeat creates synced, stylized content for creators, musicians, and educators.",
+        "url": "https://link.aitoolsdirectory.com/freebeat",
+        "pricing": "Freemium",
+        "category": [
+            "Video Generation"
+        ]
+    },
+    {
+        "name": "Walter Writes",
+        "description": "Walter Writes AI edits AI-generated text to make it indistinguishable from human writing. It is built specifically to bypass AI detection tools. The output is consistently plagiarism-free.",
+        "url": "https://link.aitoolsdirectory.com/waterwrites",
+        "pricing": "Freemium",
+        "category": [
+            "AI Detection"
+        ]
+    },
+    {
+        "name": "Munch",
+        "description": "Munch extracts the most engaging, contextual nuggets from long-form content and presents them as catchy, shareable clips. It uses GPT3, OCR, and NLP to analyze the clip's content and match it with social and marketing trends.",
+        "url": "https://link.aitoolsdirectory.com/munch",
+        "pricing": "Paid",
+        "category": [
+            "Video Editing"
+        ]
+    }
+]

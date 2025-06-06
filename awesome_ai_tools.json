@@ -1,0 +1,1820 @@
+[
+    {
+        "name": "There's an AI",
+        "url": "https://theresanai.com",
+        "description": "List of best AI Tools",
+        "category": "Editor's Choice"
+    },
+    {
+        "name": "Notion AI",
+        "url": "https://affiliate.notion.so/9po6cx7rvdr6-4y5a7",
+        "description": "Just ask Q&A, an",
+        "category": "Editor's Choice"
+    },
+    {
+        "name": "Murf AI",
+        "url": "https://get.murf.ai/v8i9to5ad4oq",
+        "description": "Create voiceover with the most l",
+        "category": "Editor's Choice"
+    },
+    {
+        "name": "SaneBox",
+        "url": "https://try.sanebox.com/yzkpe5s68xk2",
+        "description": "an email management software",
+        "category": "Editor's Choice"
+    },
+    {
+        "name": "MeetGeek",
+        "url": "https://get.meetgeek.ai/zmrnb5xlyfs9",
+        "description": "an AI meeting assistant tha",
+        "category": "Editor's Choice"
+    },
+    {
+        "name": "OpenAI API",
+        "url": "https://openai.com/api/",
+        "description": "OpenAI's API provides access to GPT-3",
+        "category": "Models"
+    },
+    {
+        "name": "OPT",
+        "url": "https://huggingface.co/facebook/opt-350m",
+        "description": "Open Pretrained Transformers",
+        "category": "Models"
+    },
+    {
+        "name": "Bloom",
+        "url": "https://huggingface.co/docs/transformers/model_doc/bloom",
+        "description": "BLOOM by H",
+        "category": "Models"
+    },
+    {
+        "name": "LLaMA",
+        "url": "https://ai.facebook.com/blog/large-language-model-llama-meta-ai/",
+        "description": "A",
+        "category": "Models"
+    },
+    {
+        "name": "Llama 2",
+        "url": "https://ai.meta.com/llama/",
+        "description": "The next generation of Meta's open sou",
+        "category": "Models"
+    },
+    {
+        "name": "Claude 3",
+        "url": "https://claude.ai/",
+        "description": "Talk to Claude, an AI assistant from Anthropi",
+        "category": "Models"
+    },
+    {
+        "name": "Vicuna-13B",
+        "url": "https://lmsys.org/blog/2023-03-30-vicuna/",
+        "description": "An open-source chatb",
+        "category": "Models"
+    },
+    {
+        "name": "Stable Beluga",
+        "url": "https://huggingface.co/stabilityai/StableBeluga1-Delta",
+        "description": "A fi",
+        "category": "Models"
+    },
+    {
+        "name": "Stable Beluga 2",
+        "url": "https://huggingface.co/stabilityai/StableBeluga2",
+        "description": "A finetu",
+        "category": "Models"
+    },
+    {
+        "name": "GPT-4o Mini",
+        "url": "https://altern.ai/ai/gpt-4o-mini",
+        "description": "*[Review on Altern](https://",
+        "category": "Models"
+    },
+    {
+        "name": "ChatGPT",
+        "url": "https://chatgpt.com",
+        "description": "*[reviews](https://theresanai.com/chatgpt)* -",
+        "category": "Chatbots"
+    },
+    {
+        "name": "Bing Chat",
+        "url": "https://www.bing.com/chat",
+        "description": "*[reviews](https://altern.ai/product/",
+        "category": "Chatbots"
+    },
+    {
+        "name": "Gemini",
+        "url": "https://gemini.google.com",
+        "description": "*[reviews](https://altern.ai/product/gem",
+        "category": "Chatbots"
+    },
+    {
+        "name": "Character.AI",
+        "url": "https://character.ai/",
+        "description": "*[reviews](https://altern.ai/product/c",
+        "category": "Chatbots"
+    },
+    {
+        "name": "ChatPDF",
+        "url": "https://www.chatpdf.com/",
+        "description": "*[reviews](https://altern.ai/product/cha",
+        "category": "Chatbots"
+    },
+    {
+        "name": "ChatSonic",
+        "url": "https://writesonic.com/chat",
+        "description": "*[reviews](https://altern.ai/produc",
+        "category": "Chatbots"
+    },
+    {
+        "name": "Phind",
+        "url": "https://www.phind.com/",
+        "description": "*[reviews](https://altern.ai/product/phind)*",
+        "category": "Chatbots"
+    },
+    {
+        "name": "Tiledesk",
+        "url": "https://tiledesk.com/",
+        "description": "*[reviews](https://altern.ai/product/tiled",
+        "category": "Chatbots"
+    },
+    {
+        "name": "AICamp",
+        "url": "https://aicamp.so/",
+        "description": "*[reviews](#)* - ChatGPT for Teams",
+        "category": "Chatbots"
+    },
+    {
+        "name": "Kazimir.ai",
+        "url": "https://kazimir.ai/",
+        "description": "A search engine designed to search AI-gene",
+        "category": "Search engines"
+    },
+    {
+        "name": "Perplexity AI",
+        "url": "https://www.perplexity.ai/",
+        "description": "AI powered search tools.",
+        "category": "Search engines"
+    },
+    {
+        "name": "Metaphor",
+        "url": "https://metaphor.systems/",
+        "description": "Language model powered search.",
+        "category": "Search engines"
+    },
+    {
+        "name": "Phind",
+        "url": "https://phind.com/",
+        "description": "AI-based search engine.",
+        "category": "Search engines"
+    },
+    {
+        "name": "You.com",
+        "url": "https://you.com/",
+        "description": "A search engine built on AI that provides users",
+        "category": "Search engines"
+    },
+    {
+        "name": "Komo AI",
+        "url": "https://komo.ai/",
+        "description": "An AI based Search engine which responses quick",
+        "category": "Search engines"
+    },
+    {
+        "name": "Telborg",
+        "url": "https://telborg.com/",
+        "description": "AI for Climate Research, with data exclusive",
+        "category": "Search engines"
+    },
+    {
+        "name": "MemFree",
+        "url": "https://github.com/memfreeme/memfree",
+        "description": "Open Source Hybrid AI Search",
+        "category": "Search engines"
+    },
+    {
+        "name": "privateGPT",
+        "url": "https://github.com/imartinez/privateGPT",
+        "description": "Ask questions to your",
+        "category": "Local search engines"
+    },
+    {
+        "name": "quivr",
+        "url": "https://github.com/StanGirard/quivr",
+        "description": "Dump all your files and chat wi",
+        "category": "Local search engines"
+    },
+    {
+        "name": "Jasper",
+        "url": "https://www.jasper.ai/",
+        "description": "Create content faster with artificial intel",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Compose AI",
+        "url": "https://www.compose.ai/",
+        "description": "Compose AI is a free Chrome extension",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Rytr",
+        "url": "https://rytr.me/",
+        "description": "Rytr is an AI writing assistant that helps you crea",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "wordtune",
+        "url": "https://www.wordtune.com/",
+        "description": "Personal writing assistant.",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "HyperWrite",
+        "url": "https://hyperwriteai.com/",
+        "description": "HyperWrite helps you write with conf",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Nexus AI",
+        "url": "https://mynexusai.com/",
+        "description": "Nexus AI is a generative cutting-edge AI",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Moonbeam",
+        "url": "https://www.gomoonbeam.com/",
+        "description": "Better blogs in a fraction of the ti",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "copy.ai",
+        "url": "https://www.copy.ai/",
+        "description": "Write better marketing copy and content with",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Anyword",
+        "url": "https://anyword.com/",
+        "description": "Anyword's AI writing assistant generates eff",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Contenda",
+        "url": "https://contenda.co/",
+        "description": "Create the content your audience wants, fro",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Hypotenuse AI",
+        "url": "https://www.hypotenuse.ai/",
+        "description": "Turn a few keywords into origina",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Lavender",
+        "url": "https://www.lavender.ai/",
+        "description": "Lavender email assistant helps you get",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Lex",
+        "url": "https://lex.page/",
+        "description": "A word processor with artificial intelligence baked",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Jenni",
+        "url": "https://jenni.ai/",
+        "description": "Jenni is the ultimate writing assistant that save",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "LAIKA",
+        "url": "https://www.writewithlaika.com/",
+        "description": "LAIKA trains an artificial intellig",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "QuillBot",
+        "url": "https://quillbot.com",
+        "description": "AI-powered paraphrasing tool.",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Postwise",
+        "url": "https://postwise.ai/",
+        "description": "Write tweets, schedule posts and grow your",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Copysmith",
+        "url": "https://copysmith.ai/",
+        "description": "AI content creation solution for Enterpri",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Yomu",
+        "url": "https://www.yomu.ai",
+        "description": "AI writing assistant for students and academics.",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Listomatic",
+        "url": "https://listomatic.app",
+        "description": "Free and fully configurable real estate",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Quick Creator",
+        "url": "https://quickcreator.io",
+        "description": "SEO-Optimized Blog platform powered",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Telborg",
+        "url": "https://telborg.com/",
+        "description": "Write a high-quality first draft on any Clim",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Dittto.ai",
+        "url": "https://dittto.ai",
+        "description": "Fix your hero copy with an AI trained on top",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "PulsePost",
+        "url": "https://pulsepost.io/",
+        "description": "AI writer that Auto Publishes to your own",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "Shy Editor",
+        "url": "https://www.shyeditor.com",
+        "description": "A modern AI-assisted writing environ",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "DeepL Write",
+        "url": "https://www.deepl.com/write",
+        "description": "AI writing tool that improves wri",
+        "category": "Writing assistants"
+    },
+    {
+        "name": "ShareGPT",
+        "url": "https://sharegpt.com/",
+        "description": "Share your ChatGPT conversations and explo",
+        "category": "ChatGPT extensions"
+    },
+    {
+        "name": "Merlin",
+        "url": "https://merlin.foyer.work/",
+        "description": "ChatGPT Plus extension on all websites.",
+        "category": "ChatGPT extensions"
+    },
+    {
+        "name": "ChatGPT Writer",
+        "url": "https://chatgptwriter.ai/",
+        "description": "Generate entire emails and messa",
+        "category": "ChatGPT extensions"
+    },
+    {
+        "name": "ChatGPT for Jupyter",
+        "url": "https://github.com/TiesdeKok/chat-gpt-jupyter-extension",
+        "description": null,
+        "category": "ChatGPT extensions"
+    },
+    {
+        "name": "editGPT",
+        "url": "https://www.editgpt.app/",
+        "description": "Easily proofread, edit, and track change",
+        "category": "ChatGPT extensions"
+    },
+    {
+        "name": "Chatbot UI",
+        "url": "https://www.chatbotui.com/",
+        "description": "An open source ChatGPT UI. [Source",
+        "category": "ChatGPT extensions"
+    },
+    {
+        "name": "Forefront",
+        "url": "https://www.forefront.ai/",
+        "description": "A Better ChatGPT Experience.",
+        "category": "ChatGPT extensions"
+    },
+    {
+        "name": "Mem",
+        "url": "https://mem.ai/",
+        "description": "Mem is the world's first AI-powered workspace that's",
+        "category": "Productivity"
+    },
+    {
+        "name": "Taskade",
+        "url": "https://www.taskade.com/",
+        "description": "Build, train, and deploy autonomous AI",
+        "category": "Productivity"
+    },
+    {
+        "name": "Notion AI",
+        "url": "https://www.notion.so/product/ai",
+        "description": "Write better, more efficient n",
+        "category": "Productivity"
+    },
+    {
+        "name": "Nekton AI",
+        "url": "https://nekton.ai",
+        "description": "Automate your workflows with AI. Describe you",
+        "category": "Productivity"
+    },
+    {
+        "name": "Elephas",
+        "url": "https://elephas.app/?ref=mahseema-awesome-ai-tools",
+        "description": "Personal AI wr",
+        "category": "Productivity"
+    },
+    {
+        "name": "Lemmy",
+        "url": "https://lemmy.co/?ref=mahseema-awesome-ai-tools",
+        "description": "Autonomous AI Assis",
+        "category": "Productivity"
+    },
+    {
+        "name": "CreateEasily",
+        "url": "https://createeasily.com/?ref=mahseema-awesome-ai-tools",
+        "description": "Free",
+        "category": "Productivity"
+    },
+    {
+        "name": "aiPDF",
+        "url": "https://aipdf.ai",
+        "description": "The most advanced AI document assistant",
+        "category": "Productivity"
+    },
+    {
+        "name": "Summary With AI",
+        "url": "https://www.summarywithai.com/",
+        "description": "Summarize any long PDF wit",
+        "category": "Productivity"
+    },
+    {
+        "name": "Emilio",
+        "url": "https://getemil.io?ref=mahseema-awesome-ai-tools",
+        "description": "Stop drowning in",
+        "category": "Productivity"
+    },
+    {
+        "name": "Pieces",
+        "url": "https://pieces.app/",
+        "description": "AI-enabled productivity tool designed to super",
+        "category": "Productivity"
+    },
+    {
+        "name": "Chat With PDF by Copilot.us",
+        "url": "https://copilot.us/apps/chat-with-pdf",
+        "description": "An AI a",
+        "category": "Productivity"
+    },
+    {
+        "name": "Recall",
+        "url": "https://www.getrecall.ai/",
+        "description": "Summarize Anything, Forget Nothing",
+        "category": "Productivity"
+    },
+    {
+        "name": "TailorTask",
+        "url": "https://wwww.tailortask.ai",
+        "description": "Automate any boring and repetitive",
+        "category": "Productivity"
+    },
+    {
+        "name": "AnkiDecks AI",
+        "url": "https://anki-decks.com",
+        "description": "Create Flashcards 10x faster. Generat",
+        "category": "Productivity"
+    },
+    {
+        "name": "AI for Google Slides",
+        "url": "https://www.aiforgoogleslides.com/",
+        "description": "AI presentation m",
+        "category": "Productivity"
+    },
+    {
+        "name": "FARSITE",
+        "url": "https://far.site/",
+        "description": "AI-powered Compliance Software for U.S. Governm",
+        "category": "Productivity"
+    },
+    {
+        "name": "GOSH",
+        "url": "https://gosh.app",
+        "description": "Free AI Price Tracker - Track any price of any prod",
+        "category": "Productivity"
+    },
+    {
+        "name": "Pomodoro Timer Tools",
+        "url": "https://pomodoro.tools",
+        "description": "Minimal AI-Driven Pomodoro Ti",
+        "category": "Productivity"
+    },
+    {
+        "name": "BrainSoup",
+        "url": "https://www.nurgo-software.com/products/brainsoup",
+        "description": null,
+        "category": "Productivity"
+    },
+    {
+        "name": "MindPal",
+        "url": "https://mindpal.space/",
+        "description": "Build your AI Second Brain with a team of",
+        "category": "Productivity"
+    },
+    {
+        "name": "Otter.ai",
+        "url": "https://otter.ai/",
+        "description": "A meeting assistant that records audio, writes",
+        "category": "Meeting assistants"
+    },
+    {
+        "name": "Cogram",
+        "url": "https://www.cogram.com/",
+        "description": "Cogram takes automatic notes in virtual me",
+        "category": "Meeting assistants"
+    },
+    {
+        "name": "Sybill",
+        "url": "https://www.sybill.ai/",
+        "description": "Sybill generates summaries of sales calls,",
+        "category": "Meeting assistants"
+    },
+    {
+        "name": "Loopin AI",
+        "url": "https://www.loopinhq.com/",
+        "description": "Loopin is a collaborative meeting wor",
+        "category": "Meeting assistants"
+    },
+    {
+        "name": "Elicit",
+        "url": "https://elicit.org/",
+        "description": "Elicit uses language models to help you automa",
+        "category": "Academia"
+    },
+    {
+        "name": "genei",
+        "url": "https://www.genei.io/",
+        "description": "Summarise academic articles in seconds and sa",
+        "category": "Academia"
+    },
+    {
+        "name": "Explainpaper",
+        "url": "https://www.explainpaper.com/",
+        "description": "A better way to read academic",
+        "category": "Academia"
+    },
+    {
+        "name": "Galactica",
+        "url": "https://galactica.org/",
+        "description": "A large language model for science. Can",
+        "category": "Academia"
+    },
+    {
+        "name": "Consensus",
+        "url": "https://consensus.app/search/",
+        "description": "Consensus is a search engine that",
+        "category": "Academia"
+    },
+    {
+        "name": "Sourcely",
+        "url": "https://www.sourcely.net/",
+        "description": "Academic Citation Finding Tool with AI",
+        "category": "Academia"
+    },
+    {
+        "name": "SciSpace",
+        "url": "https://scispace.com/",
+        "description": "AI Chat for scientific PDFs.",
+        "category": "Academia"
+    },
+    {
+        "name": "SiteGPT",
+        "url": "https://sitegpt.ai/?ref=mahseema-awesome-ai-tools",
+        "description": "Make AI your ex",
+        "category": "Customer Support"
+    },
+    {
+        "name": "GPTHelp.ai",
+        "url": "https://gpthelp.ai/?ref=mahseema-awesome-ai-tools",
+        "description": "ChatGPT for",
+        "category": "Customer Support"
+    },
+    {
+        "name": "SiteSpeakAI",
+        "url": "https://sitespeak.ai",
+        "description": "Automate your customer support with AI.",
+        "category": "Customer Support"
+    },
+    {
+        "name": "Dear AI",
+        "url": "https://www.dearai.online",
+        "description": "Supercharge Customer Services and boost",
+        "category": "Customer Support"
+    },
+    {
+        "name": "Inline Help",
+        "url": "https://inlinehelp.com",
+        "description": "Answer customer questions before they",
+        "category": "Customer Support"
+    },
+    {
+        "name": "Aidbase",
+        "url": "https://www.aidbase.ai",
+        "description": "AI-Powered Support for your SaaS startup.",
+        "category": "Customer Support"
+    },
+    {
+        "name": "EmailTriager",
+        "url": "https://www.emailtriager.com/",
+        "description": "Use AI to automatically draft",
+        "category": "Other text generators"
+    },
+    {
+        "name": "AI Poem Generator",
+        "url": "https://www.aipoemgenerator.org",
+        "description": "AI Poem Generator write",
+        "category": "Other text generators"
+    },
+    {
+        "name": "Ollama",
+        "url": "https://ollama.com/",
+        "description": "Load and run large LLMs locally to use in you",
+        "category": "Developer tools"
+    },
+    {
+        "name": "co:here",
+        "url": "https://cohere.ai/",
+        "description": "Cohere provides access to advanced Large Langu",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Haystack",
+        "url": "https://haystack.deepset.ai/",
+        "description": "A framework for building NLP applic",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Keploy",
+        "url": "https://keploy.io/",
+        "description": "Open source Tool for converting user traffic to",
+        "category": "Developer tools"
+    },
+    {
+        "name": "LangChain",
+        "url": "https://langchain.com/",
+        "description": "A framework for developing applications",
+        "category": "Developer tools"
+    },
+    {
+        "name": "gpt4all",
+        "url": "https://github.com/nomic-ai/gpt4all",
+        "description": "A chatbot trained on a massiv",
+        "category": "Developer tools"
+    },
+    {
+        "name": "LMQL",
+        "url": "https://lmql.ai/",
+        "description": "LMQL is a query language for large language models.",
+        "category": "Developer tools"
+    },
+    {
+        "name": "LlamaIndex",
+        "url": "https://www.llamaindex.ai/",
+        "description": "A data framework for building LLM a",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Langfuse",
+        "url": "https://langfuse.com/",
+        "description": "Open-source LLM engineering platform that",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Phoenix",
+        "url": "https://phoenix.arize.com/",
+        "description": "Open-source tool for ML observability",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Prediction Guard",
+        "url": "https://www.predictionguard.com/",
+        "description": "Seamlessly integrate pr",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Portkey",
+        "url": "https://portkey.ai/",
+        "description": "Full-stack LLMOps platform to monitor, manage",
+        "category": "Developer tools"
+    },
+    {
+        "name": "OpenAI Downtime Monitor",
+        "url": "https://status.portkey.ai/",
+        "description": "Free tool that tracks",
+        "category": "Developer tools"
+    },
+    {
+        "name": "ChatWithCloud",
+        "url": "https://chatwithcloud.ai/",
+        "description": "CLI allowing you to interact with",
+        "category": "Developer tools"
+    },
+    {
+        "name": "SinglebaseCloud",
+        "url": "https://singlebase.cloud",
+        "description": "AI-powered backend platform with",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Maxim AI",
+        "url": "https://www.getmaxim.ai/",
+        "description": "A generative AI evaluation and observab",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Wordware",
+        "url": "https://www.wordware.ai",
+        "description": "A web-hosted IDE where non-technical dom",
+        "category": "Developer tools"
+    },
+    {
+        "name": "CodeRabbit",
+        "url": "https://coderabbit.ai/",
+        "description": "An AI-powered code review tool that hel",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Pagerly",
+        "url": "https://www.pagerly.io",
+        "description": "Your Operations Co-pilot on Slack/Teams. I",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Hexabot",
+        "url": "https://hexabot.ai",
+        "description": "A Open-source No-Code tool to build your AI Ch",
+        "category": "Developer tools"
+    },
+    {
+        "name": "Plandex",
+        "url": "https://github.com/plandex-ai/plandex",
+        "description": "Open source, terminal-based",
+        "category": "Developer tools"
+    },
+    {
+        "name": "AI/ML API",
+        "url": "https://aimlapi.com/?utm_source=github+of+altern.ai",
+        "description": "AI/ML API g",
+        "category": "Developer tools"
+    },
+    {
+        "name": "GitHub Copilot",
+        "url": "https://github.com/features/copilot",
+        "description": "GitHub Copilot uses th",
+        "category": "Code"
+    },
+    {
+        "name": "OpenAI Codex",
+        "url": "https://platform.openai.com/docs/guides/code/",
+        "description": "An AI system b",
+        "category": "Code"
+    },
+    {
+        "name": "Ghostwriter",
+        "url": "https://blog.replit.com/ai",
+        "description": "An AI-powered pair programmer by R",
+        "category": "Code"
+    },
+    {
+        "name": "Amazon CodeWhisperer",
+        "url": "https://aws.amazon.com/codewhisperer/",
+        "description": "Build applicat",
+        "category": "Code"
+    },
+    {
+        "name": "tabnine",
+        "url": "https://www.tabnine.com/",
+        "description": "Code faster with whole-line & full-funct",
+        "category": "Code"
+    },
+    {
+        "name": "Stenography",
+        "url": "https://stenography.dev/",
+        "description": "Automatic code documentation.",
+        "category": "Code"
+    },
+    {
+        "name": "Mintlify",
+        "url": "https://mintlify.com/",
+        "description": "AI powered documentation writer.",
+        "category": "Code"
+    },
+    {
+        "name": "Debuild",
+        "url": "https://debuild.app/",
+        "description": "AI-powered low-code tool for web apps.",
+        "category": "Code"
+    },
+    {
+        "name": "AI2sql",
+        "url": "https://www.ai2sql.io/",
+        "description": "With AI2sql, engineers and non-engineers ca",
+        "category": "Code"
+    },
+    {
+        "name": "CodiumAI",
+        "url": "https://www.codium.ai/",
+        "description": "With CodiumAI, you get non-trivial tests",
+        "category": "Code"
+    },
+    {
+        "name": "PR-Agent",
+        "url": "https://github.com/Codium-ai/pr-agent",
+        "description": "AI-powered tool for automa",
+        "category": "Code"
+    },
+    {
+        "name": "MutableAI",
+        "url": "https://mutable.ai/",
+        "description": "AI Accelerated Software Development.",
+        "category": "Code"
+    },
+    {
+        "name": "TurboPilot",
+        "url": "https://github.com/ravenscroftj/turbopilot",
+        "description": "A self-hosted copil",
+        "category": "Code"
+    },
+    {
+        "name": "GPT-Code UI",
+        "url": "https://github.com/ricklamers/gpt-code-ui",
+        "description": "An open-source impl",
+        "category": "Code"
+    },
+    {
+        "name": "MetaGPT",
+        "url": "https://github.com/geekan/MetaGPT",
+        "description": "The Multi-Agent Framework: Give",
+        "category": "Code"
+    },
+    {
+        "name": "Marblism",
+        "url": "https://marblism.com",
+        "description": "Generate a SaaS boilerplate from a prompt.",
+        "category": "Code"
+    },
+    {
+        "name": "MutahunterAI",
+        "url": "https://github.com/codeintegrity-ai/mutahunter",
+        "description": "Accelerate de",
+        "category": "Code"
+    },
+    {
+        "name": "AI Kernel Explorer",
+        "url": "https://github.com/mathiscode/ai-kernel-explorer",
+        "description": "Explo",
+        "category": "Code"
+    },
+    {
+        "name": "WhoDB",
+        "url": "https://github.com/clidey/whodb",
+        "description": "SQL/NoSQL/Graph/Cache/Object data e",
+        "category": "Code"
+    },
+    {
+        "name": "DALL\u00b7E 2",
+        "url": "https://openai.com/dall-e-2/",
+        "description": "DALL\u00b7E 2 by OpenAI is a new AI syst",
+        "category": "Models"
+    },
+    {
+        "name": "Stable Diffusion",
+        "url": "https://huggingface.co/CompVis/stable-diffusion-v1-4",
+        "description": "Sta",
+        "category": "Models"
+    },
+    {
+        "name": "Midjourney",
+        "url": "https://www.midjourney.com/",
+        "description": "Midjourney is an independent resea",
+        "category": "Models"
+    },
+    {
+        "name": "Imagen",
+        "url": "https://imagen.research.google/",
+        "description": "Imagen by Google is a text-to-imag",
+        "category": "Models"
+    },
+    {
+        "name": "DragGAN",
+        "url": "https://github.com/XingangPan/DragGAN",
+        "description": "Drag Your GAN: Interactive",
+        "category": "Models"
+    },
+    {
+        "name": "Canva",
+        "url": "https://www.canva.com/",
+        "description": "Generate and Edit your Pictures with the hel",
+        "category": "Models"
+    },
+    {
+        "name": "Craiyon",
+        "url": "https://www.craiyon.com/",
+        "description": "Craiyon, formerly DALL-E mini, is an AI",
+        "category": "Services"
+    },
+    {
+        "name": "DreamStudio",
+        "url": "https://beta.dreamstudio.ai/",
+        "description": "DreamStudio is an easy-to-use in",
+        "category": "Services"
+    },
+    {
+        "name": "Artbreeder",
+        "url": "https://www.artbreeder.com/",
+        "description": "Artbreeder is a new type of creati",
+        "category": "Services"
+    },
+    {
+        "name": "GauGAN2",
+        "url": "http://gaugan.org/gaugan2/",
+        "description": "GauGAN2 is a robust tool for creating",
+        "category": "Services"
+    },
+    {
+        "name": "Magic Eraser",
+        "url": "https://www.magiceraser.io/",
+        "description": "Remove unwanted things from imag",
+        "category": "Services"
+    },
+    {
+        "name": "Imagine by Magic Studio",
+        "url": "https://magicstudio.com/imagine",
+        "description": "A tool by Magic S",
+        "category": "Services"
+    },
+    {
+        "name": "Alpaca",
+        "url": "https://www.getalpaca.io/",
+        "description": "Stable Diffusion Photoshop plugin.",
+        "category": "Services"
+    },
+    {
+        "name": "Patience.ai",
+        "url": "https://www.patience.ai/",
+        "description": "Patience.ai is an app for creating i",
+        "category": "Services"
+    },
+    {
+        "name": "GenShare",
+        "url": "https://www.genshare.io/",
+        "description": "Generate art in seconds for free. Own a",
+        "category": "Services"
+    },
+    {
+        "name": "Playground AI",
+        "url": "https://playgroundai.com/",
+        "description": "Playground AI is a free-to-use on",
+        "category": "Services"
+    },
+    {
+        "name": "Pixelz AI Art Generator",
+        "url": "https://pixelz.ai/",
+        "description": "Pixelz AI Art Generator enable",
+        "category": "Services"
+    },
+    {
+        "name": "modyfi",
+        "url": "https://www.modyfi.io/",
+        "description": "The image editor you've always wanted. AI-p",
+        "category": "Services"
+    },
+    {
+        "name": "Ponzu",
+        "url": "https://www.ponzu.ai/",
+        "description": "Ponzu is your free AI logo generator. Build y",
+        "category": "Services"
+    },
+    {
+        "name": "PhotoRoom",
+        "url": "https://www.photoroom.com/",
+        "description": "Create product and portrait pictures",
+        "category": "Services"
+    },
+    {
+        "name": "Avatar AI",
+        "url": "https://avatarai.me/",
+        "description": "Create your own AI-generated avatars.",
+        "category": "Services"
+    },
+    {
+        "name": "ClipDrop",
+        "url": "https://clipdrop.co/",
+        "description": "Create professional visuals without a photo",
+        "category": "Services"
+    },
+    {
+        "name": "Lensa",
+        "url": "https://prisma-ai.com/lensa",
+        "description": "An all-in-one image editing app that in",
+        "category": "Services"
+    },
+    {
+        "name": "RunDiffusion",
+        "url": "https://rundiffusion.com/",
+        "description": "Cloud-based workspace for creating",
+        "category": "Services"
+    },
+    {
+        "name": "Human Generator",
+        "url": "https://generated.photos/human-generator",
+        "description": "AI generator or",
+        "category": "Services"
+    },
+    {
+        "name": "VectorArt.ai",
+        "url": "https://vectorart.ai",
+        "description": "Create vector images with AI.",
+        "category": "Services"
+    },
+    {
+        "name": "Room Reinvented",
+        "url": "https://roomreinvented.com",
+        "description": "Transform your room effortless",
+        "category": "Services"
+    },
+    {
+        "name": "Gensbot",
+        "url": "https://gensbot.com",
+        "description": "Gensbot uses AI to craft personalised printed",
+        "category": "Services"
+    },
+    {
+        "name": "PlantPhotoAI",
+        "url": "https://www.plantphotoai.com/",
+        "description": "free AI-generated plant images",
+        "category": "Services"
+    },
+    {
+        "name": "RepublicLabs.AI",
+        "url": "https://republiclabs.ai/",
+        "description": "multi-model simultaneous generat",
+        "category": "Services"
+    },
+    {
+        "name": "Black Headshots",
+        "url": "https://www.blackheadshots.com",
+        "description": "AI headshots generator for",
+        "category": "Services"
+    },
+    {
+        "name": "Pixvify AI",
+        "url": "https://pixvify.com/",
+        "description": "Free realistic AI photo generator platfor",
+        "category": "Services"
+    },
+    {
+        "name": "Pawtrait",
+        "url": "https://www.pawtrait.art/",
+        "description": "AI Pet Portraits",
+        "category": "Services"
+    },
+    {
+        "name": "iColoring",
+        "url": "https://icoloring.ai",
+        "description": "Free AI Coloring Pages Generator",
+        "category": "Services"
+    },
+    {
+        "name": "Suit me Up",
+        "url": "https://suitmeup.pictures/",
+        "description": "Generate pictures of you wearing a",
+        "category": "Services"
+    },
+    {
+        "name": "AI Photo Forge",
+        "url": "https://aiphotoforge.com/",
+        "description": "A Telegram bot to generate AI pi",
+        "category": "Services"
+    },
+    {
+        "name": "Brandmark",
+        "url": "https://brandmark.io/",
+        "description": "AI-based logo design tool.",
+        "category": "Graphic design"
+    },
+    {
+        "name": "Gamma",
+        "url": "https://gamma.app/",
+        "description": "Create beautiful presentations and webpages with",
+        "category": "Graphic design"
+    },
+    {
+        "name": "Microsoft Designer",
+        "url": "https://designer.microsoft.com/",
+        "description": "Stunning designs in a",
+        "category": "Graphic design"
+    },
+    {
+        "name": "SVGStud.io",
+        "url": "https://svgstud.io/",
+        "description": "AI-based SVG Generation and Semantic Seach",
+        "category": "Graphic design"
+    },
+    {
+        "name": "Lexica",
+        "url": "https://lexica.art/",
+        "description": "Stable Diffusion search engine.",
+        "category": "Image libraries"
+    },
+    {
+        "name": "Libraire",
+        "url": "https://libraire.ai/",
+        "description": "The largest library of AI-generated images.",
+        "category": "Image libraries"
+    },
+    {
+        "name": "KREA",
+        "url": "https://www.krea.ai/",
+        "description": "Explore millions of AI-generated images and cre",
+        "category": "Image libraries"
+    },
+    {
+        "name": "OpenArt",
+        "url": "https://openart.ai/",
+        "description": "Search 10M+ of prompts, and generate AI art v",
+        "category": "Image libraries"
+    },
+    {
+        "name": "Phygital",
+        "url": "https://app.phygital.plus/",
+        "description": "Built-in templates for generating or",
+        "category": "Image libraries"
+    },
+    {
+        "name": "Canva",
+        "url": "https://www.canva.com/ai-image-generator/",
+        "description": "Generating AI Images.",
+        "category": "Image libraries"
+    },
+    {
+        "name": "Civitai",
+        "url": "https://civitai.com/",
+        "description": "Community-driven AI model sharing tool.",
+        "category": "Model libraries"
+    },
+    {
+        "name": "Stable Diffusion Models",
+        "url": "https://rentry.org/sdmodels",
+        "description": "A comprehensive list",
+        "category": "Model libraries"
+    },
+    {
+        "name": "Stable Horde",
+        "url": "https://stablehorde.net/",
+        "description": "A crowdsourced distributed cluster",
+        "category": "Stable Diffusion resources"
+    },
+    {
+        "name": "DiffusionDB",
+        "url": "https://diffusiondb.com/",
+        "description": "A list of all public apps, developer",
+        "category": "Stable Diffusion resources"
+    },
+    {
+        "name": "PublicPrompts",
+        "url": "https://publicprompts.art/",
+        "description": "A collection of free prompts for",
+        "category": "Stable Diffusion resources"
+    },
+    {
+        "name": "Stableboost",
+        "url": "https://stableboost.ai/",
+        "description": "Stableboost is a Stable Diffusion Web",
+        "category": "Stable Diffusion resources"
+    },
+    {
+        "name": "RunwayML",
+        "url": "https://runwayml.com/",
+        "description": "Magical AI tools, realtime collaboration,",
+        "category": "Video"
+    },
+    {
+        "name": "Synthesia",
+        "url": "https://www.synthesia.io/",
+        "description": "Create videos from plain text in minu",
+        "category": "Video"
+    },
+    {
+        "name": "Rephrase AI",
+        "url": "https://www.rephrase.ai/",
+        "description": "Rephrase's technology enables hyper-",
+        "category": "Video"
+    },
+    {
+        "name": "Hour One",
+        "url": "https://hourone.ai/",
+        "description": "Turn text into video, featuring virtual pres",
+        "category": "Video"
+    },
+    {
+        "name": "D-ID",
+        "url": "https://www.d-id.com/",
+        "description": "Create and interact with talking avatars at th",
+        "category": "Video"
+    },
+    {
+        "name": "ShortVideoGen",
+        "url": "https://shortgen.video/",
+        "description": "Create short videos with audio usin",
+        "category": "Video"
+    },
+    {
+        "name": "Clipwing",
+        "url": "https://clipwing.pro/",
+        "description": "A tool for cutting long videos into dozens",
+        "category": "Video"
+    },
+    {
+        "name": "Recast Studio",
+        "url": "https://recast.studio",
+        "description": "AI powered podcast marketing assistan",
+        "category": "Video"
+    },
+    {
+        "name": "Based AI",
+        "url": "https://www.basedlabs.ai/",
+        "description": "AI Intuitive Interface for Video creat",
+        "category": "Video"
+    },
+    {
+        "name": "Descript Overdub",
+        "url": "https://www.descript.com/overdub",
+        "description": "[Review](https://theres",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "Respeecher",
+        "url": "https://www.respeecher.com/",
+        "description": "[Review](https://theresanai.com/re",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "ElevenLabs",
+        "url": "https://elevenlabs.io/",
+        "description": "[Review](https://theresanai.com/elevenl",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "Resemble AI",
+        "url": "https://www.resemble.ai/",
+        "description": "[Review](https://theresanai.com/rese",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "Murf AI",
+        "url": "https://murf.ai/",
+        "description": "[Review](https://theresanai.com/murf) - User-fri",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "iSpeech",
+        "url": "https://www.ispeech.org/",
+        "description": "[Review](https://theresanai.com/ispeech)",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "Veritone Voice",
+        "url": "https://www.veritone.com/solutions/voice/",
+        "description": "[Review](https:/",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "WellSaid Labs",
+        "url": "https://www.wellsaidlabs.com/",
+        "description": "[Review](https://theresanai.c",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "Lovo.ai",
+        "url": "https://www.lovo.ai/",
+        "description": "[Review](https://theresanai.com/lovo-ai) - A",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "Zenmic.com",
+        "url": "https://zenmic.com",
+        "description": "An app to generate podcast eposode ( scrip",
+        "category": "AI Voice Cloning"
+    },
+    {
+        "name": "Splash Pro",
+        "url": "https://www.splashpro.com",
+        "description": "[Review](https://theresanai.com/spla",
+        "category": "AI Music Generators"
+    },
+    {
+        "name": "AIVA",
+        "url": "https://www.aiva.ai",
+        "description": "[Review](https://theresanai.com/aiva) - AI compo",
+        "category": "AI Music Generators"
+    },
+    {
+        "name": "Mubert",
+        "url": "https://www.mubert.com",
+        "description": "[Review](https://theresanai.com/mubert) - R",
+        "category": "AI Music Generators"
+    },
+    {
+        "name": "Soundraw",
+        "url": "https://soundraw.io",
+        "description": "[Review](https://theresanai.com/soundraw) -",
+        "category": "AI Music Generators"
+    },
+    {
+        "name": "Beatoven.ai",
+        "url": "https://www.beatoven.ai",
+        "description": "[Review](https://theresanai.com/beato",
+        "category": "AI Music Generators"
+    },
+    {
+        "name": "Boomy",
+        "url": "https://www.boomy.com",
+        "description": "[Review](https://theresanai.com/boomy) - Demo",
+        "category": "AI Music Generators"
+    },
+    {
+        "name": "Ecrett Music",
+        "url": "https://www.ecrettmusic.com",
+        "description": "[Review](https://theresanai.com/",
+        "category": "AI Music Generators"
+    },
+    {
+        "name": "Loudly",
+        "url": "https://www.loudly.com",
+        "description": "[Review](https://theresanai.com/loudly) - C",
+        "category": "AI Music Generators"
+    },
+    {
+        "name": "Soundful",
+        "url": "https://www.soundful.com",
+        "description": "[Review](https://theresanai.com/soundfu",
+        "category": "AI Music Generators"
+    },
+    {
+        "name": "AICaller.io",
+        "url": "https://aicaller.io/?ref=v",
+        "description": "AICaller is a simple-to-use automa",
+        "category": "Phone Calls"
+    },
+    {
+        "name": "Cald.ai",
+        "url": "https://cald.ai",
+        "description": "AI based calling agents for outbound and inbound",
+        "category": "Phone Calls"
+    },
+    {
+        "name": "Rosie",
+        "url": "https://heyrosie.com/",
+        "description": "AI Phone Answering Service",
+        "category": "Phone Calls"
+    },
+    {
+        "name": "Eleven Labs",
+        "url": "https://beta.elevenlabs.io/",
+        "description": "AI voice generator.",
+        "category": "Speech"
+    },
+    {
+        "name": "Resemble AI",
+        "url": "https://www.resemble.ai/",
+        "description": "AI voice generator and voice cloning",
+        "category": "Speech"
+    },
+    {
+        "name": "WellSaid",
+        "url": "https://wellsaidlabs.com/",
+        "description": "Convert text to voice in real time.",
+        "category": "Speech"
+    },
+    {
+        "name": "Play.ht",
+        "url": "https://play.ht/",
+        "description": "AI Voice Generator. Generate realistic Text to S",
+        "category": "Speech"
+    },
+    {
+        "name": "Coqui",
+        "url": "https://coqui.ai/",
+        "description": "Generative AI for Voice.",
+        "category": "Speech"
+    },
+    {
+        "name": "podcast.ai",
+        "url": "https://podcast.ai/",
+        "description": "A podcast that is entirely generated by ar",
+        "category": "Speech"
+    },
+    {
+        "name": "VALL-E X",
+        "url": "https://vallex-demo.github.io/",
+        "description": "A cross-lingual neural codec lang",
+        "category": "Speech"
+    },
+    {
+        "name": "TorToiSe",
+        "url": "https://github.com/neonbjb/tortoise-tts",
+        "description": "A multi-voice text-to-sp",
+        "category": "Speech"
+    },
+    {
+        "name": "Bark",
+        "url": "https://github.com/suno-ai/bark",
+        "description": "A transformer-based text-to-audio mo",
+        "category": "Speech"
+    },
+    {
+        "name": "CustomPod.io",
+        "url": "https://custompod.io",
+        "description": "Generate daily news podcasts only on th",
+        "category": "Speech"
+    },
+    {
+        "name": "Harmonai",
+        "url": "https://www.harmonai.org/",
+        "description": "We are a community-driven organization",
+        "category": "Music"
+    },
+    {
+        "name": "Mubert",
+        "url": "https://mubert.com/",
+        "description": "A royalty-free music ecosystem for content cre",
+        "category": "Music"
+    },
+    {
+        "name": "MusicLM",
+        "url": "https://google-research.github.io/seanet/musiclm/examples/",
+        "description": "A mode",
+        "category": "Music"
+    },
+    {
+        "name": "Taranify",
+        "url": "https://www.taranify.com",
+        "description": "Using AI, Taranify finds you Spotify pl",
+        "category": "Other"
+    },
+    {
+        "name": "Diagram",
+        "url": "https://diagram.com/",
+        "description": "Magical new ways to design products.",
+        "category": "Other"
+    },
+    {
+        "name": "PromptBase",
+        "url": "https://promptbase.com/",
+        "description": "A marketplace for buying and selling q",
+        "category": "Other"
+    },
+    {
+        "name": "This Image Does Not Exist",
+        "url": "https://thisimagedoesnotexist.com/",
+        "description": "Test your ab",
+        "category": "Other"
+    },
+    {
+        "name": "Have I Been Trained?",
+        "url": "https://haveibeentrained.com/",
+        "description": "Check if your image ha",
+        "category": "Other"
+    },
+    {
+        "name": "AI Dungeon",
+        "url": "https://aidungeon.io/",
+        "description": "A text-based adventure-story game you di",
+        "category": "Other"
+    },
+    {
+        "name": "Clickable",
+        "url": "https://www.clickable.so/",
+        "description": "Generate ads in seconds with AI. Beau",
+        "category": "Other"
+    },
+    {
+        "name": "Scale Spellbook",
+        "url": "https://scale.com/spellbook",
+        "description": "Build, compare, and deploy la",
+        "category": "Other"
+    },
+    {
+        "name": "Scenario",
+        "url": "https://www.scenario.com/",
+        "description": "AI-generated gaming assets.",
+        "category": "Other"
+    },
+    {
+        "name": "Teleprompter",
+        "url": "https://github.com/danielgross/teleprompter",
+        "description": "An on-device AI",
+        "category": "Other"
+    },
+    {
+        "name": "FinChat",
+        "url": "https://finchat.io/",
+        "description": "Using AI, FinChat generates answers to questi",
+        "category": "Other"
+    },
+    {
+        "name": "Petals",
+        "url": "https://github.com/bigscience-workshop/petals",
+        "description": "BitTorrent style pla",
+        "category": "Other"
+    },
+    {
+        "name": "Shotstack Workflows",
+        "url": "https://shotstack.io/product/workflows/",
+        "description": "No-code, auto",
+        "category": "Other"
+    },
+    {
+        "name": "Aispect",
+        "url": "https://aispect.io/?ref=mahseema-awesome-ai-tools",
+        "description": "New way to expe",
+        "category": "Other"
+    },
+    {
+        "name": "PressPulse AI",
+        "url": "https://www.presspulse.ai/?ref=mahseema-awesome-ai-tools",
+        "description": "Ge",
+        "category": "Other"
+    },
+    {
+        "name": "GummySearch",
+        "url": "https://gummysearch.com/?ref=mahseema-awesome-ai-tools",
+        "description": "AI-bas",
+        "category": "Other"
+    },
+    {
+        "name": "Taplio",
+        "url": "https://taplio.com/?ref=mahseema-awesome-ai-tools",
+        "description": "The all-in-one,",
+        "category": "Other"
+    },
+    {
+        "name": "PromptPal",
+        "url": "https://promptpal.net",
+        "description": "Search for prompts and bots, then use the",
+        "category": "Other"
+    },
+    {
+        "name": "FairyTailAI",
+        "url": "https://fairytailai.com/",
+        "description": "Personalized bedtime story generator",
+        "category": "Other"
+    },
+    {
+        "name": "Myriad",
+        "url": "https://www.namepepper.com/free-tools/ai-content-prompt-tool",
+        "description": "Scale",
+        "category": "Other"
+    },
+    {
+        "name": "GradGPT",
+        "url": "https://www.gradgpt.com/",
+        "description": "AI tools to simplify college application",
+        "category": "Other"
+    },
+    {
+        "name": "Code to Flow",
+        "url": "https://codetoflow.com",
+        "description": "Visualize, Analyze, and Understand Yo",
+        "category": "Other"
+    },
+    {
+        "name": "AI-Flow",
+        "url": "https://ai-flow.net/",
+        "description": "Connect multiple AI models easily.",
+        "category": "Other"
+    },
+    {
+        "name": "Architecture Helper",
+        "url": "https://architecturehelper.com",
+        "description": "Analyze any building a",
+        "category": "Other"
+    },
+    {
+        "name": "VocalReplica",
+        "url": "https://vocalreplica.com/",
+        "description": "AI-Powered Vocal and Instrumental",
+        "category": "Other"
+    },
+    {
+        "name": "AI Wedding Toast",
+        "url": "https://aiweddingtoast.com",
+        "description": "Generate a personalized weddi",
+        "category": "Other"
+    },
+    {
+        "name": "Interviews Chat",
+        "url": "https://www.interviews.chat/",
+        "description": "Your Personal Interview Prep",
+        "category": "Other"
+    },
+    {
+        "name": "Context Data",
+        "url": "https://contextdata.ai/",
+        "description": "Data Processing & ETL infrastructure",
+        "category": "Other"
+    },
+    {
+        "name": "ezJobs",
+        "url": "https://www.getezjobs.com/",
+        "description": "Automated job search and applications",
+        "category": "Other"
+    },
+    {
+        "name": "Compass",
+        "url": "https://www.getwhys.io/compass",
+        "description": "AI driven answers to SaaS research",
+        "category": "Other"
+    },
+    {
+        "name": "Adon AI",
+        "url": "https://adon-web.awakast.com/en/recruiter/",
+        "description": "CV screening automatio",
+        "category": "Other"
+    },
+    {
+        "name": "Persuva",
+        "url": "https://persuva.ai",
+        "description": "Persuva is the AI-driven platform to create pe",
+        "category": "Other"
+    },
+    {
+        "name": "Interview Solver",
+        "url": "https://interviewsolver.com",
+        "description": "Ace your live coding intervi",
+        "category": "Other"
+    },
+    {
+        "name": "Socialsonic",
+        "url": "https://socialsonic.com",
+        "description": "AI LinkedIn Coach: Personalized conte",
+        "category": "Other"
+    },
+    {
+        "name": "Napkin",
+        "url": "https://www.napkin.ai/",
+        "description": "Napkin turns your text into visuals so shar",
+        "category": "Other"
+    },
+    {
+        "name": "Exam Samurai",
+        "url": "https://www.examsamur.ai/",
+        "description": "AI Exam Generator",
+        "category": "Other"
+    },
+    {
+        "name": "AI Watermark Remover",
+        "url": "https://aiwatermarkremover.io/",
+        "description": "Remove watermarks fro",
+        "category": "Other"
+    },
+    {
+        "name": "AISaver",
+        "url": "https://aisaver.io",
+        "description": "Collection of AI Powered Video and Photo Tools",
+        "category": "Other"
+    },
+    {
+        "name": "Harbor",
+        "url": "https://github.com/av/harbor",
+        "description": "run LLM backends, APIs, frontends, an",
+        "category": "Other"
+    },
+    {
+        "name": "LangMagic",
+        "url": "https://easytolearn.io",
+        "description": "Learn languages from native content.",
+        "category": "Other"
+    },
+    {
+        "name": "fynk",
+        "url": "https://fynk.com/",
+        "description": "AI powered contract management software",
+        "category": "Other"
+    },
+    {
+        "name": "LooksMax AI",
+        "url": "https://looksmax.ai",
+        "description": "Find out how hot you are using AI",
+        "category": "Other"
+    },
+    {
+        "name": "Learn Prompting",
+        "url": "https://learnprompting.org/",
+        "description": "A free, open-source course on",
+        "category": "Learning resources"
+    },
+    {
+        "name": "OpenAI Cookbook",
+        "url": "https://github.com/openai/openai-cookbook",
+        "description": "Examples and gu",
+        "category": "Learning resources"
+    },
+    {
+        "name": "Robert Miles AI Safety",
+        "url": "https://www.youtube.com/@RobertMilesAI",
+        "description": "Youtube cha",
+        "category": "Learning resources"
+    },
+    {
+        "name": "Roadmap",
+        "url": "https://github.com/mrdbourke/machine-learning-roadmap",
+        "description": "A roadmap c",
+        "category": "Machine Learning"
+    },
+    {
+        "name": "Jeremy Howard\u2019s Fast.ai & Data Institute Certificates",
+        "url": "https://www.fast.ai/",
+        "description": null,
+        "category": "Deep Learning"
+    },
+    {
+        "name": "Altern",
+        "url": "https://altern.ai",
+        "description": "Find Best AI Tools",
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "Awesome AI Models",
+        "url": "https://github.com/dariubs/awesome-ai-models",
+        "description": "A curated",
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "There's An AI",
+        "url": "https://theresanai.com",
+        "description": "Frontpage of AI",
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "Awesome AI Books",
+        "url": "https://github.com/mahseema/aibooks",
+        "description": "Curated List of Top",
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "AI for Productivity",
+        "url": "https://productivity.directory/category/ai",
+        "description": "Curated Li",
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "Awesome Marketing",
+        "url": "https://github.com/marketingtoolslist/awesome-marketing",
+        "description": null,
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "Awesome AI SEO",
+        "url": "https://github.com/xaramore/awesome-ai-seo",
+        "description": null,
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "Awesome AI Marketing",
+        "url": "https://github.com/sarahdanesh/awesome-ai-marketing",
+        "description": null,
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "Awesome AI Music",
+        "url": "https://github.com/xaramore/awesome-ai-music",
+        "description": null,
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "Awesome AI Image",
+        "url": "https://github.com/xaramore/awesome-ai-image",
+        "description": null,
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "Awesome AI Video",
+        "url": "https://github.com/xaramore/awesome-ai-video",
+        "description": null,
+        "category": "Related Awesome Lists"
+    },
+    {
+        "name": "Awesome AI Writing",
+        "url": "https://github.com/xaramore/awesome-ai-writing",
+        "description": null,
+        "category": "Related Awesome Lists"
+    }
+]

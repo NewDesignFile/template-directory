@@ -1,0 +1,92 @@
+[
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "Figma",
+        "url": "https://www.producthunt.com/products/figma",
+        "description": "The collaborative interface design tool[36]A collaborative"
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "OpenAI",
+        "url": "https://www.producthunt.com/products/openai-api",
+        "description": "APIs and tools for building AI products[45]The most"
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "Claude by Anthropic",
+        "url": "https://www.producthunt.com/products/claude",
+        "description": "A family of foundational AI models[54]We're"
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "Vercel",
+        "url": "https://www.producthunt.com/products/vercel",
+        "description": "The frontend cloud. Creators of Next.js. [63]Vercel"
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "Notion",
+        "url": "https://www.producthunt.com/products/notion",
+        "description": "The all-in-one workspace[71]Notion is an all-in-one"
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "Supabase",
+        "url": "https://www.producthunt.com/products/supabase",
+        "description": "The open source Firebase alternative[78]Supabase is an"
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "Cursor",
+        "url": "https://www.producthunt.com/products/cursor",
+        "description": "The AI Code Editor[87]Built to make you extraordinarily"
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "Slack",
+        "url": "https://www.producthunt.com/products/slack",
+        "description": "Team communication and collaboration platform[96]Slack is"
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "GPT-4o",
+        "url": "https://www.producthunt.com/products/gpt-4-openai",
+        "description": "Fast, intelligent, flexible GPT model[105]GPT-4o (\u201co\u201d for"
+    },
+    {
+        "category": [
+            "Artificial Intelligence"
+        ],
+        "pricing": null,
+        "name": "ChatGPT by OpenAI",
+        "url": "https://www.producthunt.com/products/chatgpt",
+        "description": "Get answers. Find inspiration. Be more"
+    }
+]
