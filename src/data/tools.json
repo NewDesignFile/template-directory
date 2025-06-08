@@ -2539,7 +2539,7 @@
         },
         {
           "title": "TemPolor",
-          "body": "Royalty-free music tailored to creators\u2019 vision.",
+          "body": "Royalty-free music tailored to creators’ vision.",
           "tag": "Freemium",
           "url": "https://www.tempolor.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
@@ -4519,20 +4519,6 @@
       "category": "xtras",
       "content": [
         {
-          "title": "AI Beauty Test",
-          "body": "Analyzes facial features and provides beauty score.",
-          "tag": "Free",
-          "url": "http://aibeautytest.org?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
-          "title": "AI Finder Plus",
-          "body": "A directory to discover, submit and earn from AI tools.",
-          "tag": "Freemium",
-          "url": "https://aifinderplus.com/?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "Acidtools",
           "body": "Free AI tools.",
           "tag": "Free",
@@ -4552,6 +4538,20 @@
           "body": "Discover, compare, and implement top AI tools.",
           "url": "https://ai-agents-directory.com/?ref=riseofmachine.com",
           "tag": "Free",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "AI Beauty Test",
+          "body": "Analyzes facial features and provides beauty score.",
+          "tag": "Free",
+          "url": "http://aibeautytest.org?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "AI Finder Plus",
+          "body": "A directory to discover, submit and earn from AI tools.",
+          "tag": "Freemium",
+          "url": "https://aifinderplus.com/?ref=riseofmachine.com",
           "date-added": "2025-06-01"
         },
         {
@@ -4618,13 +4618,6 @@
           "date-added": "2024-10-23"
         },
         {
-          "title": "CSM",
-          "body": "Data into 3D world models.",
-          "tag": "Free",
-          "url": "https://csm.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-15"
-        },
-        {
           "title": "Chat Whisperer",
           "body": "Custom ChatGPT for your business.",
           "tag": "Freemium",
@@ -4653,13 +4646,6 @@
           "date-added": "2023-12-12"
         },
         {
-          "title": "Cognexo",
-          "body": "AI-driven platform for employee development.",
-          "tag": "Freemium",
-          "url": "https://cognexo.com/?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
-        },
-        {
           "title": "Coframe",
           "body": "Self-optimize your site.",
           "tag": "Not available",
@@ -4667,11 +4653,25 @@
           "date-added": "2024-10-30"
         },
         {
+          "title": "Cognexo",
+          "body": "AI-driven platform for employee development.",
+          "tag": "Freemium",
+          "url": "https://cognexo.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Crumb",
           "body": "Food generator.",
           "tag": "In-app purchases",
           "url": "https://www.eatwithcrumb.com/?ref=riseofmachine.com",
           "date-added": "2024-11-17"
+        },
+        {
+          "title": "CSM",
+          "body": "Data into 3D world models.",
+          "tag": "Free",
+          "url": "https://csm.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-15"
         },
         {
           "title": "Cypher",
@@ -4730,6 +4730,13 @@
           "date-added": "2024-02-28"
         },
         {
+          "title": "Floworks",
+          "body": "AI-powered assistant.",
+          "tag": "Not available",
+          "url": "https://floworks.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-24"
+        },
+        {
           "title": "Flowpoint",
           "body": "Agents.",
           "tag": "Freemium",
@@ -4738,24 +4745,17 @@
           "date-added": "2025-06-06"
         },
         {
-          "title": "Floworks",
-          "body": "AI-powered assistant.",
-          "tag": "Not available",
-          "url": "https://floworks.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-24"
+          "title": "Generators",
+          "body": "A curated list of AI generators.",
+          "tag": "Free",
+          "url": "https://aigenerator.cc/?ref=riseofmachine.com",
+          "date-added": "2024-10-23"
         },
         {
           "title": "GPT4o",
           "body": "Discover GPT-4o's capabilities.",
           "tag": "Freemium",
           "url": "https://gpt4o.so/?ref=riseofmachine.com",
-          "date-added": "2024-10-23"
-        },
-        {
-          "title": "Generators",
-          "body": "A curated list of AI generators.",
-          "tag": "Free",
-          "url": "https://aigenerator.cc/?ref=riseofmachine.com",
           "date-added": "2024-10-23"
         },
         {
@@ -4774,7 +4774,7 @@
         },
         {
           "title": "Hoody",
-          "body": "Every AI, one dashboard, anonymous access.",
+          "body": "Every ai, one dashboard, anonymous access.",
           "tag": "Not available",
           "url": "https://hoody.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
@@ -4858,7 +4858,7 @@
         },
         {
           "title": "Monica",
-          "body": "AI assistant for chat, writing, coding & more.",
+          "body": "Ai assistant for chat, writing, coding & more.",
           "tag": "Freemium",
           "url": "https://monica.im/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
@@ -4999,7 +4999,7 @@
         },
         {
           "title": "Rainbow",
-          "body": "Precise precipitation forecasting app with AI.",
+          "body": "Precise precipitation forecasting app with ai.",
           "tag": "Not available",
           "url": "https://rainbow.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
@@ -5098,7 +5098,7 @@
         },
         {
           "title": "Sagehood",
-          "body": "U.S. stock portfolio supercharged by AI.",
+          "body": "U.s. stock portfolio supercharged by ai.",
           "tag": "Not available",
           "url": "https://sagehood.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
@@ -5168,7 +5168,7 @@
         },
         {
           "title": "ThatsMy",
-          "body": "India\u2019s fastest-growing AI tools directory.",
+          "body": "India’s fastest-growing AI tools directory.",
           "tag": "Free",
           "url": "https://thatsmy.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-01"
@@ -5223,7 +5223,7 @@
           "date-added": "2023-12-28"
         },
         {
-          "title": "WhatBreedIsMyCat",
+          "title": "Whatbreedismycat",
           "body": "Cat breed identification.",
           "tag": "Free",
           "url": "https://whatbreedismycat.app/?ref=riseofmachine.com",
