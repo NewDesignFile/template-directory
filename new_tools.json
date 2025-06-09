@@ -1,0 +1,142 @@
+[
+  {
+    "name": "Kie.ai Veo3 API",
+    "description": "VEO 3 AI API from Kie.ai enables video creation from text or images in 1080p with synchronized audio.",
+    "pricing": "Free trial, $29.9/mo",
+    "url": "https://topai.tools/t/kie-ai-veo3-api",
+    "category": "Video generation"
+  },
+  {
+    "name": "Rabbit Resume",
+    "description": "Rabbit Resume is an online resume builder featuring professional templates and pre-written phrases f.",
+    "pricing": "Subscription",
+    "url": "https://topai.tools/t/rabbit-resume",
+    "category": "Job Search"
+  },
+  {
+    "name": "LipSync.video",
+    "description": "LipSync.video is an AI-powered tool that generates lifelike lip-synced videos by matching audio with.",
+    "pricing": "Free",
+    "url": "https://topai.tools/t/lipsync-video",
+    "category": "Video generation"
+  },
+  {
+    "name": "Huhu.ai",
+    "description": "Huhu.ai is an AI-powered fashion modeling tool that transforms flat lays and hangers into customizab.",
+    "pricing": "Free trial",
+    "url": "https://topai.tools/t/huhu-ai",
+    "category": "Fashion"
+  },
+  {
+    "name": "datviz ai",
+    "description": "Datviz AI is a data visualization tool that leverages OpenAI's language model to analyze complex dat.",
+    "pricing": "Freemium",
+    "url": "https://topai.tools/t/datviz-ai",
+    "category": "Data analysis"
+  },
+  {
+    "name": "Makeform",
+    "description": "Makeform is a free AI form builder that creates customizable forms via conversational text input, su.",
+    "pricing": "Freemium",
+    "url": "https://topai.tools/t/makeform",
+    "category": "No-code"
+  },
+  {
+    "name": "Rig3D AI",
+    "description": "Rig3D AI is a no-signup tool that automates 3D animation and rigging for uploaded FBX/GLB models, ge.",
+    "pricing": "Free",
+    "url": "https://topai.tools/t/rig3d-ai",
+    "category": "3d"
+  },
+  {
+    "name": "CoverSentry",
+    "description": "Coversentry analyzes cover letters for job seekers, creates personalized and sound cover letters. It.",
+    "pricing": "Freemium",
+    "url": "https://topai.tools/t/coversentry",
+    "category": "Job Search"
+  },
+  {
+    "name": "AIFaceSwap.app",
+    "description": "AIFaceSwap.app is an AI-powered online tool that instantly swaps faces in photos or videos, supporti.",
+    "pricing": "Free trial",
+    "url": "https://topai.tools/t/aifaceswap-app",
+    "category": "Image editing"
+  },
+  {
+    "name": "The Humanize AI",
+    "description": "Humanize AI Pro transforms AI-generated content into natural, human-like writing. It supports variou.",
+    "pricing": "Freemium",
+    "url": "https://topai.tools/t/the-humanize-ai",
+    "category": "Paraphraser"
+  },
+  {
+    "name": "JobWinner AI",
+    "description": "Jobwinner is an AI tool that creates customized resumes and cover letters based on specific job post.",
+    "pricing": "Freemium, €99/mo",
+    "url": "https://topai.tools/t/jobwinner-ai",
+    "category": "Job Search"
+  },
+  {
+    "name": "Meroid.ai",
+    "description": "Meroid is an AI-powered tool designed to automatically grow your SEO traffic by generating and publi.",
+    "pricing": "Free trial",
+    "url": "https://topai.tools/t/meroid-ai",
+    "category": "SEO"
+  },
+  {
+    "name": "Sloneek",
+    "description": "Sloneek is an AI-powered HR management system that streamlines employee records, document handling, .",
+    "pricing": "Free trial, $13.99/mo",
+    "url": "https://topai.tools/t/sloneek",
+    "category": "Human resources"
+  },
+  {
+    "name": "ArticleWriteAI",
+    "description": "ArticleWriteAI is an AI-powered content generator that creates SEO-optimized articles, blogs, and do.",
+    "pricing": "Freemium",
+    "url": "https://topai.tools/t/articlewriteai",
+    "category": "Content creation"
+  },
+  {
+    "name": "TryVeo3.ai",
+    "description": "TryVeo3.ai is a cinematic AI video generator that transforms text prompts and images into lifelike H.",
+    "pricing": "Free trial",
+    "url": "https://topai.tools/t/tryveo3-ai",
+    "category": "Video generation"
+  },
+  {
+    "name": "Wondera AI",
+    "description": "Wondera Home Community is an AI tool that transforms your singing into AI voices, offering a unique .",
+    "pricing": "Freemium",
+    "url": "https://topai.tools/t/wondera-ai",
+    "category": "Audio generation"
+  },
+  {
+    "name": "Slidebomb Summarizer AI",
+    "description": "Slidebomb is an AI-powered YouTube videos summarizer, that extracts key insights from lengthy conten.",
+    "pricing": "Free",
+    "url": "https://topai.tools/t/slidebomb-summarizer-ai",
+    "category": "Summarizer"
+  },
+  {
+    "name": "BestProxy",
+    "description": "BestProxy is a high-performance proxy service offering global residential proxies with 80M+ IPs, unl.",
+    "pricing": "Paid",
+    "url": "https://topai.tools/t/bestproxy",
+    "category": "Development"
+  },
+  {
+    "name": "Suno-AI",
+    "description": "SunoAI.org is a generative AI platform that creates custom songs with vocals and instrumentation fro.",
+    "pricing": "Freemium, $8.25/mo",
+    "url": "https://topai.tools/t/sunoai-org",
+    "category": "Audio generation"
+  },
+  {
+    "name": "Forage Mail",
+    "description": "Forage Mail is a Gmail AI tool that filters distractions and prioritizes important emails with autom.",
+    "pricing": "Free trial",
+    "url": "https://topai.tools/t/forage-mail",
+    "category": "Email"
+  }
+]
