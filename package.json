@@ -13,14 +13,14 @@
     "dev": "astro dev",
     "start": "astro dev",
     "build": "astro build",
-    "preview": "astro preview",
+    "preview": "astro dev",
     "astro": "astro"
   },
   "dependencies": {
     "@astrojs/netlify": "^6.3.4",
     "@astrojs/partytown": "^2.1.4",
     "@astrojs/react": "^4.3.0",
-    "@types/react": "^19.1.7",
+    "@types/react": "^19.1.8",
     "@types/react-dom": "^19.1.6",
     "astro": "^5.9.2",
     "react": "^19.1.0",
