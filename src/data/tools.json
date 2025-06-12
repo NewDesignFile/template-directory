@@ -1328,6 +1328,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "Kie Veo3 API",
+          "body": "Scalable Veo 3 API for video creation.",
+          "tag": "Not available",
+          "url": "https://kie.ai/features/v3-api?ref=riseofmachine.com",
+          "date-added": "2025-06-11"
+        },
+        {
           "title": "KitOps",
           "body": "Packaging for AI/ML projects.",
           "tag": "Free",
@@ -4476,6 +4483,13 @@
           "url": "https://www.vmeg.ai/tools/clips-to-videos/?ref=riseofmachine.com",
           "category": "video",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Veo3 Video Generator",
+          "body": "Create stunning videos from text or images.",
+          "tag": "Freemium",
+          "url": "https://zacose.com/veo3_ai_video_generator?ref=riseofmachine.com",
+          "date-added": "2025-06-11"
         },
         {
           "title": "Videomaker",
