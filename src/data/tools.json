@@ -1629,13 +1629,6 @@
           "date-added": "2025-06-06"
         },
         {
-          "title": "Kie Veo3 API",
-          "body": "Scalable Veo 3 API for video creation.",
-          "tag": "Not available",
-          "url": "https://kie.ai/features/v3-api?ref=riseofmachine.com",
-          "date-added": "2025-06-11"
-        },
-        {
           "title": "KitOps",
           "body": "Packaging for AI/ML projects.",
           "tag": "Free",
@@ -5302,6 +5295,13 @@
           "date-added": "2023-12-31"
         },
         {
+          "title": "Kie Veo3 API",
+          "body": "Scalable Veo 3 API for video creation.",
+          "tag": "Not available",
+          "url": "https://kie.ai/features/v3-api?ref=riseofmachine.com",
+          "date-added": "2025-06-11"
+        },
+        {
           "title": "Kite",
           "body": "Create Apple-style marketing videos.",
           "tag": "Freemium",
@@ -5502,6 +5502,13 @@
           "url": "https://supermaker.ai/?ref=riseofmachine.com",
           "category": "video",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Veo3API",
+          "body": "Affordable API for 1080p AI video generation.",
+          "tag": "From $1/mo",
+          "url": "https://veo3api.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-14"
         },
         {
           "title": "Veo3 Video Generator",
