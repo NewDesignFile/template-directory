@@ -20,11 +20,10 @@
         },
         {
           "title": "Best Coloring Pages",
-          "body": "Coloring pages.",
+          "body": "Photo/idea to printable coloring pages.",
           "tag": "Freemium",
           "url": "https://www.bestcoloringpages.ai/?ref=riseofmachine.com",
-          "category": "art",
-          "date-added": "2025-06-06"
+          "date-added": "2025-06-17"
         },
         {
           "title": "Blimey",
@@ -582,6 +581,20 @@
           "date-added": "2023-12-11"
         },
         {
+          "title": "Lami",
+          "body": "Free AI Music Generator from Text.",
+          "tag": "Freemium",
+          "url": "https://lami.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
+          "title": "LyricsToSong",
+          "body": "Create professional songs from text or lyrics.",
+          "tag": "Freemium",
+          "url": "https://lyricstosongai.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
           "title": "Lalal",
           "body": "Split vocal & instrumental tracks.",
           "tag": "$18 one-time",
@@ -636,6 +649,13 @@
           "tag": "Free",
           "url": "https://github.com/svc-develop-team/so-vits-svc?ref=riseofmachine.com",
           "date-added": "2025-06-14"
+        },
+        {
+          "title": "Song Maker",
+          "body": "Create songs effortlessly with our AI Song Maker.",
+          "tag": "Freemium",
+          "url": "https://www.aisongmaker.io/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
         },
         {
           "title": "SpeechLab",
@@ -1552,6 +1572,13 @@
           "date-added": "2023-12-29"
         },
         {
+          "title": "CapMonster Cloud",
+          "body": "AI CAPTCHA-solving service for automation pros.",
+          "tag": "Paid",
+          "url": "https://capmonster.cloud/en/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
           "title": "Chef",
           "body": "AI-powered software development assistant.",
           "tag": "Not available",
@@ -1697,6 +1724,13 @@
           "tag": "From $12.99/mo",
           "url": "https://www.mystic.ai/pipeline-catalyst/?ref=riseofmachine.com",
           "date-added": "2023-12-24"
+        },
+        {
+          "title": "NicheTools",
+          "body": "Platform to identify & build profitable web tools.",
+          "tag": "Not available",
+          "url": "https://nichetools.net/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
         },
         {
           "title": "Neum",
@@ -2154,6 +2188,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "Flowla",
+          "body": "Manage sales with a digital sales room.",
+          "tag": "Freemium",
+          "url": "https://www.flowla.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
           "title": "GPTbots.ai",
           "body": "Build AI bot for your business.",
           "tag": "From $0/mo",
@@ -2187,6 +2228,13 @@
           "tag": "Not available",
           "url": "https://hoory.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Invoice Mama",
+          "body": "Create invoices, track payments, manage finances.",
+          "tag": "Freemium",
+          "url": "https://invoicemama.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
         },
         {
           "title": "InsightSquared",
@@ -2831,6 +2879,13 @@
           "date-added": "2025-02-19"
         },
         {
+          "title": "LLM Logs",
+          "body": "Hub for staying current with Large Language Models.",
+          "tag": "Free",
+          "url": "https://llmlogs.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
           "title": "LangChain",
           "body": "LLM app from prototype to prod.",
           "tag": "Beta",
@@ -3410,6 +3465,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "PageAI",
+          "body": "Get a production-ready website from a single prompt.",
+          "tag": "$19 One-time",
+          "url": "https://pageai.pro/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
           "title": "ROK Solution",
           "body": "No-code apps and hyperautomation solutions.",
           "tag": "Freemium",
@@ -3579,6 +3641,13 @@
           "url": "https://fotol.ai/tools/ai-image-generator?ref=riseofmachine.com",
           "category": "photos",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Giffaceswap",
+          "body": "Free unlimited GIF face swap, transform animations.",
+          "tag": "Free",
+          "url": "https://giffaceswap.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
         },
         {
           "title": "Green Screen AI",
@@ -4008,6 +4077,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Forage Mail",
+          "body": "AI manages your inbox, less email clutter.",
+          "tag": "Freemium",
+          "url": "https://foragemail.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
           "title": "Genppt",
           "body": "PowerPoint presentations.",
           "tag": "From $9/mo",
@@ -4314,6 +4390,13 @@
           "tag": "From $0/mo",
           "url": "https://www.slidesai.io/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "Skywork",
+          "body": "AI tool for productivity & workflow automation.",
+          "tag": "Not available",
+          "url": "https://skywork.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
         },
         {
           "title": "Supernormal",
@@ -5004,6 +5087,13 @@
           "date-added": "2025-06-02"
         },
         {
+          "title": "SchedPilot",
+          "body": "Social media scheduler for creators, marketers.",
+          "tag": "Freemium",
+          "url": "https://schedpilot.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
           "title": "Sivi",
           "body": "Content into visual designs.",
           "tag": "Freemium",
@@ -5171,6 +5261,13 @@
           "tag": "From $49.99",
           "url": "https://www.dubbah.co/?ref=riseofmachine.com",
           "date-added": "2023-12-27"
+        },
+        {
+          "title": "Ease Video Watermark Remover",
+          "body": "Remove watermark from video online for free.",
+          "tag": "Freemium",
+          "url": "https://www.aiease.ai/remove-video-watermark/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
         },
         {
           "title": "Eddie",
@@ -5459,6 +5556,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "Shorts Generator",
+          "body": "Instant TikTok, Instagram, YouTube videos from ideas.",
+          "tag": "Freemium",
+          "url": "https://shortsgenerator.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
           "title": "Shortsfarm",
           "body": "UGC videos.",
           "tag": "From $29/mo",
@@ -5504,11 +5608,25 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "TryVeo3",
+          "body": "Cinematic videos from text/images, synced audio.",
+          "tag": "Free",
+          "url": "https://tryveo3.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
+        },
+        {
           "title": "Veo3API",
-          "body": "Affordable API for 1080p AI video generation.",
-          "tag": "From $1/mo",
+          "body": "Affordable Veo 3 API for AI video generation.",
+          "tag": "Not available",
           "url": "https://veo3api.ai/?ref=riseofmachine.com",
-          "date-added": "2025-06-14"
+          "date-added": "2025-06-17"
+        },
+        {
+          "title": "Veo 3 by Kie",
+          "body": "Veo 3 API for video generation, synchronized audio.",
+          "tag": "Not available",
+          "url": "https://kie.ai/features/v3-api?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
         },
         {
           "title": "Veo3 Video Generator",
@@ -5516,6 +5634,13 @@
           "tag": "Freemium",
           "url": "https://zacose.com/veo3_ai_video_generator?ref=riseofmachine.com",
           "date-added": "2025-06-11"
+        },
+        {
+          "title": "Videoswapface",
+          "body": "Free unlimited video face swap with AI.",
+          "tag": "Free",
+          "url": "https://videoswapface.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
         },
         {
           "title": "Videomaker",
