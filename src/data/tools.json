@@ -278,6 +278,13 @@
           "date-added": "2023-12-24"
         },
         {
+          "title": "MediaAI Art",
+          "body": "Transforms photos to art and short videos.",
+          "tag": "Freemium",
+          "url": "https://www.mediaai.art?ref=riseofmachine.com",
+          "date-added": "2025-06-19"
+        },
+        {
           "title": "Melies",
           "body": "AI Filmmaking software.",
           "tag": "Private Beta",
@@ -4610,6 +4617,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Prompt Generator",
+          "body": "Generates pro prompts for text, image & video.",
+          "tag": "Free",
+          "url": "https://aipromptgenerator.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-19"
+        },
+        {
           "title": "PromptHero",
           "body": "Prompts for Stable Diffusion & Midjourney.",
           "tag": "Freemium",
@@ -5247,6 +5261,13 @@
           "tag": "Beta",
           "url": "https://deforum.art/?ref=riseofmachine.com",
           "date-added": "2023-12-31"
+        },
+        {
+          "title": "MediaAI Art",
+          "body": "Creates short videos from AI-generated artwork.",
+          "tag": "Freemium",
+          "url": "https://www.mediaai.art?ref=riseofmachine.com",
+          "date-added": "2025-06-19"
         },
         {
           "title": "DreamCut",
