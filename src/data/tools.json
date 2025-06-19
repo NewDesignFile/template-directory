@@ -124,6 +124,13 @@
           "date-added": "2023-12-25"
         },
         {
+          "title": "FLUX Kontext",
+          "body": "AI image editing and generation suite.",
+          "tag": "From $9.99/mo",
+          "url": "https://flux-kontext.io?ref=riseofmachine.com",
+          "date-added": "2025-06-20"
+        },
+        {
           "title": "Firefly",
           "body": "Adobe's AI image processing web site",
           "tag": "Freemium",
@@ -213,6 +220,13 @@
           "tag": "Freemium",
           "url": "https://ideogram.ai?ref=riseofmachine.com",
           "date-added": "2025-06-14"
+        },
+        {
+          "title": "Imagen 4",
+          "body": "AI photorealistic image generation.",
+          "tag": "From $9.99/mo",
+          "url": "https://www.imagen4.org?ref=riseofmachine.com",
+          "date-added": "2025-06-20"
         },
         {
           "title": "Image Generator NSFW",
@@ -4737,6 +4751,13 @@
           "tag": "Freemium",
           "url": "https://isaaceditor.com/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        },
+        {
+          "title": "Insight Generator",
+          "body": "Generates insights from unstructured text data.",
+          "tag": "Freemium",
+          "url": "https://example-insight-generator.com?ref=riseofmachine.com",
+          "date-added": "2025-06-20"
         },
         {
           "title": "Julius AI",
