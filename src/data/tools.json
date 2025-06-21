@@ -12,6 +12,13 @@
           "date-added": "2025-06-02"
         },
         {
+          "title": "ArtFlow Studio",
+          "body": "Generative art studio for pros.",
+          "tag": "From $25/mo",
+          "url": "https://artflowstudio.com?ref=riseofmachine.com",
+          "date-added": "2025-06-21"
+        },
+        {
           "title": "Astria",
           "body": "Create custom images.",
           "tag": "From $0.10/prompt",
@@ -756,6 +763,13 @@
           "date-added": "2023-12-26"
         },
         {
+          "title": "CodeStream",
+          "body": "AI assistant for code refactoring.",
+          "tag": "From $19/mo",
+          "url": "https://codestream.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-19"
+        },
+        {
           "title": "Code Snippets",
           "body": "Manage code snippets, visualize codebase.",
           "tag": "From $4/mo",
@@ -979,6 +993,13 @@
           "url": "https://www.fastwrite.io/en?ref=riseofmachine.com",
           "category": "copywriting",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "QuillBot Rewrite",
+          "body": "Advanced paraphrasing module.",
+          "tag": "Freemium",
+          "url": "https://quillbot.com/rewrite?ref=riseofmachine.com",
+          "date-added": "2025-06-19"
         },
         {
           "title": "Flipner",
@@ -4730,6 +4751,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "InsightGenius",
+          "body": "AI for market trend analysis.",
+          "tag": "Freemium",
+          "url": "https://insightgenius.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-20"
+        },
+        {
           "title": "Consensus",
           "body": "Search engine for research.",
           "tag": "Freemium",
@@ -5662,6 +5690,13 @@
           "tag": "Free",
           "url": "https://tryveo3.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-17"
+        },
+        {
+          "title": "VidSynth Pro",
+          "body": "AI video synthesis platform.",
+          "tag": "Freemium",
+          "url": "https://vidsynthpro.com?ref=riseofmachine.com",
+          "date-added": "2025-06-20"
         },
         {
           "title": "Veo3API",
