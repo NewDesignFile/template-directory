@@ -503,6 +503,13 @@
       "category": "audio",
       "content": [
         {
+          "title": "11.ai",
+          "body": "Voice-first AI assistant that takes action via MCP.",
+          "tag": "Free",
+          "url": "https://try.elevenlabs.io/v97l1k3mkplm?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
+        },
+        {
           "title": "Adobe Podcast",
           "body": "Audio recording & editing.",
           "tag": "Freemium",
@@ -558,6 +565,13 @@
           "tag": "Freemium",
           "url": "https://www.descript.com/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Dubbing 3.0",
+          "body": "AI dubbing API for 30+ languages with lipsync.",
+          "tag": "Freemium",
+          "url": "https://sievedata.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
         },
         {
           "title": "Dubbing AI",
@@ -1125,6 +1139,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "News Article Gen",
+          "body": "Craft news articles with AI precision & integrity.",
+          "tag": "Free",
+          "url": "https://theresanaiforthat.com/@ellustar/ai-news-article-generator/?ref=riseofmachine.com",
+          "date-added": "2025-06-19"
+        },
+        {
           "title": "Newsletter Name Generator",
           "body": "AI tool to generate newsletter names.",
           "tag": "Free",
@@ -1628,6 +1649,13 @@
           "date-added": "2025-06-17"
         },
         {
+          "title": "Cekura",
+          "body": "Launch reliable voice & chat AI agents faster. Automates QA.",
+          "tag": "Freemium",
+          "url": "https://cekura.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
+        },
+        {
           "title": "Chef",
           "body": "AI-powered software development assistant.",
           "tag": "Not available",
@@ -1761,6 +1789,13 @@
           "date-added": "2025-06-14"
         },
         {
+          "title": "MakeHub",
+          "body": "LLM provider arbitrage for best price/performance via single API.",
+          "tag": "Not available",
+          "url": "https://makehub.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
+        },
+        {
           "title": "Marvin",
           "body": "Build AI interfaces.",
           "tag": "Free",
@@ -1815,6 +1850,13 @@
           "tag": "Freemium",
           "url": "https://learning.postman.com/docs/getting-started/basics/about-postbot/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "Pythagora 2.0",
+          "body": "All-in-one AI dev platform. Builds apps via chat.",
+          "tag": "Freemium",
+          "url": "https://pythagora.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
         },
         {
           "title": "Proofs.Io",
@@ -1872,6 +1914,13 @@
           "tag": "Free",
           "url": "https://github.com/plasma-umass/scalene?ref=riseofmachine.com",
           "date-added": "2025-06-14"
+        },
+        {
+          "title": "SmythOS",
+          "body": "Open source OS for AI agents. Build & deploy.",
+          "tag": "Freemium",
+          "url": "https://smythos.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
         },
         {
           "title": "Shaped",
@@ -1964,6 +2013,13 @@
           "tag": "Not available",
           "url": "https://websparks.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-01"
+        },
+        {
+          "title": "Zen Agents",
+          "body": "Build & share custom AI agents for your codebase.",
+          "tag": "Freemium",
+          "url": "https://hubs.la/Q03sR2B60?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
         },
         {
           "title": "Zeno",
@@ -4204,6 +4260,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "Hyperfeed",
+          "body": "Create & share AI workflows via simple text editor.",
+          "tag": "Freemium",
+          "url": "https://hyperfeed.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
+        },
+        {
           "title": "HyperPresent",
           "body": "Presentations.",
           "tag": "Freemium",
@@ -4348,6 +4411,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Pally AI",
+          "body": "Researches contacts' online posts for meeting prep.",
+          "tag": "Freemium",
+          "url": "https://pally.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
+        },
+        {
           "title": "PDFConvo",
           "body": "Document Q&A.",
           "tag": "From $2.99/mo",
@@ -4434,11 +4504,25 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Riley Parenting",
+          "body": "AI parenting app with tracking & personalized guidance.",
+          "tag": "From $7.99/mo",
+          "url": "https://go.rileyapp.com/phunt?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
+        },
+        {
           "title": "Runner H AI",
           "body": "Automates complex tasks using natural language.",
           "tag": "Free",
           "url": "https://runnerhai.com?ref=riseofmachine.com",
           "date-added": "2025-06-08"
+        },
+        {
+          "title": "Runbear",
+          "body": "Custom ChatGPT for Slack, Teams, HubSpot. Build AI teammates.",
+          "tag": "Freemium",
+          "url": "https://runbear.io/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
         },
         {
           "title": "ShortcutAI",
@@ -5900,6 +5984,13 @@
           "tag": "Freemium",
           "url": "https://marketingjobshub.com/?ref=riseofmachine.com",
           "date-added": "2024-12-14"
+        },
+        {
+          "title": "Nickname Generator",
+          "body": "AI crafts unique, catchy nicknames from any input.",
+          "tag": "Free",
+          "url": "https://theresanaiforthat.com/@danielgaraiacu/nickname-generator/?ref=riseofmachine.com",
+          "date-added": "2025-06-18"
         },
         {
           "title": "Omnigen",
