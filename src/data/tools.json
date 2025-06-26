@@ -482,18 +482,18 @@
           "date-added": "2025-06-14"
         },
         {
+          "title": "Unicorn Coloring Pages",
+          "body": "Generate personalized unicorn coloring pages with AI.",
+          "tag": "Freemium",
+          "url": "https://unicorn-coloring-pages.com?ref=riseofmachine.com",
+          "date-added": "2025-06-26"
+        },
+        {
           "title": "Vizcom",
           "body": "Product visualization.",
           "tag": "Freemium",
           "url": "https://www.vizcom.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-12"
-        },
-        {
-          "title": "Unicorn Coloring Pages",
-          "body": "Generate personalized unicorn coloring pages with AI.",
-          "tag": "Freemium",
-          "url": "https://unicorn-coloring-pages.com?ref=riseofmachine.com",
-          "date-added": "2025-06-25"
         },
         {
           "title": "Winter Comics",
@@ -637,18 +637,18 @@
           "date-added": "2025-06-17"
         },
         {
-          "title": "LyricsToSong",
-          "body": "Create professional songs from text or lyrics.",
-          "tag": "Freemium",
-          "url": "https://lyricstosongai.com/?ref=riseofmachine.com",
-          "date-added": "2025-06-17"
-        },
-        {
           "title": "Lalal",
           "body": "Split vocal & instrumental tracks.",
           "tag": "$18 one-time",
           "url": "https://www.lalal.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-11"
+        },
+        {
+          "title": "LyricsToSong",
+          "body": "Create professional songs from text or lyrics.",
+          "tag": "Freemium",
+          "url": "https://lyricstosongai.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-17"
         },
         {
           "title": "Mix Audio",
@@ -1016,13 +1016,6 @@
           "date-added": "2025-06-06"
         },
         {
-          "title": "QuillBot Rewrite",
-          "body": "Advanced paraphrasing module.",
-          "tag": "Freemium",
-          "url": "https://quillbot.com/rewrite?ref=riseofmachine.com",
-          "date-added": "2025-06-19"
-        },
-        {
           "title": "Flipner",
           "body": "Capture ideas and craft texts with AI.",
           "tag": "Not available",
@@ -1194,6 +1187,13 @@
           "url": "https://www.pptdetector.com/?ref=riseofmachine.com",
           "category": "copywriting",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "QuillBot Rewrite",
+          "body": "Advanced paraphrasing module.",
+          "tag": "Freemium",
+          "url": "https://quillbot.com/rewrite?ref=riseofmachine.com",
+          "date-added": "2025-06-19"
         },
         {
           "title": "Quillbot",
@@ -3401,18 +3401,18 @@
           "date-added": "2024-10-23"
         },
         {
-          "title": "Song Maker",
-          "body": "Create songs effortlessly with our AI Song Maker.",
-          "tag": "Freemium",
-          "url": "https://www.aisongmaker.io/?ref=riseofmachine.com",
-          "date-added": "2025-06-24"
-        },
-        {
           "title": "Songburst",
           "body": "Generate music with AI",
           "tag": "Free",
           "url": "https://www.songburst.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-28"
+        },
+        {
+          "title": "Song Maker",
+          "body": "Create songs effortlessly with our AI Song Maker.",
+          "tag": "Freemium",
+          "url": "https://www.aisongmaker.io/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
         },
         {
           "title": "Soundraw",
