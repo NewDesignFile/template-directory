@@ -12,18 +12,18 @@
           "date-added": "2025-06-02"
         },
         {
-          "title": "ArtFlow Studio",
-          "body": "Generative art studio for pros.",
-          "tag": "From $25/mo",
-          "url": "https://artflowstudio.com?ref=riseofmachine.com",
-          "date-added": "2025-06-21"
-        },
-        {
           "title": "Anyimg",
           "body": "AI image platform converts photos to art styles.",
           "tag": "Freemium",
           "url": "https://anyimg.ai?ref=riseofmachine.com",
           "date-added": "2025-06-29"
+        },
+        {
+          "title": "ArtFlow Studio",
+          "body": "Generative art studio for pros.",
+          "tag": "From $25/mo",
+          "url": "https://artflowstudio.com?ref=riseofmachine.com",
+          "date-added": "2025-06-21"
         },
         {
           "title": "Astria",
@@ -63,8 +63,8 @@
         {
           "title": "Bylo AI",
           "body": "Generate stunning images in multiple AI styles.",
-          "url": "https://bylo.ai?ref=riseofmachine.com",
           "tag": "Freemium",
+          "url": "https://bylo.ai?ref=riseofmachine.com",
           "date-added": "2025-06-02"
         },
         {
@@ -138,18 +138,18 @@
           "date-added": "2023-12-25"
         },
         {
-          "title": "FLUX Kontext",
-          "body": "AI image editing and generation suite.",
-          "tag": "From $9.99/mo",
-          "url": "https://flux-kontext.io?ref=riseofmachine.com",
-          "date-added": "2025-06-20"
-        },
-        {
           "title": "Firefly",
           "body": "Adobe's AI image processing web site",
           "tag": "Freemium",
           "url": "https://firefly.adobe.com?ref=riseofmachine.com",
           "date-added": "2025-06-14"
+        },
+        {
+          "title": "FLUX Kontext",
+          "body": "AI image editing and generation suite.",
+          "tag": "From $9.99/mo",
+          "url": "https://flux-kontext.io?ref=riseofmachine.com",
+          "date-added": "2025-06-20"
         },
         {
           "title": "Flux Lora",
@@ -187,18 +187,18 @@
           "date-added": "2024-08-23"
         },
         {
+          "title": "Ghibli App",
+          "body": "Transform photos into Ghibli artwork.",
+          "tag": "Free",
+          "url": "https://aighibli.app/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
           "title": "Getimg AI",
           "body": "Create and edit images.",
           "tag": "From $0/mo",
           "url": "https://getimg.ai/editor/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
-        },
-        {
-          "title": "Ghibli App",
-          "body": "Transform photos into Ghibli artwork.",
-          "url": "https://aighibli.app/?ref=riseofmachine.com",
-          "tag": "Free",
-          "date-added": "2025-06-01"
         },
         {
           "title": "Ghibli Art AI",
@@ -482,18 +482,18 @@
           "date-added": "2023-12-26"
         },
         {
-          "title": "Visual-chatgpt",
-          "body": "Create images with ChatGPT",
-          "tag": "Free",
-          "url": "https://github.com/microsoft/visual-chatgpt?ref=riseofmachine.com",
-          "date-added": "2025-06-14"
-        },
-        {
           "title": "Unicorn Coloring Pages",
           "body": "Generate personalized unicorn coloring pages with AI.",
           "tag": "Freemium",
           "url": "https://unicorn-coloring-pages.com?ref=riseofmachine.com",
           "date-added": "2025-06-26"
+        },
+        {
+          "title": "Visual-chatgpt",
+          "body": "Create images with ChatGPT",
+          "tag": "Free",
+          "url": "https://github.com/microsoft/visual-chatgpt?ref=riseofmachine.com",
+          "date-added": "2025-06-14"
         },
         {
           "title": "Vizcom",
@@ -545,6 +545,13 @@
           "date-added": "2025-06-02"
         },
         {
+          "title": "BlogAudio",
+          "body": "Convert text to audio speech.",
+          "tag": "From $16/mo",
+          "url": "https://blogaudio.co/?ref=riseofmachine.com",
+          "date-added": "2023-12-11"
+        },
+        {
           "title": "Azure Text to",
           "body": "The best and most realistic voice tools...",
           "tag": "Freemium",
@@ -552,8 +559,8 @@
           "date-added": "2025-06-14"
         },
         {
-          "title": "BlogAudio",
-          "body": "Convert text to audio speech.",
+          "title": "Calldock",
+          "body": "Voice agents.",
           "tag": "From $16/mo",
           "url": "https://blogaudio.co/?ref=riseofmachine.com",
           "date-added": "2023-12-11"
@@ -798,6 +805,13 @@
           "date-added": "2023-12-26"
         },
         {
+          "title": "Code Snippets",
+          "body": "Manage code snippets, visualize codebase.",
+          "tag": "From $4/mo",
+          "url": "https://codesnippets.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-26"
+        },
+        {
           "title": "CodeStream",
           "body": "AI assistant for code refactoring.",
           "tag": "From $19/mo",
@@ -805,8 +819,8 @@
           "date-added": "2025-06-19"
         },
         {
-          "title": "Code Snippets",
-          "body": "Manage code snippets, visualize codebase.",
+          "title": "Codeium",
+          "body": "AI-powered toolkit.",
           "tag": "From $4/mo",
           "url": "https://codesnippets.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
@@ -1075,16 +1089,16 @@
         },
         {
           "title": "Humanize",
-          "body": "AI text into human text.",
-          "tag": "From $7/mo",
-          "url": "https://aihumanize.io/?ref=riseofmachine.com",
+          "body": "Humanize AI text free online.",
+          "tag": "Free",
+          "url": "https://humanize.im/?ref=riseofmachine.com",
           "date-added": "2024-10-23"
         },
         {
           "title": "Humanize",
-          "body": "Humanize AI text free online.",
-          "tag": "Free",
-          "url": "https://humanize.im/?ref=riseofmachine.com",
+          "body": "AI text into human text.",
+          "tag": "From $7/mo",
+          "url": "https://aihumanize.io/?ref=riseofmachine.com",
           "date-added": "2024-10-23"
         },
         {
@@ -1217,6 +1231,14 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "Quillbot",
+          "body": "AI writing companion.",
+          "tag": "Freemium",
+          "url": "https://quillbot.com/?ref=riseofmachine.com",
+          "category": "copywriting",
+          "date-added": "2025-06-06"
+        },
+        {
           "title": "QuillBot Rewrite",
           "body": "Advanced paraphrasing module.",
           "tag": "Freemium",
@@ -1224,8 +1246,8 @@
           "date-added": "2025-06-19"
         },
         {
-          "title": "Quillbot",
-          "body": "AI writing companion.",
+          "title": "Remagine AI",
+          "body": "Content writing tools & templates.",
           "tag": "Freemium",
           "url": "https://quillbot.com/?ref=riseofmachine.com",
           "category": "copywriting",
@@ -1303,6 +1325,13 @@
           "date-added": "2023-12-24"
         },
         {
+          "title": "Typli",
+          "body": "Writing assistant with SEO checker.",
+          "tag": "From $49/mo",
+          "url": "https://typli.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-12"
+        },
+        {
           "title": "The Humanize",
           "body": "Transforms AI content into natural, human-like text.",
           "tag": "Freemium",
@@ -1311,8 +1340,8 @@
           "date-added": "2025-06-06"
         },
         {
-          "title": "Typli",
-          "body": "Writing assistant with SEO checker.",
+          "title": "Unbounce",
+          "body": "Generate marketing content.",
           "tag": "From $49/mo",
           "url": "https://typli.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-12"
@@ -2741,7 +2770,7 @@
           "body": "Roleplay stories.",
           "tag": "Freemium",
           "url": "https://www.pathweaver.app/?ref=riseofmachine.com",
-          "category": "xtras",
+          "category": "gaming",
           "date-added": "2025-06-06"
         },
         {
@@ -2756,7 +2785,7 @@
           "body": "Conversations with images.",
           "tag": "Freemium",
           "url": "https://roleplayr.ai/?ref=riseofmachine.com",
-          "category": "xtras",
+          "category": "gaming",
           "date-added": "2025-06-06"
         },
         {
@@ -2881,7 +2910,7 @@
           "body": "Agents.",
           "tag": "Freemium",
           "url": "https://athenachat.bot/agents?ref=riseofmachine.com",
-          "category": "xtras",
+          "category": "llm",
           "date-added": "2025-06-06"
         },
         {
@@ -3008,7 +3037,7 @@
           "body": "Agents.",
           "tag": "Freemium",
           "url": "https://flowpoint.ai/?ref=riseofmachine.com",
-          "category": "xtras",
+          "category": "llm",
           "date-added": "2025-06-06"
         },
         {
@@ -4145,7 +4174,7 @@
           "body": "Cat breed identification.",
           "tag": "Free",
           "url": "https://whatbreedismycat.app/?ref=riseofmachine.com",
-          "category": "xtras",
+          "category": "photos",
           "date-added": "2025-06-06"
         },
         {
