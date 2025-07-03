@@ -2062,6 +2062,34 @@
           "tag": "Open-source",
           "url": "https://zenoml.com/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
+        },
+        {
+          "title": "Portia AI",
+          "body": "Build safe, reliable AI agents for compliance.",
+          "tag": "Not available",
+          "url": "https://www.portialabs.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
+        },
+        {
+          "title": "String.com",
+          "body": "AI agent for building other AI agents quickly.",
+          "tag": "Freemium",
+          "url": "https://string.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
+        },
+        {
+          "title": "create-api.dev",
+          "body": "AI tool to generate OpenAPI specs, no login needed.",
+          "tag": "Free",
+          "url": "https://create-api.dev/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
+        },
+        {
+          "title": "X Note Writer API",
+          "body": "API for AI to propose X Community Notes.",
+          "tag": "Free",
+          "url": "https://communitynotes.x.com/guide/en/api/overview?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
         }
       ]
     },
@@ -2629,6 +2657,20 @@
           "url": "https://www.veriff.com/plans/self-serve?ref=riseofmachine.com",
           "category": "enterprise",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Unify AI Sales",
+          "body": "AI platform for outbound sales reps.",
+          "tag": "From $1000/mo",
+          "url": "https://www.unifygtm.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
+        },
+        {
+          "title": "zookish",
+          "body": "Conversational AI to turn website visitors to leads.",
+          "tag": "Freemium",
+          "url": "https://zookish.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
         }
       ]
     },
@@ -3680,6 +3722,20 @@
           "tag": "Freemium",
           "url": "https://vectorize.io/?ref=riseofmachine.com",
           "date-added": "2024-08-04"
+        },
+        {
+          "title": "Olive",
+          "body": "Generate admin dashboards from a natural language prompt.",
+          "tag": "Not available",
+          "url": "https://fromolive.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
+        },
+        {
+          "title": "UniDeck Beta",
+          "body": "No-code dashboards with AI insights and custom APIs.",
+          "tag": "Freemium",
+          "url": "https://unideck.app/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
         }
       ]
     },
@@ -4098,6 +4154,13 @@
           "tag": "From $50",
           "url": "https://www.wishhush.com/?ref=riseofmachine.com",
           "date-added": "2024-11-17"
+        },
+        {
+          "title": "Dual Shades",
+          "body": "AI photo tool for color pop (subject color, BG B&W).",
+          "tag": "Free",
+          "url": "https://dual-shades.anmolagrawal.dev/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
         }
       ]
     },
@@ -4742,6 +4805,27 @@
           "tag": "Freemium",
           "url": "https://www.zyler.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-01"
+        },
+        {
+          "title": "Lazy 2.0",
+          "body": "Capture thoughts and chat with your notes using AI.",
+          "tag": "Not available",
+          "url": "https://lazy.so/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
+        },
+        {
+          "title": "MyDeviceAI V2",
+          "body": "Private, local AI search and summarization mobile app.",
+          "tag": "Free",
+          "url": "https://github.com/navedmerchant/MyDeviceAI?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
+        },
+        {
+          "title": "Semantic Email",
+          "body": "AI extracts data from emails to fill Google Forms.",
+          "tag": "Freemium",
+          "url": "https://promptrepo.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
         }
       ]
     },
@@ -5985,6 +6069,13 @@
           "tag": "Freemium",
           "url": "https://www.wuri.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Tailored Labs",
+          "body": "AI video editing using plain English prompts.",
+          "tag": "Freemium",
+          "url": "https://tailorlabsai.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
         }
       ]
     },
