@@ -2126,6 +2126,13 @@
           "tag": "Free",
           "url": "https://communitynotes.x.com/guide/en/api/overview?ref=riseofmachine.com",
           "date-added": "2025-07-03"
+        },
+        {
+          "title": "Text Remover",
+          "body": "Remove unwanted text overlays and watermarks.",
+          "tag": "Freemium",
+          "url": "https://text-remover.org/?ref=riseofmachine.com",
+          "date-added": "2025-07-06"
         }
       ]
     },
