@@ -644,6 +644,13 @@
           "date-added": "2023-12-11"
         },
         {
+          "title": "Kyutai TTS",
+          "body": "Open-source text-to-speech for real-time AI.",
+          "tag": "Free",
+          "url": "https://kyutai.org/next/tts?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
+        },
+        {
           "title": "Lami",
           "body": "Free AI Music Generator from Text.",
           "tag": "Freemium",
@@ -929,6 +936,13 @@
           "tag": "Pay-as-you-go",
           "url": "https://bertha.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-12"
+        },
+        {
+          "title": "Blogwald",
+          "body": "Structure content for LLMs and search engines.",
+          "tag": "Freemium",
+          "url": "https://blogwald.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
         },
         {
           "title": "BEXI.ai",
@@ -1699,6 +1713,13 @@
           "date-added": "2025-06-03"
         },
         {
+          "title": "Buildrs",
+          "body": "The one place to find vibe coders.",
+          "tag": "Free",
+          "url": "https://buildrs.space/?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
+        },
+        {
           "title": "Blaze SQL",
           "body": "AI-driven, no-code SQL query generation.",
           "tag": "Paid",
@@ -1895,6 +1916,13 @@
           "date-added": "2023-12-29"
         },
         {
+          "title": "OneNode",
+          "body": "Simplest backend for AI coding, open source.",
+          "tag": "Freemium",
+          "url": "https://www.onenode.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
+        },
+        {
           "title": "Open Interpreter",
           "body": "Code Interpreter in terminal, running locally.",
           "tag": "Open-source",
@@ -2030,6 +2058,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "TensorBlock Forge",
+          "body": "One API for all AI models.",
+          "tag": "Free",
+          "url": "https://tensorblock.co/forge?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
+        },
+        {
           "title": "Teachable Machine",
           "body": "Create ML models for your sites & apps.",
           "tag": "Free",
@@ -2077,6 +2112,13 @@
           "tag": "Not available",
           "url": "https://www.vellum.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-29"
+        },
+        {
+          "title": "Voicebun",
+          "body": "Build smart voice agents in minutes, no code.",
+          "tag": "Freemium",
+          "url": "https://www.voicebun.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
         },
         {
           "title": "WebSparks",
@@ -2271,6 +2313,13 @@
           "url": "https://www.thesify.ai/?ref=riseofmachine.com",
           "category": "education",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Viseal",
+          "body": "Immersive language learning from daily scenes.",
+          "tag": "Freemium",
+          "url": "https://viseal.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
         }
       ]
     },
@@ -4290,6 +4339,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Context",
+          "body": "AI office suite automates document creation.",
+          "tag": "Freemium",
+          "url": "https://context.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
+        },
+        {
           "title": "Computerx",
           "body": "Productivity.",
           "tag": "Free",
@@ -4545,6 +4601,13 @@
           "date-added": "2023-12-28"
         },
         {
+          "title": "Mindmap Extension",
+          "body": "Web pages, PDFs, YT videos to mind maps.",
+          "tag": "Freemium",
+          "url": "https://funblocks.net/ai-extensions?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
+        },
+        {
           "title": "MultiOn",
           "body": "Agents that act on your behalf.",
           "tag": "From $0.04/request",
@@ -4706,6 +4769,13 @@
           "tag": "Freemium",
           "url": "https://runbear.io/?ref=riseofmachine.com",
           "date-added": "2025-06-24"
+        },
+        {
+          "title": "Sara Interviewer",
+          "body": "Hire 10x faster with unbiased AI interviews.",
+          "tag": "Freemium",
+          "url": "https://teammates.ai/sara?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
         },
         {
           "title": "ShortcutAI",
@@ -4989,6 +5059,13 @@
           "date-added": "2023-12-24"
         },
         {
+          "title": "PromptForge",
+          "body": "Ultimate prompt engineering workbench.",
+          "tag": "Free",
+          "url": "https://github.com/insaanimanav/prompt-forge?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
+        },
+        {
           "title": "PromptVibe",
           "body": "Prompts.",
           "tag": "From $10/mo",
@@ -5073,6 +5150,13 @@
           "url": "https://datvizai.online/?ref=riseofmachine.com",
           "category": "research",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Diligence Check",
+          "body": "AI search with agent-verified citations.",
+          "tag": "Free",
+          "url": "https://stepfun.ai/docs/diligence-check?ref=riseofmachine.com",
+          "date-added": "2025-07-07"
         },
         {
           "title": "Domain Name Generator",
