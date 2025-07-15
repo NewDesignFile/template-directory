@@ -1579,6 +1579,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "MagicTryOn",
+          "body": "AI virtual try-on for outfits.",
+          "tag": "Freemium",
+          "url": "https://magictryon.net/?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
+        },
+        {
           "title": "Magician",
           "body": "Generate icons, copy & images in Figma.",
           "tag": "Free",
@@ -1760,6 +1767,20 @@
           "tag": "Freemium",
           "url": "https://www.onenode.ai/?ref=riseofmachine.com",
           "date-added": "2025-07-11"
+        },
+        {
+          "title": "OneNode",
+          "body": "Simplest backend for AI coding, open source.",
+          "tag": "Freemium",
+          "url": "https://www.onenode.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
+        },
+        {
+          "title": "Starter Best",
+          "body": "A platform to discover the best new products daily.",
+          "tag": "Freemium",
+          "url": "https://starterbest.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
         },
         {
           "title": "Starter Best",
@@ -4331,6 +4352,20 @@
           "url": "https://text-remover.org/?ref=riseofmachine.com",
           "date-added": "2025-07-11"
         }
+        {
+          "title": "Quitarfondo",
+          "body": "AI tool to remove image backgrounds.",
+          "tag": "Free",
+          "url": "https://quitarfondo.cc/?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
+        },
+        {
+          "title": "Text Remover",
+          "body": "Remove unwanted text overlays and watermarks.",
+          "tag": "Freemium",
+          "url": "https://text-remover.org/?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
+        }
       ]
     },
     {
@@ -4855,10 +4890,31 @@
           "date-added": "2025-07-07"
         },
         {
+          "title": "MyDeviceAI V2",
+          "body": "Private, local AI search and summarization mobile app.",
+          "tag": "Free",
+          "url": "https://github.com/navedmerchant/MyDeviceAI?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
+        },
+        {
+          "title": "Semantic Email",
+          "body": "AI extracts data from emails to fill Google Forms.",
+          "tag": "Freemium",
+          "url": "https://promptrepo.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
+        },
+        {
           "title": "Unify Sales",
           "body": "AI platform for outbound sales reps.",
           "tag": "From $1000/mo",
           "url": "https://www.unifygtm.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
+        },
+        {
+          "title": "zookish",
+          "body": "Conversational AI to turn website visitors to leads.",
+          "tag": "Freemium",
+          "url": "https://zookish.com/?ref=riseofmachine.com",
           "date-added": "2025-07-11"
         },
         {
@@ -5169,6 +5225,13 @@
           "tag": "Free",
           "url": "https://github.com/insaanimanav/prompt-forge?ref=riseofmachine.com",
           "date-added": "2025-07-07"
+        },
+        {
+          "title": "Diligence Check",
+          "body": "AI search with agent-verified citations.",
+          "tag": "Free",
+          "url": "https://stepfun.ai/docs/diligence-check?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
         },
         {
           "title": "Diligence Check",
@@ -6344,6 +6407,13 @@
           "url": "https://takomo.datacrunch.io/?ref=riseofmachine.com",
           "date-added": "2025-07-11"
         }
+        {
+          "title": "Takomo",
+          "body": "Visual builder to create AI apps.",
+          "tag": "Freemium",
+          "url": "https://takomo.datacrunch.io/?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
+        }
       ]
     },
     {
@@ -6566,6 +6636,62 @@
           "tag": "Free",
           "url": "https://harrypotterhousequiz.pro?ref=riseofmachine.com",
           "date-added": "2025-06-25"
+        },
+        {
+          "title": "AUDITSU",
+          "body": "Mobile accessibility",
+          "tag": "No pricing",
+          "url": "https://auditsu.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "Clemence",
+          "body": "Search engine",
+          "tag": "Free + from $20/mo",
+          "url": "https://clemence.cc/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+		{
+          "title": "CoeFont Interpreter",
+          "body": "Live translations",
+          "tag": "No pricing",
+          "url": "https://coefont.cloud/cir/en?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "GiftPrompt",
+          "body": "Gift recommendations",
+          "tag": "Free + from $7.99",
+          "url": "https://www.giftprompt.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "Model Playground",
+          "body": "Multimedia content",
+          "tag": "Free + from $9.99/mo",
+          "url": "https://modelplayground.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "Outfit",
+          "body": "Travel recommendations",
+          "tag": "100% Free",
+          "url": "https://beta.joinoutfit.com/start/taaft?utm_source=direct&utm_medium=paid&utm_campaign=taaft",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "SJinn",
+          "body": "Multimedia content",
+          "tag": "Free + from $19.9/mo",
+          "url": "https://sjinn.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "Ziddny",
+          "body": "Conversational Avatars",
+          "tag": "Free + from $5/mo",
+          "url": "https://ziddny.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
         }
       ]
     }
