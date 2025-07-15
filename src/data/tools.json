@@ -6568,6 +6568,285 @@
           "date-added": "2025-06-25"
         }
       ]
+    },
+	{
+      "title": "Xtras",
+      "category": "xtras",
+      "content": [
+        {
+          "title": "Acidtools",
+          "body": "Free AI tools.",
+          "tag": "Free",
+          "url": "https://acidtools.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-02"
+        },
+        {
+          "title": "Agents Directory",
+          "body": "Discover, compare, and implement top AI tools.",
+          "url": "https://ai-agents-directory.com/?ref=riseofmachine.com",
+          "tag": "Free",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "AI Finder Plus",
+          "body": "A directory to discover, submit and earn from AI tools.",
+          "tag": "Freemium",
+          "url": "https://aifinderplus.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+		{
+          "title": "AUDITSU",
+          "body": "Mobile accessibility",
+          "tag": "No pricing",
+          "url": "https://auditsu.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "Artificial Analysis",
+          "body": "Artificial Analysis is a platform that provides...",
+          "tag": "Free",
+          "url": "https://artificialanalysis.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-14"
+        },
+        {
+          "title": "Attractive Analyzer",
+          "body": "Free AI tool analyzes facial features for rating.",
+          "tag": "Free",
+          "url": "https://www.howattractiveami.io?ref=riseofmachine.com",
+          "date-added": "2025-06-29"
+        },
+        {
+          "title": "BarGPT",
+          "body": "Create new cocktails.",
+          "tag": "Freemium",
+          "url": "https://www.bargpt.app/?ref=riseofmachine.com",
+          "date-added": "2023-12-15"
+        },
+		{
+          "title": "Clemence",
+          "body": "Search engine",
+          "tag": "Free + from $20/mo",
+          "url": "https://clemence.cc/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+		{
+          "title": "CoeFont Interpreter",
+          "body": "Live translations",
+          "tag": "No pricing",
+          "url": "https://coefont.cloud/cir/en?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "Conference Sponsor",
+          "body": "Get sponsor info for every conference.",
+          "tag": "From $20/mo",
+          "url": "https://www.conferencedatabase.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-03"
+        },
+        {
+          "title": "MagicTryOn",
+          "body": "AI virtual try-on for outfits.",
+          "tag": "Freemium",
+          "url": "https://magictryon.net/?ref=riseofmachine.com",
+          "date-added": "2025-07-11"
+        },
+        {
+          "title": "Crumb",
+          "body": "Food generator.",
+          "tag": "In-app purchases",
+          "url": "https://www.eatwithcrumb.com/?ref=riseofmachine.com",
+          "date-added": "2024-11-17"
+        },
+        {
+          "title": "Echo Chat",
+          "body": "AI-powered chat tool.",
+          "tag": "Not available",
+          "url": "https://echochatai.com/?ref=riseofmachine.com",
+          "date-added": "2025-06-15"
+        },
+        {
+          "title": "Fake Info Generator",
+          "body": "Generate fake information for various purposes.",
+          "tag": "Free",
+          "url": "https://www.elfqrin.com/fakeid.php?ref=riseofmachine.com",
+          "date-added": "2024-02-28"
+        },
+        {
+          "title": "Generators",
+          "body": "A curated list of AI generators.",
+          "tag": "Free",
+          "url": "https://aigenerator.cc/?ref=riseofmachine.com",
+          "date-added": "2024-10-23"
+        },
+		{
+          "title": "GiftPrompt",
+          "body": "Gift recommendations",
+          "tag": "Free + from $7.99",
+          "url": "https://www.giftprompt.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "Hoody",
+          "body": "Every AI, one dashboard, anonymous access.",
+          "tag": "Not available",
+          "url": "https://hoody.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
+        },
+        {
+          "title": "JobBuddy",
+          "body": "AI-powered career assistant.",
+          "tag": "Freemium",
+          "url": "https://www.jobbuddytech.com/?ref=riseofmachine.com",
+          "date-added": "2024-12-13"
+        },
+        {
+          "title": "Krater.ai",
+          "body": "SuperApp for all things AI.",
+          "tag": "Freemium",
+          "url": "https://www.krater.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-15"
+        },
+        {
+          "title": "Livecodebench",
+          "body": "LiveCodeBench is a holistic and contamination-f...",
+          "tag": "Free",
+          "url": "https://livecodebench.github.io/leaderboard.html?ref=riseofmachine.com",
+          "date-added": "2025-06-14"
+        },
+        {
+          "title": "Lmsys Chatbot Arena",
+          "body": "LMSYS Chatbot Arena is a crowdsourced open plat...",
+          "tag": "Free",
+          "url": "https://lmarena.ai/leaderboard?ref=riseofmachine.com",
+          "date-added": "2025-06-14"
+        },
+        {
+          "title": "Marketing Jobs Hub",
+          "body": "Job search engine for marketing professionals.",
+          "tag": "Freemium",
+          "url": "https://marketingjobshub.com/?ref=riseofmachine.com",
+          "date-added": "2024-12-14"
+        },
+		{
+          "title": "Model Playground",
+          "body": "Multimedia content",
+          "tag": "Free + from $9.99/mo",
+          "url": "https://modelplayground.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "MagicTryOn",
+          "body": "AI virtual try-on for outfits.",
+          "tag": "Freemium",
+          "url": "https://magictryon.net/?ref=riseofmachine.com",
+          "date-added": "2025-07-09"
+        },
+        {
+          "title": "Nickname Generator",
+          "body": "AI crafts unique, catchy nicknames from any input.",
+          "tag": "Free",
+          "url": "https://theresanaiforthat.com/@danielgaraiacu/nickname-generator/?ref=riseofmachine.com",
+          "date-added": "2025-06-18"
+        },
+        {
+          "title": "Omnigen",
+          "body": "Omnigen",
+          "tag": "Not available",
+          "url": "https://omnigen.co/?ref=riseofmachine.com",
+          "date-added": "2025-06-03"
+        },
+		{
+          "title": "Outfit",
+          "body": "Travel recommendations",
+          "tag": "100% Free",
+          "url": "https://beta.joinoutfit.com/start/taaft?utm_source=direct&utm_medium=paid&utm_campaign=taaft",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "Penny",
+          "body": "Online shopping assistant.",
+          "tag": "Free",
+          "url": "https://penny.im/?ref=riseofmachine.com",
+          "date-added": "2023-12-15"
+        },
+        {
+          "title": "PXZ.AI",
+          "body": "AI toolkit for video, image, and graphic needs.",
+          "tag": "Freemium",
+          "url": "https://pxz.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "Rainbow",
+          "body": "Precise precipitation forecasting app with AI.",
+          "tag": "Not available",
+          "url": "https://rainbow.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-06"
+        },
+        {
+          "title": "RightHair",
+          "body": "Free AI tool to try 200+ hairstyles and colors.",
+          "tag": "Free",
+          "url": "https://righthair.ai?ref=riseofmachine.com",
+          "date-added": "2025-06-29"
+        },
+		{
+          "title": "SJinn",
+          "body": "Multimedia content",
+          "tag": "Free + from $19.9/mo",
+          "url": "https://sjinn.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "ThatsMy",
+          "body": "India’s fastest-growing AI tools directory.",
+          "tag": "Free",
+          "url": "https://thatsmy.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-01"
+        },
+        {
+          "title": "TradingLens",
+          "body": "AI-powered stock analysis.",
+          "tag": "Freemium",
+          "url": "https://www.tradinglens.ai/?ref=riseofmachine.com",
+          "date-added": "2025-06-24"
+        },
+        {
+          "title": "TXTtranslator",
+          "body": "Fun tool converts text to styles like Pirate.",
+          "tag": "Free",
+          "url": "https://txttranslator.com?ref=riseofmachine.com",
+          "date-added": "2025-06-29"
+        },
+        {
+          "title": "Wantace",
+          "body": "AI development services.",
+          "tag": "Not applicable",
+          "url": "https://wantace.ai/?ref=riseofmachine.com",
+          "date-added": "2023-12-28"
+        },
+		{
+          "title": "Ziddny",
+          "body": "Conversational Avatars",
+          "tag": "Free + from $5/mo",
+          "url": "https://ziddny.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-15"
+        },
+        {
+          "title": "Chinese Name Generator",
+          "body": "Generate meaningful Chinese names with AI.",
+          "tag": "Freemium",
+          "url": "https://chinese-name-generator.com?ref=riseofmachine.com",
+          "date-added": "2025-06-25"
+        },
+        {
+          "title": "Harry Potter House Quiz",
+          "body": "Discover your true Hogwarts house with an AI sorting hat.",
+          "tag": "Free",
+          "url": "https://harrypotterhousequiz.pro?ref=riseofmachine.com",
+          "date-added": "2025-06-25"
+        }
+      ]
     }
-  ]
+	]
 }
