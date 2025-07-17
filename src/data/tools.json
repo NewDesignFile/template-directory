@@ -229,6 +229,13 @@
           "date-added": "2025-06-01"
         },
         {
+          "title": "Grok Ani",
+          "body": "Create stunning anime-style images from your photos.",
+          "url": "https://www.grok-ani.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-07-17"
+        },
+        {
           "title": "Grok Ghibli",
           "body": "Generates Studio Ghibli style images.",
           "url": "https://grokghibli.pro/?ref=riseofmachine.com",
@@ -3919,6 +3926,13 @@
       "title": "Photos",
       "category": "photos",
       "content": [
+        {
+          "title": "Photo Style",
+          "body": "Turn photos into cartoons, anime, sketches, and more.",
+          "tag": "Freemium",
+          "url": "https://www.photosstyle.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-17"
+        },
         {
           "title": "AI Beauty Test",
           "body": "Analyzes facial features and provides beauty score.",
