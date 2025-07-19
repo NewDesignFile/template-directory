@@ -534,6 +534,19 @@
       ]
     },
     {
+      "title": "Music",
+      "category": "music",
+      "content": [
+        {
+          "title": "Makesong",
+          "body": "Create unique music in a minute or less.",
+          "tag": "Freemium",
+          "url": "https://aimakesong.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
+        }
+      ]
+    },
+    {
       "title": "Audio",
       "category": "audio",
       "content": [
