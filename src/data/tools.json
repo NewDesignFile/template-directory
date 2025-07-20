@@ -538,6 +538,13 @@
       "category": "audio",
       "content": [
         {
+          "title": "Aimakesong",
+          "body": "AI song generator.",
+          "tag": "Freemium",
+          "url": "https://www.aimakesong.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-20"
+        },
+        {
           "title": "11.ai",
           "body": "Voice-first AI assistant that takes action via MCP.",
           "tag": "Free",
@@ -2919,6 +2926,13 @@
       "title": "Gaming",
       "category": "gaming",
       "content": [
+        {
+          "title": "Growagardencalc",
+          "body": "AI garden calculator.",
+          "tag": "Free",
+          "url": "https://growagardencalc.shop/?ref=riseofmachine.com",
+          "date-added": "2025-07-20"
+        },
         {
           "title": "Meshy",
           "body": "Create 3D models & assets.",
