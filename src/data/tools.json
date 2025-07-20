@@ -545,6 +545,13 @@
           "date-added": "2025-07-20"
         },
         {
+          "title": "Voicemy.ai",
+          "body": "Create, share, and inspire with your AI voice.",
+          "tag": "Freemium",
+          "url": "https://voicemy.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
+        },
+        {
           "title": "11.ai",
           "body": "Voice-first AI assistant that takes action via MCP.",
           "tag": "Free",
@@ -2868,6 +2875,13 @@
           "tag": "Freemium",
           "url": "https://dropshiphunt.com/?ref=riseofmachine.com",
           "date-added": "2025-07-17"
+        },
+        {
+          "title": "Adcopy",
+          "body": "Generate ad copy.",
+          "tag": "Freemium",
+          "url": "https://adcopy.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
         }
       ]
     },
@@ -2932,6 +2946,13 @@
           "tag": "Free",
           "url": "https://growagardencalc.shop/?ref=riseofmachine.com",
           "date-added": "2025-07-20"
+        },
+        {
+          "title": "Neverdark",
+          "body": "AI-native murder mystery game.",
+          "tag": "Free",
+          "url": "https://neverdark.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
         },
         {
           "title": "Meshy",
@@ -3953,6 +3974,13 @@
           "tag": "Freemium",
           "url": "https://www.photosstyle.com/?ref=riseofmachine.com",
           "date-added": "2025-07-17"
+        },
+        {
+          "title": "FaceVary",
+          "body": "Free online face swap.",
+          "tag": "Free",
+          "url": "https://facevary.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
         },
         {
           "title": "AI Beauty Test",
@@ -5121,6 +5149,13 @@
           "tag": "Freemium",
           "url": "https://promptrepo.com/?ref=riseofmachine.com",
           "date-added": "2025-07-03"
+        },
+        {
+          "title": "AgentHub",
+          "body": "AI agents for your business.",
+          "tag": "Freemium",
+          "url": "https://www.agentshub.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
         }
       ]
     },
@@ -6650,6 +6685,41 @@
           "tag": "Free",
           "url": "https://harrypotterhousequiz.pro?ref=riseofmachine.com",
           "date-added": "2025-06-25"
+        },
+        {
+          "title": "Aify",
+          "body": "Create AI apps.",
+          "tag": "Freemium",
+          "url": "https://aify.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
+        },
+        {
+          "title": "Aide",
+          "body": "AI-powered platform for all your needs.",
+          "tag": "Freemium",
+          "url": "https://aide.app/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
+        },
+        {
+          "title": "Playlist Genius",
+          "body": "AI playlist generator.",
+          "tag": "Freemium",
+          "url": "https://playlistgenius.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
+        },
+        {
+          "title": "StoryBox",
+          "body": "Create stories with AI.",
+          "tag": "Freemium",
+          "url": "https://storybox.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
+        },
+        {
+          "title": "Tripnotes",
+          "body": "AI-powered travel planner.",
+          "tag": "Freemium",
+          "url": "https://tripnotes.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-19"
         }
       ]
     }
