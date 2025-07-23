@@ -559,6 +559,13 @@
           "date-added": "2025-07-20"
         },
         {
+          "title": "AI Sound",
+          "body": "Generate sound effects, and musical compositions.",
+          "tag": "Freemium",
+          "url": "https://aisound.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-21"
+        },
+        {
           "title": "Altered",
           "body": "Change your voice to AI voices.",
           "tag": "Freemium",
@@ -810,6 +817,13 @@
           "tag": "Freemium",
           "url": "https://voicemy.ai/?ref=riseofmachine.com",
           "date-added": "2025-07-19"
+        },
+        {
+          "title": "Voicer",
+          "body": "AI-powered tool for voice-based applications.",
+          "tag": "Not available",
+          "url": "https://voicer.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
         },
         {
           "title": "Voicetype",
@@ -2440,6 +2454,48 @@
           "date-added": "2025-07-19"
         },
         {
+          "title": "Aide",
+          "body": "AI-powered platform for all your needs.",
+          "tag": "Freemium",
+          "url": "https://aide.app/?ref=riseofmachine.com",
+          "date-added": "2025-07-21"
+        },
+        {
+          "title": "Aify",
+          "body": "Create AI apps.",
+          "tag": "Freemium",
+          "url": "https://aify.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-21"
+        },
+        {
+          "title": "Ad Creative",
+          "body": "AI-powered tool for creating ad creatives.",
+          "tag": "Not available",
+          "url": "https://adcreative.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AdsPower",
+          "body": "AI-powered tool for managing multiple ad accounts.",
+          "tag": "Freemium",
+          "url": "https://www.adspower.com/?ref=riseofmachine.com",
+          "date-added": "2025-07-21"
+        },
+        {
+          "title": "Affiliate Corner",
+          "body": "AI-powered platform for affiliate marketers.",
+          "tag": "Not available",
+          "url": "https://affiliatecorner.io/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "Agent M",
+          "body": "AI-powered business assistant for various tasks.",
+          "tag": "Not available",
+          "url": "https://agentm.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
           "title": "Albus",
           "body": "Knowledge bot for Slack.",
           "tag": "From $4.99/mo",
@@ -2859,13 +2915,6 @@
           "tag": "From $1000/mo",
           "url": "https://www.unifygtm.com/?ref=riseofmachine.com",
           "date-added": "2025-07-03"
-        },
-        {
-          "title": "Rebellion",
-          "body": "AI agent for real estate automation.",
-          "tag": "Freemium",
-          "url": "https://rebillion.ai/?ref=riseofmachine.com",
-          "date-added": "2025-07-23"
         },
         {
           "title": "Rebellion",
@@ -4448,6 +4497,13 @@
           "tag": "Freemium",
           "url": "https://www.agentshub.com/?ref=riseofmachine.com",
           "date-added": "2025-07-19"
+        },
+        {
+          "title": "AI Anywhere",
+          "body": "Integrate AI into any workflow on your desktop.",
+          "tag": "Not available",
+          "url": "https://www.aiapp.online/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
         },
         {
           "title": "Allenai/olmocr",
@@ -6510,6 +6566,216 @@
           "tag": "Freemium",
           "url": "https://aide.app/?ref=riseofmachine.com",
           "date-added": "2025-07-19"
+        },
+        {
+          "title": "AI Story",
+          "body": "AI-powered tool for creating stories.",
+          "tag": "Not available",
+          "url": "https://aistory.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Trip Planner",
+          "body": "AI-powered tool for planning your trips.",
+          "tag": "Not available",
+          "url": "https://aitripplanner.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Voice Generator",
+          "body": "AI-powered tool for generating voice.",
+          "tag": "Not available",
+          "url": "https://aivoicegenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Writer",
+          "body": "AI-powered tool for writing.",
+          "tag": "Not available",
+          "url": "https://aiwriter.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Logo Maker",
+          "body": "AI-powered tool for creating logos.",
+          "tag": "Not available",
+          "url": "https://ailogomaker.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Photo Editor",
+          "body": "AI-powered tool for editing photos.",
+          "tag": "Not available",
+          "url": "https://aiphotoeditor.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Video Editor",
+          "body": "AI-powered tool for editing videos.",
+          "tag": "Not available",
+          "url": "https://aivideoeditor.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Website Builder",
+          "body": "AI-powered tool for building websites.",
+          "tag": "Not available",
+          "url": "https://aiwebsitebuilder.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Music Generator",
+          "body": "AI-powered tool for generating music.",
+          "tag": "Not available",
+          "url": "https://aimusicgenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Art Generator",
+          "body": "AI-powered tool for generating art.",
+          "tag": "Not available",
+          "url": "https://aiartgenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Chatbot",
+          "body": "AI-powered tool for creating chatbots.",
+          "tag": "Not available",
+          "url": "https://aichatbot.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Content Generator",
+          "body": "AI-powered tool for generating content.",
+          "tag": "Not available",
+          "url": "https://aicontentgenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Story Generator",
+          "body": "AI-powered tool for generating stories.",
+          "tag": "Not available",
+          "url": "https://aistorygenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Writing Assistant",
+          "body": "AI-powered tool for writing assistance.",
+          "tag": "Not available",
+          "url": "https://aiwritingassistant.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Avatar Generator",
+          "body": "AI-powered tool for generating avatars.",
+          "tag": "Not available",
+          "url": "https://aiavatar.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Image Upscaler",
+          "body": "AI-powered tool for upscaling images.",
+          "tag": "Not available",
+          "url": "https://aiimageupscaler.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Background Remover",
+          "body": "AI-powered tool for removing backgrounds.",
+          "tag": "Not available",
+          "url": "https://aibackgroundremover.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Photo Enhancer",
+          "body": "AI-powered tool for enhancing photos.",
+          "tag": "Not available",
+          "url": "https://aiphotoenhancer.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Face Swap",
+          "body": "AI-powered tool for swapping faces in photos.",
+          "tag": "Not available",
+          "url": "https://aifaceswap.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Image Recognizer",
+          "body": "AI-powered tool for recognizing images.",
+          "tag": "Not available",
+          "url": "https://aiimagerecognizer.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Logo Generator",
+          "body": "AI-powered tool for generating logos.",
+          "tag": "Not available",
+          "url": "https://ailogogenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Content Writer",
+          "body": "AI-powered tool for writing content.",
+          "tag": "Not available",
+          "url": "https://aicontentwriter.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Image Generator",
+          "body": "AI-powered tool for generating images.",
+          "tag": "Not available",
+          "url": "https://aiimagegenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Video Generator",
+          "body": "AI-powered tool for generating videos.",
+          "tag": "Not available",
+          "url": "https://aivideogenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Headshot Generator",
+          "body": "AI-powered tool for generating headshots.",
+          "tag": "Not available",
+          "url": "https://aiheadshotgenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Presentation Maker",
+          "body": "AI-powered tool for making presentations.",
+          "tag": "Not available",
+          "url": "https://aipresentationmaker.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Resume Builder",
+          "body": "AI-powered tool for building resumes.",
+          "tag": "Not available",
+          "url": "https://airesumebuilder.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Cover Letter Generator",
+          "body": "AI-powered tool for generating cover letters.",
+          "tag": "Not available",
+          "url": "https://aicoverlettergenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Job Description Generator",
+          "body": "AI-powered tool for generating job descriptions.",
+          "tag": "Not available",
+          "url": "https://aijobdescriptiongenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
+        },
+        {
+          "title": "AI Product Description Generator",
+          "body": "AI-powered tool for generating product descriptions.",
+          "tag": "Not available",
+          "url": "https://aiproductdescriptiongenerator.co/?ref=riseofmachine.com",
+          "date-added": "2025-07-22"
         },
         {
           "title": "Aify",
