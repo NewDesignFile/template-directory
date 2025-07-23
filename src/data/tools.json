@@ -166,13 +166,6 @@
           "date-added": "2024-09-20"
         },
         {
-          "title": "Lora",
-          "body": "AI image generation.",
-          "tag": "Freemium",
-          "url": "https://loraai.io/?ref=riseofmachine.com",
-          "date-added": "2025-07-23"
-        },
-        {
           "title": "Freepik Pikaso",
           "body": "Generative AI with Freepik.",
           "tag": "Free",
@@ -2866,6 +2859,13 @@
           "tag": "From $1000/mo",
           "url": "https://www.unifygtm.com/?ref=riseofmachine.com",
           "date-added": "2025-07-03"
+        },
+        {
+          "title": "Rebellion",
+          "body": "AI agent for real estate automation.",
+          "tag": "Freemium",
+          "url": "https://rebillion.ai/?ref=riseofmachine.com",
+          "date-added": "2025-07-23"
         },
         {
           "title": "Venturekit",
