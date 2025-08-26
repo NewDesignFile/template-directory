@@ -7238,7 +7238,223 @@
           "tag": "Not applicable",
           "url": "https://wantace.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-28"
-        }
+        },
+		{
+			"title": "Trace",
+			"body": "Routes tasks to the right agent, human or AI.",
+			"tag": "Freemium",
+			"url": "https://www.trace.so/?ref=riseofmachine.com",
+			"date-added": "2025-08-24",
+			"category": "Productivity"
+		},
+		{
+			"title": "Qoder",
+			"body": "An agentic IDE for real software development.",
+			"tag": "Freemium",
+			"url": "https://www.qoder.ai/?ref=riseofmachine.com",
+			"date-added": "2025-08-25",
+			"category": "Code"
+		},
+		{
+			"title": "TraceRoot",
+			"body": "Fix bugs faster with open source observability.",
+			"tag": "Open-source",
+			"url": "https://traceroot.ai/?ref=riseofmachine.com",
+			"date-added": "2025-08-25",
+			"category": "Developer"
+		},
+		{
+			"title": "Onlook for Web",
+			"body": "Open source Cursor for designers.",
+			"tag": "Open-source",
+			"url": "https://onlook.app/?ref=riseofmachine.com",
+			"date-added": "2025-08-25",
+			"category": "Design"
+		},
+		{
+			"title": "Elements by Vercel",
+			"body": "A component library for building AI-native apps.",
+			"tag": "Open-source",
+			"url": "https://vercel.com/ai-elements?ref=riseofmachine.com",
+			"date-added": "2025-08-25",
+			"category": "Developer"
+		},
+		{
+			"title": "Command A Reasoning",
+			"body": "Enterprise-grade control for AI agents.",
+			"tag": "Open-source",
+			"url": "https://cohere.com/research/command-a?ref=riseofmachine.com",
+			"date-added": "2025-08-25",
+			"category": "Developer"
+		},
+		{
+			"title": "VibeFlow",
+			"body": "If Lovable, n8n and Convex had a genius baby.",
+			"tag": "Freemium",
+			"url": "https://www.vibeflow.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-24",
+			"category": "No Code"
+		},
+		{
+			"title": "Grok 2.5",
+			"body": "2024 best model from xAI, now open source.",
+			"tag": "Open-source",
+			"url": "https://x.ai/blog/grok-2.5?ref=riseofmachine.com",
+			"date-added": "2025-08-24",
+			"category": "LLMs"
+		},
+		{
+			"title": "PerformaMeter",
+			"body": "Upload a photo and get your Performity™ rated.",
+			"tag": "Freemium",
+			"url": "https://performameter.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-24",
+			"category": "Fun"
+		},
+		{
+			"title": "Deforge",
+			"body": "Canva for AI Agents.",
+			"tag": "Freemium",
+			"url": "https://deforge.ai/?ref=riseofmachine.com",
+			"date-added": "2025-08-23",
+			"category": "Developer"
+		},
+		{
+			"title": "DreamFlow",
+			"body": "Turn map screenshots into cinematic videos.",
+			"tag": "Freemium",
+			"url": "https://dreamflow.ai/?ref=riseofmachine.com",
+			"date-added": "2025-08-23",
+			"category": "Video"
+		},
+		{
+			"title": "Madespace",
+			"body": "The world's first AI interior design studio.",
+			"tag": "Freemium",
+			"url": "https://madespace.ai/?ref=riseofmachine.com",
+			"date-added": "2025-08-23",
+			"category": "Design"
+		},
+		{
+			"title": "ReachLLM",
+			"body": "Dominate the AI Search Era.",
+			"tag": "Freemium",
+			"url": "https://reachllm.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-23",
+			"category": "SEO"
+		},
+		{
+			"title": "Keys and Caches",
+			"body": "Vibe profile your ML models to get max performance.",
+			"tag": "Open-source",
+			"url": "https://keysandcaches.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-23",
+			"category": "Developer"
+		},
+		{
+			"title": "Omnara",
+			"body": "Claude Code in your Pocket.",
+			"tag": "Open-source",
+			"url": "https://omnara.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-22",
+			"category": "Developer"
+		},
+		{
+			"title": "GoodsFox",
+			"body": "Track competitor ads, traffic sources, and creatives.",
+			"tag": "Freemium",
+			"url": "https://goodsfox.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-22",
+			"category": "Enterprise"
+		},
+		{
+			"title": "DeepSeek-V3.1",
+			"body": "Our first step toward the agent era.",
+			"tag": "Open-source",
+			"url": "https://deepseek.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-22",
+			"category": "LLMs"
+		},
+		{
+			"title": "inZOI",
+			"body": "Life simulation where every life becomes a story.",
+			"tag": "Freemium",
+			"url": "https://inzoi.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-22",
+			"category": "Gaming"
+		},
+		{
+			"title": "GitArsenal",
+			"body": "From git clone to running code in one command.",
+			"tag": "Open-source",
+			"url": "https://gitarsenal.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-22",
+			"category": "Developer"
+		},
+		{
+			"title": "ProfileSpider",
+			"body": "One-click universal profile scraper.",
+			"tag": "Freemium",
+			"url": "https://profilespider.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-22",
+			"category": "Productivity"
+		},
+		{
+			"title": "Runway Game Worlds",
+			"body": "A step toward the next era of media.",
+			"tag": "Freemium",
+			"url": "https://runwayml.com/gameworlds/?ref=riseofmachine.com",
+			"date-added": "2025-08-22",
+			"category": "Gaming"
+		},
+		{
+			"title": "SciSpace Agent",
+			"body": "Only AI agent automating research with 150+ tools.",
+			"tag": "Freemium",
+			"url": "https://scispace.com/agent?ref=riseofmachine.com",
+			"date-added": "2025-08-21",
+			"category": "Research"
+		},
+		{
+			"title": "SpeedVitals RUM",
+			"body": "Monitor real-user performance & web analytics.",
+			"tag": "Freemium",
+			"url": "https://speedvitals.com/rum?ref=riseofmachine.com",
+			"date-added": "2025-08-21",
+			"category": "Developer"
+		},
+		{
+			"title": "Prompt Pro",
+			"body": "Master AI prompt like a pro with a framework.",
+			"tag": "Free",
+			"url": "https://ai-prompt.pro/?ref=riseofmachine.com",
+			"date-added": "2025-08-20",
+			"category": "Prompts"
+		},
+		{
+			"title": "OC Maker",
+			"body": "Create stunning original characters with AI.",
+			"tag": "Freemium",
+			"url": "https://aiocmaker.com/?ref=riseofmachine.com",
+			"date-added": "2025-08-20",
+			"category": "Art"
+		},
+		{
+			"title": "Recast",
+			"body": "The AI that reads the internet for you.",
+			"tag": "Freemium",
+			"url": "https://recast.app/?ref=riseofmachine.com",
+			"date-added": "2025-08-19",
+			"category": "Productivity"
+		},
+		{
+			"title": "Audio Notes",
+			"body": "Converts your voice notes into organized summaries.",
+			"tag": "Freemium",
+			"url": "https://audionotes.app/?ref=riseofmachine.com",
+			"date-added": "2025-08-19",
+			"category": "Audio"
+		}
       ]
     }
   ]
