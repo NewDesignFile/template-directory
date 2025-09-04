@@ -152,6 +152,13 @@
           "date-added": "2025-07-31"
         },
         {
+          "title": "fileAI",
+          "body": "Secure, real-time file access for AI agents.",
+          "tag": "Freemium",
+          "url": "https://fileai.app/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
+        {
           "title": "Firefly",
           "body": "Adobe's AI image processing web site",
           "tag": "Freemium",
@@ -670,6 +677,13 @@
           "tag": "Freemium",
           "url": "https://elevenlabs.io/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "ElevenLabs SFX",
+          "body": "Generate looping sound effects from a prompt.",
+          "tag": "Freemium",
+          "url": "https://elevenlabs.io/sfx?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
         },
         {
           "title": "F5 TTS",
@@ -2225,6 +2239,13 @@
           "date-added": "2023-12-24"
         },
         {
+          "title": "Rork App",
+          "body": "Create mobile apps from an idea.",
+          "tag": "Freemium",
+          "url": "https://rork.app/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
+        {
           "title": "RunPod",
           "body": "Develop, train, and scale AI apps.",
           "tag": "From $0.2/hr",
@@ -2749,6 +2770,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "Receiptor",
+          "body": "Automated bookkeeping with AI.",
+          "tag": "Freemium",
+          "url": "https://receiptor.ai/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
+        {
           "title": "Flowla",
           "body": "Manage sales with a digital sales room.",
           "tag": "Freemium",
@@ -3047,6 +3075,13 @@
           "tag": "From $67",
           "url": "https://www.usetract.com/?ref=riseofmachine.com",
           "date-added": "2024-12-14"
+        },
+        {
+          "title": "Toffu",
+          "body": "A marketing agent that gets things done.",
+          "tag": "Freemium",
+          "url": "https://toffu.ai/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
         },
         {
           "title": "Trenz",
@@ -4785,6 +4820,55 @@
       "title": "Productivity",
       "category": "productivity",
       "content": [
+        {
+          "title": "Ada",
+          "body": "AI data analyst for professional reports.",
+          "tag": "Freemium",
+          "url": "https://ada.im/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
+        {
+          "title": "AgentSea",
+          "body": "Unified, private chat for AI models.",
+          "tag": "Freemium",
+          "url": "https://agentsea.ai/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
+        {
+          "title": "Hipocap",
+          "body": "Automate tasks with simple prompts.",
+          "tag": "Freemium",
+          "url": "https://hipocap.com/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
+        {
+          "title": "Koncile",
+          "body": "Capture all information in your documents.",
+          "tag": "Freemium",
+          "url": "https://koncile.com/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
+        {
+          "title": "MetaSurvey",
+          "body": "Create beautiful surveys with AI.",
+          "tag": "Freemium",
+          "url": "https://metasurvey.ai/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
+        {
+          "title": "Mnemosphere",
+          "body": "ChatGPT for high-performers.",
+          "tag": "Freemium",
+          "url": "https://mnemosphere.ai/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
+        {
+          "title": "Sidekick",
+          "body": "Build automations with a chat interface.",
+          "tag": "Freemium",
+          "url": "https://joinsidekick.com/?ref=riseofmachine.com",
+          "date-added": "2025-09-04"
+        },
         {
           "title": "Lock-in",
           "body": "AI focus assistant for optimizing attention.",
