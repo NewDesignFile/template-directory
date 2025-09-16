@@ -2500,6 +2500,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "FlashPaper",
+          "body": "AI assistant for writing academic papers.",
+          "tag": "Freemium",
+          "url": "https://flashpaper.ai/?ref=riseofmachine.com",
+          "date-added": "2025-09-16"
+        },
+        {
           "title": "Examful AI",
           "body": "AP, IB, A-Level papers and tutoring.",
           "tag": "Free",
@@ -3818,6 +3825,13 @@
       "title": "Legal",
       "category": "legal",
       "content": [
+        {
+          "title": "Adalat",
+          "body": "AI solutions to eliminate delays in court.",
+          "tag": "Not available",
+          "url": "https://www.adalat.ai/?ref=riseofmachine.com",
+          "date-added": "2025-09-16"
+        },
         {
           "title": "AI Lawyer",
           "body": "Personal legal AI assistant.",
