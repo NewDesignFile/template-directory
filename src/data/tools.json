@@ -580,6 +580,13 @@
           "date-added": "2025-07-31"
         },
         {
+          "title": "Monologue",
+          "body": "Effortless voice dictation so you can work faster.",
+          "url": "https://www.monologue.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-23"
+        },
+        {
           "title": "OpenWispr",
           "body": "Open-source, private AI voice dictation tool.",
           "url": "https://openwispr.com/?ref=riseofmachine.com",
@@ -1592,11 +1599,25 @@
       "category": "design",
       "content": [
         {
+          "title": "Mixboard",
+          "body": "A new way to visualize your ideas.",
+          "url": "https://www.mixboard.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-24"
+        },
+        {
           "title": "Rustic AI",
           "body": "AI-powered design editor for visuals.",
           "url": "https://rusticai.art/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-07-31"
+        },
+        {
+          "title": "Visuals",
+          "body": "Upload your data and let AI generate charts.",
+          "url": "https://www.visuals.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-24"
         },
         {
           "title": "X-Design",
@@ -1880,6 +1901,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "Atla",
+          "body": "Automatically detect errors in your AI agents.",
+          "url": "https://www.atla.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-23"
+        },
+        {
           "title": "Cursor MCP",
           "body": "Find the best MCP Servers for Cursor.",
           "tag": "Free",
@@ -2112,6 +2140,13 @@
           "date-added": "2025-06-04"
         },
         {
+          "title": "Loop MCP",
+          "body": "The tools Appstore for your AI.",
+          "url": "https://www.simpliflow.ai/loop-mcp?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-24"
+        },
+        {
           "title": "MakeHub",
           "body": "LLM provider arbitrage for best price/performance via single API.",
           "tag": "Not available",
@@ -2187,6 +2222,13 @@
           "tag": "Open-source",
           "url": "https://openinterpreter.com/?ref=riseofmachine.com",
           "date-added": "2023-12-28"
+        },
+        {
+          "title": "Pie",
+          "body": "The first AI QA team. Ship with confidence.",
+          "url": "https://www.pie.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-22"
         },
         {
           "title": "Pieces",
@@ -2330,6 +2372,13 @@
           "date-added": "2025-07-15"
         },
         {
+          "title": "Strata",
+          "body": "One MCP server for AI agents to handle tools.",
+          "url": "https://www.strata.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-22"
+        },
+        {
           "title": "String.com",
           "body": "AI agent for building other AI agents quickly.",
           "tag": "Freemium",
@@ -2364,6 +2413,13 @@
           "tag": "Freemium",
           "url": "https://www.tabnine.com/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
+        },
+        {
+          "title": "Teable",
+          "body": "The AI database agent that transforms data.",
+          "url": "https://www.teable.io/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-21"
         },
         {
           "title": "Teachable Machine",
@@ -2564,6 +2620,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "Manna",
+          "body": "Duolingo for bible study with a study pet.",
+          "url": "https://www.producthunt.com/products/manna?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-24"
+        },
+        {
           "title": "Math.now",
           "body": "Solve math problems.",
           "tag": "Free",
@@ -2636,6 +2699,13 @@
       "category": "enterprise",
       "content": [
         {
+          "title": "Caladan",
+          "body": "AI fundraising copilot to connect wth VCs.",
+          "url": "https://www.caladan.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-21"
+        },
+        {
           "title": "Chat Agents",
           "body": "No-code platform to create AI Chatbots.",
           "url": "https://www.chatagents.io/?ref=riseofmachine.com",
@@ -2643,11 +2713,46 @@
           "date-added": "2025-07-31"
         },
         {
+          "title": "Conduit",
+          "body": "Unified inbox & workflows for conversational agents.",
+          "url": "https://www.conduit.ai/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-24"
+        },
+        {
+          "title": "Grapevine",
+          "body": "A company GPT that actually works.",
+          "url": "https://www.grapevine.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-24"
+        },
+        {
+          "title": "Humanly",
+          "body": "Interview, evaluate, and hire faster with avatars.",
+          "url": "https://www.humanly.io/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-22"
+        },
+        {
           "title": "Insights by Coupler.io",
           "body": "Data integration, reporting, and AI insights.",
           "url": "https://www.coupler.io/ai-insights?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-07-31"
+        },
+        {
+          "title": "SalesTarget",
+          "body": "Automate B2B outreach with your sales Co-Pilot.",
+          "url": "https://www.salestarget.ai/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-23"
+        },
+        {
+          "title": "Security Questionnaire",
+          "body": "AI that answers Security Questionnaires & RFP.",
+          "url": "https://sprinto.com/security-questionnaire/?ref=riseofmachine.com",
+          "tag": "Free",
+          "date-added": "2025-09-24"
         },
         {
           "title": "Sniff Job",
@@ -3334,6 +3439,13 @@
           "date-added": "2025-06-01"
         },
         {
+          "title": "LettuceTalk",
+          "body": "AI caregiving conversation cards for families.",
+          "url": "https://www.lettucetalk.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-20"
+        },
+        {
           "title": "MealByMeal",
           "body": "Nutrition tracker.",
           "tag": "From $7/mo",
@@ -3585,6 +3697,13 @@
           "tag": "Free",
           "url": "https://x.com/i/grok?ref=riseofmachine.com",
           "date-added": "2025-06-14"
+        },
+        {
+          "title": "Grok",
+          "body": "Pushing the frontier of cost-efficient intelligence.",
+          "url": "https://www.grok.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-21"
         },
         {
           "title": "Grok-1",
@@ -4884,6 +5003,20 @@
           "date-added": "2025-09-04"
         },
         {
+          "title": "Dart",
+          "body": "Brainstorm, plan, and execute faster with agents.",
+          "url": "https://www.dart.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-20"
+        },
+        {
+          "title": "Fred",
+          "body": "Fred turns your ideas into actionable goals.",
+          "url": "https://www.fred.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-20"
+        },
+        {
           "title": "Hipocap",
           "body": "Automate tasks with simple prompts.",
           "tag": "Freemium",
@@ -4910,6 +5043,13 @@
           "tag": "Freemium",
           "url": "https://mnemosphere.ai/?ref=riseofmachine.com",
           "date-added": "2025-09-04"
+        },
+        {
+          "title": "Notion",
+          "body": "You assign the tasks. Your Agents do the work.",
+          "url": "https://www.notion.so/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-22"
         },
         {
           "title": "Sidekick",
@@ -4948,7 +5088,7 @@
         },
         {
           "title": "TuCan Chat",
-          "body": "Translate WhatsApp messages—voice, video, or text.",
+          "body": "Translate WhatsApp messages\u2014voice, video, or text.",
           "tag": "Freemium",
           "url": "https://tucanchat.io/?ref=riseofmachine.com",
           "date-added": "2025-08-30"
@@ -6135,7 +6275,7 @@
           "url": "https://www.coframe.com/?ref=riseofmachine.com",
           "date-added": "2024-10-30"
         },
-		{
+        {
           "title": "Dr checker",
           "body": "Build trust with DR checker.",
           "tag": "Freemium",
@@ -6468,11 +6608,39 @@
       "category": "video",
       "content": [
         {
+          "title": "Animant",
+          "body": "Go beyond static presentations.",
+          "url": "https://www.animant.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-20"
+        },
+        {
+          "title": "Qudemo",
+          "body": "Make your demo videos interactive using AI.",
+          "url": "https://www.qudemo.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-24"
+        },
+        {
           "title": "Veo Video",
           "body": "AI video generation platform from text/images.",
           "url": "https://veo-video.org/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-07-31"
+        },
+        {
+          "title": "Video Marketer",
+          "body": "A research tool for video marketing.",
+          "url": "https://www.producthunt.com/products/memories-ai?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-24"
+        },
+        {
+          "title": "Voiser",
+          "body": "Dub & Translate Videos in 140+ Languages.",
+          "url": "https://www.voiser.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-22"
         },
         {
           "title": "Wan 2.2",
@@ -7136,6 +7304,13 @@
       "category": "xtras",
       "content": [
         {
+          "title": "alphaAI Capital",
+          "body": "Trading App that Dynamically Adapts to Markets.",
+          "url": "https://www.alphaaicapital.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-09-22"
+        },
+        {
           "title": "Fiddl.art",
           "body": "AI art generator for custom models and earning.",
           "url": "https://fiddl.art/?ref=riseofmachine.com",
@@ -7464,215 +7639,215 @@
           "url": "https://wantace.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-28"
         },
-		{
-			"title": "Trace",
-			"body": "Routes tasks to the right agent, human or AI.",
-			"tag": "Freemium",
-			"url": "https://www.trace.so/?ref=riseofmachine.com",
-			"date-added": "2025-08-24",
-			"category": "Productivity"
-		},
-		{
-			"title": "Qoder",
-			"body": "An agentic IDE for real software development.",
-			"tag": "Freemium",
-			"url": "https://www.qoder.ai/?ref=riseofmachine.com",
-			"date-added": "2025-08-25",
-			"category": "Code"
-		},
-		{
-			"title": "TraceRoot",
-			"body": "Fix bugs faster with open source observability.",
-			"tag": "Open-source",
-			"url": "https://traceroot.ai/?ref=riseofmachine.com",
-			"date-added": "2025-08-25",
-			"category": "Developer"
-		},
-		{
-			"title": "Onlook for Web",
-			"body": "Open source Cursor for designers.",
-			"tag": "Open-source",
-			"url": "https://onlook.app/?ref=riseofmachine.com",
-			"date-added": "2025-08-25",
-			"category": "Design"
-		},
-		{
-			"title": "Elements by Vercel",
-			"body": "A component library for building AI-native apps.",
-			"tag": "Open-source",
-			"url": "https://vercel.com/ai-elements?ref=riseofmachine.com",
-			"date-added": "2025-08-25",
-			"category": "Developer"
-		},
-		{
-			"title": "Command A Reasoning",
-			"body": "Enterprise-grade control for AI agents.",
-			"tag": "Open-source",
-			"url": "https://cohere.com/research/command-a?ref=riseofmachine.com",
-			"date-added": "2025-08-25",
-			"category": "Developer"
-		},
-		{
-			"title": "VibeFlow",
-			"body": "If Lovable, n8n and Convex had a genius baby.",
-			"tag": "Freemium",
-			"url": "https://www.vibeflow.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-24",
-			"category": "No Code"
-		},
-		{
-			"title": "Grok 2.5",
-			"body": "2024 best model from xAI, now open source.",
-			"tag": "Open-source",
-			"url": "https://x.ai/blog/grok-2.5?ref=riseofmachine.com",
-			"date-added": "2025-08-24",
-			"category": "LLMs"
-		},
-		{
-			"title": "PerformaMeter",
-			"body": "Upload a photo and get your Performity™ rated.",
-			"tag": "Freemium",
-			"url": "https://performameter.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-24",
-			"category": "Fun"
-		},
-		{
-			"title": "Deforge",
-			"body": "Canva for AI Agents.",
-			"tag": "Freemium",
-			"url": "https://deforge.ai/?ref=riseofmachine.com",
-			"date-added": "2025-08-23",
-			"category": "Developer"
-		},
-		{
-			"title": "DreamFlow",
-			"body": "Turn map screenshots into cinematic videos.",
-			"tag": "Freemium",
-			"url": "https://dreamflow.ai/?ref=riseofmachine.com",
-			"date-added": "2025-08-23",
-			"category": "Video"
-		},
-		{
-			"title": "Madespace",
-			"body": "The world's first AI interior design studio.",
-			"tag": "Freemium",
-			"url": "https://madespace.ai/?ref=riseofmachine.com",
-			"date-added": "2025-08-23",
-			"category": "Design"
-		},
-		{
-			"title": "ReachLLM",
-			"body": "Dominate the AI Search Era.",
-			"tag": "Freemium",
-			"url": "https://reachllm.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-23",
-			"category": "SEO"
-		},
-		{
-			"title": "Keys and Caches",
-			"body": "Vibe profile your ML models to get max performance.",
-			"tag": "Open-source",
-			"url": "https://keysandcaches.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-23"
-		},
-		{
-			"title": "Omnara",
-			"body": "Claude Code in your Pocket.",
-			"tag": "Open-source",
-			"url": "https://omnara.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-22"
-		},
-		{
-			"title": "GoodsFox",
-			"body": "Track competitor ads, traffic sources, and creatives.",
-			"tag": "Freemium",
-			"url": "https://goodsfox.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-22"
-		},
-		{
-			"title": "DeepSeek-V3.1",
-			"body": "Our first step toward the agent era.",
-			"tag": "Open-source",
-			"url": "https://deepseek.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-22"
-		},
-		{
-			"title": "inZOI",
-			"body": "Life simulation where every life becomes a story.",
-			"tag": "Freemium",
-			"url": "https://inzoi.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-22"
-		},
-		{
-			"title": "GitArsenal",
-			"body": "From git clone to running code in one command.",
-			"tag": "Open-source",
-			"url": "https://gitarsenal.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-22"
-		},
-		{
-			"title": "ProfileSpider",
-			"body": "One-click universal profile scraper.",
-			"tag": "Freemium",
-			"url": "https://profilespider.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-22"
-		},
-		{
-			"title": "Runway Game Worlds",
-			"body": "A step toward the next era of media.",
-			"tag": "Freemium",
-			"url": "https://runwayml.com/gameworlds/?ref=riseofmachine.com",
-			"date-added": "2025-08-22"
-		},
-		{
-			"title": "SciSpace Agent",
-			"body": "Only AI agent automating research with 150+ tools.",
-			"tag": "Freemium",
-			"url": "https://scispace.com/agent?ref=riseofmachine.com",
-			"date-added": "2025-08-21"
-		},
-		{
-			"title": "SpeedVitals RUM",
-			"body": "Monitor real-user performance & web analytics.",
-			"tag": "Freemium",
-			"url": "https://speedvitals.com/rum?ref=riseofmachine.com",
-			"date-added": "2025-08-21"
-		},
-		{
-			"title": "Prompt Pro",
-			"body": "Master AI prompt like a pro with a framework.",
-			"tag": "Free",
-			"url": "https://ai-prompt.pro/?ref=riseofmachine.com",
-			"date-added": "2025-08-20"
-		},
-		{
-			"title": "OC Maker",
-			"body": "Create stunning original characters with AI.",
-			"tag": "Freemium",
-			"url": "https://aiocmaker.com/?ref=riseofmachine.com",
-			"date-added": "2025-08-20"
-		},
-		{
-			"title": "Recast",
-			"body": "The AI that reads the internet for you.",
-			"tag": "Freemium",
-			"url": "https://recast.app/?ref=riseofmachine.com",
-			"date-added": "2025-08-19"
-		},
-		{
-			"title": "IG Follower Export",
-			"body": "Export Instagram followers to CSV.",
-			"tag": "Freemium",
-			"url": "https://instalab.ai/ig-follower-export-tool/?ref=riseofmachine.com",
-			"date-added": "2025-09-12"
-		},
-		{
-			"title": "Audio Notes",
-			"body": "Converts your voice notes into organized summaries.",
-			"tag": "Freemium",
-			"url": "https://audionotes.app/?ref=riseofmachine.com",
-			"date-added": "2025-08-19"
-		}
+        {
+          "title": "Trace",
+          "body": "Routes tasks to the right agent, human or AI.",
+          "tag": "Freemium",
+          "url": "https://www.trace.so/?ref=riseofmachine.com",
+          "date-added": "2025-08-24",
+          "category": "Productivity"
+        },
+        {
+          "title": "Qoder",
+          "body": "An agentic IDE for real software development.",
+          "tag": "Freemium",
+          "url": "https://www.qoder.ai/?ref=riseofmachine.com",
+          "date-added": "2025-08-25",
+          "category": "Code"
+        },
+        {
+          "title": "TraceRoot",
+          "body": "Fix bugs faster with open source observability.",
+          "tag": "Open-source",
+          "url": "https://traceroot.ai/?ref=riseofmachine.com",
+          "date-added": "2025-08-25",
+          "category": "Developer"
+        },
+        {
+          "title": "Onlook for Web",
+          "body": "Open source Cursor for designers.",
+          "tag": "Open-source",
+          "url": "https://onlook.app/?ref=riseofmachine.com",
+          "date-added": "2025-08-25",
+          "category": "Design"
+        },
+        {
+          "title": "Elements by Vercel",
+          "body": "A component library for building AI-native apps.",
+          "tag": "Open-source",
+          "url": "https://vercel.com/ai-elements?ref=riseofmachine.com",
+          "date-added": "2025-08-25",
+          "category": "Developer"
+        },
+        {
+          "title": "Command A Reasoning",
+          "body": "Enterprise-grade control for AI agents.",
+          "tag": "Open-source",
+          "url": "https://cohere.com/research/command-a?ref=riseofmachine.com",
+          "date-added": "2025-08-25",
+          "category": "Developer"
+        },
+        {
+          "title": "VibeFlow",
+          "body": "If Lovable, n8n and Convex had a genius baby.",
+          "tag": "Freemium",
+          "url": "https://www.vibeflow.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-24",
+          "category": "No Code"
+        },
+        {
+          "title": "Grok 2.5",
+          "body": "2024 best model from xAI, now open source.",
+          "tag": "Open-source",
+          "url": "https://x.ai/blog/grok-2.5?ref=riseofmachine.com",
+          "date-added": "2025-08-24",
+          "category": "LLMs"
+        },
+        {
+          "title": "PerformaMeter",
+          "body": "Upload a photo and get your Performity\u2122 rated.",
+          "tag": "Freemium",
+          "url": "https://performameter.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-24",
+          "category": "Fun"
+        },
+        {
+          "title": "Deforge",
+          "body": "Canva for AI Agents.",
+          "tag": "Freemium",
+          "url": "https://deforge.ai/?ref=riseofmachine.com",
+          "date-added": "2025-08-23",
+          "category": "Developer"
+        },
+        {
+          "title": "DreamFlow",
+          "body": "Turn map screenshots into cinematic videos.",
+          "tag": "Freemium",
+          "url": "https://dreamflow.ai/?ref=riseofmachine.com",
+          "date-added": "2025-08-23",
+          "category": "Video"
+        },
+        {
+          "title": "Madespace",
+          "body": "The world's first AI interior design studio.",
+          "tag": "Freemium",
+          "url": "https://madespace.ai/?ref=riseofmachine.com",
+          "date-added": "2025-08-23",
+          "category": "Design"
+        },
+        {
+          "title": "ReachLLM",
+          "body": "Dominate the AI Search Era.",
+          "tag": "Freemium",
+          "url": "https://reachllm.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-23",
+          "category": "SEO"
+        },
+        {
+          "title": "Keys and Caches",
+          "body": "Vibe profile your ML models to get max performance.",
+          "tag": "Open-source",
+          "url": "https://keysandcaches.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-23"
+        },
+        {
+          "title": "Omnara",
+          "body": "Claude Code in your Pocket.",
+          "tag": "Open-source",
+          "url": "https://omnara.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-22"
+        },
+        {
+          "title": "GoodsFox",
+          "body": "Track competitor ads, traffic sources, and creatives.",
+          "tag": "Freemium",
+          "url": "https://goodsfox.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-22"
+        },
+        {
+          "title": "DeepSeek-V3.1",
+          "body": "Our first step toward the agent era.",
+          "tag": "Open-source",
+          "url": "https://deepseek.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-22"
+        },
+        {
+          "title": "inZOI",
+          "body": "Life simulation where every life becomes a story.",
+          "tag": "Freemium",
+          "url": "https://inzoi.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-22"
+        },
+        {
+          "title": "GitArsenal",
+          "body": "From git clone to running code in one command.",
+          "tag": "Open-source",
+          "url": "https://gitarsenal.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-22"
+        },
+        {
+          "title": "ProfileSpider",
+          "body": "One-click universal profile scraper.",
+          "tag": "Freemium",
+          "url": "https://profilespider.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-22"
+        },
+        {
+          "title": "Runway Game Worlds",
+          "body": "A step toward the next era of media.",
+          "tag": "Freemium",
+          "url": "https://runwayml.com/gameworlds/?ref=riseofmachine.com",
+          "date-added": "2025-08-22"
+        },
+        {
+          "title": "SciSpace Agent",
+          "body": "Only AI agent automating research with 150+ tools.",
+          "tag": "Freemium",
+          "url": "https://scispace.com/agent?ref=riseofmachine.com",
+          "date-added": "2025-08-21"
+        },
+        {
+          "title": "SpeedVitals RUM",
+          "body": "Monitor real-user performance & web analytics.",
+          "tag": "Freemium",
+          "url": "https://speedvitals.com/rum?ref=riseofmachine.com",
+          "date-added": "2025-08-21"
+        },
+        {
+          "title": "Prompt Pro",
+          "body": "Master AI prompt like a pro with a framework.",
+          "tag": "Free",
+          "url": "https://ai-prompt.pro/?ref=riseofmachine.com",
+          "date-added": "2025-08-20"
+        },
+        {
+          "title": "OC Maker",
+          "body": "Create stunning original characters with AI.",
+          "tag": "Freemium",
+          "url": "https://aiocmaker.com/?ref=riseofmachine.com",
+          "date-added": "2025-08-20"
+        },
+        {
+          "title": "Recast",
+          "body": "The AI that reads the internet for you.",
+          "tag": "Freemium",
+          "url": "https://recast.app/?ref=riseofmachine.com",
+          "date-added": "2025-08-19"
+        },
+        {
+          "title": "IG Follower Export",
+          "body": "Export Instagram followers to CSV.",
+          "tag": "Freemium",
+          "url": "https://instalab.ai/ig-follower-export-tool/?ref=riseofmachine.com",
+          "date-added": "2025-09-12"
+        },
+        {
+          "title": "Audio Notes",
+          "body": "Converts your voice notes into organized summaries.",
+          "tag": "Freemium",
+          "url": "https://audionotes.app/?ref=riseofmachine.com",
+          "date-added": "2025-08-19"
+        }
       ]
     }
   ]
