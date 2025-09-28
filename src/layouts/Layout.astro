@@ -11,7 +11,7 @@ const { site, title, tagline } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en" data-new-ui-theme="light">
+<html lang="en" data-new-ui-theme="light--warm">
     <head>
         <ViewTransitions />
         <meta charset="UTF-8" />
@@ -19,7 +19,7 @@ const { site, title, tagline } = Astro.props;
         <link rel="icon" type="image/svg+xml" href="/rise-of-machine.png" />
         <meta name="generator" content={Astro.generator} />
         <title>{site} — Discover AI tools curated for makers and SMBs.</title>
-        <meta name="author" content="Method Black" />
+        <meta name="author" content="@planetabhi" />
         <meta
             name="description"
             content="Discover AI tools curated for makers and SMBs."
@@ -217,7 +217,7 @@ const { site, title, tagline } = Astro.props;
         align-items: center;
         border-radius: var(--spacing-02);
 
-        @nest [data-theme="dark"] & {
+        @nest [data-theme="dark--warm"] & {
             --icon-fill: var(--icon-secondary);
             --icon-fill-hover: var(--icon-secondary);
         }
@@ -225,8 +225,8 @@ const { site, title, tagline } = Astro.props;
   
     .theme-toggle .icon-light { display: none; }
     .theme-toggle .icon-dark { display: inline; }
-    [data-new-ui-theme="dark"] .theme-toggle .icon-light { display: inline; }
-    [data-new-ui-theme="dark"] .theme-toggle .icon-dark { display: none; }
+    [data-new-ui-theme="dark--warm"] .theme-toggle .icon-light { display: inline; }
+    [data-new-ui-theme="dark--warm"] .theme-toggle .icon-dark { display: none; }
     .footer p {
         padding-bottom: var(--spacing-10);
         text-align: center;
@@ -353,8 +353,8 @@ const { site, title, tagline } = Astro.props;
             return localStorage.getItem("theme-preference");
         }
         return window.matchMedia("(prefers-color-scheme: dark)").matches
-            ? "dark"
-            : "light";
+            ? "dark--warm"
+            : "light--warm";
     })();
 
     document.firstElementChild.setAttribute("data-new-ui-theme", theme);
@@ -363,7 +363,7 @@ const { site, title, tagline } = Astro.props;
     function toggleTheme() {
         const currentTheme =
             document.firstElementChild.getAttribute("data-new-ui-theme");
-        const newTheme = currentTheme === "light" ? "dark" : "light";
+        const newTheme = currentTheme === "light--warm" ? "dark--warm" : "light--warm";
 
         document.firstElementChild.setAttribute("data-new-ui-theme", newTheme);
         localStorage.setItem("theme-preference", newTheme);
@@ -393,7 +393,7 @@ const { site, title, tagline } = Astro.props;
     window
         .matchMedia("(prefers-color-scheme: dark)")
         .addEventListener("change", ({ matches: isDark }) => {
-            const newTheme = isDark ? "dark" : "light";
+            const newTheme = isDark ? "dark--warm" : "light--warm";
             document.firstElementChild.setAttribute(
                 "data-new-ui-theme",
                 newTheme,
