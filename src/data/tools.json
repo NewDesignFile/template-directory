@@ -784,6 +784,13 @@
           "date-added": "2025-07-31"
         },
         {
+          "title": "Phasmophobia Sound Recorder",
+          "body": "Record, share and download terrifying sounds.",
+          "tag": "Free",
+          "url": "https://www.phasmophobiasoundrecorder.com/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
+        },
+        {
           "title": "Phone App",
           "body": "AI-powered phone call app with live translation.",
           "tag": "Not available",
@@ -3417,6 +3424,13 @@
           "tag": "Freemium",
           "url": "https://soga.gg/?ref=riseofmachine.com",
           "date-added": "2024-04-18"
+        },
+        {
+          "title": "SilentSalt",
+          "body": "A thrilling horror game experience.",
+          "tag": "Free",
+          "url": "https://silentsalt.site/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
         }
       ]
     },
@@ -4469,8 +4483,8 @@
           "title": "Ghostface AI",
           "body": "Transform photos to 90s horror style.",
           "tag": "Free",
-          "url": "https://www.aighostface.org/?ref=riseofmachine.com",
-          "date-added": "2025-10-02"
+          "url": "https://www.ghostfaceai.space/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
         },
         {
           "title": "Graficai",
@@ -4507,6 +4521,13 @@
           "url": "https://aifaceswap.app/?ref=riseofmachine.com",
           "category": "photos",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "AI Photo Editor",
+          "body": "AI-powered photo editing tools.",
+          "tag": "Freemium",
+          "url": "https://www.aiphotoeditor.space/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
         },
         {
           "title": "Aragon AI",
@@ -7091,6 +7112,13 @@
           "date-added": "2025-06-06"
         },
         {
+          "title": "Seedances",
+          "body": "AI video generation from text and images.",
+          "tag": "Freemium",
+          "url": "https://www.seedances.app/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
+        },
+        {
           "title": "Seedance",
           "body": "AI video generator for cinematic, multi-shot videos.",
           "tag": "Freemium",
@@ -7889,6 +7917,41 @@
           "tag": "Freemium",
           "url": "https://audionotes.app/?ref=riseofmachine.com",
           "date-added": "2025-08-19"
+        },
+        {
+          "title": "Fluxaicreate",
+          "body": "Generate images, videos, and content from text.",
+          "tag": "Freemium",
+          "url": "https://www.fluxaicreate.org/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
+        },
+        {
+          "title": "Imagebyqwen",
+          "body": "AI photo generator with Qwen models.",
+          "tag": "Freemium",
+          "url": "https://www.imagebyqwen.com/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
+        },
+        {
+          "title": "Loraai",
+          "body": "Create personalized LoRA AI models.",
+          "tag": "Freemium",
+          "url": "https://loraai.me/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
+        },
+        {
+          "title": "Nano Bananaai",
+          "body": "Advanced AI image editing and generation.",
+          "tag": "Freemium",
+          "url": "https://www.nano-bananaai.org/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
+        },
+        {
+          "title": "Seedream",
+          "body": "1-second image generation and editing studio.",
+          "tag": "Freemium",
+          "url": "https://www.seedream4.me/?ref=riseofmachine.com",
+          "date-added": "2025-10-03"
         }
       ]
     }
