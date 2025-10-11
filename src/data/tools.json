@@ -5,6 +5,13 @@
       "category": "art",
       "content": [
         {
+          "title": "Lora Pro",
+          "body": "Create personalized LoRA AI models for art.",
+          "tag": "Freemium",
+          "url": "https://loraai.pro/?ref=riseofmachine.com",
+          "date-added": "2025-10-11"
+        },
+        {
           "title": "AI Christmas Photo",
           "body": "Create stunning AI-powered holiday portraits.",
           "tag": "$X One-time",
@@ -572,6 +579,13 @@
           "url": "https://www.wintercomics.com/?ref=riseofmachine.com",
           "category": "art",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Wplace Website",
+          "body": "AI-powered pixel art tool for wplace.live.",
+          "tag": "Freemium",
+          "url": "https://wplace.website/?ref=riseofmachine.com",
+          "date-added": "2025-10-11"
         }
       ]
     },
@@ -1900,6 +1914,20 @@
           "tag": "$9.99 One-time",
           "url": "https://yenex.com/?ref=riseofmachine.com",
           "date-added": "2025-06-02"
+        },
+        {
+          "title": "Sports Logo Generator",
+          "body": "Create stunning, professional sports logos.",
+          "tag": "Freemium",
+          "url": "https://www.imagine.art/features/ai-sports-logo-generator/?ref=riseofmachine.com",
+          "date-added": "2025-10-11"
+        },
+        {
+          "title": "Designstripe",
+          "body": "AI-powered creative studio for design needs.",
+          "tag": "Freemium",
+          "url": "https://designstripe.com/?ref=riseofmachine.com",
+          "date-added": "2025-10-11"
         }
       ]
     },
@@ -4078,6 +4106,13 @@
       "category": "music",
       "content": [
         {
+          "title": "Lyrics to Song",
+          "body": "Create songs from your lyrics using AI.",
+          "tag": "Freemium",
+          "url": "https://lyricstosong.io/?ref=riseofmachine.com",
+          "date-added": "2025-10-11"
+        },
+        {
           "title": "Audiocraft",
           "body": "Open source library for audio/music generation...",
           "tag": "Free",
@@ -4459,6 +4494,13 @@
       "category": "photos",
       "content": [
         {
+          "title": "Scream AI Photo",
+          "body": "Create Scream AI photos with this tool.",
+          "tag": "Freemium",
+          "url": "https://screamai.pro/?ref=riseofmachine.com",
+          "date-added": "2025-10-11"
+        },
+        {
           "title": "Cartoon To Real",
           "body": "Turn cartoon into real life effortlessly.",
           "tag": "Freemium",
@@ -4485,6 +4527,13 @@
           "tag": "Freemium",
           "url": "https://ai-flux.io/?ref=riseofmachine.com",
           "date-added": "2025-08-30"
+        },
+        {
+          "title": "Ghostface",
+          "body": "Add the iconic Ghostface to your photos.",
+          "tag": "Freemium",
+          "url": "https://ai-ghostface.org/?ref=riseofmachine.com",
+          "date-added": "2025-10-11"
         },
         {
           "title": "Gemini Flash Image",
