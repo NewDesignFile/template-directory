@@ -1838,6 +1838,20 @@
           "date-added": "2023-12-12"
         },
         {
+          "title": "Paper Design",
+          "body": "A canvas for designers to create beautiful art.",
+          "tag": "Freemium",
+          "url": "https://paper.design?ref=riseofmachine.com",
+          "date-added": "2025-10-19"
+        },
+        {
+          "title": "Pencil",
+          "body": "A new way to design right where you code.",
+          "tag": "Not available",
+          "url": "https://pencil.dev?ref=riseofmachine.com",
+          "date-added": "2025-10-19"
+        },
+        {
           "title": "Pixelesq",
           "body": "AI-native website builder.",
           "tag": "Freemium",
@@ -1881,6 +1895,13 @@
           "date-added": "2025-06-01"
         },
         {
+          "title": "Subframe",
+          "body": "The UI design tool for the AI era.",
+          "tag": "Freemium",
+          "url": "https://www.subframe.com?ref=riseofmachine.com",
+          "date-added": "2025-10-19"
+        },
+        {
           "title": "Textomap",
           "body": "Generate interactive maps from text.",
           "tag": "Freemium",
@@ -1902,6 +1923,13 @@
           "date-added": "2023-12-12"
         },
         {
+          "title": "Variant",
+          "body": "AI-powered design tool.",
+          "tag": "Not available",
+          "url": "https://variant.ai?ref=riseofmachine.com",
+          "date-added": "2025-10-19"
+        },
+        {
           "title": "V0",
           "body": "Generate UI with text prompts.",
           "tag": "Beta",
@@ -1914,6 +1942,13 @@
           "tag": "Freemium",
           "url": "https://www.wix.com/logo/maker?ref=riseofmachine.com",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Wonder",
+          "body": "Design like magic.",
+          "tag": "Not available",
+          "url": "https://wonder.so?ref=riseofmachine.com",
+          "date-added": "2025-10-19"
         },
         {
           "title": "X-Design",
