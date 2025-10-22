@@ -2953,7 +2953,7 @@
         {
           "title": "Sniff Job",
           "body": "AI-powered job search assistant.",
-          "url": "httpss://sniffjob.com/?ref=riseofmachine.com",
+          "url": "https://sniffjob.com/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-07-31"
         },
@@ -3592,13 +3592,6 @@
           "date-added": "2025-10-22"
         },
         {
-          "title": "Meshy",
-          "body": "Create 3D models & assets.",
-          "tag": "Freemium",
-          "url": "https://www.meshy.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-26"
-        },
-        {
           "title": "Neverdark",
           "body": "AI-native murder mystery game.",
           "tag": "Free",
@@ -3970,13 +3963,6 @@
           "tag": "Freemium",
           "url": "https://www.helicone.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-15"
-        },
-        {
-          "title": "Kie AI",
-          "body": "OpenAI's latest image model API (text & image).",
-          "tag": "Freemium",
-          "url": "https://kie.ai/4o-image-api?ref=riseofmachine.com",
-          "date-added": "2025-06-01"
         },
         {
           "title": "Kie.ai",
