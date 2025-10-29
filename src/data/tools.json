@@ -1880,9 +1880,9 @@
           "date-added": "2025-10-10"
         },
         {
-          "title": "New UI",
-          "body": "Authentic, simple sites for AI founders tired of looking like everyone else.",
-          "tag": "$51 One-time",
+          "title": "New UI Templates",
+          "body": "Simple templates for AI founders tired of looking like everyone else.",
+          "tag": "Freemium",
           "url": "https://new-ui.com/templates?ref=riseofmachine.com",
           "date-added": "2025-08-10"
         },
@@ -3839,7 +3839,7 @@
         },
         {
           "title": "Auto-gpt",
-          "body": "Open source, An experimental open-source...",
+          "body": "Create, deploy, and manage continuous AI agents.",
           "tag": "Not available",
           "url": "https://github.com/Torantulino/Auto-GPT?ref=riseofmachine.com",
           "date-added": "2025-06-14"
@@ -4303,7 +4303,7 @@
         },
         {
           "title": "Audiocraft",
-          "body": "Open source library for audio/music generation...",
+          "body": "Open source library for audio/music generation.",
           "tag": "Free",
           "url": "https://github.com/facebookresearch/audiocraft?ref=riseofmachine.com",
           "date-added": "2025-06-14"

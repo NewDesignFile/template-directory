@@ -11,7 +11,7 @@ const { site, title, tagline } = Astro.props;
 ---
 
 <!doctype html>
-<html lang="en" data-new-ui-theme="light--warm">
+<html lang="en" data-new-ui-theme="dark--warm">
     <head>
         <ViewTransitions />
         <meta charset="UTF-8" />
@@ -68,7 +68,7 @@ const { site, title, tagline } = Astro.props;
                     target="_blank"
                     rel="noopener noreferrer"
                     class="submit-btn"
-                    tabindex="0">Submit a Tool</a
+                    tabindex="0">Submit a tool</a
                 >
                 <button
                     class="theme-toggle"
@@ -77,11 +77,11 @@ const { site, title, tagline } = Astro.props;
                     aria-label="auto"
                     aria-live="polite"
                 >
-                    <!-- Light theme icon -->
-                    <svg class="icon-light" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path fill="currentColor" d="M11.25 4a.75.75 0 0 0 1.5 0zm1.5-2a.75.75 0 0 0-1.5 0zm-1.5 20a.75.75 0 0 0 1.5 0zm1.5-2a.75.75 0 0 0-1.5 0zM4 12.75a.75.75 0 0 0 0-1.5zm-2-1.5a.75.75 0 0 0 0 1.5zm20 1.5a.75.75 0 0 0 0-1.5zm-2-1.5a.75.75 0 0 0 0 1.5zM6.87 18.19a.75.75 0 1 0-1.06-1.06zm-2.47.35a.75.75 0 1 0 1.06 1.06zm13.79-1.41a.75.75 0 1 0-1.06 1.06zm.35 2.47a.75.75 0 1 0 1.06-1.06zM5.46 4.4A.75.75 0 0 0 4.4 5.46zm.35 2.47a.75.75 0 0 0 1.06-1.06zM12.75 4V2h-1.5v2zm0 18v-2h-1.5v2zM4 11.25H2v1.5h2zm18 0h-2v1.5h2zM5.81 17.13 4.4 18.54l1.06 1.06 1.41-1.41zM18.54 4.4l-1.41 1.41 1.06 1.06 1.41-1.41zm-1.41 13.79 1.41 1.41 1.06-1.06-1.41-1.41zM4.4 5.46l1.41 1.41 1.06-1.06L5.46 4.4zM15.25 12A3.25 3.25 0 0 1 12 15.25v1.5A4.75 4.75 0 0 0 16.75 12zM12 15.25A3.25 3.25 0 0 1 8.75 12h-1.5A4.75 4.75 0 0 0 12 16.75zM8.75 12A3.25 3.25 0 0 1 12 8.75v-1.5A4.75 4.75 0 0 0 7.25 12zM12 8.75A3.25 3.25 0 0 1 15.25 12h1.5A4.75 4.75 0 0 0 12 7.25z"/></svg>
+                <!-- Light icon -->
+                <svg class="icon-light" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><g clip-path="url(#a)"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1.5" d="M5 12H1m22 0h-4M7.05 7.05 4.222 4.222m15.556 15.556L16.95 16.95m-9.9 0-2.828 2.828M19.778 4.222 16.95 7.05M12 19v4m0-22v4m4 7a4 4 0 1 1-8 0 4 4 0 0 1 8 0"/></g><defs><clipPath id="a"><path fill="#fff" d="M0 0h24v24H0z"/></clipPath></defs></svg>
 
-                    <!-- Dark theme icon -->
-                    <svg class="icon-dark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10.41 13.28C7.332 10.205 6.716 5.693 8.357 2c-1.23.41-2.256 1.23-3.281 2.256a10.4 10.4 0 0 0 0 14.768c4.102 4.102 10.46 3.897 14.562-.205 1.026-1.026 1.846-2.051 2.256-3.282-3.896 1.436-8.409.82-11.486-2.256"/></svg>
+                <!-- Dark icon -->
+                <svg class="icon-dark" xmlns="http://www.w3.org/2000/svg" width="24" height="24" fill="none" viewBox="0 0 24 24"><path stroke="currentColor" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.5" d="M10.41 13.28C7.332 10.205 6.716 5.693 8.357 2c-1.23.41-2.256 1.23-3.281 2.256a10.4 10.4 0 0 0 0 14.768c4.102 4.102 10.46 3.897 14.562-.205 1.026-1.026 1.846-2.051 2.256-3.282-3.896 1.436-8.409.82-11.486-2.256"/></svg>
                 </button>
             </div>
         </div>
@@ -117,10 +117,15 @@ const { site, title, tagline } = Astro.props;
         font-style: normal;
         font-weight: 100 900;
         src: url("/fonts/InterVariable.woff2") format("woff2");
+        font-display: swap;
     }
     :root {
         --accent: var(--link);
         --body-copy: "Inter", var(--system-ui);
+        font-synthesis: none;
+        text-rendering: optimizeLegibility;
+        -webkit-font-smoothing: antialiased;
+        -moz-osx-font-smoothing: grayscale;
     }
     html {
         font-family: var(--body-copy);
@@ -167,8 +172,8 @@ const { site, title, tagline } = Astro.props;
         align-items: center;
     }
     .submit-btn {
-        padding: 0.5625rem 0.9375rem;
-        border: 1px solid var(--border-muted);
+        padding: var(--spacing-02) var(--spacing-05);
+        border: 1.5px solid var(--border-muted);
         outline: none;
         text-decoration: none;
         color: inherit;
@@ -176,6 +181,7 @@ const { site, title, tagline } = Astro.props;
         background-color: var(--background);
         border-radius: var(--spacing-03);
         font-size: var(--desktop-body-sm);
+        transition: transform 0.2s ease;
 
         &:hover {
             background-color: var(--background-secondary);
@@ -185,6 +191,7 @@ const { site, title, tagline } = Astro.props;
         &:active {
             background-color: var(--background);
             color: var(--text-secondary);
+            transform: scale(0.97);
         }
 
         &.disabled {
@@ -216,17 +223,46 @@ const { site, title, tagline } = Astro.props;
         justify-content: center;
         align-items: center;
         border-radius: var(--spacing-02);
-
+        transition: transform 0.1s ease;
+        position: relative;
+        
         @nest [data-theme="dark--warm"] & {
             --icon-fill: var(--icon-secondary);
             --icon-fill-hover: var(--icon-secondary);
         }
+        
+        svg {
+            position: absolute;
+            transition: opacity 0.3s ease, transform 0.3s ease;
+        }
+        
+        &:hover svg {
+            transform: rotate(15deg) scale(1.05);
+        }
     }
-  
-    .theme-toggle .icon-light { display: none; }
-    .theme-toggle .icon-dark { display: inline; }
-    [data-new-ui-theme="dark--warm"] .theme-toggle .icon-light { display: inline; }
-    [data-new-ui-theme="dark--warm"] .theme-toggle .icon-dark { display: none; }
+
+    .theme-toggle .icon-light { 
+        opacity: 0;
+        transform: rotate(-15deg) scale(0.8);
+        pointer-events: none;
+    }
+
+    .theme-toggle .icon-dark { 
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+    }
+
+    [data-new-ui-theme="dark--warm"] .theme-toggle .icon-light { 
+        opacity: 1;
+        transform: rotate(0deg) scale(1);
+        pointer-events: auto;
+    }
+
+    [data-new-ui-theme="dark--warm"] .theme-toggle .icon-dark { 
+        opacity: 0;
+        transform: rotate(15deg) scale(0.8);
+        pointer-events: none;
+    }
     .footer p {
         padding-bottom: var(--spacing-10);
         text-align: center;
@@ -344,63 +380,62 @@ const { site, title, tagline } = Astro.props;
 </script>
 
 <script is:inline>
-    // Initial theme setup
-    const theme = (() => {
-        if (
-            typeof localStorage !== "undefined" &&
-            localStorage.getItem("theme-preference")
+// Initial theme setup
+const theme = (() => {
+if (
+typeof localStorage !== "undefined" &&
+localStorage.getItem("theme-preference")
         ) {
-            return localStorage.getItem("theme-preference");
+return localStorage.getItem("theme-preference");
         }
-        return window.matchMedia("(prefers-color-scheme: dark)").matches
-            ? "dark--warm"
-            : "light--warm";
+return window.matchMedia("(prefers-color-scheme: dark)").matches
+? "dark--warm"
+: "light--warm";
     })();
+document.firstElementChild.setAttribute("data-new-ui-theme", theme);
 
-    document.firstElementChild.setAttribute("data-new-ui-theme", theme);
-
-    // Handle theme toggle
-    function toggleTheme() {
-        const currentTheme =
-            document.firstElementChild.getAttribute("data-new-ui-theme");
-        const newTheme = currentTheme === "light--warm" ? "dark--warm" : "light--warm";
-
-        document.firstElementChild.setAttribute("data-new-ui-theme", newTheme);
-        localStorage.setItem("theme-preference", newTheme);
+// Handle theme toggle
+function toggleTheme() {
+const currentTheme =
+document.firstElementChild.getAttribute("data-new-ui-theme");
+const newTheme = currentTheme === "light--warm" ? "dark--warm" : "light--warm";
+document.firstElementChild.setAttribute("data-new-ui-theme", newTheme);
+localStorage.setItem("theme-preference", newTheme);
     }
 
-    // Initialize toggle button
-    function initThemeToggle() {
-        const themeToggle = document.querySelector("#theme-toggle");
-        if (themeToggle) {
-            themeToggle.addEventListener("click", toggleTheme);
+// Initialize toggle button
+function initThemeToggle() {
+const themeToggle = document.querySelector("#theme-toggle");
+if (themeToggle) {
+themeToggle.addEventListener("click", toggleTheme);
         }
     }
 
-    // Handle page transitions
-    document.addEventListener("astro:page-load", () => {
-        const storedTheme = localStorage.getItem("theme-preference");
-        if (storedTheme) {
-            document.firstElementChild.setAttribute(
-                "data-new-ui-theme",
-                storedTheme,
+// Handle page transitions
+document.addEventListener("astro:page-load", () => {
+const storedTheme = localStorage.getItem("theme-preference");
+if (storedTheme) {
+document.firstElementChild.setAttribute(
+"data-new-ui-theme",
+storedTheme,
             );
         }
-        initThemeToggle();
+initThemeToggle();
     });
 
-    // Handle system theme changes
-    window
+// If user hasn't set a preference
+window
         .matchMedia("(prefers-color-scheme: dark)")
         .addEventListener("change", ({ matches: isDark }) => {
-            const newTheme = isDark ? "dark--warm" : "light--warm";
-            document.firstElementChild.setAttribute(
-                "data-new-ui-theme",
-                newTheme,
-            );
-            localStorage.setItem("theme-preference", newTheme);
+// Only apply system preference if user hasn't manually chosen a theme
+if (!localStorage.getItem("theme-preference")) {
+const newTheme = isDark ? "dark--warm" : "light--warm";
+document.firstElementChild.setAttribute(
+"data-new-ui-theme",
+newTheme,
+                );
+            }
         });
 
-    // Initialize on first load
-    initThemeToggle();
+initThemeToggle();
 </script>

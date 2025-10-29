@@ -25,7 +25,7 @@ span.category-count {
 
 .nav__item.is-active {
   color: var(--text-primary);
-  border-bottom: 2px solid var(--accent);
+  border-bottom: 1.5px solid var(--accent);
 }
 
 .nav__item:hover span.category-count,
