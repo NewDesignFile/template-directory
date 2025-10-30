@@ -4295,13 +4295,6 @@
       "category": "music",
       "content": [
         {
-          "title": "Lyrics to Song",
-          "body": "Create songs from your lyrics using AI.",
-          "tag": "Freemium",
-          "url": "https://lyricstosong.io/?ref=riseofmachine.com",
-          "date-added": "2025-10-11"
-        },
-        {
           "title": "Audiocraft",
           "body": "Open source library for audio/music generation.",
           "tag": "Free",
@@ -4344,12 +4337,18 @@
           "date-added": "2023-12-26"
         },
         {
+          "title": "Lyrics to Song",
+          "body": "Create songs from your lyrics using AI.",
+          "tag": "Freemium",
+          "url": "https://lyricstosong.io/?ref=riseofmachine.com",
+          "date-added": "2025-10-11"
+        },
+        {
           "title": "LyricsToSongAI",
-          "body": "Music creation.",
+          "body": "Generate songs from lyrics or text prompts.",
           "tag": "Freemium",
           "url": "https://lyricstosongai.com/?ref=riseofmachine.com",
-          "category": "music",
-          "date-added": "2025-06-06"
+          "date-added": "2025-10-30"
         },
         {
           "title": "Mubert",
