@@ -117,6 +117,13 @@
           "date-added": "2024-11-17"
         },
         {
+          "title": "Comfy",
+          "body": "A powerful node-based generative AI tool.",
+          "tag": "Free",
+          "url": "https://comfy.org?ref=riseofmachine.com",
+          "date-added": "2025-11-06"
+        },
+        {
           "title": "Controlnet",
           "body": "ControlNet is a neural network structure to...",
           "tag": "Free",
@@ -6490,6 +6497,13 @@
           "tag": "Free",
           "url": "https://www.perplexity.ai?ref=riseofmachine.com",
           "date-added": "2025-06-14"
+        },
+        {
+          "title": "Research",
+          "body": "For reading and organizing research with AI.",
+          "tag": "Freemium",
+          "url": "https://un.ms/research?ref=riseofmachine.com",
+          "date-added": "2025-11-06"
         },
         {
           "title": "Resea AI",
