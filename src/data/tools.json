@@ -1852,6 +1852,13 @@
           "date-added": "2023-12-12"
         },
         {
+          "title": "LogoLlama",
+          "body": "Generate a logo for your brand.",
+          "tag": "Freemium",
+          "url": "https://logollama.co/?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
           "title": "Logo Galleria",
           "body": "AI logo maker.",
           "tag": "Freemium",
@@ -7196,6 +7203,13 @@
           "url": "https://deepmind.google/technologies/veo/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-10-22"
+        },
+        {
+          "title": "Grok Video",
+          "body": "AI video generation.",
+          "tag": "Freemium",
+          "url": "https://grokvideo.net?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "Hailuoai",
