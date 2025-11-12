@@ -194,6 +194,13 @@
           "date-added": "2025-07-31"
         },
         {
+          "title": "Emergent",
+          "body": "Advanced AI app builder that ships full-stack apps.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/emergent-2?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
           "title": "fileAI",
           "body": "Secure, real-time file access for AI agents.",
           "tag": "Freemium",
@@ -581,7 +588,7 @@
         },
         {
           "title": "Unicorn Coloring Pages",
-          "body": "Generate personalized unicorn coloring pages with AI.",
+          "body": "Generate personalized unicorn coloring pages.",
           "tag": "Freemium",
           "url": "https://unicorn-coloring-pages.com?ref=riseofmachine.com",
           "date-added": "2025-06-26"
@@ -1015,6 +1022,13 @@
           "date-added": "2025-10-22"
         },
         {
+          "title": "Grok Video",
+          "body": "AI video generation.",
+          "tag": "Freemium",
+          "url": "https://grokvideo.net?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
           "title": "Builder.io",
           "body": "The visual development platform.",
           "url": "https://www.builder.io/?ref=riseofmachine.com",
@@ -1083,6 +1097,13 @@
           "tag": "Freemium",
           "url": "https://cursor.sh/?ref=riseofmachine.com",
           "date-added": "2024-08-26"
+        },
+        {
+          "title": "Cursor 2.0",
+          "body": "Our first coding model and new interface for agents.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/cursor?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "Cursor Directory",
@@ -1426,7 +1447,7 @@
         },
         {
           "title": "JustDone AI",
-          "body": "Generates, rewrites, and checks content with tools for originality, fact-checking, and plagiarism detection.",
+          "body": "Generates, rewrites, and checks your content.",
           "url": "https://justdone.com/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-10-22"
@@ -1916,7 +1937,7 @@
         },
         {
           "title": "New UI Templates",
-          "body": "Simple templates for AI founders tired of looking like everyone else.",
+          "body": "Simple templates for AI founders.",
           "tag": "Freemium",
           "url": "https://new-ui.com/templates?ref=riseofmachine.com",
           "date-added": "2025-08-10"
@@ -2078,7 +2099,7 @@
         },
         {
           "title": "Yard Landscape Design",
-          "body": "AI yard landscape design generator for various layouts.",
+          "body": "AI yard landscape design generator.",
           "tag": "Free",
           "url": "https://www.ai-yard-design.com/?ref=riseofmachine.com",
           "date-added": "2025-06-21"
@@ -2137,6 +2158,13 @@
           "tag": "Free",
           "url": "https://cursormcp.net/en?ref=riseofmachine.com",
           "date-added": "2025-09-16"
+        },
+        {
+          "title": "Director",
+          "body": "A web browser for your AI.",
+          "tag": "Freemium",
+          "url": "https://browserbase.com/?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "Amazon Codewhisperer",
@@ -2406,6 +2434,13 @@
           "date-added": "2023-12-24"
         },
         {
+          "title": "n8n Workflow Builder",
+          "body": "Build AI automations & agents.",
+          "tag": "Open-source",
+          "url": "https://www.producthunt.com/products/n8n-io?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
           "title": "Neum",
           "body": "RAG framework for large-scale and real-time data.",
           "tag": "Open-source",
@@ -2420,6 +2455,13 @@
           "date-added": "2025-06-17"
         },
         {
+          "title": "Nora",
+          "body": "The AI coding agent for building secure Web3 apps.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/nora-5?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
           "title": "OSS Insight",
           "body": "GitHub data insights with AI SQL & analytics.",
           "tag": "Free",
@@ -2432,6 +2474,13 @@
           "tag": "Open-source",
           "url": "https://ollama.ai/download?ref=riseofmachine.com",
           "date-added": "2025-08-01"
+        },
+        {
+          "title": "Orchids",
+          "body": "The AI Full Stack Engineer.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/orchids?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "OneNode",
@@ -2538,6 +2587,13 @@
           "tag": "Freemium",
           "url": "https://rork.app/?ref=riseofmachine.com",
           "date-added": "2025-09-04"
+        },
+        {
+          "title" : "Rybbit",
+          "body" : "Open Source Google Analytics Replacement.",
+          "tag" : "Open-source",
+          "url" : "https://www.producthunt.com/products/rybbit?ref=riseofmachine.com",
+          "date-added" : "2025-11-12"
         },
         {
           "title": "RunPod",
@@ -2700,6 +2756,13 @@
           "tag": "Free",
           "url": "https://www.trae.ai?ref=riseofmachine.com",
           "date-added": "2025-06-14"
+        },
+        {
+          "title": "v0 for iOS",
+          "body": "Build anything with AI.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/v0?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "Vellum",
@@ -2866,7 +2929,7 @@
         },
         {
           "title": "Mindgrasp",
-          "body": "Transform class lectures and readings into study tools.",
+          "body": "Transform lectures and readings into study tools.",
           "tag": "From $5.99",
           "url": "https://www.mindgrasp.ai/?ref=riseofmachine.com",
           "date-added": "2024-12-14"
@@ -4290,7 +4353,7 @@
         },
         {
           "title": "GitLaw",
-          "body": "Free platform for legal documents, find & customize with AI.",
+          "body": "Free platform for legal documents.",
           "tag": "Free",
           "url": "https://gitlaw.co/?ref=riseofmachine.com",
           "date-added": "2025-06-02"
@@ -5415,6 +5478,13 @@
           "date-added": "2025-07-31"
         },
         {
+          "title": "Lyra",
+          "body": "Record, transcribe + auto‑create action items for every call.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/lyra-7?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
           "title": "Meet-Ting",
           "body": "Free AI assistant for email meeting scheduling.",
           "url": "https://meet-ting.com/?ref=riseofmachine.com",
@@ -5485,12 +5555,33 @@
           "date-added": "2023-12-23"
         },
         {
+          "title": "Caesr AI",
+          "body": "AI that controls real apps across web and desktop.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/caesr-ai?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
           "title": "CallZero",
           "body": "Calls.",
           "tag": "Freemium",
           "url": "https://callzero.ai/?ref=riseofmachine.com",
           "category": "productivity",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Everyday",
+          "body": "Get tasks done across apps with plain English.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/everyday-4?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
+          "title": "ChatGPT Atlas",
+          "body": "The browser with ChatGPT built in.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/openai?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "ChatGPT Writer",
@@ -5846,6 +5937,13 @@
           "date-added": "2025-07-03"
         },
         {
+          "title": "Nimo",
+          "body": "An intelligent canvas that goes far beyond your browser.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/nimo?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
           "title": "Noiz",
           "body": "Summarize YouTube videos with AI.",
           "tag": "Freemium",
@@ -5879,6 +5977,13 @@
           "tag": "Not available",
           "url": "https://github.com/yetone/openai-translator?ref=riseofmachine.com",
           "date-added": "2025-06-14"
+        },
+        {
+          "title": "Orchestra",
+          "body": "A chat-centric workspace for builders and modern teams.",
+          "tag": "Freemium",
+          "url": "https://orch.so/?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "Otter",
@@ -5937,6 +6042,13 @@
           "tag": "Freemium",
           "url": "https://www.plusdocs.com/?ref=riseofmachine.com",
           "date-added": "2023-12-22"
+        },
+        {
+          "title": "Xmind",
+          "body": "Turn mind maps into lightweight project plans.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/xmind?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "Plz.ai Directory",
@@ -7175,6 +7287,13 @@
           "date-added": "2023-12-15"
         },
         {
+          "title": "Flask",
+          "body": "Notion + Loom, for video collaboration.",
+          "tag": "Freemium",
+          "url": "https://flask.do/?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
+        },
+        {
           "title": "Freebeat",
           "body": "AI Video Creation.",
           "tag": "Freemium",
@@ -7327,7 +7446,7 @@
         },
         {
           "title": "MagicLight AI",
-          "body": "A platform that turns your stories or scripts into animated story-videos.",
+          "body": "Turns your stories or scripts into animated videos.",
           "url": "https://magiclight.ai/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-10-22"
@@ -7738,7 +7857,7 @@
         },
         {
           "title": "Manus",
-          "body": "A general-purpose agent that helps users bridge thinking and doing by turning thoughts into action.",
+          "body": "A general-purpose agent that helps users bridge.",
           "url": "https://manus.im/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-10-22"
@@ -8001,6 +8120,13 @@
           "tag": "Not available",
           "url": "https://omnigen.co/?ref=riseofmachine.com",
           "date-added": "2025-06-03"
+        },
+        {
+          "title": "PawChamp",
+          "body": "Dog training and care app with AI companion.",
+          "tag": "Freemium",
+          "url": "https://www.producthunt.com/products/pawchamp-puppy-dog-training?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "Penny",
