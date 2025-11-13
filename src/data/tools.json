@@ -197,7 +197,7 @@
           "title": "Emergent",
           "body": "Advanced AI app builder that ships full-stack apps.",
           "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/emergent-2?ref=riseofmachine.com",
+          "url": "https://app.emergent.sh?ref=riseofmachine.com",
           "date-added": "2025-11-12"
         },
         {
@@ -1095,15 +1095,8 @@
           "title": "Cursor",
           "body": "Editor for pair-programming with AI.",
           "tag": "Freemium",
-          "url": "https://cursor.sh/?ref=riseofmachine.com",
+          "url": "https://cursor.com/?ref=riseofmachine.com",
           "date-added": "2024-08-26"
-        },
-        {
-          "title": "Cursor 2.0",
-          "body": "Our first coding model and new interface for agents.",
-          "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/cursor?ref=riseofmachine.com",
-          "date-added": "2025-11-12"
         },
         {
           "title": "Cursor Directory",
@@ -2437,7 +2430,7 @@
           "title": "n8n Workflow Builder",
           "body": "Build AI automations & agents.",
           "tag": "Open-source",
-          "url": "https://www.producthunt.com/products/n8n-io?ref=riseofmachine.com",
+          "url": "https://n8n.io?ref=riseofmachine.com",
           "date-added": "2025-11-12"
         },
         {
@@ -2458,7 +2451,7 @@
           "title": "Nora",
           "body": "The AI coding agent for building secure Web3 apps.",
           "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/nora-5?ref=riseofmachine.com",
+          "url": "https://www.mynora.ai/?ref=riseofmachine.com",
           "date-added": "2025-11-12"
         },
         {
@@ -2479,7 +2472,7 @@
           "title": "Orchids",
           "body": "The AI Full Stack Engineer.",
           "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/orchids?ref=riseofmachine.com",
+          "url": "https://www.orchids.app?ref=riseofmachine.com",
           "date-added": "2025-11-12"
         },
         {
@@ -2592,7 +2585,7 @@
           "title" : "Rybbit",
           "body" : "Open Source Google Analytics Replacement.",
           "tag" : "Open-source",
-          "url" : "https://www.producthunt.com/products/rybbit?ref=riseofmachine.com",
+          "url" : "https://rybbit.com/?ref=riseofmachine.com",
           "date-added" : "2025-11-12"
         },
         {
@@ -2758,13 +2751,6 @@
           "date-added": "2025-06-14"
         },
         {
-          "title": "v0 for iOS",
-          "body": "Build anything with AI.",
-          "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/v0?ref=riseofmachine.com",
-          "date-added": "2025-11-12"
-        },
-        {
           "title": "Vellum",
           "body": "Developer platform for LLM apps.",
           "tag": "Not available",
@@ -2916,7 +2902,7 @@
         {
           "title": "Manna",
           "body": "Duolingo for bible study with a study pet.",
-          "url": "https://www.producthunt.com/products/manna?ref=riseofmachine.com",
+          "url": "https://themanna.app?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-09-24"
         },
@@ -5481,7 +5467,7 @@
           "title": "Lyra",
           "body": "Record, transcribe + auto‑create action items for every call.",
           "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/lyra-7?ref=riseofmachine.com",
+          "url": "https://lyra.so?ref=riseofmachine.com",
           "date-added": "2025-11-12"
         },
         {
@@ -5558,7 +5544,7 @@
           "title": "Caesr AI",
           "body": "AI that controls real apps across web and desktop.",
           "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/caesr-ai?ref=riseofmachine.com",
+          "url": "https://www.caesr.ai/?ref=riseofmachine.com",
           "date-added": "2025-11-12"
         },
         {
@@ -5573,14 +5559,7 @@
           "title": "Everyday",
           "body": "Get tasks done across apps with plain English.",
           "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/everyday-4?ref=riseofmachine.com",
-          "date-added": "2025-11-12"
-        },
-        {
-          "title": "ChatGPT Atlas",
-          "body": "The browser with ChatGPT built in.",
-          "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/openai?ref=riseofmachine.com",
+          "url": "https://www.everyday.new?ref=riseofmachine.com",
           "date-added": "2025-11-12"
         },
         {
@@ -5940,7 +5919,7 @@
           "title": "Nimo",
           "body": "An intelligent canvas that goes far beyond your browser.",
           "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/nimo?ref=riseofmachine.com",
+          "url": "https://www.nimo.space?ref=riseofmachine.com",
           "date-added": "2025-11-12"
         },
         {
@@ -6047,7 +6026,7 @@
           "title": "Xmind",
           "body": "Turn mind maps into lightweight project plans.",
           "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/xmind?ref=riseofmachine.com",
+          "url": "https://xmind.com?ref=riseofmachine.com",
           "date-added": "2025-11-12"
         },
         {
@@ -7113,7 +7092,7 @@
         {
           "title": "Video Marketer",
           "body": "A research tool for video marketing.",
-          "url": "https://www.producthunt.com/products/memories-ai?ref=riseofmachine.com",
+          "url": "https://memories.ai?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-09-24"
         },
@@ -8120,13 +8099,6 @@
           "tag": "Not available",
           "url": "https://omnigen.co/?ref=riseofmachine.com",
           "date-added": "2025-06-03"
-        },
-        {
-          "title": "PawChamp",
-          "body": "Dog training and care app with AI companion.",
-          "tag": "Freemium",
-          "url": "https://www.producthunt.com/products/pawchamp-puppy-dog-training?ref=riseofmachine.com",
-          "date-added": "2025-11-12"
         },
         {
           "title": "Penny",
