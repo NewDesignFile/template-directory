@@ -12,13 +12,6 @@
           "date-added": "2025-10-11"
         },
         {
-          "title": "Fast SEO Fix",
-          "body": "Grow your organic traffic with automated SEO.",
-          "tag": "Paid",
-          "url": "https://www.fastseofix.com/?ref=riseofmachine.com",
-          "date-added": "2025-11-14"
-        },
-        {
           "title": "Lora Pro",
           "body": "Create personalized LoRA AI models for art.",
           "tag": "Freemium",
@@ -6694,6 +6687,13 @@
       "title": "SEO",
       "category": "seo",
       "content": [
+        {
+          "title": "Fast SEO Fix",
+          "body": "Grow your organic traffic with automated SEO.",
+          "tag": "Paid",
+          "url": "https://www.fastseofix.com/?ref=riseofmachine.com",
+          "date-added": "2025-11-14"
+        },
         {
           "title": "Nimt.ai",
           "body": "Track and boost brand visibility on AI platforms.",
