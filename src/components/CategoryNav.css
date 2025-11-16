@@ -57,13 +57,13 @@
 	border-radius: 50%;
 	padding: var(--spacing-02);
 	pointer-events: auto;
-	color: var(--icon-secondary);
+	color: var(--content-secondary);
 	-webkit-backdrop-filter: blur(.5rem);
 	backdrop-filter: blur(.5rem);
   }
 
   .nav-fade:hover .nav-arrow-icon {
-	color: var(--icon-primary);
+	color: var(--content-primary);
   }
   
   .nav-fade-left.show {

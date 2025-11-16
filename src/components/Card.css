@@ -31,7 +31,7 @@
 }
 
 p {
-    color: var(--text-secondary);
+    color: var(--content-secondary);
 }
 
 .link-card:is(:hover, :focus-within) {
@@ -48,6 +48,8 @@ p.distribution {
     margin: var(--spacing-00);
     position: absolute;
     bottom: var(--spacing-06);
+    display: flex;
+    gap: var(--spacing-02);
 }
 
 span.tag {
@@ -55,7 +57,7 @@ span.tag {
     padding: calc(0.25rem - 1px) calc(0.5rem - 1px);
     border-radius: var(--spacing-02);
     display: inline-block;
-    color: var(--text-secondary);
+    color: var(--content-secondary);
     margin-top: var(--spacing-08);
     font-size: var(--desktop-caption);
     line-height: var(--lh-desktop-caption);
@@ -67,7 +69,7 @@ span.tag-new {
     padding: calc(0.25rem - 1px) calc(0.5rem - 1px);
     border-radius: var(--spacing-02);
     display: inline-block;
-    color: var(--text-warning);
+    color: var(--content-warning);
     margin-top: var(--spacing-08);
     font-size: var(--desktop-caption);
     line-height: var(--lh-desktop-caption);
