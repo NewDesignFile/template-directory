@@ -1,5 +1,5 @@
 # Rise of Machine
-Discover AI tools curated for makers and SMBs. 
+AI tools curated by agents for makers and SMBs 
 
 ## Categories
 
