@@ -685,13 +685,6 @@
           "date-added": "2023-12-11"
         },
         {
-          "title": "Adtwin",
-          "body": "AI platform for audio ad creation and tracking.",
-          "url": "https://adtwin.ai/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
-        },
-        {
           "title": "Aimakesong",
           "body": "AI song generator.",
           "tag": "Freemium",
@@ -722,13 +715,6 @@
         {
           "title": "BlogAudio",
           "body": "Convert text to audio speech.",
-          "tag": "From $16/mo",
-          "url": "https://blogaudio.co/?ref=riseofmachine.com",
-          "date-added": "2023-12-11"
-        },
-        {
-          "title": "Calldock",
-          "body": "Voice agents.",
           "tag": "From $16/mo",
           "url": "https://blogaudio.co/?ref=riseofmachine.com",
           "date-added": "2023-12-11"
@@ -852,13 +838,6 @@
           "tag": "From $10/mo",
           "url": "https://www.notevocal.com/?ref=riseofmachine.com",
           "date-added": "2024-06-28"
-        },
-        {
-          "title": "OpenWispr",
-          "body": "Open-source, private AI voice dictation tool.",
-          "url": "https://openwispr.com/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
         },
         {
           "title": "Phasmophobia Sound Recorder",
@@ -1374,13 +1353,6 @@
           "date-added": "2025-07-11"
         },
         {
-          "title": "Headcanon Generator Fun",
-          "body": "AI-powered headcanon generator.",
-          "tag": "Free",
-          "url": "https://headcanongenerator.fun/?ref=riseofmachine.com",
-          "date-added": "2025-07-07"
-        },
-        {
           "title": "HelloScribe",
           "body": "Toolkit for PR & marketing.",
           "tag": "From $49/mo",
@@ -1554,21 +1526,6 @@
           "date-added": "2025-06-06"
         },
         {
-          "title": "QuillBot Rewrite",
-          "body": "Advanced paraphrasing module.",
-          "tag": "Freemium",
-          "url": "https://quillbot.com/rewrite?ref=riseofmachine.com",
-          "date-added": "2025-06-19"
-        },
-        {
-          "title": "Remagine AI",
-          "body": "Content writing tools & templates.",
-          "tag": "Freemium",
-          "url": "https://quillbot.com/?ref=riseofmachine.com",
-          "category": "copywriting",
-          "date-added": "2025-06-06"
-        },
-        {
           "title": "Remagine AI",
           "body": "Content writing tools & templates.",
           "tag": "Freemium",
@@ -1650,13 +1607,6 @@
         {
           "title": "Typli",
           "body": "Writing assistant with SEO checker.",
-          "tag": "From $49/mo",
-          "url": "https://typli.ai/?ref=riseofmachine.com",
-          "date-added": "2023-12-12"
-        },
-        {
-          "title": "Unbounce",
-          "body": "Generate marketing content.",
           "tag": "From $49/mo",
           "url": "https://typli.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-12"
@@ -1751,13 +1701,6 @@
           "url": "https://www.visuals.com/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-09-24"
-        },
-        {
-          "title": "X-Design",
-          "body": "Smart AI suite for lifestyle product images.",
-          "tag": "Freemium",
-          "url": "https://x-design.com/?ref=riseofmachine.com",
-          "date-added": "2025-08-01"
         },
         {
           "title": "Cheers GEO",
@@ -1998,13 +1941,6 @@
           "url": "https://rig3d.ai/?ref=riseofmachine.com",
           "category": "design",
           "date-added": "2025-06-06"
-        },
-        {
-          "title": "Rustic AI",
-          "body": "AI-powered design editor for visuals.",
-          "url": "https://rusticai.art/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
         },
         {
           "title": "Shape of AI",
@@ -2483,13 +2419,6 @@
           "date-added": "2025-07-11"
         },
         {
-          "title": "OneNode",
-          "body": "Simplest backend for AI coding, open source.",
-          "tag": "Freemium",
-          "url": "https://www.onenode.ai/?ref=riseofmachine.com",
-          "date-added": "2025-07-07"
-        },
-        {
           "title": "Open Interpreter",
           "body": "Code Interpreter in terminal, running locally.",
           "tag": "Open-source",
@@ -2765,13 +2694,6 @@
           "date-added": "2025-07-11"
         },
         {
-          "title": "Voicebun",
-          "body": "Build smart voice agents in minutes, no code.",
-          "tag": "Freemium",
-          "url": "https://www.voicebun.com/?ref=riseofmachine.com",
-          "date-added": "2025-07-07"
-        },
-        {
           "title": "WebSparks",
           "body": "AI agent for building full-stack applications.",
           "tag": "Not available",
@@ -2964,13 +2886,6 @@
           "url": "https://theresanaiforthat.com/ai/thesisai/?ref=riseofmachine.com",
           "category": "education",
           "date-added": "2025-06-06"
-        },
-        {
-          "title": "Viseal",
-          "body": "Immersive language learning from daily scenes.",
-          "tag": "Freemium",
-          "url": "https://viseal.ai/?ref=riseofmachine.com",
-          "date-added": "2025-07-07"
         }
       ]
     },
@@ -3019,13 +2934,6 @@
           "url": "https://www.humanly.io/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-09-22"
-        },
-        {
-          "title": "Insights by Coupler.io",
-          "body": "Data integration, reporting, and AI insights.",
-          "url": "https://www.coupler.io/ai-insights?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
         },
         {
           "title": "SalesTarget",
@@ -3110,13 +3018,6 @@
           "tag": "From $159/mo",
           "url": "https://www.brainfi.sh/?ref=riseofmachine.com",
           "date-added": "2023-12-26"
-        },
-        {
-          "title": "Chat Agents",
-          "body": "No-code platform to create AI Chatbots.",
-          "url": "https://www.chatagents.io/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
         },
         {
           "title": "Chat Whisperer",
@@ -3448,13 +3349,6 @@
           "date-added": "2025-07-23"
         },
         {
-          "title": "Rebellion",
-          "body": "AI agent for real estate automation.",
-          "tag": "Freemium",
-          "url": "https://rebillion.ai/?ref=riseofmachine.com",
-          "date-added": "2025-07-23"
-        },
-        {
           "title": "Retune",
           "body": "Train & customize your own AI model, generate API.",
           "tag": "Freemium",
@@ -3481,13 +3375,6 @@
           "tag": "From $49/mo",
           "url": "https://www.simplephones.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-27"
-        },
-        {
-          "title": "Sniff Job",
-          "body": "AI-powered job search assistant.",
-          "url": "https://sniffjob.com/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
         },
         {
           "title": "Social Intents",
@@ -3575,13 +3462,6 @@
           "url": "https://www.veriff.com/plans/self-serve?ref=riseofmachine.com",
           "category": "enterprise",
           "date-added": "2025-06-06"
-        },
-        {
-          "title": "zookish",
-          "body": "Conversational AI to turn website visitors to leads.",
-          "tag": "Freemium",
-          "url": "https://zookish.com/?ref=riseofmachine.com",
-          "date-added": "2025-07-03"
         }
       ]
     },
@@ -3603,13 +3483,6 @@
           "url": "https://www.aisthetic.app/?ref=riseofmachine.com",
           "category": "fashion",
           "date-added": "2025-06-06"
-        },
-        {
-          "title": "Higgsfield",
-          "body": "Create realistic videos of people in motion.",
-          "tag": "Freemium",
-          "url": "https://higgsfield.ai/?ref=riseofmachine.com",
-          "date-added": "2025-07-28"
         },
         {
           "title": "Hair by AI",
@@ -3710,13 +3583,6 @@
           "url": "https://www.pathweaver.app/?ref=riseofmachine.com",
           "category": "gaming",
           "date-added": "2025-06-06"
-        },
-        {
-          "title": "Pinpoint Answer",
-          "body": "AI-powered LinkedIn Pinpoint game analysis.",
-          "tag": "Not available",
-          "url": "https://pinpointanswer.online/?ref=riseofmachine.com",
-          "date-added": "2025-08-01"
         },
         {
           "title": "Qmai",
@@ -3865,33 +3731,12 @@
       "category": "llm",
       "content": [
         {
-          "title": "Add AI Directory",
-          "body": "Comprehensive directory of AI tools for SEO professionals.",
-          "tag": "Free",
-          "url": "https://addaidirectory.com/",
-          "date-added": "2025-07-30"
-        },
-        {
-          "title": "ChatBotKit",
-          "body": "Create conversational AI bots.",
-          "tag": "Freemium",
-          "url": "https://chatbotkit.com/?ref=riseofmachine.com",
-          "date-added": "2024-08-04"
-        },
-        {
           "title": "Agents By Athena",
           "body": "Agents.",
           "tag": "Freemium",
           "url": "https://athenachat.bot/agents?ref=riseofmachine.com",
           "category": "llm",
           "date-added": "2025-06-06"
-        },
-        {
-          "title": "Add AI Directory",
-          "body": "Comprehensive directory of AI tools for SEO professionals.",
-          "tag": "Free",
-          "url": "https://addaidirectory.com/",
-          "date-added": "2025-07-30"
         },
         {
           "title": "AI Agents List",
@@ -4435,13 +4280,6 @@
           "date-added": "2025-10-11"
         },
         {
-          "title": "LyricsToSongAI",
-          "body": "Generate songs from lyrics or text prompts.",
-          "tag": "Freemium",
-          "url": "https://lyricstosongai.com/?ref=riseofmachine.com",
-          "date-added": "2025-10-30"
-        },
-        {
           "title": "Mubert",
           "body": "AI royalty-free music for creators & businesses.",
           "tag": "Freemium",
@@ -4498,13 +4336,6 @@
           "tag": "Freemium",
           "url": "https://songgenerator.io/?ref=riseofmachine.com",
           "date-added": "2024-10-23"
-        },
-        {
-          "title": "Song Maker",
-          "body": "Create songs effortlessly with our AI Song Maker.",
-          "tag": "Freemium",
-          "url": "https://www.aisongmaker.io/?ref=riseofmachine.com",
-          "date-added": "2025-06-24"
         },
         {
           "title": "Songburst",
@@ -4746,25 +4577,11 @@
           "date-added": "2023-12-26"
         },
         {
-          "title": "Takomo",
-          "body": "Visual builder to create AI apps.",
-          "tag": "Freemium",
-          "url": "https://takomo.datacrunch.io/?ref=riseofmachine.com",
-          "date-added": "2024-07-05"
-        },
-        {
           "title": "UniDeck Beta",
           "body": "No-code dashboards with AI insights and custom APIs.",
           "tag": "Freemium",
           "url": "https://unideck.app/?ref=riseofmachine.com",
           "date-added": "2025-07-03"
-        },
-        {
-          "title": "Vectorize AI",
-          "body": "Data into optimized vector search indexes.",
-          "tag": "Freemium",
-          "url": "https://vectorize.io/?ref=riseofmachine.com",
-          "date-added": "2024-08-04"
         }
       ]
     },
@@ -4792,13 +4609,6 @@
           "tag": "Freemium",
           "url": "https://aibackground.net?ref=riseofmachine.com",
           "date-added": "2025-08-26"
-        },
-        {
-          "title": "Clothes Changer",
-          "body": "Transform your look with AI Clothes Changer.",
-          "url": "https://www.clothes-changer.com/?ref=riseofmachine.com",
-          "tag": "Free",
-          "date-added": "2025-07-31"
         },
         {
           "title": "Flux AI",
@@ -4834,13 +4644,6 @@
           "tag": "Freemium",
           "url": "https://graficai.co/?ref=riseofmachine.com",
           "date-added": "2025-08-30"
-        },
-        {
-          "title": "Hairstyle",
-          "body": "Discover your perfect hairstyle with AI.",
-          "url": "https://www.aihairstyle.design/?ref=riseofmachine.com",
-          "tag": "Free",
-          "date-added": "2025-07-31"
         },
         {
           "title": "MuAPI",
@@ -5144,13 +4947,6 @@
           "date-added": "2025-06-06"
         },
         {
-          "title": "MuAPI",
-          "body": "AI Image/Video API platform for rapid generation.",
-          "url": "https://muapi.ai/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
-        },
-        {
           "title": "Mypicnow",
           "body": "Professional avatars.",
           "tag": "From $16/mo",
@@ -5281,13 +5077,6 @@
           "date-added": "2025-07-04"
         },
         {
-          "title": "Quitarfondo",
-          "body": "AI tool to remove image backgrounds.",
-          "tag": "Free",
-          "url": "https://quitarfondo.cc/?ref=riseofmachine.com",
-          "date-added": "2025-07-11"
-        },
-        {
           "title": "Random Image Generator",
           "body": "Create stunning digital art and illustrations.",
           "tag": "Free",
@@ -5343,13 +5132,6 @@
           "tag": "Freemium",
           "url": "https://www.storia.ai/?ref=riseofmachine.com",
           "date-added": "2023-12-27"
-        },
-        {
-          "title": "Text Remover",
-          "body": "Remove unwanted text overlays and watermarks.",
-          "tag": "Freemium",
-          "url": "https://text-remover.org/?ref=riseofmachine.com",
-          "date-added": "2025-07-11"
         },
         {
           "title": "Topaz Labs",
@@ -5476,13 +5258,6 @@
           "tag": "Freemium",
           "url": "https://lyra.so?ref=riseofmachine.com",
           "date-added": "2025-11-12"
-        },
-        {
-          "title": "Meet-Ting",
-          "body": "Free AI assistant for email meeting scheduling.",
-          "url": "https://meet-ting.com/?ref=riseofmachine.com",
-          "tag": "Free",
-          "date-added": "2025-07-31"
         },
         {
           "title": "OCRMD",
@@ -5846,13 +5621,6 @@
           "date-added": "2023-12-24"
         },
         {
-          "title": "Lock-in",
-          "body": "AI focus assistant for optimizing attention.",
-          "url": "https://lock-in.ai/?ref=riseofmachine.com",
-          "tag": "Contact for pricing",
-          "date-added": "2025-07-31"
-        },
-        {
           "title": "MagicTrips",
           "body": "Personalized travel itineraries in seconds.",
           "tag": "Free",
@@ -5895,25 +5663,11 @@
           "date-added": "2025-07-11"
         },
         {
-          "title": "Mindmap Extension",
-          "body": "Web pages, PDFs, YT videos to mind maps.",
-          "tag": "Freemium",
-          "url": "https://funblocks.net/ai-extensions?ref=riseofmachine.com",
-          "date-added": "2025-07-07"
-        },
-        {
           "title": "MultiOn",
           "body": "Agents that act on your behalf.",
           "tag": "From $0.04/request",
           "url": "https://www.multion.ai/?ref=riseofmachine.com",
           "date-added": "2024-07-16"
-        },
-        {
-          "title": "MyDeviceAI V2",
-          "body": "Private, local AI search and summarization mobile app.",
-          "tag": "Free",
-          "url": "https://github.com/navedmerchant/MyDeviceAI?ref=riseofmachine.com",
-          "date-added": "2025-07-11"
         },
         {
           "title": "MyDeviceAI V2",
@@ -6107,13 +5861,6 @@
           "date-added": "2025-07-11"
         },
         {
-          "title": "Semantic Email",
-          "body": "AI extracts data from emails to fill Google Forms.",
-          "tag": "Freemium",
-          "url": "https://promptrepo.com/?ref=riseofmachine.com",
-          "date-added": "2025-07-03"
-        },
-        {
           "title": "ShortcutAI",
           "body": "ChatGPT for Apple notes.",
           "tag": "Freemium",
@@ -6211,13 +5958,6 @@
           "tag": "Free",
           "url": "https://github.com/hiroi-sora/Umi-OCR?ref=riseofmachine.com",
           "date-added": "2025-06-14"
-        },
-        {
-          "title": "Unify Sales",
-          "body": "AI platform for outbound sales reps.",
-          "tag": "From $1000/mo",
-          "url": "https://www.unifygtm.com/?ref=riseofmachine.com",
-          "date-added": "2025-07-11"
         },
         {
           "title": "VocalScribe",
@@ -6416,13 +6156,6 @@
           "date-added": "2023-12-24"
         },
         {
-          "title": "Prompt Pro",
-          "body": "Master AI prompt like a pro with a personalized framework.",
-          "tag": "Free",
-          "url": "https://ai-prompt.pro/?ref=riseofmachine.com",
-          "date-added": "2025-08-20"
-        },
-        {
           "title": "PromptVibe",
           "body": "Prompts.",
           "tag": "From $10/mo",
@@ -6514,13 +6247,6 @@
           "url": "https://datvizai.online/?ref=riseofmachine.com",
           "category": "research",
           "date-added": "2025-06-06"
-        },
-        {
-          "title": "Diligence Check",
-          "body": "AI search with agent-verified citations.",
-          "tag": "Free",
-          "url": "https://stepfun.ai/docs/diligence-check?ref=riseofmachine.com",
-          "date-added": "2025-07-07"
         },
         {
           "title": "Domain Name Generator",
@@ -6625,13 +6351,6 @@
           "date-added": "2025-11-06"
         },
         {
-          "title": "Resea AI",
-          "body": "AI research agent for academic research.",
-          "url": "https://resea.ai/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
-        },
-        {
           "title": "Rivalout",
           "body": "Competitive analysis.",
           "tag": "Not available",
@@ -6709,13 +6428,6 @@
           "date-added": "2025-07-31"
         },
         {
-          "title": "Snoika",
-          "body": "AI SEO tool for Google and AI search engines.",
-          "url": "https://snoika.com/?ref=riseofmachine.com",
-          "tag": "Contact for pricing",
-          "date-added": "2025-07-31"
-        },
-        {
           "title": "AI Visibility",
           "body": "AI visibility optimization platform.",
           "tag": "From $19/mo",
@@ -6770,13 +6482,6 @@
           "tag": "Freemium",
           "url": "https://www.meroid.ai/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
-        },
-        {
-          "title": "Nimt.ai",
-          "body": "Track and boost brand visibility on AI platforms.",
-          "url": "https://www.nimt.ai/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
         },
         {
           "title": "Promptwatch",
@@ -7118,13 +6823,6 @@
           "date-added": "2025-09-22"
         },
         {
-          "title": "Wan 2.2",
-          "body": "AI video generator for professional videos.",
-          "url": "https://wan22.studio/?ref=riseofmachine.com",
-          "tag": "Paid",
-          "date-added": "2025-07-31"
-        },
-        {
           "title": "Wan 2.2 AI",
           "body": "Professional AI platform for video generation.",
           "url": "https://wan22.ai/?ref=riseofmachine.com",
@@ -7317,13 +7015,6 @@
           "date-added": "2025-10-22"
         },
         {
-          "title": "Grok Video",
-          "body": "AI video generation.",
-          "tag": "Freemium",
-          "url": "https://grokvideo.net?ref=riseofmachine.com",
-          "date-added": "2025-11-12"
-        },
-        {
           "title": "Hailuoai",
           "body": "AI Video Creation Tool by Minimax",
           "tag": "Not available",
@@ -7388,13 +7079,6 @@
           "date-added": "2023-12-31"
         },
         {
-          "title": "Kie Veo3 API",
-          "body": "Scalable Veo 3 API for video creation.",
-          "tag": "Not available",
-          "url": "https://kie.ai/features/v3-api?ref=riseofmachine.com",
-          "date-added": "2025-06-11"
-        },
-        {
           "title": "Kite",
           "body": "Create Apple-style marketing videos.",
           "tag": "Freemium",
@@ -7457,13 +7141,6 @@
           "tag": "From $15/mo",
           "url": "https://magicshorts.ai?ref=riseofmachine.com",
           "date-added": "2025-06-30"
-        },
-        {
-          "title": "MediaAI Art",
-          "body": "Creates short videos from AI-generated artwork.",
-          "tag": "Freemium",
-          "url": "https://www.mediaai.art?ref=riseofmachine.com",
-          "date-added": "2025-06-19"
         },
         {
           "title": "Moonvalley",
@@ -7717,13 +7394,6 @@
           "date-added": "2025-06-17"
         },
         {
-          "title": "Veo Video",
-          "body": "AI video generation platform from text/images.",
-          "url": "https://veo-video.org/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
-        },
-        {
           "title": "Veo3 Video Generator",
           "body": "Create stunning videos from text or images.",
           "tag": "Freemium",
@@ -7801,13 +7471,6 @@
           "date-added": "2025-07-31"
         },
         {
-          "title": "Wan 2.2 AI",
-          "body": "Professional AI platform for video generation.",
-          "url": "https://wan22.ai/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
-        },
-        {
           "title": "Watermark Remover",
           "body": "Remove watermark from video online for free.",
           "tag": "Freemium",
@@ -7861,41 +7524,6 @@
           "url": "https://www.alphaaicapital.com/?ref=riseofmachine.com",
           "tag": "Freemium",
           "date-added": "2025-09-22"
-        },
-        {
-          "title": "Fiddl.art",
-          "body": "AI art generator for custom models and earning.",
-          "url": "https://fiddl.art/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
-        },
-        {
-          "title": "Adtwin",
-          "body": "AI platform for audio ad creation and tracking.",
-          "url": "https://adtwin.ai/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
-        },
-        {
-          "title": "OpenWispr",
-          "body": "Open-source, private AI voice dictation tool.",
-          "url": "https://openwispr.com/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
-        },
-        {
-          "title": "Droidrun",
-          "body": "Open-source AI mobile app automation platform.",
-          "url": "https://www.droidrun.ai/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
-        },
-        {
-          "title": "StackGen",
-          "body": "AI platform for autonomous cloud management.",
-          "url": "https://stackgen.com/?ref=riseofmachine.com",
-          "tag": "Freemium",
-          "date-added": "2025-07-31"
         },
         {
           "title": "Acidtools",
@@ -8064,20 +7692,6 @@
           "tag": "Free",
           "url": "https://lmarena.ai/leaderboard?ref=riseofmachine.com",
           "date-added": "2025-06-14"
-        },
-        {
-          "title": "MagicTryOn",
-          "body": "AI virtual try-on for outfits.",
-          "tag": "Freemium",
-          "url": "https://magictryon.net/?ref=riseofmachine.com",
-          "date-added": "2025-07-11"
-        },
-        {
-          "title": "MagicTryOn",
-          "body": "AI virtual try-on for outfits.",
-          "tag": "Freemium",
-          "url": "https://magictryon.net/?ref=riseofmachine.com",
-          "date-added": "2025-07-09"
         },
         {
           "title": "Marketing Jobs Hub",
@@ -8426,13 +8040,6 @@
           "body": "AI photo generator with Qwen models.",
           "tag": "Freemium",
           "url": "https://www.imagebyqwen.com/?ref=riseofmachine.com",
-          "date-added": "2025-10-03"
-        },
-        {
-          "title": "Loraai",
-          "body": "Create personalized LoRA AI models.",
-          "tag": "Freemium",
-          "url": "https://loraai.me/?ref=riseofmachine.com",
           "date-added": "2025-10-03"
         },
         {

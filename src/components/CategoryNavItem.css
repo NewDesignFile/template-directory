@@ -8,11 +8,14 @@
   border-bottom: 2px solid transparent;
   font-family: var(--body-copy);
   font-weight: 400;
-  color: var(--text-secondary);
+  color: var(--content-secondary);
+  padding-block: var(--spacing-05);
+  padding-inline: var(--spacing-00);
+  margin-right: var(--spacing-06);
 }
 
 span.category-count {
-  color: var(--text-secondary-alt);
+  color: var(--content-secondary-alt);
   display: inline-block;
   min-width: var(--spacing-07);
   text-align: center;
@@ -20,15 +23,15 @@ span.category-count {
 }
 
 .nav__item:hover {
-  color: var(--text-primary);
+  color: var(--content-primary);
 }
 
 .nav__item.is-active {
-  color: var(--text-primary);
+  color: var(--content-primary);
   border-bottom: 1.5px solid var(--accent);
 }
 
 .nav__item:hover span.category-count,
 .nav__item.is-active span.category-count {
-  color: var(--text-primary);
+  color: var(--content-primary);
 }

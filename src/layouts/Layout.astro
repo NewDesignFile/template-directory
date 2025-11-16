@@ -113,15 +113,23 @@ const { site, title, tagline } = Astro.props;
 </html>
 <style is:global>
     @font-face {
-        font-family: "Inter";
+        font-family: "Gothic";
         font-style: normal;
-        font-weight: 100 900;
-        src: url("/fonts/InterVariable.woff2") format("woff2");
+        font-weight: 400; 
+        src: url("/fonts/regular.woff2") format("woff2");
+        font-display: swap;
+    }
+
+    @font-face {
+        font-family: "Gothic";
+        font-style: normal;
+        font-weight: 700;
+        src: url("/fonts/bold.woff2") format("woff2");
         font-display: swap;
     }
     :root {
         --accent: var(--link);
-        --body-copy: "Inter", var(--system-ui);
+        --body-copy: "Gothic", var(--system-ui);
         font-synthesis: none;
         text-rendering: optimizeLegibility;
         -webkit-font-smoothing: antialiased;
@@ -154,7 +162,7 @@ const { site, title, tagline } = Astro.props;
         max-inline-size: 24rem;
     }
     .nu-u-link--subtle {
-        color: var(--text-secondary) !important;
+        color: var(--content-secondary) !important;
     }
     .floating-nav {
         padding: var(--spacing-06) var(--spacing-09);
@@ -177,7 +185,7 @@ const { site, title, tagline } = Astro.props;
         outline: none;
         text-decoration: none;
         color: inherit;
-        color: var(--text-secondary);
+        color: var(--content-secondary);
         background-color: var(--background);
         border-radius: var(--spacing-03);
         font-size: var(--desktop-body-sm);
@@ -185,37 +193,37 @@ const { site, title, tagline } = Astro.props;
 
         &:hover {
             background-color: var(--background-secondary);
-            color: var(--text-primary);
+            color: var(--content-primary);
         }
 
         &:active {
             background-color: var(--background);
-            color: var(--text-secondary);
+            color: var(--content-secondary);
             transform: scale(0.97);
         }
 
         &.disabled {
             background-color: var(--background);
-            color: var(--icon-secondary);
+            color: var(--content-secondary);
             pointer-events: none;
         }
 
         &:focus {
             background-color: var(--background);
             outline: 1px solid var(--button-primary);
-            color: var(--icon-secondary);
+            color: var(--content-secondary);
         }
     }
     .theme-toggle {
         z-index: 999;
-        --icon-fill: var(--icon-secondary);
-        --icon-fill-hover: var(--icon-secondary);
+        --icon-fill: var(--content-secondary);
+        --icon-fill-hover: var(--content-secondary);
         width: var(--spacing-09);
         height: var(--spacing-09);
         background: none;
         border: none;
         padding: var(--spacing-00);
-        color: var(--icon-secondary);
+        color: var(--content-secondary);
         cursor: pointer;
         touch-action: manipulation;
         -webkit-tap-highlight-color: transparent;
@@ -227,8 +235,8 @@ const { site, title, tagline } = Astro.props;
         position: relative;
         
         @nest [data-theme="dark--warm"] & {
-            --icon-fill: var(--icon-secondary);
-            --icon-fill-hover: var(--icon-secondary);
+            --icon-fill: var(--content-secondary);
+            --icon-fill-hover: var(--content-secondary);
         }
         
         svg {
@@ -268,7 +276,7 @@ const { site, title, tagline } = Astro.props;
         text-align: center;
         font-weight: normal;
         font-style: normal;
-        color: var(--text-secondary-alt);
+        color: var(--content-secondary-alt);
         font-size: var(--desktop-body-sm);
         line-height: var(--lh-desktop-body);
     }
