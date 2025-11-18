@@ -194,6 +194,13 @@
           "date-added": "2025-07-31"
         },
         {
+          "title": "WanAI",
+          "body": "Free, open-source AI video generation tool.",
+          "tag": "Free",
+          "url": "https://wanai.dev/",
+          "date-added": "2025-11-18"
+        },
+        {
           "title": "Emergent",
           "body": "Advanced AI app builder that ships full-stack apps.",
           "tag": "Freemium",
