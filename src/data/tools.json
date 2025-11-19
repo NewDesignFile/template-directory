@@ -678,7 +678,7 @@
           "date-added": "2025-08-24"
         },
         {
-          "title": "11.ai",
+          "title": "Eleven AI",
           "body": "Voice-first AI assistant that takes action via MCP.",
           "tag": "Free",
           "url": "https://try.elevenlabs.io/v97l1k3mkplm?ref=riseofmachine.com",
@@ -1858,11 +1858,11 @@
           "date-added": "2025-07-14"
         },
         {
-            "title": "Mixo",
-            "body": "Launch a startup in seconds with AI.",
-            "url": "https://www.mixo.io/?ref=riseofmachine.com",
-            "tag": "Freemium",
-            "date-added": "2025-10-21"
+          "title": "Mixo",
+          "body": "Launch a startup in seconds with AI.",
+          "url": "https://www.mixo.io/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-10-21"
         },
         {
           "title": "Banana Nano",
@@ -1900,11 +1900,11 @@
           "date-added": "2025-06-01"
         },
         {
-            "title": "Page.build",
-            "body": "Build a beautiful landing page in 15 seconds.",
-            "url": "https://page.build/?ref=riseofmachine.com",
-            "tag": "Freemium",
-            "date-added": "2025-10-21"
+          "title": "Page.build",
+          "body": "Build a beautiful landing page in 15 seconds.",
+          "url": "https://page.build/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-10-21"
         },
         {
           "title": "Patterned AI",
@@ -2060,6 +2060,20 @@
           "tag": "Freemium",
           "url": "https://designstripe.com/?ref=riseofmachine.com",
           "date-added": "2025-10-11"
+        },
+        {
+          "title": "Sargam Icons",
+          "body": "A collection of 1200+ open-source icons.",
+          "tag": "Open-source",
+          "url": "https://sargamicons.com/?ref=riseofmachine.com",
+          "date-added": "2025-11-19"
+        },
+        {
+          "title": "✨ New UI",
+          "body": "Modern, semantic UI framework for building beautiful sites and apps.",
+          "tag": "Open-source",
+          "url": "https://new-ui.com/?ref=riseofmachine.com",
+          "date-added": "2025-11-19"
         }
       ]
     },
@@ -2251,11 +2265,11 @@
           "date-added": "2025-06-06"
         },
         {
-            "title": "Godot",
-            "body": "Natural language to SQL.",
-            "url": "https://www.godot.ai/?ref=riseofmachine.com",
-            "tag": "Freemium",
-            "date-added": "2025-10-21"
+          "title": "Godot",
+          "body": "Natural language to SQL.",
+          "url": "https://www.godot.ai/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-10-21"
         },
         {
           "title": "Hatchet",
@@ -2518,11 +2532,11 @@
           "date-added": "2025-09-04"
         },
         {
-          "title" : "Rybbit",
-          "body" : "Open Source Google Analytics Replacement.",
-          "tag" : "Open-source",
-          "url" : "https://rybbit.com/?ref=riseofmachine.com",
-          "date-added" : "2025-11-12"
+          "title": "Rybbit",
+          "body": "Open Source Google Analytics Replacement.",
+          "tag": "Open-source",
+          "url": "https://rybbit.com/?ref=riseofmachine.com",
+          "date-added": "2025-11-12"
         },
         {
           "title": "RunPod",
@@ -2749,7 +2763,7 @@
       "category": "education",
       "content": [
         {
-          "title": "4gpa",
+          "title": "FourGPA",
           "body": "Exam preparation.",
           "tag": "Freemium",
           "url": "https://www.fourgpa.com/?ref=riseofmachine.com",
@@ -3034,11 +3048,11 @@
           "date-added": "2025-06-02"
         },
         {
-            "title": "ChatGOT",
-            "body": "File management with local AI.",
-            "url": "https://apps.apple.com/us/app/chatgot-llm-client/id6473424613?ref=riseofmachine.com",
-            "tag": "Freemium",
-            "date-added": "2025-10-21"
+          "title": "ChatGOT",
+          "body": "File management with local AI.",
+          "url": "https://apps.apple.com/us/app/chatgot-llm-client/id6473424613?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-10-21"
         },
         {
           "title": "Chatclient",
@@ -3097,11 +3111,11 @@
           "date-added": "2023-12-15"
         },
         {
-            "title": "Ellie",
-            "body": "Your AI email assistant.",
-            "url": "https://ellie.ai/?ref=riseofmachine.com",
-            "tag": "Freemium",
-            "date-added": "2025-10-21"
+          "title": "Ellie",
+          "body": "Your AI email assistant.",
+          "url": "https://ellie.ai/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-10-21"
         },
         {
           "title": "Explee",
@@ -3112,11 +3126,11 @@
           "date-added": "2025-06-06"
         },
         {
-            "title": "FigCopy",
-            "body": "Figma plugin for copy.",
-            "url": "https://www.figcopy.com/?ref=riseofmachine.com",
-            "tag": "Freemium",
-            "date-added": "2025-10-21"
+          "title": "FigCopy",
+          "body": "Figma plugin for copy.",
+          "url": "https://www.figcopy.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-10-21"
         },
         {
           "title": "Receiptor",
@@ -3326,11 +3340,11 @@
           "date-added": "2025-06-02"
         },
         {
-            "title": "Promptigo",
-            "body": "ChatGPT for your documents.",
-            "url": "https://www.promptigo.com/?ref=riseofmachine.com",
-            "tag": "Freemium",
-            "date-added": "2025-10-21"
+          "title": "Promptigo",
+          "body": "ChatGPT for your documents.",
+          "url": "https://www.promptigo.com/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-10-21"
         },
         {
           "title": "Prometai",
@@ -3398,11 +3412,11 @@
           "date-added": "2025-06-06"
         },
         {
-            "title": "Super.AI",
-            "body": "The all-in-one AI platform.",
-            "url": "https://super.ai/?ref=riseofmachine.com",
-            "tag": "Freemium",
-            "date-added": "2025-10-21"
+          "title": "Super.AI",
+          "body": "The all-in-one AI platform.",
+          "url": "https://super.ai/?ref=riseofmachine.com",
+          "tag": "Freemium",
+          "date-added": "2025-10-21"
         },
         {
           "title": "Supaboard",
@@ -5268,7 +5282,7 @@
         },
         {
           "title": "Lyra",
-          "body": "Record, transcribe + auto‑create action items for every call.",
+          "body": "Record, transcribe + auto\u2011create action items for every call.",
           "tag": "Freemium",
           "url": "https://lyra.so?ref=riseofmachine.com",
           "date-added": "2025-11-12"
@@ -6559,6 +6573,13 @@
           "tag": "Freemium",
           "url": "https://writerzen.net/?ref=riseofmachine.com",
           "date-added": "2025-06-06"
+        },
+        {
+          "title": "Scribli",
+          "body": "Autonomous SEO Robot with AI agents.",
+          "tag": "From $19/mo",
+          "url": "https://scrib.li/?ref=riseofmachine.com",
+          "date-added": "2025-11-19"
         }
       ]
     },
